@@ -164,7 +164,7 @@ export default defineConfig({
   themeConfig: {
     logo: { src: "/branding-4f072eca.png", alt: "Reguverse" },
     socialLinks: [
-      { icon: "github", link: "https://github.com/RASAAS/docmcp-knowledge" },
+      { icon: "github", link: "https://github.com/qian-qiang/docmcp-knowledge" },
     ],
     footer: {
       message: "Reguverse Assistant User Manual",
