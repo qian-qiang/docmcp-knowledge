@@ -298,7 +298,7 @@ def generate_standards_subpage_zh(category_slug: str, data: dict, index_data: di
     json_file = cat_info.get("file", f"standards-{category_slug}.json")
     lines.append(
         f"[eu_mdr/standards/{json_file}]"
-        f"(https://github.com/RASAAS/docmcp-knowledge/tree/main/eu_mdr/standards/{json_file})"
+        f"(https://github.com/qian-qiang/docmcp-knowledge/tree/main/eu_mdr/standards/{json_file})"
     )
     lines.append("")
 
@@ -392,7 +392,7 @@ def generate_standards_subpage_en(category_slug: str, data: dict, index_data: di
     json_file = cat_info.get("file", f"standards-{category_slug}.json")
     lines.append(
         f"[eu_mdr/standards/{json_file}]"
-        f"(https://github.com/RASAAS/docmcp-knowledge/tree/main/eu_mdr/standards/{json_file})"
+        f"(https://github.com/qian-qiang/docmcp-knowledge/tree/main/eu_mdr/standards/{json_file})"
     )
     lines.append("")
 

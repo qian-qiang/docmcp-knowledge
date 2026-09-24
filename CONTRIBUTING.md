@@ -229,6 +229,6 @@ NMPA 发布的指导原则通常以 Word 文档（.doc/.docx）形式提供下�
 
 ---
 
-如有疑问，请提交 [Issue](https://github.com/RASAAS/docmcp-knowledge/issues) 或联系维护者。
+如有疑问，请提交 [Issue](https://github.com/qian-qiang/docmcp-knowledge/issues) 或联系维护者。
 
-For questions, please open an [Issue](https://github.com/RASAAS/docmcp-knowledge/issues) or contact the maintainers.
+For questions, please open an [Issue](https://github.com/qian-qiang/docmcp-knowledge/issues) or contact the maintainers.

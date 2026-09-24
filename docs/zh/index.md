@@ -16,7 +16,7 @@ hero:
       link: /zh/insights/
     - theme: alt
       text: GitHub
-      link: https://github.com/qian-qiang
+      link: https://github.com/qian-qiang/docmcp-knowledge
 features:
   - title: EU MDR / IVDR
     details: 法规文本、协调标准（OJ）、MDCG 指南文件、TEAM-NB 立场文件

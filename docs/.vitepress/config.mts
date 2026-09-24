@@ -764,7 +764,7 @@ export default defineConfig({
           dynamicSidebarEn,
         ),
         socialLinks: [
-          { icon: 'github', link: 'https://github.com/qian-qiang' }
+          { icon: 'github', link: 'https://github.com/qian-qiang/docmcp-knowledge' }
         ],
         footer: {
           message: 'Content licensed under CC BY 4.0',
@@ -803,7 +803,7 @@ export default defineConfig({
         ],
         sidebar: zhSidebar,
         socialLinks: [
-          { icon: 'github', link: 'https://github.com/qian-qiang' }
+          { icon: 'github', link: 'https://github.com/qian-qiang/docmcp-knowledge' }
         ],
         footer: {
           message: '内容以 CC BY 4.0 许可证授权',

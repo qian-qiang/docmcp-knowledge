@@ -28,4 +28,4 @@ category: Sterilization & Packaging
 
 ## 数据层源文件
 
-[eu_mdr/standards/standards-sterilization.json](https://github.com/RASAAS/docmcp-knowledge/tree/main/eu_mdr/standards/standards-sterilization.json)
+[eu_mdr/standards/standards-sterilization.json](https://github.com/qian-qiang/docmcp-knowledge/tree/main/eu_mdr/standards/standards-sterilization.json)

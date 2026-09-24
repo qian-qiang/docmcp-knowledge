@@ -24,4 +24,4 @@ category: Breathing Gas Pathways
 
 ## 数据层源文件
 
-[eu_mdr/standards/standards-breathing_gas_pathways.json](https://github.com/RASAAS/docmcp-knowledge/tree/main/eu_mdr/standards/standards-breathing_gas_pathways.json)
+[eu_mdr/standards/standards-breathing_gas_pathways.json](https://github.com/qian-qiang/docmcp-knowledge/tree/main/eu_mdr/standards/standards-breathing_gas_pathways.json)

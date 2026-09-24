@@ -39,4 +39,4 @@ Under EU MDR, **chemical characterisation takes priority**: toxicological risk a
 
 ## Data Layer Source File
 
-[eu_mdr/standards/standards-biocompatibility.json](https://github.com/RASAAS/docmcp-knowledge/tree/main/eu_mdr/standards/standards-biocompatibility.json)
+[eu_mdr/standards/standards-biocompatibility.json](https://github.com/qian-qiang/docmcp-knowledge/tree/main/eu_mdr/standards/standards-biocompatibility.json)

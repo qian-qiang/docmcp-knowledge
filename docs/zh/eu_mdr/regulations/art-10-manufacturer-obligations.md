@@ -67,4 +67,4 @@ article: Article 10
 ## 官方来源
 
 - [EUR-Lex: EU MDR 2017/745 全文](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32017R0745)
-- [数据层源文件](https://github.com/RASAAS/docmcp-knowledge/tree/main/eu_mdr/regulations/mdr-2017-745.json)
+- [数据层源文件](https://github.com/qian-qiang/docmcp-knowledge/tree/main/eu_mdr/regulations/mdr-2017-745.json)

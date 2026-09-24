@@ -31,7 +31,7 @@ title: Contact Us
   <div class="card-icon">&#x1f310;</div>
   <h3>Knowledge Base</h3>
   <p>Open-source regulatory content contributions and feedback.</p>
-  <a href="https://github.com/RASAAS/docmcp-knowledge" class="card-link" target="_blank">GitHub Repository</a>
+  <a href="https://github.com/qian-qiang/docmcp-knowledge" class="card-link" target="_blank">GitHub Repository</a>
 </div>
 
 </div>

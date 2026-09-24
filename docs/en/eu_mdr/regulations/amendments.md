@@ -7,7 +7,7 @@ category: regulations
 
 # EU MDR Amendments Summary
 
-**Source**: [EUR-Lex: EU MDR 2017/745](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32017R0745) | Data Layer: [amendments.json](https://github.com/RASAAS/docmcp-knowledge/tree/main/eu_mdr/regulations/amendments.json)
+**Source**: [EUR-Lex: EU MDR 2017/745](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32017R0745) | Data Layer: [amendments.json](https://github.com/qian-qiang/docmcp-knowledge/tree/main/eu_mdr/regulations/amendments.json)
 
 ## Amendments Overview
 
@@ -177,4 +177,4 @@ The European Commission will determine the specific launch dates for each module
 - [EUR-Lex: Regulation (EU) 2020/561](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32020R0561)
 - [EUR-Lex: Regulation (EU) 2023/607](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32023R0607)
 - [EUR-Lex: Regulation (EU) 2024/1860](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32024R1860)
-- [Data Layer Source: amendments.json](https://github.com/RASAAS/docmcp-knowledge/tree/main/eu_mdr/regulations/amendments.json)
+- [Data Layer Source: amendments.json](https://github.com/qian-qiang/docmcp-knowledge/tree/main/eu_mdr/regulations/amendments.json)

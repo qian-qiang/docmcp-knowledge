@@ -22,4 +22,4 @@ category: Clinical Investigation
 
 ## 数据层源文件
 
-[eu_mdr/standards/standards-clinical_investigation.json](https://github.com/RASAAS/docmcp-knowledge/tree/main/eu_mdr/standards/standards-clinical_investigation.json)
+[eu_mdr/standards/standards-clinical_investigation.json](https://github.com/qian-qiang/docmcp-knowledge/tree/main/eu_mdr/standards/standards-clinical_investigation.json)

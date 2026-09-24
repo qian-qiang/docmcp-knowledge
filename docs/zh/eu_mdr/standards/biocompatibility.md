@@ -39,4 +39,4 @@ EU MDR 下，**化学表征优先**：先进行毒理学风险评估（TRA），
 
 ## 数据层源文件
 
-[eu_mdr/standards/standards-biocompatibility.json](https://github.com/RASAAS/docmcp-knowledge/tree/main/eu_mdr/standards/standards-biocompatibility.json)
+[eu_mdr/standards/standards-biocompatibility.json](https://github.com/qian-qiang/docmcp-knowledge/tree/main/eu_mdr/standards/standards-biocompatibility.json)

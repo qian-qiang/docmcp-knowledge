@@ -22,4 +22,4 @@ category: Patient Handling Equipment
 
 ## Data Layer Source File
 
-[eu_mdr/standards/standards-patient_handling.json](https://github.com/RASAAS/docmcp-knowledge/tree/main/eu_mdr/standards/standards-patient_handling.json)
+[eu_mdr/standards/standards-patient_handling.json](https://github.com/qian-qiang/docmcp-knowledge/tree/main/eu_mdr/standards/standards-patient_handling.json)

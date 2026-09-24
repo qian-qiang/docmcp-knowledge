@@ -16,7 +16,7 @@ hero:
       link: /en/insights/
     - theme: alt
       text: GitHub
-      link: https://github.com/RASAAS/docmcp-knowledge
+      link: https://github.com/qian-qiang/docmcp-knowledge
 features:
   - title: EU MDR / IVDR
     details: Regulations, harmonised standards (OJ), MDCG guidance documents, TEAM-NB position papers
@@ -32,14 +32,14 @@ features:
 
 ## About This Knowledge Base
 
-This is an open regulatory knowledge base for medical device compliance, maintained by [RASAAS](https://github.com/RASAAS) and the community.
+This is an open regulatory knowledge base for medical device compliance, maintained by [RASAAS](https://github.com/qian-qiang/docmcp-knowledge) and the community.
 
 All content is:
 - **Bilingual**: Available in both Chinese and English
-- **Structured**: Stored as Markdown + JSON for machine consumption by [DocMCP](https://github.com/RASAAS/docmcp-knowledge)
+- **Structured**: Stored as Markdown + JSON for machine consumption by [DocMCP](https://github.com/qian-qiang/docmcp-knowledge)
 - **Verified**: Source URLs verified against official regulatory bodies
 - **Open**: Licensed under CC BY 4.0
 
 ## Contributing
 
-See [CONTRIBUTING.md](https://github.com/RASAAS/docmcp-knowledge/blob/main/CONTRIBUTING.md) to learn how to contribute new content, translations, or corrections.
+See [CONTRIBUTING.md](https://github.com/qian-qiang/docmcp-knowledge/blob/main/CONTRIBUTING.md) to learn how to contribute new content, translations, or corrections.

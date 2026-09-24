@@ -31,7 +31,7 @@ title: 联系我们
   <div class="card-icon">&#x1f310;</div>
   <h3>知识库贡献</h3>
   <p>开源法规内容贡献与反馈。</p>
-  <a href="https://github.com/RASAAS/docmcp-knowledge" class="card-link" target="_blank">GitHub 仓库</a>
+  <a href="https://github.com/qian-qiang/docmcp-knowledge" class="card-link" target="_blank">GitHub 仓库</a>
 </div>
 
 </div>

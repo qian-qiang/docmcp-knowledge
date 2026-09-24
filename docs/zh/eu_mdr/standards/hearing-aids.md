@@ -21,4 +21,4 @@ category: Hearing Aids
 
 ## 数据层源文件
 
-[eu_mdr/standards/standards-hearing_aids.json](https://github.com/RASAAS/docmcp-knowledge/tree/main/eu_mdr/standards/standards-hearing_aids.json)
+[eu_mdr/standards/standards-hearing_aids.json](https://github.com/qian-qiang/docmcp-knowledge/tree/main/eu_mdr/standards/standards-hearing_aids.json)

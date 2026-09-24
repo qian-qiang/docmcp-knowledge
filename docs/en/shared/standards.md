@@ -70,5 +70,5 @@ These ISO/IEC standards apply across multiple regulatory frameworks (EU MDR, FDA
 | ISO 11607 series | Packaging for terminally sterilized medical devices | EU MDR, FDA |
 
 ::: info
-Source files in [_shared/standards/](https://github.com/RASAAS/docmcp-knowledge/tree/main/_shared/standards).
+Source files in [_shared/standards/](https://github.com/qian-qiang/docmcp-knowledge/tree/main/_shared/standards).
 :::

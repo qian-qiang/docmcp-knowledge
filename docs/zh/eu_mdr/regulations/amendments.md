@@ -7,7 +7,7 @@ category: regulations
 
 # EU MDR 修正案汇总
 
-**来源**：[EUR-Lex: EU MDR 2017/745](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32017R0745) | 数据层：[amendments.json](https://github.com/RASAAS/docmcp-knowledge/tree/main/eu_mdr/regulations/amendments.json)
+**来源**：[EUR-Lex: EU MDR 2017/745](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32017R0745) | 数据层：[amendments.json](https://github.com/qian-qiang/docmcp-knowledge/tree/main/eu_mdr/regulations/amendments.json)
 
 ## 修正案概览
 
@@ -177,4 +177,4 @@ EUDAMED不再要求一次性全面上线，而是**逐步推出**各功能模块
 - [EUR-Lex: Regulation (EU) 2020/561](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32020R0561)
 - [EUR-Lex: Regulation (EU) 2023/607](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32023R0607)
 - [EUR-Lex: Regulation (EU) 2024/1860](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32024R1860)
-- [数据层源文件: amendments.json](https://github.com/RASAAS/docmcp-knowledge/tree/main/eu_mdr/regulations/amendments.json)
+- [数据层源文件: amendments.json](https://github.com/qian-qiang/docmcp-knowledge/tree/main/eu_mdr/regulations/amendments.json)

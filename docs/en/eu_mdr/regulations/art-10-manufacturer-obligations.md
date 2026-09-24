@@ -67,4 +67,4 @@ Manufacturers shall ensure that they have at least one person responsible for re
 ## Official Sources
 
 - [EUR-Lex: EU MDR 2017/745 full text](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32017R0745)
-- [Data layer source file](https://github.com/RASAAS/docmcp-knowledge/tree/main/eu_mdr/regulations/mdr-2017-745.json)
+- [Data layer source file](https://github.com/qian-qiang/docmcp-knowledge/tree/main/eu_mdr/regulations/mdr-2017-745.json)

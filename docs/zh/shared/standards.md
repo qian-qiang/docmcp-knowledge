@@ -98,5 +98,5 @@ title: 国际标准
 
 ::: info
 - 协调标准完整清单：[EU MDR 协调标准](../eu_mdr/standards)（基于 CID 2021/1182 及修正案）
-- 源文件见 [_shared/standards/](https://github.com/RASAAS/docmcp-knowledge/tree/main/_shared/standards)
+- 源文件见 [_shared/standards/](https://github.com/qian-qiang/docmcp-knowledge/tree/main/_shared/standards)
 :::
