@@ -1,0 +1,274 @@
+{
+  "category": "insights/eu-mdr-updates",
+  "last_updated": "2026-09-16",
+  "count": 17,
+  "entries": [
+    {
+      "id": "insights-combine-safety-reporting",
+      "title": {
+        "zh": "COMBINE计划：联合研究安全报告赞助商指南深度解读",
+        "en": "COMBINE Programme: Sponsors Guide for Safety Reporting in Combined Studies"
+      },
+      "published_date": "2026-09-15",
+      "subcategory": "eu-mdr-updates",
+      "source_url": "https://health.ec.europa.eu/latest-updates/combine-programme-project-2-safety-reporting-combined-studies-sponsors-guide",
+      "excerpt": {
+        "zh": "COMBINE计划第2期项目赞助商指南深度解读。该指南由CTAG和MDCG联合背书，首次在官方层面提供了跨CTR/MDR/IVDR三大法规的安全报告协调方案，涵盖联合研究中安全事件的定义统一、严重性判定、因果关系评估、报告时限协调、紧急安全措施以及特殊场景（如CDx仅使用剩余样本的性能研究）的处理指南。",
+        "en": ""
+      },
+      "status": "active"
+    },
+    {
+      "id": "insights-pmcf-survey-ec-ic",
+      "title": {
+        "zh": "PMCF 问卷调查的伦理审查和知情同意",
+        "en": ""
+      },
+      "published_date": "2025-05-16",
+      "subcategory": "eu-mdr-updates",
+      "source_url": "https://reguverse.com/eu-mdr-update/pmcf-survey-ec-ic/",
+      "excerpt": {
+        "zh": "上市后临床跟踪（PMCF）是欧盟医疗器械法规（MDR）（EU）2017/745 的关键要素，旨在确保已投放欧洲市场的医疗器械的持续安全性和性能。1 这一持续过程要求制造商在其器械的整个生命周期内主动收集和评估临床数据。1 PMCF 的主要目标包括确认器械的安全性和性能，识别任何先前未知的风险，监测已知的副作用和禁忌症，根据事实证据分析新出现的风险，并确保收益-风险比持续可接受。3 完善的 PMCF",
+        "en": ""
+      },
+      "status": "active"
+    },
+    {
+      "id": "insights-eudamed-udi-user-guide-v3110",
+      "title": {
+        "zh": "官方指南：EUDAMED UDI/器械模块操作详解",
+        "en": ""
+      },
+      "published_date": "2025-04-24",
+      "subcategory": "eu-mdr-updates",
+      "source_url": "https://reguverse.com/eu-mdr-update/eudamed-udi-user-guide-v3110/",
+      "excerpt": {
+        "zh": "欧盟委员会发布的关于如何在 EUDAMED（欧洲医疗器械数据库）的 UDI/器械模块（特指 Playground 测试环境 v3.11.0）中进行操作的用户指南EUDAMED user guide UDI Devices Playground v 3.11.0 2025 。尽管这是针对测试环境的指南，但它详细揭示了 EUDAMED 中 UDI/器械注册和管理的核心流程、数据要求和系统功能，具有非常",
+        "en": ""
+      },
+      "status": "active"
+    },
+    {
+      "id": "insights-mdcg-2019-6-rev5",
+      "title": {
+        "zh": "MDCG 2019-6 Rev5关于公告机构要求问答解析",
+        "en": ""
+      },
+      "published_date": "2025-02-15",
+      "subcategory": "eu-mdr-updates",
+      "source_url": "https://reguverse.com/eu-mdr-update/mdcg-2019-6-rev5/",
+      "excerpt": {
+        "zh": "2025年2月，欧盟医疗器械协调小组(MDCG)发布了《MDCG 2019-6 Rev5 关于公告机构要求的问答》文件。作为MDR和IVDR实施过程中的重要指导文件，本次修订对多个问题进行了更新和补充，特别是关于公告机构独立性、结构化对话以及合格评定流程的内容。本文将对该文件的关键内容进行解析，为公告机构和制造商提供实用参考。 一、组织和通用要求的关键变化 本次修订明确了公告机构应遵循MDCG发布",
+        "en": ""
+      },
+      "status": "active"
+    },
+    {
+      "id": "insights-eudamed-implementation-phases",
+      "title": {
+        "zh": "EUDAMED数据库分阶段实施政策重要更新解读",
+        "en": ""
+      },
+      "published_date": "2025-01-16",
+      "subcategory": "eu-mdr-updates",
+      "source_url": "https://reguverse.com/eu-mdr-update/eudamed-implementation-phases/",
+      "excerpt": {
+        "zh": "原文链接：https://health.ec.europa.eu/document/download/0e7327c7-0e06-4fbd-90d3-8ab7bb30fe9f_en?filename=md_mdcg_2024-11_eudamed-qa.pdf 政策背景与意义 欧盟委员会近期发布的EUDAMED实施Q&A文件标志着欧盟医疗器械数据库建设进入新阶段。这份详细的指导文件源于(EU) 2",
+        "en": ""
+      },
+      "status": "active"
+    },
+    {
+      "id": "insights-team-nb-position-paper-on-mdr-certification-process",
+      "title": {
+        "zh": "欧盟医疗器械技术审评机构发布 MDR 认证流程共识文件",
+        "en": ""
+      },
+      "published_date": "2025-01-01",
+      "subcategory": "eu-mdr-updates",
+      "source_url": "https://reguverse.com/eu-mdr-update/team-nb-position-paper-on-mdr-certification-process/",
+      "excerpt": {
+        "zh": "Original: https://www.team-nb.org/team-nb-position-paper-on-mdr-certification-process-including-pre-application-application-and-post-application-phases-consensus-document/ 随着欧盟医疗器械法规(MDR)的实施,各公告机构(Not",
+        "en": ""
+      },
+      "status": "active"
+    },
+    {
+      "id": "insights-ai-act-compliance",
+      "title": {
+        "zh": "欧盟AI法案对医疗器械的影响：合规路线图与实施策略解析",
+        "en": ""
+      },
+      "published_date": "2024-12-24",
+      "subcategory": "eu-mdr-updates",
+      "source_url": "https://reguverse.com/eu-mdr-update/ai-act-compliance/",
+      "excerpt": {
+        "zh": "欧盟AI法案（AI Act 2024/1689）的正式发布，标志着全球首个人工智能综合监管框架的确立。对于医疗器械行业而言，这一法案与现有的MDR/IVDR形成监管协同，为AI医疗器械带来了新的合规挑战与机遇。本文将深入解析法案要求，并为企业提供实操性建议。 一、时间节点与过渡期安排解析 法案实施采用阶段性推进策略，关键时间节点如下： 二、合规体系构建要点 三、实施建议 【编后语】 AI Act对",
+        "en": ""
+      },
+      "status": "active"
+    },
+    {
+      "id": "insights-cir-requirements",
+      "title": {
+        "zh": "临床试验报告管理新规解读：EUDAMED缺位下的合规路径",
+        "en": ""
+      },
+      "published_date": "2024-12-20",
+      "subcategory": "eu-mdr-updates",
+      "source_url": "https://reguverse.com/eu-mdr-update/cir-requirements/",
+      "excerpt": {
+        "zh": "Original: https://health.ec.europa.eu/latest-updates/mdcg-2024-15-guidance-publication-clinical-investigation-reports-and-their-summaries-absence-eudamed-2024-12-02_en 编者按： 近期，欧盟医疗器械协调组(MDCG)发布了2024-1",
+        "en": ""
+      },
+      "status": "active"
+    },
+    {
+      "id": "insights-team-nb-mdr-certification-process",
+      "title": {
+        "zh": "公告机构认证流程全解析：欧盟医疗器械合规的关键路径",
+        "en": ""
+      },
+      "published_date": "2024-12-19",
+      "subcategory": "eu-mdr-updates",
+      "source_url": "https://reguverse.com/eu-mdr-update/team-nb-mdr-certification-process/",
+      "excerpt": {
+        "zh": "Original: https://www.team-nb.org/team-nb-position-paper-on-mdr-certification-process-including-pre-application-application-and-post-application-phases-consensus-document/ 编者按： 2024年12月18日，欧盟公告机构组织(Te",
+        "en": ""
+      },
+      "status": "active"
+    },
+    {
+      "id": "insights-eu-mdr-cybersecurity",
+      "title": {
+        "zh": "欧盟医疗器械监管新框架解析：网络安全与责任制度的多维革新",
+        "en": ""
+      },
+      "published_date": "2024-12-16",
+      "subcategory": "eu-mdr-updates",
+      "source_url": "https://reguverse.com/eu-mdr-update/eu-mdr-cybersecurity/",
+      "excerpt": {
+        "zh": "Original: https://www.linkedin.com/pulse/new-era-accountability-medical-devices-cybersecurity-liability-gauci-326ge 编者按： 近期，欧盟在医疗器械法规领域迎来重大突破，形成了一个多层次、全方位的监管体系。本文作者Ian Gauci博士深入剖析了欧盟在数字化时代对医疗器械的网络安全与责",
+        "en": ""
+      },
+      "status": "active"
+    },
+    {
+      "id": "insights-classification",
+      "title": {
+        "zh": "EU MDR 分类",
+        "en": ""
+      },
+      "published_date": "2025-01-01",
+      "subcategory": "eu-mdr-updates",
+      "source_url": "https://reguverse.com/documentation/eu-mdr-indexing/classification/",
+      "excerpt": {
+        "zh": "",
+        "en": ""
+      },
+      "migrated_from": "eu_mdr/classification",
+      "migration_date": "2026-02-23",
+      "status": "active"
+    },
+    {
+      "id": "insights-eu-mdr-classification-explanations",
+      "title": {
+        "zh": "EU MDR Classification Explanations",
+        "en": ""
+      },
+      "published_date": "2025-01-01",
+      "subcategory": "eu-mdr-updates",
+      "source_url": "https://reguverse.com/documentation/eu-mdr-indexing/classification/eu-mdr-classification-explanations/",
+      "excerpt": {
+        "zh": "",
+        "en": ""
+      },
+      "migrated_from": "eu_mdr/eu-mdr-classification-explanations",
+      "migration_date": "2026-02-23",
+      "status": "active"
+    },
+    {
+      "id": "insights-practical-issues-and-examples",
+      "title": {
+        "zh": "Practical issues and examples",
+        "en": ""
+      },
+      "published_date": "2025-01-01",
+      "subcategory": "eu-mdr-updates",
+      "source_url": "https://reguverse.com/documentation/eu-mdr-indexing/classification/practical-issues-and-examples/",
+      "excerpt": {
+        "zh": "",
+        "en": ""
+      },
+      "migrated_from": "eu_mdr/practical-issues-and-examples",
+      "migration_date": "2026-02-23",
+      "status": "active"
+    },
+    {
+      "id": "insights-mdr-td-bpg",
+      "title": {
+        "zh": "医疗器械法规 (MDR) 技术文档编写说明",
+        "en": ""
+      },
+      "published_date": "2025-01-01",
+      "subcategory": "eu-mdr-updates",
+      "source_url": "https://reguverse.com/documentation/eu-mdr-indexing/technical-documentation/mdr-td-bpg/",
+      "excerpt": {
+        "zh": "",
+        "en": ""
+      },
+      "migrated_from": "eu_mdr/mdr-td-bpg",
+      "migration_date": "2026-02-23",
+      "status": "active"
+    },
+    {
+      "id": "insights-eu-ivdr-classification",
+      "title": {
+        "zh": "EU IVDR 分类",
+        "en": ""
+      },
+      "published_date": "2025-01-01",
+      "subcategory": "eu-mdr-updates",
+      "source_url": "https://reguverse.com/documentation/eu-mdr-indexing/eu-ivdr-classification/",
+      "excerpt": {
+        "zh": "",
+        "en": ""
+      },
+      "migrated_from": "eu_mdr/eu-ivdr-classification",
+      "migration_date": "2026-02-23",
+      "status": "active"
+    },
+    {
+      "id": "insights-ivdr-rules-examples",
+      "title": {
+        "zh": "IVDR 分类规则与实例汇总 (基于 MDCG 2020-16 Rev.5)",
+        "en": ""
+      },
+      "published_date": "2026-09-15",
+      "subcategory": "eu-mdr-updates",
+      "source_url": "https://reguverse.com/documentation/eu-mdr-indexing/eu-ivdr-classification/ivdr-rules-examples/",
+      "excerpt": {
+        "zh": "",
+        "en": ""
+      },
+      "migrated_from": "eu_mdr/ivdr-rules-examples",
+      "migration_date": "2026-02-23",
+      "status": "active"
+    },
+    {
+      "id": "insights-mdr-language-requirements",
+      "title": {
+        "zh": "MDR合规深度解析：按照各国语言要求优化欧洲市场准入",
+        "en": ""
+      },
+      "published_date": "2025-11-24",
+      "subcategory": "eu-mdr-updates",
+      "source_url": "https://reguverse.com/nmpa-update/mdr-language-requirements/",
+      "excerpt": {
+        "zh": "在欧盟医疗器械法规（MDR 2017/745）全面实施的背景下，合规要求已渗透至产品生命周期的每一个环节。除了临床评估、质量体系等核心要素外，语言要求（Language Requirements）作为市场准入的直接门槛，其战略重要性日益凸显。 根据MDR第10(11)条的规定，制造商必须确保向用户提供的信息（包括使用说明书IFU和标签）采用器械使用地成员国确定的官方语言。这一规定旨在确保终端用户能",
+        "en": ""
+      },
+      "status": "active"
+    }
+  ]
+}

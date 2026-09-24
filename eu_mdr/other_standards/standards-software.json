@@ -1,0 +1,203 @@
+{
+  "standards": [
+    {
+      "number": "IEC 62304:2006+AMD1:2015",
+      "title_en": "Medical device software - Software life cycle processes",
+      "title_zh": "医疗器械软件 - 软件生命周期过程",
+      "source_url": "https://webstore.iec.ch/en/publication/22794",
+      "status": "active",
+      "replaced_by": null,
+      "id": "iec-62304-2006-amd1-2015",
+      "title": {
+        "en": "Medical device software - Software life cycle processes",
+        "zh": "医疗器械软件 - 软件生命周期过程"
+      },
+      "source_verified": "2026-06-27"
+    },
+    {
+      "id": "iec-82304-1-2016",
+      "number": "IEC 82304-1:2016",
+      "title": {
+        "en": "Health software — Part 1: General requirements for product safety",
+        "zh": "健康软件 - 第1部分：产品安全通用要求"
+      },
+      "status": "active",
+      "scope": {
+        "en": "Standalone health software",
+        "zh": ""
+      },
+      "standard_type": "non_harmonised",
+      "source_url": "https://webstore.iec.ch/en/publication/26120",
+      "applicable_gsprs": [
+        "17",
+        "17.1",
+        "17.2",
+        "14"
+      ],
+      "abstract": "Applies to the safety and security of health software products. Addresses safety requirements for health software that is not part of a medical device."
+    },
+    {
+      "id": "aami-tir57-2016",
+      "number": "AAMI TIR57:2016/(R)2022",
+      "title": {
+        "en": "Principles for medical device security—Risk management",
+        "zh": "医疗设备安全的风险管理原则"
+      },
+      "status": "active",
+      "scope": {
+        "en": "Cybersecurity risk management",
+        "zh": ""
+      },
+      "standard_type": "non_harmonised",
+      "source_url": "https://www.aami.org/standards/aami-tir57",
+      "applicable_gsprs": [
+        "17",
+        "17.1",
+        "17.2",
+        "17.3"
+      ],
+      "abstract": "Provides guidance on security risk management for medical device manufacturers. Describes a security risk management process aligned with ISO 14971."
+    },
+    {
+      "id": "iec-tr-80002-1-2009",
+      "number": "IEC TR 80002-1:2009",
+      "title": {
+        "en": "Medical device software — Part 1: Guidance on the application of ISO 14971 to medical device software",
+        "zh": "医疗器械软件 - 第1部分：IEC 62304应用于制造和维护的指南"
+      },
+      "status": "active",
+      "scope": {
+        "en": "Risk management for software devices",
+        "zh": ""
+      },
+      "standard_type": "non_harmonised",
+      "source_url": "https://webstore.iec.ch/en/publication/7488",
+      "applicable_gsprs": [
+        "17",
+        "17.1"
+      ],
+      "abstract": "Provides guidance on the application of ISO 14971 to medical device software. Helps manufacturers apply risk management concepts to software development."
+    },
+    {
+      "id": "iec-81001-5-1-2021",
+      "number": "IEC 81001-5-1:2021",
+      "title": {
+        "en": "Health software and health IT systems safety, effectiveness and security - Part 5-1: Security - Activities in the product life cycle",
+        "zh": "健康软件和健康IT系统安全、有效性和保密性 - 第5-1部分：安全 - 产品生命周期中的安全活动"
+      },
+      "status": "active",
+      "applicable_gsprs": [
+        "17"
+      ],
+      "standard_type": "non_harmonised",
+      "source_url": "https://webstore.iec.ch/en/publication/63293",
+      "abstract": "Specifies requirements for security in the development and maintenance lifecycle of health software and health IT systems.",
+      "scope": "Health software and health IT systems safety, effectiveness and security -- Security -- Activities in the product life cycle."
+    },
+    {
+      "id": "iec-tr-80001-2-2-2012",
+      "number": "IEC TS 81001-2-2:2025",
+      "title": {
+        "en": "Application of risk management for IT-networks incorporating medical devices - Part 2-2: Guidance for the communication of medical device security needs, risks and controls",
+        "zh": "健康信息基础设施中整合医疗设备的风险管理应用 - 第2-2部分：医疗设备通信安全能力的披露和沟通指南"
+      },
+      "status": "withdrawn",
+      "applicable_gsprs": [
+        "17",
+        "17.4"
+      ],
+      "standard_type": "non_harmonised",
+      "source_url": "https://webstore.iec.ch/en/publication/78673",
+      "abstract": "Provides guidance on disclosure of security-related capabilities and risks of medical devices on IT-networks.",
+      "scope": "Application of risk management for IT-networks incorporating medical devices -- Guidance for the communication of medical device security needs, risks and controls.",
+      "note": "Withdrawn. Replaced by IEC TS 81001-2-2:2025.",
+      "title_en": "Health software and health IT systems safety, effectiveness and security - Part 2-2: Guidance for the implementation, disclosure and communication of security needs, risks and controls",
+      "title_zh": "健康软件和健康IT系统安全、有效性和安保 - 第2-2部分：安全需求、风险和控制的实施、披露和通信指南"
+    },
+    {
+      "id": "iec-62443-4-1-2018",
+      "number": "IEC 62443-4-1:2018",
+      "title": {
+        "en": "Security for industrial automation and control systems - Part 4-1: Secure product development lifecycle requirements",
+        "zh": "工业通信网络 - 网络和系统安全 - 第4-1部分：安全产品开发生命周期要求"
+      },
+      "status": "active",
+      "applicable_gsprs": [
+        "17"
+      ],
+      "standard_type": "non_harmonised",
+      "source_url": "https://webstore.iec.ch/en/publication/33615",
+      "abstract": "Specifies process requirements for the secure development lifecycle of products used in industrial automation and control systems.",
+      "scope": "Security for industrial automation and control systems -- Secure product development lifecycle requirements."
+    },
+    {
+      "id": "iso-11073-10101-2020",
+      "number": "ISO 11073-10101:2020",
+      "title": {
+        "en": "Health informatics - Device interoperability - Part 10101: Nomenclature",
+        "zh": "健康信息学 - 设备互操作性 - 第10101部分：命名法"
+      },
+      "status": "active",
+      "applicable_gsprs": [
+        "14",
+        "17"
+      ],
+      "standard_type": "non_harmonised",
+      "source_url": "https://www.iso.org/standard/77338.html",
+      "abstract": "Defines the nomenclature for health informatics device interoperability, providing codes for medical device data.",
+      "scope": "Health informatics -- Device interoperability -- Point-of-care medical device communication -- Nomenclature.",
+      "source_verified": "2026-06-24"
+    },
+    {
+      "id": "iso-ieee-11073-10207-2019",
+      "number": "ISO/IEEE 11073-10207:2019",
+      "title": {
+        "en": "Health informatics - Device interoperability - Part 10207: Domain information and service model for point-of-care medical device communication",
+        "zh": "健康信息学 - 设备互操作性 - 第10207部分：基于领域信息和服务模型"
+      },
+      "status": "active",
+      "applicable_gsprs": [
+        "14",
+        "17"
+      ],
+      "standard_type": "non_harmonised",
+      "source_url": "https://www.iso.org/standard/76538.html",
+      "abstract": "Specifies domain information and service models for health informatics device interoperability.",
+      "scope": "Health informatics -- Personal health device communication -- Domain information model.",
+      "source_verified": "2026-06-24"
+    },
+    {
+      "id": "iso-iec-tr-24028-2020",
+      "number": "ISO/IEC TR 24028:2020",
+      "title": {
+        "en": "Information technology - Artificial intelligence - Overview of trustworthiness in artificial intelligence",
+        "zh": "信息技术 - 人工智能 - 人工智能中的偏差概述"
+      },
+      "status": "active",
+      "applicable_gsprs": [
+        "17"
+      ],
+      "standard_type": "non_harmonised",
+      "source_url": "https://webstore.iec.ch/en/publication/67138",
+      "abstract": "Provides an overview of trustworthiness in artificial intelligence, including reliability, safety and security aspects.",
+      "scope": "Information technology -- Artificial intelligence -- Overview of trustworthiness in artificial intelligence."
+    },
+    {
+      "id": "iso-iec-23894-2023",
+      "number": "ISO/IEC 23894:2023",
+      "title": {
+        "en": "Information technology - Artificial intelligence - Guidance on risk management",
+        "zh": "信息技术 - 人工智能 - 风险管理指南"
+      },
+      "status": "active",
+      "applicable_gsprs": [
+        "3",
+        "17"
+      ],
+      "standard_type": "non_harmonised",
+      "source_url": "https://webstore.iec.ch/en/publication/82914",
+      "abstract": "Provides guidance on managing risks related to the development and use of artificial intelligence.",
+      "scope": "Information technology -- Artificial intelligence -- Guidance on risk management."
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "category": "eu_mdr/team_nb",
+  "last_updated": "2026-09-04",
+  "count": 2,
+  "entries": [
+    {
+      "id": "team-nb-bpg-td-mdr-v4",
+      "slug": "team-nb-bpg-td-mdr-v4",
+      "title": {
+        "zh": "Team-NB 技术文件提交最佳实践指南（MDR 附录 II/III）V4",
+        "en": "Team-NB Best Practice Guidance for the Submission of Technical Documentation under Annex II and III of MDR (EU) 2017/745 V4"
+      },
+      "status": "active",
+      "source_url": "https://www.team-nb.org/wp-content/uploads/2026/04/Team-NB-PositionPaper-BPG-TechnicalDocEU-MDR-2017-745-V4-20260421.pdf",
+      "source_url_verified": "2026-09-04",
+      "effective_date": "2026-04-21"
+    },
+    {
+      "id": "eu_mdr-关于欧盟人工智能法案aia的立场文件",
+      "title": {
+        "zh": "关于欧盟人工智能法案（AIA）的立场文件",
+        "en": ""
+      },
+      "status": "active",
+      "source_url": "https://reguverse.com/documentation/eu-mdr-indexing/team-nb-position-paper/aia/",
+      "source_url_verified": "2026-02-23",
+      "effective_date": "2025-04-22"
+    }
+  ]
+}

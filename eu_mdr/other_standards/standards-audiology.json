@@ -1,0 +1,99 @@
+{
+  "standards": [
+    {
+      "id": "eu_mdr-os-iec-60601-2-66-2019",
+      "number": "IEC 60601-2-66:2019",
+      "title": {
+        "en": "Medical electrical equipment - Part 2-66: Particular requirements for the basic safety and essential performance of hearing instruments and hearing instrument systems",
+        "zh": "医用电气设备 - 第2-66部分：助听器和助听器系统的基本安全和基本性能专用要求"
+      },
+      "status": "active",
+      "source_url": "https://webstore.iec.ch/en/publication/65931",
+      "source_verified": "",
+      "category": "audiology",
+      "standard_type": "non_harmonised",
+      "scope": "Hearing instruments and hearing instrument systems.",
+      "applicable_gsprs": [
+        "14",
+        "14.1"
+      ],
+      "abstract": "Particular requirements for hearing instruments."
+    },
+    {
+      "id": "iec-60645-1-2017",
+      "number": "IEC 60645-1:2017",
+      "title": {
+        "en": "Electroacoustics - Audiometric equipment - Part 1: Equipment for pure-tone and speech audiometry",
+        "zh": "电声学 - 听力计设备 - 第1部分：纯音和言语测听设备"
+      },
+      "status": "active",
+      "applicable_gsprs": [
+        "14",
+        "18"
+      ],
+      "standard_type": "international",
+      "source_url": "https://webstore.iec.ch/en/publication/32370",
+      "source_verified": true,
+      "abstract": "Requirements for equipment for pure-tone and speech audiometry.",
+      "scope": "Audiometric equipment"
+    },
+    {
+      "id": "iec-60645-3-2020",
+      "number": "IEC 60645-7:2025",
+      "title": {
+        "en": "Electroacoustics - Audiometric equipment - Part 3: Test signals of short duration",
+        "zh": "电声学 - 听力计设备 - 第3部分：短时测试信号"
+      },
+      "status": "active",
+      "applicable_gsprs": [
+        "14",
+        "18"
+      ],
+      "standard_type": "international",
+      "source_url": "https://webstore.iec.ch/en/publication/109324",
+      "source_verified": true,
+      "abstract": "Requirements for test signals of short duration used in audiometric equipment.",
+      "scope": "Audiometric test signals",
+      "title_en": "Electroacoustics - Audiometric equipment - Part 7: Instruments for the measurement of auditory evoked potentials",
+      "title_zh": "电声学 - 听力计设备 - 第7部分：听觉诱发电位测量仪器"
+    },
+    {
+      "id": "iec-60645-5-2004",
+      "number": "IEC 60645-5:2004",
+      "title": {
+        "en": "Electroacoustics - Audiometric equipment - Part 5: Instruments for the measurement of aural acoustic impedance/admittance",
+        "zh": "电声学 - 听力计设备 - 第5部分：耳声阻抗/导纳测量仪器"
+      },
+      "status": "active",
+      "applicable_gsprs": [
+        "14",
+        "18"
+      ],
+      "standard_type": "international",
+      "source_url": "https://webstore.iec.ch/en/publication/2774",
+      "source_verified": true,
+      "abstract": "Requirements for instruments measuring aural acoustic impedance and admittance.",
+      "scope": "Aural impedance measurement",
+      "title_en": "Electroacoustics - Audiometric equipment - Part 5: Instruments for the measurement of aural acoustic impedance/admittance",
+      "title_zh": "电声学 - 听力计设备 - 第5部分：耳声阻抗/导纳测量仪器"
+    },
+    {
+      "id": "iec-60118-0-2022",
+      "number": "IEC 60118-0:2022",
+      "title": {
+        "en": "Electroacoustics - Hearing aids - Part 0: Measurement of the performance characteristics of hearing aids",
+        "zh": "电声学 - 助听器 - 第0部分：助听器性能特性的测量"
+      },
+      "status": "active",
+      "applicable_gsprs": [
+        "14",
+        "14.1",
+        "14.2"
+      ],
+      "standard_type": "non_harmonised",
+      "source_url": "https://webstore.iec.ch/en/publication/62974",
+      "source_verified": "2026-06-27",
+      "note": "International version of harmonised standard EN IEC 60118-0:2024"
+    }
+  ]
+}

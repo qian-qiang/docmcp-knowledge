@@ -1,0 +1,31 @@
+---
+title: 协调标准 — 灭菌与无菌包装
+description: "EU MDR 2017/745 协调标准：灭菌与无菌包装（7条入官方公报标准），适用于GSPR 11。基于 CID (EU) 2021/1182 及修正案 2026/1231。"
+regulation: EU MDR 2017/745
+category: Sterilization & Packaging
+---
+
+# 协调标准 — 灭菌与无菌包装
+
+**官方来源**：[EC Health — Harmonised Standards](https://health.ec.europa.eu/medical-devices-topics-interest/harmonised-standards_en) | 基于 CID (EU) 2021/1182（合并版）及修正案 [CID (EU) 2026/1231](https://eur-lex.europa.eu/eli/dec_impl/2026/1231/oj)
+
+## 协调标准列表（7条）
+
+| 标准号 | 标题摘要 | GSPR对应 | 状态 |
+|--------|---------|---------|------|
+| **EN ISO 11135:2014 + 2019** | 环氧乙烷 - 医疗器械灭菌过程的开发、确认和常规控制要求 | GSPR 11（灭菌与包装） | 现行有效 |
+| **EN ISO 11137-1:2015 + 2019** | 辐射 - 第1部分：医疗器械灭菌过程的开发、确认和常规控制要求 | GSPR 11（灭菌与包装） | 现行有效 |
+| **EN ISO 11137-2:2015 + 2023** | 辐射 - 第2部分：建立灭菌剂量 | GSPR 11（灭菌与包装） | 现行有效 |
+| **EN ISO 11607-1:2020 + 2023** | 第1部分：材料、无菌屏障系统和包装系统的要求 | GSPR 11（灭菌与包装） | 现行有效 |
+| **EN ISO 11607-2:2020 + 2023** | 第2部分：成型、密封和组装过程的验证要求 | GSPR 11（灭菌与包装） | 现行有效 |
+| **EN ISO 11737-1:2018 + 2021** | 微生物学方法 - 第1部分：产品上微生物群体的测定 | GSPR 11（灭菌与包装） | 现行有效 |
+| **EN ISO 11737-2:2020** | 微生物学方法 - 第2部分：灭菌过程的定义、确认和维护中进行的无菌试验 | GSPR 11（灭菌与包装） | 现行有效 |
+
+## 相关页面
+
+- [附件I — GSPR](../regulations/annex-i-gspr)
+- [协调标准 — 生物相容性](./biocompatibility)
+
+## 数据层源文件
+
+[eu_mdr/standards/standards-sterilization.json](https://github.com/RASAAS/docmcp-knowledge/tree/main/eu_mdr/standards/standards-sterilization.json)

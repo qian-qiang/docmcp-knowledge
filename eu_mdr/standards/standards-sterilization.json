@@ -1,0 +1,184 @@
+{
+  "standards": [
+    {
+      "id": "eu_mdr-hs-en-iso-11135-2014",
+      "number": "EN ISO 11135:2014",
+      "title": {
+        "en": "Sterilization of health care products - Ethylene oxide - Requirements for the development, validation and routine control of a sterilization process for medical devices (ISO 11135:2014)",
+        "zh": "医疗保健产品灭菌 - 环氧乙烷 - 医疗器械灭菌过程的开发、确认和常规控制要求"
+      },
+      "status": "active",
+      "source_url": "https://eur-lex.europa.eu/eli/dec_impl/2021/1182",
+      "source_verified": "2026-04-09",
+      "category": "sterilization",
+      "amendments": [
+        "EN ISO 11135:2014/A1:2019"
+      ],
+      "applicable_gsprs": [
+        "11",
+        "11.5",
+        "11.6",
+        "14",
+        "14.1"
+      ],
+      "scope": {
+        "en": "EO sterilization process development, validation and routine control",
+        "zh": ""
+      },
+      "standard_type": "harmonised",
+      "abstract": "Specifies requirements for the development, validation and routine control of an ethylene oxide (EO) sterilization process for medical devices."
+    },
+    {
+      "id": "eu_mdr-hs-en-iso-11137-1-2015",
+      "number": "EN ISO 11137-1:2015",
+      "title": {
+        "en": "Sterilization of health care products - Radiation - Part 1: Requirements for development, validation and routine control of a sterilization process for medical devices (ISO 11137-1:2006, including Amd 1:2013)",
+        "zh": "医疗保健产品灭菌 - 辐射 - 第1部分：医疗器械灭菌过程的开发、确认和常规控制要求"
+      },
+      "status": "active",
+      "source_url": "https://eur-lex.europa.eu/eli/dec_impl/2021/1182",
+      "source_verified": "2026-04-09",
+      "category": "sterilization",
+      "amendments": [
+        "EN ISO 11137-1:2015/A2:2019"
+      ],
+      "applicable_gsprs": [
+        "11",
+        "11.5",
+        "11.6"
+      ],
+      "scope": {
+        "en": "Radiation sterilization process requirements",
+        "zh": ""
+      },
+      "standard_type": "harmonised",
+      "abstract": "Specifies requirements for the development, validation and routine control of a radiation sterilization process for medical devices."
+    },
+    {
+      "id": "eu_mdr-hs-en-iso-11137-2-2015",
+      "number": "EN ISO 11137-2:2015",
+      "title": {
+        "en": "Sterilization of health care products - Radiation - Part 2: Establishing the sterilization dose (ISO 11137-2:2013)",
+        "zh": "医疗保健产品灭菌 - 辐射 - 第2部分：建立灭菌剂量"
+      },
+      "status": "active",
+      "source_url": "https://eur-lex.europa.eu/eli/dec_impl/2021/1182",
+      "source_verified": "2026-04-09",
+      "category": "sterilization",
+      "amendments": [
+        "EN ISO 11137-2:2015/A1:2023"
+      ],
+      "applicable_gsprs": [
+        "11"
+      ],
+      "scope": {
+        "en": "Establishing radiation sterilization dose",
+        "zh": ""
+      },
+      "standard_type": "harmonised",
+      "abstract": "Specifies methods of determining the minimum dose required to achieve a specified sterilization dose using radiation."
+    },
+    {
+      "id": "eu_mdr-hs-en-iso-11607-1-2020",
+      "number": "EN ISO 11607-1:2020",
+      "title": {
+        "en": "Packaging for terminally sterilized medical devices - Part 1: Requirements for materials, sterile barrier systems and packaging systems (ISO 11607-1:2019)",
+        "zh": "最终灭菌医疗器械的包装 - 第1部分：材料、无菌屏障系统和包装系统的要求"
+      },
+      "status": "active",
+      "source_url": "https://eur-lex.europa.eu/eli/dec_impl/2021/1182",
+      "source_verified": "2026-04-09",
+      "category": "sterilization",
+      "amendments": [
+        "EN ISO 11607-1:2020/A1:2023"
+      ],
+      "applicable_gsprs": [
+        "8",
+        "11",
+        "11.4",
+        "11.7",
+        "23",
+        "23.3"
+      ],
+      "scope": {
+        "en": "Sterile packaging system material and design requirements",
+        "zh": ""
+      },
+      "standard_type": "harmonised",
+      "abstract": "Specifies requirements for materials, sterile barrier systems and packaging systems used in terminally sterilized medical devices."
+    },
+    {
+      "id": "eu_mdr-hs-en-iso-11607-2-2020",
+      "number": "EN ISO 11607-2:2020",
+      "title": {
+        "en": "Packaging for terminally sterilized medical devices - Part 2: Validation requirements for forming, sealing and assembly processes (ISO 11607-2:2019)",
+        "zh": "最终灭菌医疗器械的包装 - 第2部分：成型、密封和组装过程的验证要求"
+      },
+      "status": "active",
+      "source_url": "https://eur-lex.europa.eu/eli/dec_impl/2021/1182",
+      "source_verified": "2026-04-09",
+      "category": "sterilization",
+      "amendments": [
+        "EN ISO 11607-2:2020/A1:2023"
+      ],
+      "applicable_gsprs": [
+        "8",
+        "11",
+        "11.4"
+      ],
+      "scope": {
+        "en": "Sterile packaging process validation",
+        "zh": ""
+      },
+      "standard_type": "harmonised",
+      "abstract": "Specifies requirements for validation of forming, sealing and assembly processes used to manufacture packaging for terminally sterilized medical devices."
+    },
+    {
+      "id": "eu_mdr-hs-en-iso-11737-1-2018",
+      "number": "EN ISO 11737-1:2018",
+      "title": {
+        "en": "Sterilization of health care products - Microbiological methods - Part 1: Determination of a population of microorganisms on products (ISO 11737-1:2018)",
+        "zh": "医疗保健产品灭菌 - 微生物学方法 - 第1部分：产品上微生物群体的测定"
+      },
+      "status": "active",
+      "source_url": "https://eur-lex.europa.eu/eli/dec_impl/2021/1182",
+      "source_verified": "2026-04-09",
+      "category": "sterilization",
+      "amendments": [
+        "EN ISO 11737-1:2018/A1:2021"
+      ],
+      "applicable_gsprs": [
+        "11",
+        "11.3"
+      ],
+      "scope": {
+        "en": "Bioburden determination methods for sterilization validation",
+        "zh": ""
+      },
+      "standard_type": "harmonised",
+      "abstract": "Specifies requirements and methods for determining the population of viable microorganisms on or in a medical device, component, raw material or package."
+    },
+    {
+      "id": "eu_mdr-hs-en-iso-11737-2-2020",
+      "number": "EN ISO 11737-2:2020",
+      "title": {
+        "en": "Sterilization of health care products - Microbiological methods - Part 2: Tests of sterility performed in the definition, validation and maintenance of a sterilization process (ISO 11737-2:2019)",
+        "zh": "医疗保健产品灭菌 - 微生物学方法 - 第2部分：灭菌过程的定义、确认和维护中进行的无菌试验"
+      },
+      "status": "active",
+      "source_url": "https://eur-lex.europa.eu/eli/dec_impl/2021/1182",
+      "source_verified": "2026-04-09",
+      "category": "sterilization",
+      "applicable_gsprs": [
+        "11",
+        "11.3"
+      ],
+      "scope": {
+        "en": "Sterility testing for sterilization process validation",
+        "zh": ""
+      },
+      "standard_type": "harmonised",
+      "abstract": "Specifies methods for testing the sterility of medical devices that have been exposed to a defined sterilization process."
+    }
+  ]
+}

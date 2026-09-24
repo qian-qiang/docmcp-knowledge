@@ -1,0 +1,127 @@
+{
+  "standards": [
+    {
+      "id": "eu_mdr-os-iso-22442-1-2020",
+      "number": "ISO 22442-1:2020",
+      "title": {
+        "en": "Medical devices utilizing animal tissues and their derivatives - Part 1: Application of risk management",
+        "zh": "动物组织及其衍生物制造的医疗器械 - 第1部分：风险管理的应用"
+      },
+      "status": "active",
+      "source_url": "https://www.iso.org/standard/74280.html",
+      "source_verified": "",
+      "category": "biological_materials",
+      "standard_type": "non_harmonised",
+      "scope": "Animal tissue medical devices - Risk management.",
+      "applicable_gsprs": [
+        "10",
+        "10.4",
+        "12"
+      ],
+      "abstract": "Risk management for medical devices utilizing animal tissues."
+    },
+    {
+      "id": "eu_mdr-os-iso-22442-2-2020",
+      "number": "ISO 22442-2:2020",
+      "title": {
+        "en": "Medical devices utilizing animal tissues and their derivatives - Part 2: Controls on sourcing, collection and handling",
+        "zh": "动物组织及其衍生物制造的医疗器械 - 第2部分：来源、采集和处理的控制"
+      },
+      "status": "active",
+      "source_url": "https://www.iso.org/standard/74281.html",
+      "source_verified": "",
+      "category": "biological_materials",
+      "standard_type": "non_harmonised",
+      "scope": "Animal tissue sourcing and handling.",
+      "applicable_gsprs": [
+        "10",
+        "10.4",
+        "12"
+      ],
+      "abstract": "Controls on sourcing, collection and handling of animal tissues."
+    },
+    {
+      "id": "eu_mdr-os-iso-22442-3-2007+",
+      "number": "ISO 22442-3:2007",
+      "title": {
+        "en": "Medical devices utilizing animal tissues and their derivatives - Part 3: Validation of the elimination and/or inactivation of viruses and transmissible spongiform encephalopathy (TSE) agents",
+        "zh": "动物组织及其衍生物制造的医疗器械 - 第3部分：病毒和传播性海绵状脑病(TSE)因子的消除和/或灭活的确认"
+      },
+      "status": "active",
+      "source_url": "https://www.iso.org/standard/39351.html",
+      "source_verified": "2026-06-27",
+      "category": "biological_materials",
+      "standard_type": "non_harmonised",
+      "scope": "Virus/TSE inactivation validation.",
+      "applicable_gsprs": [
+        "10",
+        "10.4",
+        "12"
+      ],
+      "abstract": "Validation of virus and TSE agent inactivation for animal tissue devices.",
+      "note": "Edition 1, published 2007-12. Confirmed 2022. No Amendment exists (the 2015 date was a confirmation review, not an amendment). AWI for Ed.2 in progress."
+    },
+    {
+      "id": "iso-3826-1-2019",
+      "number": "ISO 3826-1:2019",
+      "title": {
+        "en": "Plastics collapsible containers for human blood and blood components - Part 1: Conventional containers",
+        "zh": "人体血液和血液成分用塑料可折叠容器 - 第1部分：常规容器"
+      },
+      "status": "active",
+      "applicable_gsprs": [
+        "1",
+        "3",
+        "5",
+        "10",
+        "11"
+      ],
+      "standard_type": "non_harmonised",
+      "source_url": "https://www.iso.org/standard/70726.html",
+      "source_verified": "2026-06-27",
+      "abstract": "Specifies requirements including performance requirements for plastics collapsible containers, complete with satellite containers and accessory equipment, for collection, storage and transport of blood and blood components. Edition 4.",
+      "scope": "Plastic blood bags for collection, storage and transport of blood and blood components."
+    },
+    {
+      "id": "iso-3826-4-2015",
+      "number": "ISO 3826-4:2015",
+      "title": {
+        "en": "Plastics collapsible containers for human blood and blood components - Part 4: Apheresis blood bag systems with integrated features",
+        "zh": "人体血液和血液成分用塑料可折叠容器 - 第4部分：带集成功能的单采血袋系统"
+      },
+      "status": "active",
+      "applicable_gsprs": [
+        "1",
+        "3",
+        "5",
+        "10",
+        "11"
+      ],
+      "standard_type": "non_harmonised",
+      "source_url": "https://www.iso.org/standard/62463.html",
+      "source_verified": "2026-06-27",
+      "abstract": "Specifies requirements for apheresis blood bag systems with integrated features for separation, collection and storage of blood components. Confirmed 2021.",
+      "scope": "Apheresis blood bag systems with integrated separation features."
+    },
+    {
+      "id": "iso-ts-21560-2020",
+      "number": "ISO/TS 21560:2020",
+      "title": {
+        "en": "General requirements of tissue-engineered medical products",
+        "zh": "组织工程医疗产品的通用要求"
+      },
+      "status": "active",
+      "applicable_gsprs": [
+        "1",
+        "3",
+        "5",
+        "10"
+      ],
+      "standard_type": "non_harmonised",
+      "source_url": "https://www.iso.org/standard/71086.html",
+      "source_verified": "2026-06-27",
+      "abstract": "Specifies general requirements for tissue-engineered medical products (TEMPs) used in regenerative medicine, including safety, materials, manufacture and quality control. Confirmed 2024.",
+      "scope": "General requirements for tissue-engineered medical products used in regenerative medicine."
+    }
+  ]
+}

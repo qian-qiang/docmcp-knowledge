@@ -1,0 +1,239 @@
+{
+  "standards": [
+    {
+      "id": "iso-11737-1-2018-amd1-2021",
+      "number": "ISO 11737-1:2018/Amd 1:2021",
+      "title": {
+        "en": "Sterilization of health care products - Microbiological methods - Part 1: Determination of a population of microorganisms on products",
+        "zh": "保健品灭菌 - 微生物学方法 - 第1部分：产品上微生物群落的测定"
+      },
+      "status": "active",
+      "source_url": "https://www.iso.org/standard/66451.html",
+      "source_verified": "2026-06-27",
+      "scope": "Bioburden testing methods for medical devices.",
+      "standard_type": "non_harmonised",
+      "applicable_gsprs": [
+        "11",
+        "11.3"
+      ],
+      "abstract": "Specifies requirements for determining the population of viable microorganisms on or in a medical device, component, raw material or package."
+    },
+    {
+      "id": "iso-11135-2014-amd1-2018",
+      "number": "ISO 11135:2014+AMD1:2018",
+      "title": {
+        "en": "Sterilization of health-care products - Ethylene oxide - Requirements for the development, validation and routine control of a sterilization process for medical devices",
+        "zh": "保健品灭菌 - 环氧乙烷 - 灭菌过程的开发、确认和常规控制要求"
+      },
+      "status": "active",
+      "source_url": "https://www.iso.org/standard/56137.html",
+      "source_verified": "2026-06-24",
+      "scope": "EO sterilization process development, validation and routine control.",
+      "standard_type": "non_harmonised",
+      "applicable_gsprs": [
+        "11",
+        "11.1",
+        "11.5",
+        "11.6"
+      ],
+      "abstract": "Specifies requirements for the development, validation and routine control of an ethylene oxide sterilization process for medical devices.",
+      "note": "ISO/FDIS 11135 (Ed.3) is at FDIS stage as of May 2026; current published edition remains 2014+Amd1:2018."
+    },
+    {
+      "id": "iso-11138-1-2017",
+      "number": "ISO 11138-1:2017",
+      "title": {
+        "en": "Sterilization of health care products - Biological indicators - Part 1: General requirements",
+        "zh": "保健品灭菌 - 生物指示物 - 第1部分：通则"
+      },
+      "status": "active",
+      "source_url": "https://www.iso.org/standard/66442.html",
+      "source_verified": "2026-06-27",
+      "scope": "Biological indicators general requirements.",
+      "standard_type": "non_harmonised",
+      "applicable_gsprs": [
+        "11"
+      ],
+      "abstract": "Specifies general requirements and test methods for biological indicators used in sterilization validation."
+    },
+    {
+      "id": "iso-11138-2-2017",
+      "number": "ISO 11138-2:2017",
+      "title": {
+        "en": "Sterilization of health care products - Biological indicators - Part 2: Biological indicators for ethylene oxide sterilization processes",
+        "zh": "保健品灭菌 - 生物指示物 - 第2部分：环氧乙烷灭菌用生物指示物"
+      },
+      "status": "active",
+      "source_url": "https://www.iso.org/standard/66445.html",
+      "source_verified": "2026-06-27",
+      "scope": "Biological indicators for EO sterilization processes.",
+      "standard_type": "non_harmonised",
+      "applicable_gsprs": [
+        "11"
+      ],
+      "abstract": "Specifies requirements for biological indicators intended to assess the performance of ethylene oxide sterilization processes."
+    },
+    {
+      "id": "iso-11139-2018-amd1-2024",
+      "number": "ISO 11139:2018/Amd 1:2024",
+      "title": {
+        "en": "Sterilization of health care products - Vocabulary of terms used in sterilization and related equipment and process standards",
+        "zh": "保健品灭菌 - 术语词汇"
+      },
+      "status": "active",
+      "source_url": "https://www.iso.org/standard/83351.html",
+      "source_verified": "2026-06-27",
+      "scope": "Sterilization vocabulary and terminology.",
+      "standard_type": "non_harmonised",
+      "applicable_gsprs": [
+        "11"
+      ],
+      "abstract": "Defines vocabulary and terms used in sterilization and related procedures for healthcare products."
+    },
+    {
+      "id": "eu_mdr-os-iso-11137-1-2025",
+      "number": "ISO 11137-1:2025",
+      "title": {
+        "en": "Sterilization of health care products - Radiation - Part 1: Requirements for the development, validation and routine control of a sterilization process for medical devices",
+        "zh": "保健品灭菌 - 辐射 - 第1部分：灭菌过程的开发、确认和常规控制要求"
+      },
+      "status": "active",
+      "source_url": "https://www.iso.org/standard/81721.html",
+      "source_verified": "2026-06-27",
+      "scope": "Radiation sterilization process requirements.",
+      "standard_type": "non_harmonised",
+      "applicable_gsprs": [
+        "11",
+        "11.1"
+      ],
+      "abstract": "Requirements for radiation sterilization process development, validation and routine control.",
+      "note": "Second edition published 2025-04-02. Replaces ISO 11137-1:2006 and its amendments."
+    },
+    {
+      "id": "iso-11137-2-2013-amd1-2022",
+      "number": "ISO 11137-2:2013+AMD1:2022",
+      "title": {
+        "en": "Sterilization of health care products - Radiation - Part 2: Establishing the sterilization dose",
+        "zh": "保健品灭菌 - 辐射 - 第2部分：灭菌剂量的确定"
+      },
+      "status": "active",
+      "source_url": "https://www.iso.org/standard/62442.html",
+      "source_verified": "2026-06-24",
+      "scope": "Establishing radiation sterilization dose.",
+      "standard_type": "non_harmonised",
+      "applicable_gsprs": [
+        "11",
+        "11.1"
+      ],
+      "abstract": "Methods for establishing the sterilization dose for radiation sterilization."
+    },
+    {
+      "id": "iso-17665-2024",
+      "number": "ISO 17665:2024",
+      "title": {
+        "en": "Sterilization of health care products - Moist heat - Requirements for the development, validation and routine control of a sterilization process for medical devices",
+        "zh": "保健品灭菌 - 湿热 - 灭菌过程的开发、确认和常规控制要求"
+      },
+      "status": "active",
+      "source_url": "https://www.iso.org/standard/80271.html",
+      "source_verified": "2026-06-27",
+      "scope": "Moist heat (steam) sterilization process requirements.",
+      "standard_type": "non_harmonised",
+      "applicable_gsprs": [
+        "11",
+        "11.1"
+      ],
+      "abstract": "Requirements for moist heat (steam) sterilization process development, validation and routine control. Replaces ISO 17665-1:2006."
+    },
+    {
+      "id": "iso-11737-2-2019",
+      "number": "ISO 11737-2:2019",
+      "title": {
+        "en": "Sterilization of health care products - Microbiological methods - Part 2: Tests of sterility performed in the definition, validation and maintenance of a sterilization process",
+        "zh": "保健品灭菌 - 微生物学方法 - 第2部分：灭菌过程中使用的无菌试验"
+      },
+      "status": "active",
+      "source_url": "https://www.iso.org/standard/70801.html",
+      "source_verified": "2026-06-24",
+      "scope": "Sterility testing for sterilization process validation.",
+      "standard_type": "non_harmonised",
+      "applicable_gsprs": [
+        "11",
+        "11.3"
+      ],
+      "abstract": "Specifies tests of sterility performed in the definition, validation and maintenance of a sterilization process."
+    },
+    {
+      "id": "iso-13408-1-2023",
+      "number": "ISO 13408-1:2023",
+      "title": {
+        "en": "Aseptic processing of health care products - Part 1: General requirements (ISO 13408-1:2023)",
+        "zh": ""
+      },
+      "status": "active",
+      "applicable_gsprs": [
+        "11",
+        "11.5",
+        "11.6"
+      ],
+      "standard_type": "non_harmonised",
+      "source_url": "https://www.iso.org/standard/77151.html",
+      "source_verified": "2026-06-27",
+      "note": "International version of harmonised standard EN ISO 13408-1:2024"
+    },
+    {
+      "id": "iso-iso-13408-6-2021",
+      "number": "ISO 13408-6:2021",
+      "title": {
+        "en": "Aseptic processing of health care products - Part 6: Isolator systems (ISO 13408-6:2021)",
+        "zh": ""
+      },
+      "status": "active",
+      "applicable_gsprs": [
+        "11",
+        "11.5",
+        "11.6"
+      ],
+      "standard_type": "non_harmonised",
+      "source_url": "https://www.iso.org/standard/72836.html",
+      "source_verified": "2026-06-27",
+      "note": "International version of harmonised standard EN ISO 13408-6:2021"
+    },
+    {
+      "id": "iso-14160-2020",
+      "number": "ISO 14160:2020",
+      "title": {
+        "en": "Sterilization of health care products - Liquid chemical sterilizing agents for single-use medical devices utilizing animal tissues and their derivatives (ISO 14160:2020)",
+        "zh": ""
+      },
+      "status": "active",
+      "applicable_gsprs": [
+        "11",
+        "11.5",
+        "11.6",
+        "13"
+      ],
+      "standard_type": "non_harmonised",
+      "source_url": "https://www.iso.org/standard/73159.html",
+      "source_verified": "2026-06-27",
+      "note": "International version of harmonised standard EN ISO 14160:2021"
+    },
+    {
+      "id": "iso-25424-2018",
+      "number": "ISO 25424:2018",
+      "title": {
+        "en": "Sterilization of health care products - Low temperature steam and formaldehyde - Requirements for development, validation and routine control of a sterilization process for medical devices (ISO 25424:2018)",
+        "zh": ""
+      },
+      "status": "active",
+      "applicable_gsprs": [
+        "11",
+        "11.5"
+      ],
+      "standard_type": "non_harmonised",
+      "source_url": "https://www.iso.org/standard/70822.html",
+      "source_verified": "2026-06-27",
+      "note": "International version of harmonised standard EN ISO 25424:2019"
+    }
+  ]
+}

@@ -1,0 +1,61 @@
+{
+  "standards": [
+    {
+      "id": "iso-15197-2013-amd1-2024",
+      "number": "ISO 15197:2013",
+      "title": {
+        "en": "In vitro diagnostic test systems - Requirements for blood-glucose monitoring systems for self-testing in managing diabetes mellitus",
+        "zh": "体外诊断试验系统 - 血糖监测系统要求"
+      },
+      "status": "active",
+      "applicable_gsprs": [
+        "14",
+        "14.1",
+        "15",
+        "22"
+      ],
+      "standard_type": "non_harmonised",
+      "source_url": "https://www.iso.org/standard/54976.html",
+      "source_verified": "2026-06-24",
+      "abstract": "Specifies requirements and test methods for blood-glucose monitoring systems for self-testing in managing diabetes mellitus.",
+      "scope": "In vitro diagnostic medical devices -- Requirements for blood-glucose monitoring systems for self-testing.",
+      "note": "Edition 2 (2013), confirmed 2018. Under revision (ISO/CD 15197). No published AMD1."
+    },
+    {
+      "id": "iso-18113-1-2022",
+      "number": "ISO 18113-1:2022",
+      "title": {
+        "en": "In vitro diagnostic medical devices - Information supplied by the manufacturer (labelling) - Part 1: Terms, definitions and general requirements",
+        "zh": "体外诊断医疗器械 - 制造商提供的信息（标签） - 第1部分：体外诊断试剂的术语、定义和通用要求"
+      },
+      "status": "active",
+      "applicable_gsprs": [
+        "23",
+        "23.1"
+      ],
+      "standard_type": "non_harmonised",
+      "source_url": "https://www.iso.org/standard/79866.html",
+      "source_verified": "2026-06-27",
+      "abstract": "Specifies requirements for information supplied by the manufacturer of in vitro diagnostic medical devices.",
+      "scope": "IVD medical devices -- Information supplied by the manufacturer (labelling)."
+    },
+    {
+      "id": "iso-15189-2022",
+      "number": "ISO 15189:2022",
+      "title": {
+        "en": "Medical laboratories - Requirements for quality and competence",
+        "zh": "医学实验室 - 质量和能力要求"
+      },
+      "status": "active",
+      "applicable_gsprs": [
+        "15",
+        "15.1"
+      ],
+      "standard_type": "non_harmonised",
+      "source_url": "https://www.iso.org/standard/76677.html",
+      "source_verified": "2026-06-24",
+      "abstract": "Specifies requirements for quality and competence in medical laboratories, including pre-examination, examination and post-examination processes.",
+      "scope": "Medical laboratories -- Requirements for quality and competence."
+    }
+  ]
+}

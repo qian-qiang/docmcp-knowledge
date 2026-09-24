@@ -1,0 +1,42 @@
+{
+  "standards": [
+    {
+      "id": "astm-f2477-24",
+      "number": "ASTM F2477-24",
+      "title": {
+        "en": "Standard Test Methods for In Vitro Pulsatile Durability Testing of Vascular Stents and Endovascular Prostheses",
+        "zh": "标准试验方法 - 体外脉动耐久性测试（心血管器械）"
+      },
+      "status": "active",
+      "applicable_gsprs": [
+        "10",
+        "14",
+        "20"
+      ],
+      "standard_type": "non_harmonised",
+      "source_url": "https://store.astm.org/f2477-24.html",
+      "abstract": "Specifies test methods for evaluating the pulsatile durability of vascular stents in vitro.",
+      "scope": "Standard test methods for in vitro pulsatile durability testing of vascular stents.",
+      "source_verified": "2026-06-24"
+    },
+    {
+      "id": "astm-f2346-18r26",
+      "number": "ASTM F2346-18(2026)",
+      "title": {
+        "en": "Standard Test Methods for Static and Dynamic Characterization of Spinal Artificial Discs",
+        "zh": "标准试验方法 - 心包组织的静态和动态表征"
+      },
+      "status": "active",
+      "applicable_gsprs": [
+        "10",
+        "14",
+        "20"
+      ],
+      "standard_type": "non_harmonised",
+      "source_url": "https://store.astm.org/f2346-18r26.html",
+      "abstract": "Specifies test methods for static and dynamic characterization of spinal artificial disc prostheses.",
+      "scope": "Standard test methods for static and dynamic characterization of spinal artificial discs.",
+      "source_verified": "2026-06-24"
+    }
+  ]
+}

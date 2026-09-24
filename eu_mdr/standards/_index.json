@@ -1,0 +1,92 @@
+{
+  "directory": "eu_mdr/standards",
+  "description": "EU MDR Harmonised Standards (Official Journal)",
+  "source_url": "https://eur-lex.europa.eu/eli/dec_impl/2021/1182",
+  "latest_amendment": "2026/1231",
+  "latest_amendment_url": "https://eur-lex.europa.eu/eli/dec_impl/2026/1231/oj",
+  "last_updated": "2026-06-24",
+  "total_standards": 65,
+  "harmonised_count": 65,
+  "categories": {
+    "biocompatibility": {
+      "name": {
+        "zh": "生物相容性",
+        "en": "Biocompatibility"
+      },
+      "count": 10,
+      "file": "standards-biocompatibility.json"
+    },
+    "breathing_gas_pathways": {
+      "name": {
+        "zh": "呼吸气路生物相容性",
+        "en": "Breathing Gas Pathways"
+      },
+      "count": 4,
+      "file": "standards-breathing_gas_pathways.json"
+    },
+    "clinical_investigation": {
+      "name": {
+        "zh": "临床调查",
+        "en": "Clinical Investigation"
+      },
+      "count": 1,
+      "file": "standards-clinical_investigation.json"
+    },
+    "connectors": {
+      "name": {
+        "zh": "小口径连接器",
+        "en": "Small-bore Connectors"
+      },
+      "count": 1,
+      "file": "standards-connectors.json"
+    },
+    "electrical_safety": {
+      "name": {
+        "zh": "电气安全与EMC",
+        "en": "Electrical Safety & EMC"
+      },
+      "count": 2,
+      "file": "standards-electrical_safety.json"
+    },
+    "general": {
+      "name": {
+        "zh": "通用要求",
+        "en": "General Requirements"
+      },
+      "count": 36,
+      "file": "standards-general.json"
+    },
+    "labelling": {
+      "name": {
+        "zh": "标签与符号",
+        "en": "Labelling & Symbols"
+      },
+      "count": 2,
+      "file": "standards-labelling.json"
+    },
+    "quality_management": {
+      "name": {
+        "zh": "质量管理体系",
+        "en": "Quality Management"
+      },
+      "count": 1,
+      "file": "standards-quality_management.json"
+    },
+    "risk_management": {
+      "name": {
+        "zh": "风险管理",
+        "en": "Risk Management"
+      },
+      "count": 1,
+      "file": "standards-risk_management.json"
+    },
+    "sterilization": {
+      "name": {
+        "zh": "灭菌与无菌包装",
+        "en": "Sterilization & Packaging"
+      },
+      "count": 7,
+      "file": "standards-sterilization.json"
+    }
+  }
+}

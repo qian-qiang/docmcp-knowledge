@@ -1,0 +1,163 @@
+{
+  "items": [
+    {
+      "id": "argentina_anmat_20260919_anmat_bans_all_series_of_texel_brand_high_frequency_medical",
+      "framework": "argentina_anmat",
+      "category": "safety_communication",
+      "title": {
+        "en": "ANMAT Bans All Series of TEXEL Brand High-Frequency Medical Equipment (September 16, 2026)",
+        "zh": "ANMAT禁止TEXEL品牌所有系列高频医疗设备（2026年9月16日）"
+      },
+      "summary": {
+        "en": "Argentina’s ANMAT has issued a prohibition covering all series of TEXEL brand high-frequency medical equipment, effective September 16, 2026. The alert affects all marketed series/units of this brand; the manufacturer is identified only by the TEXEL brand in the notice. The specific safety defect or non-compliance triggering the ban is not detailed in the alert title/description. Users, distributors, and healthcare facilities should immediately discontinue use and distribution, remove affected devices from service, and follow ANMAT instructions.",
+        "zh": "阿根廷国家药品、食品和医疗器械管理局（ANMAT）于2026年9月16日发布禁令，禁止TEXEL品牌所有系列高频医疗设备。受影响产品为该品牌在阿根廷上市的所有系列/批次；通知中制造商仅以TEXEL品牌标示。触发禁令的具体安全缺陷或不合规原因在警报标题/描述中未详细说明。医疗机构、分销商和用户应立即停止使用和销售，下架受影响设备，并遵循ANMAT指示。"
+      },
+      "source_url": "https://www.argentina.gob.ar/noticias/anmat-prohibe-todas-las-series-de-equipo-medico-de-alta-frecuencia-de-la-marca-texel",
+      "source_name": "Official Source",
+      "published_date": "2026-09-16",
+      "detected_date": "2026-09-19T21:11:59Z",
+      "importance": "high",
+      "tags": [
+        "anmat",
+        "medical_device_ban",
+        "high_frequency_equipment",
+        "texel",
+        "safety_alert"
+      ],
+      "related_docs": [],
+      "status": "published"
+    },
+    {
+      "id": "argentina_anmat_20260919_anmat_bans_individually_packaged_screw_branded_bio_asist_imp",
+      "framework": "argentina_anmat",
+      "category": "safety_communication",
+      "title": {
+        "en": "ANMAT Bans Individually Packaged Screw Branded 'BIO ASIST - IMPLANTS'",
+        "zh": "ANMAT禁止标示为BIO ASIST - IMPLANTS的单个包装螺钉"
+      },
+      "summary": {
+        "en": "On 14 September 2026, Argentina’s ANMAT prohibited any medical product identified as 'Tornillo acondicionado individualmente' marketed under the designation 'BIO ASIST - IMPLANTS.' The action covers all lots/presentations of this individually packaged screw; the manufacturer/marketer is identified by the BIO ASIST - IMPLANTS denomination. Distributors, healthcare facilities, and professionals should immediately stop use, distribution, and commercialization, and verify whether the product has proper ANMAT registration.",
+        "zh": "2026年9月14日，阿根廷ANMAT禁止任何标识为“Tornillo acondicionado individualmente”且以“BIO ASIST - IMPLANTS”名义销售的医疗器械。该禁令适用于此类单个包装螺钉的所有批次/规格，生产/销售方仅以BIO ASIST - IMPLANTS名称识别。经销商、医疗机构和专业人员应立即停止使用、分销和销售，并核实该产品是否具有有效的ANMAT注册。"
+      },
+      "source_url": "https://www.argentina.gob.ar/noticias/anmat-prohibio-cualquier-producto-medico-identificado-como-tornillo-acondicionado",
+      "source_name": "Official Source",
+      "published_date": "2026-09-14",
+      "detected_date": "2026-09-19T21:12:16Z",
+      "importance": "high",
+      "tags": [
+        "argentina_anmat",
+        "medical_device_ban",
+        "orthopedic_screw",
+        "bio_asist_implants",
+        "regulatory_action"
+      ],
+      "related_docs": [],
+      "status": "published"
+    },
+    {
+      "id": "argentina_anmat_20260905_anmat_bans_medical_products_of_brand_medical_advance_sep_3_2",
+      "framework": "argentina_anmat",
+      "category": "safety_communication",
+      "title": {
+        "en": "ANMAT Bans Medical Products of Brand “MEDICAL ADVANCE” – Sep 3, 2026",
+        "zh": "ANMAT禁止“MEDICAL ADVANCE”品牌医疗产品"
+      },
+      "summary": {
+        "en": "On September 3, 2026, Argentina’s ANMAT prohibited medical products branded “MEDICAL ADVANCE.” The alert affects medical devices marketed under this brand; the specific safety reason and lot numbers are not detailed in the notice. Healthcare providers, distributors, and users should stop using, selling, or delivering these products and verify their regulatory status with ANMAT.",
+        "zh": "2026年9月3日，阿根廷国家药品、食品和医疗器械管理局（ANMAT）禁止“MEDICAL ADVANCE”品牌医疗产品。该警报涉及该品牌下受影响的相关医疗器械，公告未详述具体安全原因和批次。医疗机构、经销商和使用者应停止使用、销售或分发相关产品，并向ANMAT核实其监管状态。"
+      },
+      "source_url": "https://www.argentina.gob.ar/noticias/anmat-prohibio-los-productos-medicos-de-la-marca-medical-advance",
+      "source_name": "Official Source",
+      "published_date": "2026-09-03",
+      "detected_date": "2026-09-05T20:50:10Z",
+      "importance": "high",
+      "tags": [
+        "argentina_anmat",
+        "medical_device_safety",
+        "product_ban",
+        "medical_advance"
+      ],
+      "related_docs": [],
+      "status": "published"
+    },
+    {
+      "id": "argentina_anmat_20260905_anmat_prohibits_specific_lot_of_galderma_s_sculptra_medical",
+      "framework": "argentina_anmat",
+      "category": "safety_communication",
+      "title": {
+        "en": "ANMAT Prohibits Specific Lot of GALDERMA's SCULPTRA® Medical Device",
+        "zh": "ANMAT禁止高德美SCULPTRA®医疗产品某批次"
+      },
+      "summary": {
+        "en": "Argentina's ANMAT has issued a safety alert prohibiting a specific lot of the medical device SCULPTRA® from GALDERMA. SCULPTRA® is an injectable poly-L-lactic acid implant; the affected lot number is not included in the alert title and should be confirmed in the official ANMAT notice. Importers, distributors, and healthcare providers should immediately quarantine and stop using the affected lot and follow ANMAT recall instructions.",
+        "zh": "阿根廷ANMAT发布安全警示，禁止使用高德美（GALDERMA）SCULPTRA®医疗产品的某一特定批次。SCULPTRA®为注射用聚左旋乳酸植入剂，受影响批次的具体批号需以ANMAT官方公告为准。相关进口商、分销商和医疗机构应立即停用并隔离该批次，并按ANMAT要求处理。"
+      },
+      "source_url": "https://www.argentina.gob.ar/noticias/anmat-prohibe-un-lote-del-producto-medico-sculptrar-de-la-firma-galderma",
+      "source_name": "Official Source",
+      "published_date": "2026-09-03",
+      "detected_date": "2026-09-05T20:50:27Z",
+      "importance": "high",
+      "tags": [
+        "anmat",
+        "medical_device_recall",
+        "sculptra",
+        "galderma",
+        "safety_alert"
+      ],
+      "related_docs": [],
+      "status": "published"
+    },
+    {
+      "id": "argentina_anmat_20260822_anmat_bans_alma_lasers_soprano_ice_medical_device_aug_20_202",
+      "framework": "argentina_anmat",
+      "category": "safety_communication",
+      "title": {
+        "en": "ANMAT Bans Alma Lasers Soprano ICE Medical Device (Aug 20, 2026)",
+        "zh": "ANMAT禁止Alma Lasers Soprano ICE医疗设备（2026年8月20日）"
+      },
+      "summary": {
+        "en": "On 20 August 2026, Argentina's ANMAT issued an alert prohibiting the medical device 'Alma Lasers Soprano ICE' (manufacturer: Alma Lasers). The affected product is the Soprano ICE equipment; specific lots are not provided in the alert, but the ban indicates serious safety or regulatory concerns. Healthcare facilities, distributors, and users should immediately stop use, sale, and distribution, and verify registration status with ANMAT.",
+        "zh": "2026年8月20日，阿根廷国家药品、食品和医疗器械管理局（ANMAT）发布警报，禁止使用Alma Lasers公司生产的SOPRANO ICE医疗器械。受影响产品为该SOPRANO ICE设备，警告中未提供具体批次，但禁令表明存在严重安全或注册问题。相关医疗机构、经销商和用户应立即停止使用、销售和流通，并向ANMAT核实注册状态。"
+      },
+      "source_url": "https://www.argentina.gob.ar/noticias/anmat-prohibe-un-equipo-medico-de-la-marca-alma-lasers-soprano-ice",
+      "source_name": "Official Source",
+      "published_date": "2026-08-20",
+      "detected_date": "2026-08-22T19:17:04Z",
+      "importance": "high",
+      "tags": [
+        "anmat",
+        "medical_device_ban",
+        "alma_lasers_soprano_ice"
+      ],
+      "related_docs": [],
+      "status": "published"
+    },
+    {
+      "id": "argentina_anmat_20260815_anmat_prohibits_one_unit_of_fotofinder_dermatoscope_aug_10_2",
+      "framework": "argentina_anmat",
+      "category": "safety_communication",
+      "title": {
+        "en": "ANMAT Prohibits One Unit of FotoFinder Dermatoscope (Aug 10, 2026)",
+        "zh": "ANMAT禁止一台FotoFinder品牌皮肤镜医疗设备"
+      },
+      "summary": {
+        "en": "On August 10, 2026, Argentina's ANMAT issued an alert prohibiting one unit of the FotoFinder brand dermatoscope. The prohibition is unit-specific and based on safety concerns identified in the official ANMAT notice. Affected users and distributors should identify the prohibited unit, remove it from use, and follow ANMAT instructions.",
+        "zh": "2026年8月10日，阿根廷国家药品食品医疗器械管理局（ANMAT）发布警报，禁止一台FotoFinder品牌皮肤镜医疗器械。该禁令针对特定单台设备，基于官方警报中提出的安全问题。相关使用者和经销商应识别该设备，停止使用并遵循ANMAT的指示。"
+      },
+      "source_url": "https://www.argentina.gob.ar/noticias/anmat-prohibe-una-unidad-del-producto-medico-dermatoscopio-marca-fotofinder",
+      "source_name": "Official Source",
+      "published_date": "2026-08-10",
+      "detected_date": "2026-08-15T19:15:11Z",
+      "importance": "high",
+      "tags": [
+        "argentina_anmat",
+        "dermatoscope",
+        "product_ban",
+        "medical_device_safety"
+      ],
+      "related_docs": [],
+      "status": "published"
+    }
+  ],
+  "last_updated": "2026-09-19T21:12:16Z"
+}

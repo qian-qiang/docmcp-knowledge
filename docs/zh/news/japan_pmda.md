@@ -1,0 +1,691 @@
+---
+title: 法规速递
+---
+
+# Japan PMDA 法规速递
+
+> 医疗器械合规领域的最新法规动态、标准更新和指南发布。
+
+### 日本PMDA II类召回：美敦力OmniaSecure MRI导线（ICD/起搏器导线）
+
+**2026-09-17** | Japan PMDA | 安全通报 | !! MEDIUM
+
+日本PMDA已发布II类召回（#2-12968），涉及日本美敦力生产的OmniaSecure MRI导线（植入型除颤器/起搏器导线）。该通知提示存在中等程度的安全风险，具体故障模式应以PMDA/美敦力官方公告为准。医疗机构应识别受影响产品，按要求进行隔离和召回处理。
+
+**标签**: `pmda_recall`, `class_ii`, `cardiac_lead`, `medtronic`
+
+[查看来源 (PMDA (Japan))](https://www.info.pmda.go.jp/rgo/MainServlet?recallno=2-12968)
+
+---
+
+### 日本PMDA 2-12967 II类召回：Getinge HLS肝素涂层中心循环动静脉插管
+
+**2026-09-17** | Japan PMDA | 安全通报 | !! MEDIUM
+
+日本PMDA发布了Getinge Group Japan K.K.的HLS插管（肝素涂层中心循环动静脉插管）II类召回（编号2-12967）。该召回为中等风险级别，因医疗器械安全问题启动。相关机构应查阅PMDA通知，识别受影响批次并执行制造商召回要求。
+
+**标签**: `japan_pmda`, `class_ii_recall`, `medical_device_recall`, `getinge`, `hls_cannula`
+
+[查看来源 (PMDA (Japan))](https://www.info.pmda.go.jp/rgo/MainServlet?recallno=2-12967)
+
+---
+
+### PMDA II级召回：波士顿科学日本Direction导管系统（中心循环微导管）
+
+**2026-09-16** | Japan PMDA | 安全通报 | !! MEDIUM
+
+日本PMDA发布了一项II类（中等）召回（编号2-12966），涉及波士顿科学日本株式会社上市的中心循环系统微导管——Direction导管系统。该召回公告将该产品列为医疗器械，但PMDA列表中未详述具体安全原因。相关监管事务人员和受影响机构应查阅正式召回通知，确认受影响库存，并按照波士顿科学日本的指示进行退货或纠正措施。
+
+**标签**: `pmda`, `class_ii_recall`, `microcatheter`, `boston_scientific`, `medical_device_recall`
+
+[查看来源 (PMDA (Japan))](https://www.info.pmda.go.jp/rgo/MainServlet?recallno=2-12966)
+
+---
+
+### 日本PMDA II类召回：史赛克Hoffman 3外固定支架系统（召回编号2-12964）
+
+**2026-09-15** | Japan PMDA | 安全通报 | !! MEDIUM
+
+日本PMDA发布了一项II类召回（召回编号2-12964），涉及日本史赛克株式会社的Hoffman 3外固定支架系统（外固定器）。该通知将该产品列为医疗器械，但所提供来源未详述具体安全原因。相关机构应查阅PMDA官方召回通知，确认受影响设备，并按照日本史赛克的指示进行隔离、退回或纠正措施。
+
+**标签**: `pmda_recall`, `class_ii`, `external_fixation`, `stryker_japan`, `medical_device`
+
+[查看来源 (PMDA (Japan))](https://www.info.pmda.go.jp/rgo/MainServlet?recallno=2-12964)
+
+---
+
+### PMDA II级召回：T-FLEX麻醉/呼吸回路套件（Total Medical Supply，编号2-12963）
+
+**2026-09-15** | Japan PMDA | 安全通报 | !! MEDIUM
+
+日本PMDA发布了对株式会社トータルメディカルサプライ（Total Medical Supply）生产的T-FLEX麻醉/呼吸回路套件的II级召回（召回编号2-12963）。该召回为II级，表示存在中等程度健康风险。相关医疗机构应核对受影响批次，按照厂商指示停止使用、退回或更换产品，并查阅官方公告了解具体安全问题和处理措施。
+
+**标签**: `pmda_recall`, `class_ii`, `anesthesia_circuit`, `medical_device_safety`
+
+[查看来源 (PMDA (Japan))](https://www.info.pmda.go.jp/rgo/MainServlet?recallno=2-12963)
+
+---
+
+### 日本PMDA二级召回：Coloplast Porges输尿管支架（长期使用）
+
+**2026-09-14** | Japan PMDA | 安全通报 | !! MEDIUM
+
+日本PMDA发布了一项II级（中等）医疗器械召回（编号2-12962），涉及Coloplast株式会社经销的Porges输尿管支架，属于长期使用输尿管管支架。该召回影响使用或库存该产品的医疗机构。具体安全原因和受影响批次需查阅PMDA官方召回通知；相关机构应识别并隔离受影响产品，遵循Coloplast的召回指示，并报告相关不良事件。
+
+**标签**: `japan_pmda`, `medical_device_recall`, `class_ii`, `ureteral_stent`, `coloplast`
+
+[查看来源 (PMDA (Japan))](https://www.info.pmda.go.jp/rgo/MainServlet?recallno=2-12962)
+
+---
+
+### PMDA II类召回：GE医疗日本Aisys麻醉系统（召回编号2-12961）
+
+**2026-09-11** | Japan PMDA | 安全通报 | !! MEDIUM
+
+日本PMDA已发布GE医疗日本公司Aisys麻醉系统的II类召回（编号2-12961）。II类召回表示存在中等风险的安全或性能问题。医疗机构应识别受影响设备，查阅PMDA官方通知了解具体缺陷，并按照GE医疗日本的召回说明执行。
+
+**标签**: `pmda_recall`, `class_ii`, `anesthesia_system`
+
+[查看来源 (PMDA (Japan))](https://www.info.pmda.go.jp/rgo/MainServlet?recallno=2-12961)
+
+---
+
+### II类召回：波士顿科学日本胰管塑料支架系统（胰腺支架）
+
+**2026-09-10** | Japan PMDA | 安全通报 | !! MEDIUM
+
+日本PMDA发布了一项II类医疗器械召回（编号2-12959），涉及Boston Scientific Japan K.K.的胰管塑料支架系统（胰腺支架）。II类召回表示导致严重不良健康后果的可能性较低，但可能出现暂时性或可逆的不良健康后果。相关医疗机构和使用者应查看制造商召回通知，核对受影响批次，并按要求执行退货或纠正措施。该警示元数据未说明具体缺陷原因。
+
+**标签**: `japan_pmda`, `class_ii_recall`, `pancreatic_stent`, `boston_scientific`
+
+[查看来源 (PMDA (Japan))](https://www.info.pmda.go.jp/rgo/MainServlet?recallno=2-12959)
+
+---
+
+### 日本PMDA二级召回：日本美敦力Nav器械和被动活检针
+
+**2026-09-10** | Japan PMDA | 安全通报 | !! MEDIUM
+
+日本PMDA发布二级召回#2-12958，涉及日本美敦力的Nav器械（骨手术用器械）和被动活检针（一次性组织活检针）。该通知将上述医疗器械列为召回对象，但摘录中未说明具体安全原因。相关机构应核对库存、隔离受影响批次，并遵循日本美敦力的召回指示。
+
+**标签**: `pmda_recall`, `class_ii`, `medtronic_japan`, `bone_surgery_instruments`, `biopsy_needles`
+
+[查看来源 (PMDA (Japan))](https://www.info.pmda.go.jp/rgo/MainServlet?recallno=2-12958)
+
+---
+
+### 日本PMDA II类召回：富士胶片VersiFlex VISTA多用途X线透视系统
+
+**2026-09-08** | Japan PMDA | 安全通报 | !! MEDIUM
+
+日本PMDA已发布富士胶片VersiFlex VISTA（固定式数字通用X线透视诊断装置）的II类召回（编号2-12957）。此次召回影响在日销售的相关设备，II类表示存在中等风险，可能造成暂时性或可逆性健康损害。受影响的医疗机构应核对设备序列号，按照富士胶片通知采取停用、维修或更换等必要纠正措施；具体技术原因请以PMDA官方召回通知为准。
+
+**标签**: `japan_pmda`, `class_ii_recall`, `fluoroscopy_x_ray`, `fujifilm`, `medical_device_recall`
+
+[查看来源 (PMDA (Japan))](https://www.info.pmda.go.jp/rgo/MainServlet?recallno=2-12957)
+
+---
+
+### PMDA II级召回飞利浦Azurion血管造影X线诊断装置（召回号2-12956）
+
+**2026-09-07** | Japan PMDA | 安全通报 | !! MEDIUM
+
+日本PMDA已对飞利浦日本公司生产的Azurion血管造影X线诊断装置（据置型数字式循环器用X线透视诊断装置）发布II级召回（召回号：2-12956）。此次召回涉及该设备的安全相关问题，具体内容以PMDA召回通知为准。相关医疗机构应核对受影响设备，并遵循飞利浦日本的纠正措施。
+
+**标签**: `pmda`, `class_ii_recall`, `angiography_xray`, `philips`, `medical_device`
+
+[查看来源 (PMDA (Japan))](https://www.info.pmda.go.jp/rgo/MainServlet?recallno=2-12956)
+
+---
+
+### ATEC Japan株式会社Invictus脊椎内固定系统II类召回（PMDA #2-12953）
+
+**2026-09-07** | Japan PMDA | 安全通报 | !! MEDIUM
+
+PMDA已发布ATEC Japan株式会社Invictus脊椎内固定系统的II类召回（召回编号2-12953），风险等级为中等。涉及该产品的医疗机构应核对受影响批次，停止使用并隔离相关器械，按照制造商要求处理或退回。具体安全问题和器械缺陷请以PMDA官方召回通知为准。
+
+**标签**: `japan_pmda`, `class_ii_recall`, `spinal_internal_fixation`, `medical_device`
+
+[查看来源 (PMDA (Japan))](https://www.info.pmda.go.jp/rgo/MainServlet?recallno=2-12953)
+
+---
+
+### II类召回：Nakashima Health Force骨水泥混合系统（骨科用骨水泥混合器）
+
+**2026-09-07** | Japan PMDA | 安全通报 | !! MEDIUM
+
+日本PMDA已对Nakashima Health Force株式会社生产的骨水泥混合系统（骨科用骨水泥混合器）发布II类召回（编号2-12952）。该召回属于中等风险医疗器械召回。相关医疗机构、经销商和使用人员应查阅PMDA召回通知，确认受影响产品批次，并按照生产企业和监管机构的要求采取纠正或退回措施。
+
+**标签**: `japan_pmda`, `class_ii_recall`, `bone_cement_mixer`, `medical_device_recall`, `orthopedic_device`
+
+[查看来源 (PMDA (Japan))](https://www.info.pmda.go.jp/rgo/MainServlet?recallno=2-12952)
+
+---
+
+### PMDA II类召回：东曹HLC-723GR01自动糖化血红蛋白分析仪（召回编号2-12951）
+
+**2026-09-07** | Japan PMDA | 安全通报 | !! MEDIUM
+
+日本PMDA发布了对东曹公司HLC-723GR01自动糖化血红蛋白分析仪的II类召回（编号2-12951），涉及该特定分析仪的安全或性能问题，风险等级为中等。相关医疗机构应核对设备信息，查阅PMDA/制造商通知，并按东曹的建议采取纠正措施。
+
+**标签**: `japan_pmda`, `class_ii_recall`, `tosoh`, `glycohemoglobin_analyzer`, `medical_device`
+
+[查看来源 (PMDA (Japan))](https://www.info.pmda.go.jp/rgo/MainServlet?recallno=2-12951)
+
+---
+
+### [Class II] ゴア バイアバーン ステントグラフト (ヘパリン使用中心循環系ステントグラフト) - 日本ゴア合同会社
+
+**2026-09-03** | Japan PMDA | 安全通报 | !! MEDIUM
+
+Recall #2-12949: ヘパリン使用中心循環系ステントグラフト / ゴア バイアバーン ステントグラフト by 日本ゴア合同会社. Type: 医療機器.
+
+[查看来源 (PMDA (Japan))](https://www.info.pmda.go.jp/rgo/MainServlet?recallno=2-12949)
+
+---
+
+### PMDA II级召回：NeuroStar TMS治疗装置（Vopar Technologies）
+
+**2026-09-03** | Japan PMDA | 安全通报 | !! MEDIUM
+
+日本PMDA发布第2-12948号II级召回，涉及Vopar Technologies株式会社销售的NeuroStar TMS治疗装置（经颅磁刺激装置）。医疗机构应核对受影响设备，查阅PMDA官方通知并遵循制造商的纠正措施。该II级召回表示中等风险，具体安全问题以官方通知为准。
+
+**标签**: `japan_pmda`, `class_ii_recall`, `neurostar_tms`, `transcranial_magnetic_stimulation`, `medical_device_safety`
+
+[查看来源 (PMDA (Japan))](https://www.info.pmda.go.jp/rgo/MainServlet?recallno=2-12948)
+
+---
+
+### 飞利浦日本中央监护仪信息中心分析程序II类召回 (PMDA #2-12947)
+
+**2026-09-02** | Japan PMDA | 安全通报 | !! MEDIUM
+
+日本PMDA已发布飞利浦日本株式会社的飞利浦信息中心中央监护仪分析功能程序（召回编号2-12947）的II类召回。此次召回涉及使用该中央监护分析程序软件的医疗机构。相关用户应查阅PMDA官方通知和飞利浦日本的通知，核对已安装版本，并按制造商要求采取纠正措施。
+
+**标签**: `pmda_recall`, `central_monitor`, `philips_japan`, `class_ii`, `medical_device_software`
+
+[查看来源 (PMDA (Japan))](https://www.info.pmda.go.jp/rgo/MainServlet?recallno=2-12947)
+
+---
+
+### 日本PMDA二类召回：日本Abiomed公司Impella心内留置泵导管控制装置（召回号2-12943）
+
+**2026-08-31** | Japan PMDA | 安全通报 | !! MEDIUM
+
+PMDA已发布二类医疗器械召回（编号2-12943），涉及日本Abiomed株式会社的Impella控制装置，该装置用于循环辅助用心内留置型泵导管。二类召回表示中等风险。相关医疗机构应识别受影响设备，查阅PMDA/制造商召回通知了解具体安全问题，并遵循日本Abiomed的纠正措施。
+
+**标签**: `pmda_recall`, `class_ii`, `impella_control_device`, `cardiovascular_device`
+
+[查看来源 (PMDA (Japan))](https://www.info.pmda.go.jp/rgo/MainServlet?recallno=2-12943)
+
+---
+
+### PMDA II类召回：奥林巴斯消化管球囊扩张导管（内镜下扩张用导管）召回编号2-12940
+
+**2026-08-28** | Japan PMDA | 安全通报 | !! MEDIUM
+
+日本PMDA发布了奥林巴斯医疗系统株式会社消化管用球囊扩张导管（内镜下扩张用导管）的II类召回（编号2-12940）。该召回为中等风险医疗器械安全措施，涉及使用该产品的医疗机构。相关用户应查阅PMDA召回通知，确认受影响批次，隔离产品并按奥林巴斯医疗系统的要求进行退货或整改。
+
+**标签**: `japan_pmda`, `medical_device_recall`, `class_ii`, `olympus`, `balloon_dilator`
+
+[查看来源 (PMDA (Japan))](https://www.info.pmda.go.jp/rgo/MainServlet?recallno=2-12940)
+
+---
+
+### [Class II] 医用画像ビューワソフトウェア　EIRL　Viewer (汎用画像診断装置ワークステーション用プログラム) - エルピクセル株式会社
+
+**2026-08-28** | Japan PMDA | 安全通报 | !! MEDIUM
+
+Recall #2-12939: 汎用画像診断装置ワークステーション用プログラム / 医用画像ビューワソフトウェア　EIRL　Viewer by エルピクセル株式会社. Type: 医療機器.
+
+[查看来源 (PMDA (Japan))](https://www.info.pmda.go.jp/rgo/MainServlet?recallno=2-12939)
+
+---
+
+### 日本PMDA二级召回：波士顿科学日本ImagerII血管造影导管（召回编号2-12935）
+
+**2026-08-25** | Japan PMDA | 安全通报 | !! MEDIUM
+
+日本PMDA已发布波士顿科学日本公司ImagerII中心循环系统血管造影导管的II级召回（召回编号2-12935），风险等级为中等。该通知涉及ImagerII血管造影导管。相关使用机构和经销商应查阅PMDA官方或公司召回通知，了解具体安全问题和所需措施，如退回、更换或检查。
+
+**标签**: `pmda_recall`, `class_ii`, `angiography_catheter`, `boston_scientific_japan`
+
+[查看来源 (PMDA (Japan))](https://www.info.pmda.go.jp/rgo/MainServlet?recallno=2-12935)
+
+---
+
+### [Class II] (1)先端可動シースＡ(2)ＥＳダイレータ(3)ゼメックスＥＳダイレータ ((1)心臓用カテーテルイントロデューサキット、 (2)及び(3)カテーテル拡張器) - ゼオンメディカル株式会社
+
+**2026-08-25** | Japan PMDA | 安全通报 | !! MEDIUM
+
+Recall #2-12934: (1)心臓用カテーテルイントロデューサキット、 (2)及び(3)カテーテル拡張器 / (1)先端可動シースＡ(2)ＥＳダイレータ(3)ゼメックスＥＳダイレータ by ゼオンメディカル株式会社. Type: 医療機器.
+
+[查看来源 (PMDA (Japan))](https://www.info.pmda.go.jp/rgo/MainServlet?recallno=2-12934)
+
+---
+
+### 日本PMDA发布贝克曼库尔特AU480全自动生化分析仪II类召回（第2-12932号）
+
+**2026-08-24** | Japan PMDA | 安全通报 | !! MEDIUM
+
+日本PMDA发布第2-12932号II类召回，涉及贝克曼库尔特株式会社生产的AU480分立式临床化学自动分析仪。该通知摘要未说明具体安全缺陷，但II类召回提示中等风险。相关机构应查阅PMDA/制造商通知并采取建议的纠正措施。
+
+**标签**: `pmda_recall`, `class_ii`, `clinical_chemistry_analyzer`, `beckman_coulter`
+
+[查看来源 (PMDA (Japan))](https://www.info.pmda.go.jp/rgo/MainServlet?recallno=2-12932)
+
+---
+
+### [Class II] ツインキュア (歯科技工用重合装置) - デンケン・ハイデンタル株式会社
+
+**2026-08-18** | Japan PMDA | 安全通报 | !! MEDIUM
+
+Recall #2-12926: 歯科技工用重合装置 / ツインキュア by デンケン・ハイデンタル株式会社. Type: 医療機器.
+
+[查看来源 (PMDA (Japan))](https://www.info.pmda.go.jp/rgo/MainServlet?recallno=2-12926)
+
+---
+
+### II级召回：第一医科Stella FU-STE耳鼻喉科治疗单元（召回编号2-12921）
+
+**2026-08-05** | Japan PMDA | 安全通报 | !! MEDIUM
+
+日本PMDA发布II级医疗器械召回（编号2-12921），涉及第一医科株式会社生产的Stella FU-STE耳鼻喉科治疗单元。召回原因涉及可能影响设备性能及患者安全的潜在问题。相关医疗机构应立即停止使用受影响设备、就地隔离，并联系第一医科进行维修或更换等纠正措施。
+
+**标签**: `japan_pmda`, `class_ii_recall`, `ent_device`, `medical_device_recall`, `daiichi_ika`, `stella_fu_ste`
+
+[查看来源 (PMDA (Japan))](https://www.info.pmda.go.jp/rgo/MainServlet?recallno=2-12921)
+
+---
+
+### [Class II] イオム　レガロ (歯科用ユニット) - 株式会社ジーシー
+
+**2026-08-04** | Japan PMDA | 安全通报 | !! MEDIUM
+
+Recall #2-12920: 歯科用ユニット / イオム　レガロ by 株式会社ジーシー. Type: 医療機器.
+
+[查看来源 (PMDA (Japan))](https://www.info.pmda.go.jp/rgo/MainServlet?recallno=2-12920)
+
+---
+
+### II级召回：奥林巴斯一次性结扎装置（内镜用套扎器）– PMDA召回编号2-12918
+
+**2026-08-04** | Japan PMDA | 安全通报 | !! MEDIUM
+
+日本PMDA发布II级召回（编号2-12918），涉及奥林巴斯医疗系统的一次性结扎装置（内镜用套扎器）。召回因潜在的质量或性能问题，可能影响器械安全。医疗机构应立即封存受影响批次，停止使用，并按照官方召回通知中的奥林巴斯说明进行退货或处理。
+
+**标签**: `pmda`, `class_ii_recall`, `olympus`, `endoscopic_ligation`, `disposable_device`, `medical_device_safety`
+
+[查看来源 (PMDA (Japan))](https://www.info.pmda.go.jp/rgo/MainServlet?recallno=2-12918)
+
+---
+
+### PMDA Ⅱ类召回：日本史赛克创伤灭菌钻头（手术钻头）
+
+**2026-08-03** | Japan PMDA | 安全通报 | !! MEDIUM
+
+日本PMDA发布了Ⅱ类召回（编号2-12916），涉及日本史赛克株式会社分销的创伤用灭菌钻头（手术钻头）。此次召回针对一项可能导致暂时性或可逆不良健康后果的安全问题。受影响的医疗机构应立即停止使用该产品，隔离库存，并按制造商的退货或处置指示操作。
+
+**标签**: `pmda`, `recall`, `class_ii`, `orthopedic`, `surgical_drill`, `stryker`
+
+[查看来源 (PMDA (Japan))](https://www.info.pmda.go.jp/rgo/MainServlet?recallno=2-12916)
+
+---
+
+### PMDA发布2026年东盟-日本医疗器械监管研讨会报告
+
+**2026-07-29** | Japan PMDA | 法规更新 | ! LOW
+
+PMDA发布了2026年东盟-日本医疗器械监管研讨会报告，内容涵盖日本与东盟成员国在法规协调、质量管理体系和上市后监管等方面的讨论。报告为活跃于两地的制造商和法规事务人员提供了见解，虽未提出新的法规要求，但可能为未来的监管协作与趋同提供参考。
+
+**标签**: `asean`, `japan`, `regulatory_symposium`, `report`, `medical_devices`
+
+[查看来源 (PMDA (Japan))](https://www.pmda.go.jp/english/symposia/0361.html)
+
+---
+
+### 2026年东盟-日本医疗器械法规研讨会通知
+
+**2026-07-29** | Japan PMDA | 法规更新 | ! LOW
+
+PMDA已宣布将于2026年举办东盟-日本医疗器械法规研讨会。此次活动将涵盖日本与东盟国家之间的法规协调与更新。寻求进入这些市场的医疗器械制造商应留意这一获取法规见解的机会。目前尚未提供具体日期或注册细节。
+
+**标签**: `asean`, `japan`, `regulatory_seminar`, `medical_devices`, `pmda`
+
+[查看来源 (PMDA (Japan))](https://www.pmda.go.jp/english/symposia/0359.html)
+
+---
+
+### 日本PMDA II级召回：名优公司Denver鼻夹板（体外式鼻用副木）
+
+**2026-07-28** | Japan PMDA | 安全通报 | !! MEDIUM
+
+日本药品医疗器械综合机构（PMDA）对名优公司生产的Denver鼻夹板（体外式鼻用副木）发布了II级召回（召回编号：2-12911）。该召回涉及可能影响器械性能的质量或安全缺陷。医疗机构和经销商应立即隔离受影响批次，并按照制造商要求进行退货或处置。
+
+**标签**: `class_ii_recall`, `nasal_splint`, `denver_splint`, `pmda`, `meiyu`
+
+[查看来源 (PMDA (Japan))](https://www.info.pmda.go.jp/rgo/MainServlet?recallno=2-12911)
+
+---
+
+### ICU Medical日本 Level 1 Hotline加温管（血液/输液加温线圈）II级召回
+
+**2026-07-28** | Japan PMDA | 安全通报 | !! MEDIUM
+
+日本PMDA发布II级召回（编号2-12910），涉及ICU Medical日本株式会社生产的Level 1 Hotline加温管（血液及药液加温线圈）。召回原因为产品存在潜在质量缺陷，可能影响使用安全性。使用该产品的医疗机构应立即停止使用受影响批次，隔离并按厂商通知退回。
+
+**标签**: `class_ii_recall`, `blood_fluid_warmer`, `icu_medical_japan`, `pmda`, `safety_recall`
+
+[查看来源 (PMDA (Japan))](https://www.info.pmda.go.jp/rgo/MainServlet?recallno=2-12910)
+
+---
+
+### PMDA II级召回：Firmec公司PTA球囊导管II（召回编号2-12909）
+
+**2026-07-28** | Japan PMDA | 安全通报 | !! MEDIUM
+
+日本PMDA已发布II级召回，涉及Firmec公司生产的PTA球囊导管II（用于经皮腔内血管成形术的球囊扩张导管）。召回编号2-12909，原因是可能存在影响器械性能的问题，如球囊漏气或破裂。医疗机构应识别并隔离受影响批次，并遵循制造商的召回指示。
+
+**标签**: `pmda`, `class_ii_recall`, `pta_balloon_catheter`, `firmec`, `medical_device`, `japan`
+
+[查看来源 (PMDA (Japan))](https://www.info.pmda.go.jp/rgo/MainServlet?recallno=2-12909)
+
+---
+
+### II类召回：飞利浦日本分娩监视装置FM – 胎心波形潜在功能故障
+
+**2026-07-27** | Japan PMDA | 安全通报 | !! MEDIUM
+
+飞利浦日本正在对分娩监视装置 FM 实施一项II类召回，原因为该设备存在潜在功能故障，可能影响胎心波形的准确性。该问题可能导致对胎儿状况的误判和临床干预延迟。相关医疗机构应立即遵循制造商的召回指示，由飞利浦服务人员进行设备检查和纠正。
+
+**标签**: `class_ii_recall`, `fetal_monitor`, `philips_japan`, `pmda`, `medical_device_safety`
+
+[查看来源 (PMDA (Japan))](https://www.info.pmda.go.jp/rgo/MainServlet?recallno=2-12908)
+
+---
+
+### II类召回：メイラ加压髋螺钉（内固定加压髋钢板）—梅拉公司
+
+**2026-07-23** | Japan PMDA | 安全通报 | !! MEDIUM
+
+日本PMDA发布了对梅拉公司（メイラ株式会社）生产的II类召回（编号2-12907），涉及「メイラコンプレッションヒップスクリュー」（内固定用加压髋螺钉）。召回具体安全问题未详细披露，但II类意味着可能导致暂时的或医学上可逆的健康危害。各医疗机构应立即清查受影响产品，停止使用，并按照制造商指示进行退货或处置。
+
+**标签**: `pmda`, `recall`, `class_ii`, `orthopedic_device`, `hip_screw`, `meira`
+
+[查看来源 (PMDA (Japan))](https://www.info.pmda.go.jp/rgo/MainServlet?recallno=2-12907)
+
+---
+
+### Gunze Medical 颅骨固定系统SHINOBI（体内固定板）II类召回
+
+**2026-07-23** | Japan PMDA | 安全通报 | !! MEDIUM
+
+日本PMDA发布了对Gunze Medical株式会社生产的颅骨固定系统SHINOBI（体内固定板）的II类召回（编号2-12906）。此次召回涉及可能影响器械性能的安全问题，属于中等风险。医疗机构应立即隔离受影响批次，停止使用，并遵循制造商的退货或处置指示。
+
+**标签**: `japan_pmda`, `class_ii_recall`, `cranio_fixation_plate`, `gunze_medical`, `shinobi`
+
+[查看来源 (PMDA (Japan))](https://www.info.pmda.go.jp/rgo/MainServlet?recallno=2-12906)
+
+---
+
+### II级召回：岛津制作所LIGHTVISION及LIGHTVISION2近红外光摄像系统（便携式手术显微镜与ICG荧光观察装置）
+
+**2026-07-21** | Japan PMDA | 安全通报 | !! MEDIUM
+
+日本岛津制作所对其LIGHTVISION和LIGHTVISION2近红外光摄像系统（含便携式手术显微镜及ICG荧光观察装置）发起II级召回（编号2-12903）。召回原因为潜在的质量或安全问题，可能造成暂时性或可逆的健康损害。相关机构应立即识别并隔离受影响设备，并按照制造商的通知进行修正或退回。
+
+**标签**: `japan_pmda`, `class_ii_recall`, `near_infrared_camera`, `shimadzu`, `lightvision`, `surgical_microscope`, `icg_fluorescence`
+
+[查看来源 (PMDA (Japan))](https://www.info.pmda.go.jp/rgo/MainServlet?recallno=2-12903)
+
+---
+
+### PMDA II级召回：日进医疗器公司急救绷带PS（召回编号2-12902）
+
+**2026-07-21** | Japan PMDA | 安全通报 | !! MEDIUM
+
+日本PMDA发布II级（中等风险）召回，涉及日进医疗器株式会社的急救绷带PS（编号2-12902）。召回因可能影响安全性的质量问题启动。相关用户须立即停止使用受影响批次，按制造商指引退货或处置。
+
+**标签**: `pmda`, `class_ii_recall`, `adhesive_bandage`, `japan`, `medical_device`, `nisshin_medical`
+
+[查看来源 (PMDA (Japan))](https://www.info.pmda.go.jp/rgo/MainServlet?recallno=2-12902)
+
+---
+
+### 二级召回：GE医疗日本Carestation 600/750系列麻醉系统
+
+**2026-07-21** | Japan PMDA | 安全通报 | !! MEDIUM
+
+日本PMDA对GE医疗日本株式会社的Carestation 600和750系列麻醉系统发布了二级召回（编号2-12901）。此次中等严重程度召回系因该设备存在安全隐患。受影响的用户应立即遵循制造商召回通知中的指示，并执行所建议的纠正措施。
+
+**标签**: `recall`, `class_ii`, `anesthesia_system`, `ge_healthcare`, `pmda`
+
+[查看来源 (PMDA (Japan))](https://www.info.pmda.go.jp/rgo/MainServlet?recallno=2-12901)
+
+---
+
+### PMDA 对 Intuitive Surgical 的 NIR 摄像头系统（内窥镜摄像机）发布 II 级召回
+
+**2026-07-21** | Japan PMDA | 安全通报 | !! MEDIUM
+
+英特视外科（Intuitive Surgical）的 NIR 摄像头系统（内窥镜用视频摄像机）在日本被 PMDA 列为 II 级召回（召回编号 2-12900），属中等风险。初步通知中未说明具体的安全问题或召回原因。相关医疗机构应查询 PMDA 召回数据库并遵循制造商指示，以妥善处理该召回事宜。
+
+**标签**: `pmda_recall`, `class_ii`, `intuitive_surgical`, `endoscopic_camera`, `nir_camera`, `medical_device`, `japan`
+
+[查看来源 (PMDA (Japan))](https://www.info.pmda.go.jp/rgo/MainServlet?recallno=2-12900)
+
+---
+
+### 日本PMDA II级召回：ケイセイ医科工業株式会社的网状载体（自体植皮扩张器）
+
+**2026-07-17** | Japan PMDA | 安全通报 | !! MEDIUM
+
+日本PMDA对ケイセイ医科工業株式会社生产的网状载体（自体植皮扩张器）发布了II级召回（编号2-12899）。该召回涉及用于植皮手术的医疗器械的安全问题。医疗机构应立即检查库存，隔离受影响产品，并按照制造商指示进行退货或处置。
+
+**标签**: `japan_pmda`, `class_ii_recall`, `skin_graft_expander`, `mesh_carrier`, `medical_device`
+
+[查看来源 (PMDA (Japan))](https://www.info.pmda.go.jp/rgo/MainServlet?recallno=2-12899)
+
+---
+
+### 日本尼普洛NAZ-1血液净化装置二级召回（编号2-12897）
+
+**2026-07-15** | Japan PMDA | 安全通报 | !! MEDIUM
+
+日本PMDA发布了对尼普洛株式会社NAZ-1多用途血液处理装置的二级（中等风险）召回，召回编号2-12897。该通知未详细说明具体安全问题和纠正措施，相关医疗机构和使用者应查阅官方PMDA召回公告以获取完整指引。
+
+**标签**: `japan`, `class_ii_recall`, `blood_purification_device`, `nipro`, `pmda`
+
+[查看来源 (PMDA (Japan))](https://www.info.pmda.go.jp/rgo/MainServlet?recallno=2-12897)
+
+---
+
+### PMDA二级召回尼普洛SafeTech Pro注射泵单元
+
+**2026-07-15** | Japan PMDA | 安全通报 | !! MEDIUM
+
+日本PMDA对尼普洛公司生产的SafeTech Pro注射泵单元（注射筒输液泵）发布了II类召回（召回编号2-12896）。此次召回涉及可能影响输液精准度或设备可靠性的潜在性能问题。使用该设备的医疗机构应立即查看召回通知，识别指定序列号的产品，并按照尼普洛公司的指导进行检查、维修或更换等纠正措施。
+
+**标签**: `pmda_recall`, `class_ii`, `syringe_pump`, `infusion_pump`, `nipro`, `medical_device`, `safety_correction`
+
+[查看来源 (PMDA (Japan))](https://www.info.pmda.go.jp/rgo/MainServlet?recallno=2-12896)
+
+---
+
+### II级召回：波士顿科学日本 OverStitch 一次性自动缝合器
+
+**2026-07-14** | Japan PMDA | 安全通报 | !! MEDIUM
+
+日本PMDA发布了一项II级召回（编号2-12894），涉及波士顿科学日本公司生产的OverStitch一次性自动缝合器。召回原因为可能影响术中器械功能的潜在安全或性能问题。受影响医疗机构应立即隔离未使用的器械，停止使用，并联系制造商进行退回或妥当处置。此次召回为中等风险，需迅速响应以避免患者伤害。
+
+**标签**: `class_ii_recall`, `surgical_suture_device`, `boston_scientific`, `pmda`, `medical_device_safety`
+
+[查看来源 (PMDA (Japan))](https://www.info.pmda.go.jp/rgo/MainServlet?recallno=2-12894)
+
+---
+
+### 日本PMDA第2-12893号召回：ResMed公司Clean Air ASTRAL成人呼吸机（II类召回）
+
+**2026-07-14** | Japan PMDA | 安全通报 | !! MEDIUM
+
+日本PMDA发布了对ResMed公司生产的Clean Air ASTRAL成人呼吸机的II类召回（编号2-12893）。此次召回涉及可能影响设备性能的潜在安全隐患，对患者构成中等风险。医疗机构应立即核查受影响设备，必要时停止使用，并联系制造商进行检查、维修或更换。
+
+**标签**: `japan_pmda`, `class_ii_recall`, `ventilator`, `resmed`, `safety`
+
+[查看来源 (PMDA (Japan))](https://www.info.pmda.go.jp/rgo/MainServlet?recallno=2-12893)
+
+---
+
+### 日本PMDA II类召回：TKB公司ダイラソフト宫颈扩张器
+
+**2026-07-13** | Japan PMDA | 安全通报 | !! MEDIUM
+
+日本PMDA发布了一项针对TKB株式会社生产的ダイラソフト子宫颈管扩张器的II类召回。该召回针对可能影响器械安全或性能的质量问题。医疗机构应立即停用并隔离受影响产品，并退回制造商。
+
+**标签**: `japan_pmda`, `class_ii_recall`, `cervical_dilator`, `medical_device`
+
+[查看来源 (PMDA (Japan))](https://www.info.pmda.go.jp/rgo/MainServlet?recallno=2-12888)
+
+---
+
+### Atom Medical FSV中央监护仪II类召回（编号2-12887）
+
+**2026-07-13** | Japan PMDA | 安全通报 | !! MEDIUM
+
+Atom Medical Corporation因其FSV中央监护仪存在可能影响设备性能的潜在安全问题，已发布II类召回（编号2-12887）。相关医疗机构应立即停止使用受影响设备，并按照制造商的指示进行退货或修正。详细的召回通知已在PMDA官网上公布。
+
+**标签**: `recall`, `class_ii`, `central_monitor`, `atom_medical`, `patient_monitoring`, `japan_pmda`, `medical_device_safety`
+
+[查看来源 (PMDA (Japan))](https://www.info.pmda.go.jp/rgo/MainServlet?recallno=2-12887)
+
+---
+
+### II类召回：可乐丽则武齿科陶瓷材料 Cerabian ZR（セラビアンＺＲ）
+
+**2026-07-10** | Japan PMDA | 安全通报 | !! MEDIUM
+
+日本药品和医疗器械管理局（PMDA）发布了一项II类召回（编号2-12886），涉及可乐丽则武齿科株式会社生产的牙科陶瓷材料Cerabian ZR（セラビアンＺＲ）。该召回针对特定的质量或安全问题，详情应查阅官方通知。受影响用户须立即停用相关批次产品，并联系制造商采取相应的纠正措施。
+
+**标签**: `dental_porcelain`, `class_ii_recall`, `japan_pmda`, `medical_device`, `cerabian_zr`
+
+[查看来源 (PMDA (Japan))](https://www.info.pmda.go.jp/rgo/MainServlet?recallno=2-12886)
+
+---
+
+### II类召回：Fukuda电子伺服呼吸机系统（通用呼吸器）
+
+**2026-07-09** | Japan PMDA | 安全通报 | !! MEDIUM
+
+日本PMDA就Fukuda电子株式会社生产的伺服呼吸机系统（通用呼吸器）发布II类召回（编号2-12885），原因为潜在安全问题。使用该设备的医疗机构应立即查阅召回通知，并按照制造商的纠正措施执行。
+
+**标签**: `pmda_recall`, `class_ii`, `ventilator`, `fukuda_denshi`, `medical_device_safety`
+
+[查看来源 (PMDA (Japan))](https://www.info.pmda.go.jp/rgo/MainServlet?recallno=2-12885)
+
+---
+
+### 日本Noritsu Precision肠内营养泵CP-55E II级召回
+
+**2026-07-07** | Japan PMDA | 安全通报 | !! MEDIUM
+
+日本药品医疗器械综合机构（PMDA）发布了对Noritsu Precision株式会社生产的肠内营养输液泵CP-55E的II级召回。此次召回涉及可能影响设备性能或标识的安全问题。使用该产品的医疗机构应立即确认受影响设备，按召回通知要求停用并执行制造商提供的纠正措施。
+
+**标签**: `class_ii_recall`, `enteral_feeding_pump`, `pmda_japan`
+
+[查看来源 (PMDA (Japan))](https://www.info.pmda.go.jp/rgo/MainServlet?recallno=2-12882)
+
+---
+
+### 菲利普日本召回Integris Allura平板探测器、Allura Centron及Azurion心脏X射线透视装置 (II类召回)
+
+**2026-07-07** | Japan PMDA | 安全通报 | !! MEDIUM
+
+菲利普日本公司已启动II类召回（编号2-12881），涉及三款固定式数字心脏X射线透视诊断装置：Integris Allura平板探测器、Allura Centron和Azurion。此次召回针对一个中等安全风险，可能影响设备性能或患者安全。使用这些系统的医疗机构应立即执行制造商的现场安全纠正措施，包括检查、软件更新或部件更换，并联系菲利普日本获取指导。
+
+**标签**: `philips`, `allura`, `azurion`, `cardiac_x_ray`, `class_ii_recall`, `pmda_japan`
+
+[查看来源 (PMDA (Japan))](https://www.info.pmda.go.jp/rgo/MainServlet?recallno=2-12881)
+
+---
+
+### 二级召回：Covidien Japan V-Loc90和V-Loc180带刺缝合闭合装置
+
+**2026-07-07** | Japan PMDA | 安全通报 | !! MEDIUM
+
+Covidien Japan 已对其 V-Loc90 和 V-Loc180 带刺缝合闭合装置（分别采用聚多糖可吸收和聚葡糖酸盐缝线）启动二级召回（编号 2-12880）。此次召回涉及潜在的生产缺陷，可能导致缝线完整性受损，增加切口裂开或延迟愈合的风险。医疗机构须立即识别并隔离受影响批次、停止使用，并安排产品退回厂家。
+
+**标签**: `recall`, `class_ii`, `suture`, `barbed_suture`, `covidien`, `pmda`
+
+[查看来源 (PMDA (Japan))](https://www.info.pmda.go.jp/rgo/MainServlet?recallno=2-12880)
+
+---
+
+### PMDA II类召回：东丽医疗Sensitouch合成橡胶手术手套（非乳胶）
+
+**2026-07-07** | Japan PMDA | 安全通报 | !! MEDIUM
+
+日本PMDA发布了对东丽医疗株式会社生产的Sensitouch合成橡胶手术手套（非乳胶）的II类召回。该召回为中等风险，涉及可能影响手套屏障完整性的质量缺陷。医疗机构须立即停用并隔离受影响批次，按照召回通知（编号2-12879）联系东丽医疗办理退货或处置。
+
+**标签**: `surgical_gloves`, `class_ii_recall`, `non_latex`, `pmda`, `toray_medical`, `product_safety`
+
+[查看来源 (PMDA (Japan))](https://www.info.pmda.go.jp/rgo/MainServlet?recallno=2-12879)
+
+---
+
+### 日本厚生劳动省对Ortho Clinical Diagnostics的VITROS系列临床化学分析仪实施II级召回
+
+**2026-07-06** | Japan PMDA | 安全通报 | !! MEDIUM
+
+日本PMDA发布II级召回（编号2-12877），涉及Ortho Clinical Diagnostics株式会社生产的VITROS XT7600、5600II、5600、4600全自动分立式临床化学分析仪，原因是潜在的设备性能问题可能导致检测结果不准确。使用机构需按制造商指示进行检修、软件升级或设备更换，以确保患者安全。
+
+**标签**: `pmda`, `class_ii_recall`, `vitros`, `clinical_chemistry_analyzer`, `ortho_clinical_diagnostics`, `safety`
+
+[查看来源 (PMDA (Japan))](https://www.info.pmda.go.jp/rgo/MainServlet?recallno=2-12877)
+
+---
+
+### 帕拉蒙床公司召回Ⅱ类体动传感器 眠りSCAN（NN-1530）
+
+**2026-07-06** | Japan PMDA | 安全通报 | !! MEDIUM
+
+帕拉蒙床公司对Ⅱ类医疗器械眠りSCAN（NN-1530）体动传感器实施召回。该传感器可能出现运动检测不准确问题，影响患者睡眠和活动监测。医疗机构和使用者应停用受影响设备，并按制造商指示退货或更换。
+
+**标签**: `class_ii_recall`, `body_motion_sensor`, `paramount_bed`, `pmda`, `japan`
+
+[查看来源 (PMDA (Japan))](https://www.info.pmda.go.jp/rgo/MainServlet?recallno=2-12875)
+
+---
+
+### 帕拉马温特床具公司召回II类体动传感器「眠りＳＣＡＮ(NN-1530)」
+
+**2026-07-06** | Japan PMDA | 安全通报 | !! MEDIUM
+
+日本PMDA已发布II类召回（编号2-12874），涉及帕拉马温特床具株式会社生产的「眠りＳＣＡＮ（NN-1530）」体动传感器。该召回针对潜在的传感器故障，可能导致患者体动检测不准确，构成中等安全风险。医疗机构和经销商应立即核查受影响产品，并联系制造商安排检查及必要的纠正措施。
+
+**标签**: `pmda`, `recall`, `class_ii`, `body_movement_sensor`, `paramount_bed`, `sleep_scan`
+
+[查看来源 (PMDA (Japan))](https://www.info.pmda.go.jp/rgo/MainServlet?recallno=2-12874)
+
+---
+
+### 日本PMDA发布II类医疗器械回收：GC公司CO2气体激光器
+
+**2026-07-03** | Japan PMDA | 安全通报 | !! MEDIUM
+
+日本PMDA发布株式会社GC的CO2气体激光器（炭酸气体激光器）II类医疗器械回收通知。
+
+[查看来源 (PMDA (Japan))](https://www.info.pmda.go.jp/rgo/MainServlet?recallno=2-12873)
+
+---
+
+### 日本PMDA发布Accuray CyberKnife放射外科系统及M6系列II类召回（2-12872）
+
+**2026-07-03** | Japan PMDA | 安全通报 | !! MEDIUM
+
+日本药品医疗器械管理局（PMDA）发布II类召回（编号2-12872），涉及Accuray公司生产的CyberKnife放射外科系统和CyberKnife M6系列立体定向放射治疗用加速器系统。该召回提示产品可能存在安全隐患，使用上述设备的日本医疗机构应立即联系Accuray公司，按照制造商指导采取纠正措施。
+
+**标签**: `pmda_recall`, `class_ii`, `cyberknife`, `radiosurgery`, `linear_accelerator`, `stereotactic_radiotherapy`, `accuray`
+
+[查看来源 (PMDA (Japan))](https://www.info.pmda.go.jp/rgo/MainServlet?recallno=2-12872)
+
+---

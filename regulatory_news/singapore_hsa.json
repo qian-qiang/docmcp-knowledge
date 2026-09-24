@@ -1,0 +1,331 @@
+{
+  "framework": "singapore_hsa",
+  "last_updated": "2026-09-11T21:40:39Z",
+  "items": [
+    {
+      "id": "singapore_hsa_20260911_hsa_updates_gn_15_r14_guidance_on_medical_device_product_reg",
+      "framework": "singapore_hsa",
+      "category": "regulation_update",
+      "title": {
+        "en": "HSA Updates GN-15-R14 Guidance on Medical Device Product Registration (Sep 2026)",
+        "zh": "HSA更新医疗器械产品注册指南GN-15-R14（2026年9月）"
+      },
+      "summary": {
+        "en": "HSA has published revision R14 of GN-15 Guidance on Medical Device Product Registration, dated 10 September 2026. The update applies to manufacturers, importers, and registrants responsible for medical device registration in Singapore. Affected stakeholders should review the revised guidance and adjust registration dossiers and submission processes to meet the updated HSA requirements.",
+        "zh": "新加坡卫生科学局（HSA）发布了GN-15-R14《医疗器械产品注册指南》（2026年9月10日）。该更新适用于在新加坡负责医疗器械注册的制造商、进口商和注册人。相关方应审查修订内容，并相应调整注册申报资料和提交流程，以确保符合HSA最新要求。"
+      },
+      "source_url": "https://go.gov.sg/gn-15-r14-10-09-2026",
+      "source_name": "Official Source",
+      "published_date": "2026-09-01",
+      "detected_date": "2026-09-11T21:40:39Z",
+      "importance": "medium",
+      "tags": [
+        "singapore_hsa",
+        "medical_device_registration",
+        "guidance_update"
+      ],
+      "related_docs": [],
+      "status": "published"
+    },
+    {
+      "id": "singapore_hsa_20260814_hsa_publishes_summary_of_responses_to_public_consultation_fe",
+      "framework": "singapore_hsa",
+      "category": "regulation_update",
+      "title": {
+        "en": "HSA Publishes Summary of Responses to Public Consultation Feedback on Medical Device Cybersecurity Best Practices Guide",
+        "zh": "HSA发布医疗器械网络安全最佳实践指南公众咨询反馈回应摘要"
+      },
+      "summary": {
+        "en": "The Health Sciences Authority (HSA) has published a summary of responses to feedback received during the public consultation on its Best Practices Guide for Medical Device Cybersecurity. This item is relevant to medical device manufacturers, importers, and suppliers placing devices in Singapore, as it clarifies stakeholder comments and HSA's positions on cybersecurity expectations. Regulatory affairs professionals should review the responses and the final guide to ensure their medical device cybersecurity documentation and risk management align with HSA recommendations.",
+        "zh": "新加坡卫生科学局（HSA）发布了关于医疗器械网络安全最佳实践指南公众咨询所收反馈的回应摘要。此文件面向在新加坡供应医疗器械的制造商、进口商和供应商，澄清了利益相关方意见及HSA在网络安全要求上的立场。法规事务人员应审阅该回应摘要及最终指南，确保医疗器械网络安全文档和风险管理符合HSA建议。"
+      },
+      "source_url": "https://www.hsa.gov.sg/announcements/summary-of-responses-to-feedback-from-public-consultation-on-best-practices-guide-for-medical-device-cybersecurity/",
+      "source_name": "HSA (Singapore)",
+      "published_date": "2026-08-14",
+      "detected_date": "2026-08-14T19:47:40Z",
+      "importance": "medium",
+      "tags": [
+        "medical_device_cybersecurity",
+        "hsa",
+        "regulatory_guidance",
+        "public_consultation",
+        "singapore"
+      ],
+      "related_docs": [],
+      "status": "published"
+    },
+    {
+      "id": "singapore_hsa_20260731_hsa_updates_gn_21_r7_change_notification_guidance_for_regist",
+      "framework": "singapore_hsa",
+      "category": "regulation_update",
+      "title": {
+        "en": "HSA Updates GN-21 R7 Change Notification Guidance for Registered Medical Devices (Effective Jul 2026)",
+        "zh": "HSA更新GN-21 R7版注册医疗器械变更通知指导（2026年7月生效）"
+      },
+      "summary": {
+        "en": "Singapore’s Health Sciences Authority (HSA) has issued revision 7 of Guidance Document GN-21 on change notification for registered medical devices. The updated guidance, effective 31 July 2026, clarifies when and how registrants must notify HSA of changes to their devices. Manufacturers and local representatives should review the revised criteria, update internal change management procedures, and ensure all post-market modifications are correctly reported to avoid non-compliance.",
+        "zh": "新加坡卫生科学局发布GN-21指导文件第7版，明确注册医疗器械变更通知的要求。新指南将于2026年7月31日生效，适用于所有注册人。企业应据此修订内部变更评估流程，确保及时、准确地申报可报告变更以维持注册合规。"
+      },
+      "source_url": "https://go.gov.sg/gn-21-r7-31-07-2026",
+      "source_name": "Official Source",
+      "published_date": "2026-08-01",
+      "detected_date": "2026-07-31T20:25:50Z",
+      "importance": "medium",
+      "tags": [
+        "change_notification",
+        "guidance_document",
+        "medical_devices",
+        "HSA",
+        "Singapore"
+      ],
+      "related_docs": [],
+      "status": "published"
+    },
+    {
+      "id": "singapore_hsa_20260814_hsa_updates_gl_10_r1_best_practices_guide_on_medical_device",
+      "framework": "singapore_hsa",
+      "category": "regulation_update",
+      "title": {
+        "en": "HSA Updates GL-10-R1 Best Practices Guide on Medical Device Cybersecurity",
+        "zh": "新加坡HSA更新医疗器械网络安全指南GL-10-R1"
+      },
+      "summary": {
+        "en": "The Health Sciences Authority (HSA) has updated guidance document GL-10-R1, 'Best Practices Guide on Medical Device Cybersecurity.' The guide outlines cybersecurity regulatory expectations and best practices for medical device manufacturers, importers, and suppliers in Singapore. Affected stakeholders should review the updated guidance and align pre-market submissions, post-market risk management, and cybersecurity documentation with the latest recommendations.",
+        "zh": "新加坡卫生科学局（HSA）更新了指导文件GL-10-R1《医疗器械网络安全最佳实践指南》。该指南阐述了医疗器械制造商、进口商和供应商在新加坡应遵循的网络安全监管要求和最佳实践。相关企业应审查更新内容，确保上市前申报、上市后风险管理及网络安全文件符合最新建议。"
+      },
+      "source_url": "https://go.gov.sg/gl-10-r1-14-08-2026",
+      "source_name": "Official Source",
+      "published_date": "2026-08-01",
+      "detected_date": "2026-08-14T19:47:22Z",
+      "importance": "medium",
+      "tags": [
+        "medical_device_cybersecurity",
+        "hsa_guidance",
+        "regulatory_update"
+      ],
+      "related_docs": [],
+      "status": "published"
+    },
+    {
+      "id": "singapore_hsa_20260724_hsa_alert_3_consumers_including_a_child_suffer_serious_adver",
+      "framework": "singapore_hsa",
+      "category": "regulation_update",
+      "title": {
+        "en": "HSA Alert: 3 Consumers Including a Child Suffer Serious Adverse Events from Products with Banned/Potent Ingredients",
+        "zh": "卫生科学局通报：三名消费者（含12岁儿童）因服用含禁用或强效药用成分产品出现严重不良反应"
+      },
+      "summary": {
+        "en": "The Singapore Health Sciences Authority (HSA) issued a press release reporting three consumers, including a 12-year-old, who experienced serious adverse effects after taking products containing banned or potent undeclared medicinal ingredients. The alert warns the public against purchasing and consuming unapproved health products from unknown sources. HSA advises anyone who has taken such products to stop immediately and consult a doctor, and urges the reporting of any adverse events. Regulatory affairs professionals should note heightened enforcement against adulterated health products and review compliance of their own product vigilance systems.",
+        "zh": "新加坡卫生科学局发布通告，通报三名消费者（包括一名12岁儿童）在服用含有禁用或未申报强效药用成分的产品后出现严重不良反应。当局警告公众切勿购买和服用来源不明、未经批准的健康产品，并建议已服用者立即停用并就医，同时鼓励报告不良事件。法规事务从业者需关注对掺杂违禁成分健康产品的执法行动，并审查自身产品警戒系统的合规性。"
+      },
+      "source_url": "https://www.hsa.gov.sg/announcements/3-consumers-including-a-12-year-old-adverse-effects/",
+      "source_name": "HSA (Singapore)",
+      "published_date": "2026-07-23",
+      "detected_date": "2026-07-24T20:14:32Z",
+      "importance": "high",
+      "tags": [
+        "hsa_alert",
+        "serious_adverse_events",
+        "banned_medicinal_ingredients",
+        "consumer_safety"
+      ],
+      "related_docs": [],
+      "status": "published"
+    },
+    {
+      "id": "singapore_hsa_20260731_hsa_updates_gn_21_r7_guidance_on_change_notification_for_reg",
+      "framework": "singapore_hsa",
+      "category": "regulation_update",
+      "title": {
+        "en": "HSA Updates GN-21-R7 Guidance on Change Notification for Registered Medical Devices (Jul 2026)",
+        "zh": "HSA发布修订版GN-21-R7指南：已注册医疗器械的变更通知（2026年7月）"
+      },
+      "summary": {
+        "en": "Singapore's Health Sciences Authority (HSA) has released revision 7 of the GN-21 guidance document on change notification requirements for registered medical devices, effective July 2026. This update impacts all medical device license holders who need to report changes to their registered devices. Companies must review the revised criteria for notifiable changes, update their internal procedures, and ensure compliance by the effective date to avoid regulatory findings.",
+        "zh": "新加坡卫生科学局（HSA）发布了关于已注册医疗器械变更通知要求的GN-21指南第7版修订稿，将于2026年7月生效。该更新影响所有需对已注册器械变更进行报告的医疗器械许可证持有者。企业须审查修订后的应通知变更标准，更新内部流程，并在生效日前确保合规，避免不合规问题。"
+      },
+      "source_url": "https://go.gov.sg/gn-21-r7-31-07-2026",
+      "source_name": "Official Source",
+      "published_date": "2026-07-01",
+      "detected_date": "2026-07-31T20:25:35Z",
+      "importance": "medium",
+      "tags": [
+        "change_notification",
+        "hsa_guidance",
+        "medical_devices",
+        "singapore",
+        "post_market_compliance"
+      ],
+      "related_docs": [],
+      "status": "published"
+    },
+    {
+      "id": "singapore_hsa_20260703_keynote_address_by_adj_prof_dr_raymond_chua_chief_executive",
+      "framework": "singapore_hsa",
+      "category": "regulation_update",
+      "title": {
+        "en": "Keynote Address by Adj Prof (Dr) Raymond Chua, Chief Executive Officer, Health Sciences Authority, on \"Regulatory Innova",
+        "zh": "新加坡HSA首席执行官Raymond Chua博士主旨演讲"
+      },
+      "summary": {
+        "en": "HSA Speeches: Keynote Address by Adj Prof (Dr) Raymond Chua, Chief Executive Officer, Health Sciences Authority, on \"Regulatory Innovation as a Catalyst for Global Medtech Growth\" for Singapore Medical Device Ventu",
+        "zh": "新加坡健康科学局首席执行官Raymond Chua博士的主旨演讲。"
+      },
+      "source_url": "https://www.hsa.gov.sg/announcements/keynote-address-by-adj-prof--dr--raymond-chua--chief-executive-officer--health-sciences-authority--on--regulatory-innovation-as-a-catalyst-for-global-medtech-growth--for-singapore-medical-device-venture-showcase/",
+      "source_name": "HSA (Singapore)",
+      "published_date": "2026-06-29",
+      "detected_date": "2026-07-03T14:00:10Z",
+      "importance": "medium",
+      "tags": [],
+      "related_docs": [],
+      "status": "published"
+    },
+    {
+      "id": "singapore_hsa_20260703_gn_02_r8_annex_1_declaration_for_dealing_with_md_that_are_so",
+      "framework": "singapore_hsa",
+      "category": "regulation_update",
+      "title": {
+        "en": "GN-02-R8 Annex 1 Declaration for dealing with MD that are solely for export or re-export purposes",
+        "zh": "GN-02-R8 附件1 出口或再出口医疗器械声明"
+      },
+      "summary": {
+        "en": "HSA medical device guidance update: GN-02-R8 Annex 1 Declaration for dealing with MD that are solely for export or re-export purposes (2026 Apr)",
+        "zh": "新加坡HSA关于仅用于出口或再出口的医疗器械处理声明指南。"
+      },
+      "source_url": "https://go.gov.sg/gn02r8",
+      "source_name": "Official Source",
+      "published_date": "2026-04-01",
+      "detected_date": "2026-07-03T14:00:10Z",
+      "importance": "medium",
+      "tags": [],
+      "related_docs": [],
+      "status": "published"
+    },
+    {
+      "id": "singapore_hsa_20260703_gn_15_r13_guidance_on_medical_device_product_registration",
+      "framework": "singapore_hsa",
+      "category": "regulation_update",
+      "title": {
+        "en": "GN-15-R13 Guidance on Medical Device Product Registration",
+        "zh": "GN-15-R13 医疗器械产品注册指南"
+      },
+      "summary": {
+        "en": "HSA medical device guidance update: GN-15-R13 Guidance on Medical Device Product Registration (2026 Mar)",
+        "zh": "新加坡HSA发布最新版医疗器械产品注册指南文件。"
+      },
+      "source_url": "https://www.hsa.gov.sg/medical-devices/guidance-documents/",
+      "source_name": "Official Source",
+      "published_date": "2026-03-01",
+      "detected_date": "2026-07-03T14:00:10Z",
+      "importance": "medium",
+      "tags": [],
+      "related_docs": [],
+      "status": "published"
+    },
+    {
+      "id": "singapore_hsa_20260703_gl_04_r4_regulatory_guidelines_for_software_medical_devices",
+      "framework": "singapore_hsa",
+      "category": "regulation_update",
+      "title": {
+        "en": "GL-04-R4 Regulatory Guidelines for Software Medical Devices - A Life Cycle Approach",
+        "zh": "GL-04-R4 软件医疗器械监管指南 - 生命周期方法"
+      },
+      "summary": {
+        "en": "HSA medical device guidance update: GL-04-R4 Regulatory Guidelines for Software Medical Devices - A Life Cycle Approach (2025 Dec)",
+        "zh": "新加坡HSA发布软件医疗器械（SaMD）监管指南，采用生命周期方法。"
+      },
+      "source_url": "https://www.hsa.gov.sg/medical-devices/guidance-documents/",
+      "source_name": "Official Source",
+      "published_date": "2025-12-01",
+      "detected_date": "2026-07-03T14:00:10Z",
+      "importance": "medium",
+      "tags": [],
+      "related_docs": [],
+      "status": "published"
+    },
+    {
+      "id": "singapore_hsa_20260703_gn_34_r2_guidance_for_ivd_analysers",
+      "framework": "singapore_hsa",
+      "category": "regulation_update",
+      "title": {
+        "en": "GN-34 R2 Guidance for IVD Analysers",
+        "zh": "GN-34 R2 体外诊断分析仪指南"
+      },
+      "summary": {
+        "en": "HSA medical device guidance update: GN-34 R2 Guidance for IVD Analysers (2025 Oct)",
+        "zh": "新加坡HSA发布体外诊断分析仪注册与监管指南。"
+      },
+      "source_url": "https://www.hsa.gov.sg/medical-devices/guidance-documents/",
+      "source_name": "Official Source",
+      "published_date": "2025-10-01",
+      "detected_date": "2026-07-03T14:00:10Z",
+      "importance": "medium",
+      "tags": [],
+      "related_docs": [],
+      "status": "published"
+    },
+    {
+      "id": "singapore_hsa_20260703_gn_17_r4_guidance_on_preparation_of_a_product_registration_s",
+      "framework": "singapore_hsa",
+      "category": "regulation_update",
+      "title": {
+        "en": "GN-17 R4 Guidance on Preparation of a Product Registration Submission for GMD using the ASEAN CSDT",
+        "zh": "GN-17 R4 GMD注册申请准备指南"
+      },
+      "summary": {
+        "en": "HSA medical device guidance update: GN-17 R4 Guidance on Preparation of a Product Registration Submission for GMD using the ASEAN CSDT (2025 Oct)",
+        "zh": "新加坡HSA发布使用ASEAN CSDT的通用医疗器械产品注册申请准备指南。"
+      },
+      "source_url": "https://www.hsa.gov.sg/medical-devices/guidance-documents/",
+      "source_name": "Official Source",
+      "published_date": "2025-10-01",
+      "detected_date": "2026-07-03T14:00:10Z",
+      "importance": "medium",
+      "tags": [],
+      "related_docs": [],
+      "status": "published"
+    },
+    {
+      "id": "singapore_hsa_20260703_gn_18_r4_guidance_on_preparation_of_a_product_registration_s",
+      "framework": "singapore_hsa",
+      "category": "regulation_update",
+      "title": {
+        "en": "GN-18 R4 Guidance on Preparation of a Product Registration Submission for IVD MD using the ASEAN CSDT",
+        "zh": "GN-18 R4 IVD医疗器械注册申请准备指南"
+      },
+      "summary": {
+        "en": "HSA medical device guidance update: GN-18 R4 Guidance on Preparation of a Product Registration Submission for IVD MD using the ASEAN CSDT (2025 Oct)",
+        "zh": "新加坡HSA发布使用ASEAN CSDT的体外诊断医疗器械产品注册申请准备指南。"
+      },
+      "source_url": "https://www.hsa.gov.sg/medical-devices/guidance-documents/",
+      "source_name": "Official Source",
+      "published_date": "2025-10-01",
+      "detected_date": "2026-07-03T14:00:10Z",
+      "importance": "medium",
+      "tags": [],
+      "related_docs": [],
+      "status": "published"
+    },
+    {
+      "id": "singapore_hsa_20260703_gl_08_r2_regulatory_guidelines_for_laboratory_developed_test",
+      "framework": "singapore_hsa",
+      "category": "regulation_update",
+      "title": {
+        "en": "GL-08-R2 Regulatory Guidelines for Laboratory Developed Tests (LDTs)",
+        "zh": "GL-08-R2 实验室自研检测（LDTs）监管指南"
+      },
+      "summary": {
+        "en": "HSA medical device guidance update: GL-08-R2 Regulatory Guidelines for Laboratory Developed Tests (LDTs) (2025 Sep)",
+        "zh": "新加坡HSA发布实验室自研检测产品的监管指南第2修订版。"
+      },
+      "source_url": "https://www.hsa.gov.sg/medical-devices/guidance-documents/",
+      "source_name": "Official Source",
+      "published_date": "2025-09-01",
+      "detected_date": "2026-07-03T14:00:10Z",
+      "importance": "medium",
+      "tags": [],
+      "related_docs": [],
+      "status": "published"
+    }
+  ]
+}

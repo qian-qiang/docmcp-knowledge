@@ -1,0 +1,1229 @@
+#!/usr/bin/env python3
+"""
+JSON to Markdown Generator — Single Source of Truth Pipeline
+
+Reads JSON data files from the data layer (eu_mdr/, fda/, nmpa/, _shared/)
+and generates bilingual (EN + ZH) Markdown files for the VitePress docs site.
+
+Usage:
+    python scripts/json_to_markdown.py                    # Generate all
+    python scripts/json_to_markdown.py --section standards # Standards only
+    python scripts/json_to_markdown.py --dry-run           # Preview without writing
+    python scripts/json_to_markdown.py --verify            # Check JSON→MD sync status
+
+Architecture:
+    JSON data layer (eu_mdr/standards/*.json)  ← Single Source of Truth
+        ↓  json_to_markdown.py
+    docs/zh/eu_mdr/standards/*.md  (Chinese display layer)
+    docs/en/eu_mdr/standards/*.md  (English display layer)
+"""
+
+import argparse
+import json
+import re
+import sys
+from datetime import date
+from pathlib import Path
+
+ROOT = Path(__file__).parent.parent
+DOCS_ZH = ROOT / "docs" / "zh"
+DOCS_EN = ROOT / "docs" / "en"
+
+# ---------------------------------------------------------------------------
+# Category display name & GSPR mapping for standards
+# ---------------------------------------------------------------------------
+STANDARDS_GSPR_MAP = {
+    "biocompatibility": {"gspr": "GSPR 10.4", "gspr_zh": "生物相容性", "gspr_en": "Biocompatibility"},
+    "clinical_investigation": {"gspr": "GSPR 1, 8, 14", "gspr_zh": "临床调查", "gspr_en": "Clinical investigation"},
+    "connectors": {"gspr": "GSPR 14.2(d)", "gspr_zh": "小口径连接器", "gspr_en": "Small-bore connectors"},
+    "electrical_safety": {"gspr": "GSPR 14", "gspr_zh": "电气安全", "gspr_en": "Electrical safety"},
+    "labelling": {"gspr": "GSPR 23", "gspr_zh": "标签", "gspr_en": "Labelling"},
+    "medical_gloves": {"gspr": "GSPR 10.4", "gspr_zh": "医用手套", "gspr_en": "Medical gloves"},
+    "patient_handling": {"gspr": "GSPR 9, 14", "gspr_zh": "患者搬运", "gspr_en": "Patient handling"},
+    "processing": {"gspr": "GSPR 11.7", "gspr_zh": "器械处理", "gspr_en": "Device processing"},
+    "quality_management": {"gspr": "GSPR 全盘", "gspr_zh": "质量管理", "gspr_en": "Quality management"},
+    "risk_management": {"gspr": "GSPR 全盘", "gspr_zh": "风险管理", "gspr_en": "Risk management"},
+    "software": {"gspr": "GSPR 17, 5", "gspr_zh": "软件与可用性", "gspr_en": "Software & usability"},
+    "sterilization": {"gspr": "GSPR 11", "gspr_zh": "灭菌与包装", "gspr_en": "Sterilization & packaging"},
+    "surgical_implants": {"gspr": "GSPR 10, 14", "gspr_zh": "非有源外科植入物", "gspr_en": "Non-active surgical implants"},
+    "surgical_textiles": {"gspr": "GSPR 10, 11", "gspr_zh": "手术衣物与口罩", "gspr_en": "Surgical textiles & masks"},
+}
+
+# Editorial notes that cannot be derived from JSON — keyed by category slug
+STANDARDS_EDITORIAL_ZH = {
+    "biocompatibility": (
+        '\n> **重要说明**：以下常用标准**目前不在**协调标准列表中，使用时不产生合规推定效力，'
+        '但仍是行业公认的评价方法：EN ISO 10993-1（评价框架）、EN ISO 10993-3（遗传毒性）、'
+        'EN ISO 10993-5（细胞毒性）、EN ISO 10993-6（植入）、EN ISO 10993-7（EO残留物）、'
+        'EN ISO 10993-11（全身毒性）、EN ISO 10993-13（聚合物）。'
+        '\n\n## 生物相容性评价框架（基于 ISO 10993-1:2018）\n\n'
+        '材料表征 → 危害识别 → 暴露评估 → 毒理学风险评估 → 生物相容性结论\n\n'
+        'EU MDR 下，**化学表征优先**：先进行毒理学风险评估（TRA），仅在TRA不足以得出结论时才进行动物试验。'
+    ),
+    "biocompatibility_en": (
+        '\n> **Important**: The following widely-used standards are **not** on the EU MDR harmonised '
+        'standards list and do not create a presumption of conformity: EN ISO 10993-1 (evaluation '
+        'framework), EN ISO 10993-3 (genotoxicity), EN ISO 10993-5 (cytotoxicity), EN ISO 10993-6 '
+        '(implantation), EN ISO 10993-7 (EO residuals), EN ISO 10993-11 (systemic toxicity), '
+        'EN ISO 10993-13 (polymers). They remain industry-accepted evaluation methods but must be '
+        'justified separately in the technical file.'
+        '\n\n## Biocompatibility Evaluation Framework\n\n'
+        'Material characterisation → Hazard identification → Exposure assessment → '
+        'Toxicological risk assessment → Biocompatibility conclusion\n\n'
+        'Under EU MDR, **chemical characterisation takes priority**: toxicological risk assessment (TRA) '
+        'is performed first; animal testing is only conducted when TRA is insufficient to reach a conclusion.'
+    ),
+    "software": (
+        '\n> **重要说明**：EN IEC 62304和EN IEC 62366-1**不在**EU MDR协调标准列表（CID 2021/1182）中。'
+        '它们不产生合规推定效力，但是证明GSPR 17（软件）和GSPR 5（可用性）合规性的行业公认方法，'
+        '必须在技术文件中以"其他方法"加以证明。'
+        '\n\n## EN IEC 62304 — 软件安全分类\n\n'
+        '| 安全类别 | 定义 | 要求级别 |\n'
+        '|----------|------|----------|\n'
+        '| **A类** | 软件故障不会导致伤害 | 基本要求 |\n'
+        '| **B类** | 软件故障可能导致轻微伤害 | 中等要求 |\n'
+        '| **C类** | 软件故障可能导致死亡或严重伤害 | 全面要求 |\n'
+        '\n## EN IEC 62366-1 — 可用性工程过程\n\n'
+        '1. 预期用途规范：用户、使用环境、用户界面\n'
+        '2. 用户界面规范：用户界面设计要求\n'
+        '3. 总结性可用性评估：与代表性用户进行测试\n'
+        '4. 可用性总结报告'
+    ),
+    "software_en": (
+        '\n> **Important**: EN IEC 62304 and EN IEC 62366-1 are **not** on the EU MDR harmonised '
+        'standards list (CID 2021/1182). They do not create a presumption of conformity, but are '
+        'industry-accepted methods for demonstrating GSPR 17 (software) and GSPR 5 (usability) '
+        'compliance and must be justified as "other methods" in the technical file.'
+        '\n\n## EN IEC 62304 — Software Safety Classification\n\n'
+        '| Safety Class | Definition | Requirements Level |\n'
+        '|--------------|-----------|-------------------|\n'
+        '| **Class A** | No contribution to hazardous situation | Basic requirements |\n'
+        '| **Class B** | Non-serious injury possible | Moderate requirements |\n'
+        '| **Class C** | Death or serious injury possible | Full requirements |\n'
+        '\n## EN IEC 62366-1 — Usability Engineering Process\n\n'
+        '1. Use specification: users, use environment, user interface\n'
+        '2. User interface specification: UI design requirements\n'
+        '3. Summative usability evaluation: testing with representative users\n'
+        '4. Usability engineering summary report'
+    ),
+}
+
+# Related pages for each standards category
+STANDARDS_RELATED_ZH = {
+    "biocompatibility": [
+        ("附件I — GSPR", "../regulations/annex-i-gspr"),
+        ("协调标准 — 灭菌与包装", "./sterilization"),
+    ],
+    "clinical_investigation": [
+        ("附件XV — 临床调查", "../regulations/annex-xv-clinical-investigations"),
+        ("附件XIV — 临床评价", "../regulations/annex-xiv-clinical-evaluation"),
+    ],
+    "electrical_safety": [
+        ("附件I — GSPR", "../regulations/annex-i-gspr"),
+        ("协调标准 — 软件与可用性", "./software"),
+    ],
+    "software": [
+        ("附件I — GSPR", "../regulations/annex-i-gspr"),
+        ("协调标准 — 电气安全与EMC", "./electrical-safety"),
+    ],
+    "sterilization": [
+        ("附件I — GSPR", "../regulations/annex-i-gspr"),
+        ("协调标准 — 生物相容性", "./biocompatibility"),
+    ],
+    "risk_management": [
+        ("附件I — GSPR", "../regulations/annex-i-gspr"),
+        ("协调标准 — 质量管理体系", "./quality-management"),
+    ],
+    "quality_management": [
+        ("附件I — GSPR", "../regulations/annex-i-gspr"),
+        ("协调标准 — 风险管理", "./risk-management"),
+    ],
+}
+
+STANDARDS_RELATED_EN = {
+    "biocompatibility": [
+        ("Annex I — GSPR", "../regulations/annex-i-gspr"),
+        ("Harmonised Standards — Sterilization and Packaging", "./sterilization"),
+    ],
+    "clinical_investigation": [
+        ("Annex XV — Clinical Investigations", "../regulations/annex-xv-clinical-investigations"),
+        ("Annex XIV — Clinical Evaluation", "../regulations/annex-xiv-clinical-evaluation"),
+    ],
+    "electrical_safety": [
+        ("Annex I — GSPR", "../regulations/annex-i-gspr"),
+        ("Harmonised Standards — Software and Usability", "./software"),
+    ],
+    "software": [
+        ("Annex I — GSPR", "../regulations/annex-i-gspr"),
+        ("Harmonised Standards — Electrical Safety & EMC", "./electrical-safety"),
+    ],
+    "sterilization": [
+        ("Annex I — GSPR", "../regulations/annex-i-gspr"),
+        ("Harmonised Standards — Biocompatibility", "./biocompatibility"),
+    ],
+    "risk_management": [
+        ("Annex I — GSPR", "../regulations/annex-i-gspr"),
+        ("Harmonised Standards — Quality Management", "./quality-management"),
+    ],
+    "quality_management": [
+        ("Annex I — GSPR", "../regulations/annex-i-gspr"),
+        ("Harmonised Standards — Risk Management", "./risk-management"),
+    ],
+}
+
+
+# ---------------------------------------------------------------------------
+# Helpers
+# ---------------------------------------------------------------------------
+def load_json(path: Path) -> dict:
+    with open(path, "r", encoding="utf-8") as f:
+        return json.load(f)
+
+
+def get_entries(data: dict) -> list:
+    """Get entries from JSON data, handling both 'entries' and 'standards' keys."""
+    return data.get("entries", data.get("standards", []))
+
+
+def get_title_str(title, lang: str = "en") -> str:
+    """Get title string, handling both string and dict formats."""
+    if isinstance(title, dict):
+        return title.get(lang, "") or title.get("en", "")
+    return str(title) if title else ""
+
+
+def write_md(path: Path, content: str, dry_run: bool = False) -> bool:
+    """Write markdown file. Returns True if content changed."""
+    if path.exists():
+        old = path.read_text(encoding="utf-8")
+        if old.strip() == content.strip():
+            return False
+    if dry_run:
+        return True
+    path.parent.mkdir(parents=True, exist_ok=True)
+    path.write_text(content, encoding="utf-8")
+    return True
+
+
+# ---------------------------------------------------------------------------
+# Standards sub-page generators
+# ---------------------------------------------------------------------------
+def generate_standards_subpage_zh(category_slug: str, data: dict, index_data: dict) -> str:
+    """Generate a Chinese standards sub-page from JSON data."""
+    cat_info = index_data.get("categories", {}).get(category_slug, {})
+    cat_name_zh = cat_info.get("name", {}).get("zh", category_slug)
+    entries = get_entries(data)
+    count = data.get("count", data.get("standards_count", len(entries)))
+    gspr_info = STANDARDS_GSPR_MAP.get(category_slug, {})
+    latest_amend = index_data.get("latest_amendment", "")
+    latest_amend_url = index_data.get("latest_amendment_url", "")
+
+    # Determine if these are harmonised or non-harmonised standards
+    is_non_harmonised = category_slug == "software"
+    list_type = "广泛适用标准（非协调标准）" if is_non_harmonised else f"协调标准列表（{count}条）"
+    h1_prefix = "" if is_non_harmonised else "协调标准 — "
+
+    lines = []
+    lines.append("---")
+    if is_non_harmonised:
+        lines.append(f'title: {cat_name_zh} — EU MDR相关标准')
+    else:
+        lines.append(f'title: 协调标准 — {cat_name_zh}')
+    desc = (f'"EU MDR 2017/745 协调标准：{cat_name_zh}（{count}条入官方公报标准），'
+            f'适用于{gspr_info.get("gspr", "")}。基于 CID (EU) 2021/1182 及修正案 {latest_amend}。"')
+    if is_non_harmonised:
+        desc = (f'"EN IEC 62304和EN IEC 62366-1不在EU MDR协调标准列表中。'
+                f'它们广泛作为\\"其他方法\\"用于证明{gspr_info.get("gspr", "")}合规性。"')
+    lines.append(f'description: {desc}')
+    lines.append("regulation: EU MDR 2017/745")
+    lines.append(f"category: {cat_info.get('name', {}).get('en', category_slug)}")
+    lines.append("---")
+    lines.append("")
+
+    if is_non_harmonised:
+        lines.append(f"# {cat_name_zh} — EU MDR相关标准")
+    else:
+        lines.append(f"# 协调标准 — {cat_name_zh}")
+    lines.append("")
+    lines.append(
+        f"**官方来源**：[EC Health — Harmonised Standards]"
+        f"(https://health.ec.europa.eu/medical-devices-topics-interest/harmonised-standards_en)"
+        f" | 基于 CID (EU) 2021/1182（合并版）及修正案 "
+        f"[CID (EU) {latest_amend}]({latest_amend_url})"
+    )
+    lines.append("")
+    lines.append(f"## {list_type}")
+    lines.append("")
+    lines.append("| 标准号 | 标题摘要 | GSPR对应 | 状态 |")
+    lines.append("|--------|---------|---------|------|")
+
+    for entry in entries:
+        number = entry.get("number", "")
+        title = get_title_str(entry.get("title", ""), "zh")
+        # Shorten title for table display
+        if " - " in title:
+            title = title.split(" - ", 1)[1]
+        elif " — " in title:
+            title = title.split(" — ", 1)[1]
+
+        amendments = entry.get("amendments", [])
+        if amendments:
+            number = f"{number} + {amendments[-1].split(':')[-1] if ':' in amendments[-1] else amendments[-1]}"
+
+        gspr_ref = gspr_info.get("gspr", "")
+        gspr_desc = gspr_info.get("gspr_zh", "")
+
+        status_zh = "现行有效" if entry.get("status") == "active" else "已废止"
+        label = "广泛适用（非协调标准）" if is_non_harmonised else status_zh
+
+        lines.append(f"| **{number}** | {title} | {gspr_ref}（{gspr_desc}） | {label} |")
+
+    # Editorial notes
+    editorial = STANDARDS_EDITORIAL_ZH.get(category_slug, "")
+    if editorial:
+        lines.append(editorial)
+
+    # Related pages
+    lines.append("")
+    lines.append("## 相关页面")
+    lines.append("")
+    related = STANDARDS_RELATED_ZH.get(category_slug, [("附件I — GSPR", "../regulations/annex-i-gspr")])
+    for label, link in related:
+        lines.append(f"- [{label}]({link})")
+
+    # Data layer source
+    lines.append("")
+    lines.append("## 数据层源文件")
+    lines.append("")
+    json_file = cat_info.get("file", f"standards-{category_slug}.json")
+    lines.append(
+        f"[eu_mdr/standards/{json_file}]"
+        f"(https://github.com/RASAAS/docmcp-knowledge/tree/main/eu_mdr/standards/{json_file})"
+    )
+    lines.append("")
+
+    return "\n".join(lines)
+
+
+def generate_standards_subpage_en(category_slug: str, data: dict, index_data: dict) -> str:
+    """Generate an English standards sub-page from JSON data."""
+    cat_info = index_data.get("categories", {}).get(category_slug, {})
+    cat_name_en = cat_info.get("name", {}).get("en", category_slug)
+    entries = get_entries(data)
+    count = data.get("count", data.get("standards_count", len(entries)))
+    gspr_info = STANDARDS_GSPR_MAP.get(category_slug, {})
+    latest_amend = index_data.get("latest_amendment", "")
+    latest_amend_url = index_data.get("latest_amendment_url", "")
+
+    is_non_harmonised = category_slug == "software"
+    list_type = "Widely-Used Standards (Non-Harmonised)" if is_non_harmonised else f"Harmonised Standards List ({count} standards)"
+
+    lines = []
+    lines.append("---")
+    if is_non_harmonised:
+        lines.append(f'title: {cat_name_en} — EU MDR Related Standards')
+    else:
+        lines.append(f'title: Harmonised Standards — {cat_name_en}')
+    desc = (f'"EU MDR 2017/745 harmonised standards: {cat_name_en} ({count} standards in the OJ list), '
+            f'applicable to {gspr_info.get("gspr", "")}. Based on CID (EU) 2021/1182 and amendment {latest_amend}."')
+    if is_non_harmonised:
+        desc = (f'"EN IEC 62304 and EN IEC 62366-1 are not on the EU MDR harmonised standards list. '
+                f'They are widely used as \\"other methods\\" to demonstrate {gspr_info.get("gspr", "")} compliance."')
+    lines.append(f'description: {desc}')
+    lines.append("regulation: EU MDR 2017/745")
+    lines.append(f"category: {cat_name_en}")
+    lines.append("---")
+    lines.append("")
+
+    if is_non_harmonised:
+        lines.append(f"# {cat_name_en} — EU MDR Related Standards")
+    else:
+        lines.append(f"# Harmonised Standards — {cat_name_en}")
+    lines.append("")
+    lines.append(
+        f"**Official Source**: [EC Health — Harmonised Standards]"
+        f"(https://health.ec.europa.eu/medical-devices-topics-interest/harmonised-standards_en)"
+        f" | Based on CID (EU) 2021/1182 (consolidated) and amendment "
+        f"[CID (EU) {latest_amend}]({latest_amend_url})"
+    )
+    lines.append("")
+    lines.append(f"## {list_type}")
+    lines.append("")
+    lines.append("| Standard | Title Summary | GSPR Reference | Status |")
+    lines.append("|----------|--------------|---------------|--------|")
+
+    for entry in entries:
+        number = entry.get("number", "")
+        title = get_title_str(entry.get("title", ""), "en")
+        if " - " in title:
+            title = title.split(" - ", 1)[1]
+        elif " — " in title:
+            title = title.split(" — ", 1)[1]
+
+        amendments = entry.get("amendments", [])
+        if amendments:
+            number = f"{number} + {amendments[-1].split(':')[-1] if ':' in amendments[-1] else amendments[-1]}"
+
+        gspr_ref = gspr_info.get("gspr", "")
+        gspr_desc = gspr_info.get("gspr_en", "")
+
+        status_en = "Current" if entry.get("status") == "active" else "Withdrawn"
+        label = "Widely used (non-harmonised)" if is_non_harmonised else status_en
+
+        lines.append(f"| **{number}** | {title} | {gspr_ref} ({gspr_desc}) | {label} |")
+
+    # Editorial notes
+    editorial = STANDARDS_EDITORIAL_ZH.get(f"{category_slug}_en", "")
+    if editorial:
+        lines.append(editorial)
+
+    # Related pages
+    lines.append("")
+    lines.append("## Related Pages")
+    lines.append("")
+    related = STANDARDS_RELATED_EN.get(category_slug, [("Annex I — GSPR", "../regulations/annex-i-gspr")])
+    for label, link in related:
+        lines.append(f"- [{label}]({link})")
+
+    # Data layer source
+    lines.append("")
+    lines.append("## Data Layer Source File")
+    lines.append("")
+    json_file = cat_info.get("file", f"standards-{category_slug}.json")
+    lines.append(
+        f"[eu_mdr/standards/{json_file}]"
+        f"(https://github.com/RASAAS/docmcp-knowledge/tree/main/eu_mdr/standards/{json_file})"
+    )
+    lines.append("")
+
+    return "\n".join(lines)
+
+
+# ---------------------------------------------------------------------------
+# Main generation orchestrator
+# ---------------------------------------------------------------------------
+FULLTEXT_MARKER = "<!-- fulltext-start -->"
+FULLTEXT_END_MARKER = "<!-- fulltext-end -->"
+
+_VALID_HTML_TAGS = {
+    'a', 'abbr', 'b', 'blockquote', 'br', 'caption', 'cite', 'code',
+    'col', 'colgroup', 'dd', 'del', 'details', 'dfn', 'div', 'dl', 'dt',
+    'em', 'figcaption', 'figure', 'h1', 'h2', 'h3', 'h4', 'h5', 'h6',
+    'hr', 'i', 'img', 'ins', 'kbd', 'li', 'mark', 'ol', 'p', 'pre',
+    'q', 'rp', 'rt', 'ruby', 's', 'samp', 'small', 'span', 'strong',
+    'sub', 'summary', 'sup', 'table', 'tbody', 'td', 'tfoot', 'th',
+    'thead', 'time', 'tr', 'u', 'ul', 'var', 'wbr',
+}
+
+_VUE_TAG_RE = re.compile(
+    r'<'
+    r'(?!/)'           # not a closing tag start
+    r'(?![-!])'        # not a comment
+    r'(?![a-z]+[\s>/])' # not a standard HTML open tag (handled below)
+    r'([^>]+)'
+    r'>'
+)
+
+
+def _escape_vue_tags(text: str) -> str:
+    """Escape angle brackets that VitePress/Vue would interpret as components/HTML.
+
+    PDF extracts often contain placeholder fragments such as
+    ``<Insert Month and\nYear>`` or comparisons like ``<CIN2`` that span
+    lines and break Vue/VitePress ("Element is missing end tag").
+
+    Preserves: intentional HTML comments, Markdown auto-links <https://...>,
+    known safe HTML tags, and base64 data URIs in img tags.
+    Escapes every other ``<`` (complete or incomplete tag-like sequences).
+    """
+    if not text:
+        return text
+
+    protected: list[str] = []
+
+    def _protect(m: re.Match) -> str:
+        protected.append(m.group(0))
+        return f"\0PROT{len(protected) - 1}\0"
+
+    # 1) Protect HTML comments (page markers, fulltext markers, etc.)
+    text = re.sub(r"<!--[\s\S]*?-->", _protect, text)
+
+    # 2) Protect markdown autolinks
+    text = re.sub(r"<(?:https?://|mailto:)[^>\s]+>", _protect, text)
+
+    # 3) Protect data-URI image attributes / lines (leave whole line alone)
+    #    Handled by protecting complete <img ...> tags below when valid.
+
+    # 4) Protect known-safe complete HTML tags (open and close)
+    def _protect_html(m: re.Match) -> str:
+        inner = m.group(1).strip()
+        if not inner:
+            return m.group(0)
+        if inner.startswith("!--"):
+            return _protect(m)
+        if "data:image" in inner:
+            return _protect(m)
+        if inner.startswith("/"):
+            close_tag = inner[1:].strip().split()[0].lower().rstrip("/")
+            if close_tag in _VALID_HTML_TAGS:
+                return _protect(m)
+            return m.group(0)
+        tag_name = inner.split()[0].split("/")[0].lower().rstrip("/")
+        if tag_name in _VALID_HTML_TAGS:
+            return _protect(m)
+        return m.group(0)
+
+    text = re.sub(r"<([^>\n]+)>", _protect_html, text)
+
+    # 5) Escape every remaining raw '<' — covers incomplete/multiline
+    #    placeholders (<Insert Month and\nYear>) and comparisons (<CIN2).
+    text = text.replace("<", "&lt;")
+
+    # 5b) Escape curly braces so VitePress markdown-it-attrs does not treat
+    #     PDF math like ``Fs = S*A = {S*L*π*D*T}`` as element attributes
+    #     (that yields "Unexpected character" / sourcemap build failures).
+    text = text.replace("{", "&#123;").replace("}", "&#125;")
+
+    # 6) Restore protected segments
+    for i, seg in enumerate(protected):
+        text = text.replace(f"\0PROT{i}\0", seg)
+
+    return text
+
+
+def _load_fulltext(fw_dir: Path, doc_type: str, entry: dict) -> str:
+    """Load fulltext markdown for an entry, if available.
+
+    Checks both {name}.md and {name}.zh.md (NMPA Chinese sources often
+    use the .zh.md extension for original content).
+    """
+    slug = entry.get("slug", "")
+    eid = entry.get("id", "")
+    for name in [slug, re.sub(r'[^\w\-.]', '_', eid)] if eid else [slug]:
+        if not name:
+            continue
+        path = fw_dir / doc_type / "fulltext" / f"{name}.md"
+        if path.exists():
+            return path.read_text(encoding="utf-8")
+        zh_path = fw_dir / doc_type / "fulltext" / f"{name}.zh.md"
+        if zh_path.exists():
+            return zh_path.read_text(encoding="utf-8")
+    return ""
+
+
+def _yaml_safe(s: str) -> str:
+    """Quote a string if it contains YAML-special characters."""
+    if any(c in s for c in (':', '#', '{', '}', '[', ']', ',', '&', '*', '?', '|', '-', '<', '>', '=', '!', '%', '@', '`')):
+        return f'"{s}"'
+    return s
+
+
+def generate_guidance_page_zh(entry: dict, fulltext: str,
+                              machine_translated: bool = False) -> str:
+    title = entry.get("title", {})
+    title_zh = (title.get("zh", "") or title.get("en", "")) if isinstance(title, dict) else str(title)
+    title_en = title.get("en", "") if isinstance(title, dict) else ""
+    source_url = entry.get("source_url", "")
+    pub_date = entry.get("published_date", "")
+
+    lines = [
+        "---",
+        f"title: {_yaml_safe(title_zh)}",
+        f"description: {_yaml_safe(title_en)}",
+        f"published: {pub_date}",
+        "---",
+        "",
+        f"# {title_zh}",
+        "",
+    ]
+    if title_en:
+        lines.append(f"**{title_en}**")
+        lines.append("")
+    if pub_date:
+        lines.append(f"**发布日期**: {pub_date}")
+        lines.append("")
+    if source_url:
+        lines.append(f"::: tip 官方来源")
+        lines.append(f"[{source_url}]({source_url})")
+        lines.append(":::")
+        lines.append("")
+
+    if fulltext:
+        if machine_translated:
+            lines.append("::: info")
+            lines.append("This content has been machine-translated from the English original.")
+            lines.append(":::")
+            lines.append("")
+        lines.append(FULLTEXT_MARKER)
+        lines.append("")
+        lines.append("---")
+        lines.append("")
+        lines.append("## 官方文件全文")
+        lines.append("")
+        lines.append(_escape_vue_tags(fulltext))
+        lines.append("")
+        lines.append(FULLTEXT_END_MARKER)
+    else:
+        lines.append("::: warning")
+        lines.append("全文尚未收录，请通过官方来源链接查阅。")
+        lines.append(":::")
+
+    lines.append("")
+    return "\n".join(lines)
+
+
+def generate_guidance_page_en(entry: dict, fulltext: str,
+                              machine_translated: bool = False) -> str:
+    title = entry.get("title", {})
+    title_en = (title.get("en", "") or title.get("zh", "")) if isinstance(title, dict) else str(title)
+    title_zh = title.get("zh", "") if isinstance(title, dict) else ""
+    source_url = entry.get("source_url", "")
+    pub_date = entry.get("published_date", "")
+
+    lines = [
+        "---",
+        f"title: {_yaml_safe(title_en)}",
+        f"description: {_yaml_safe(title_zh)}",
+        f"published: {pub_date}",
+        "---",
+        "",
+        f"# {title_en}",
+        "",
+    ]
+    if pub_date:
+        lines.append(f"**Published**: {pub_date}")
+        lines.append("")
+    if source_url:
+        lines.append(f"::: tip Official Source")
+        lines.append(f"[{source_url}]({source_url})")
+        lines.append(":::")
+        lines.append("")
+
+    if fulltext:
+        if machine_translated:
+            lines.append("::: info")
+            lines.append("This content has been machine-translated from the Chinese original.")
+            lines.append(":::")
+            lines.append("")
+        lines.append(FULLTEXT_MARKER)
+        lines.append("")
+        lines.append("---")
+        lines.append("")
+        lines.append("## Official Full Text")
+        lines.append("")
+        lines.append(_escape_vue_tags(fulltext))
+        lines.append("")
+        lines.append(FULLTEXT_END_MARKER)
+    else:
+        lines.append("::: warning")
+        lines.append("Full text not yet available. Please refer to the official source link.")
+        lines.append(":::")
+
+    lines.append("")
+    return "\n".join(lines)
+
+
+NMPA_GUIDANCE_CATEGORIES = {
+    "general": {"zh": "通用指导原则", "en": "General Guidance"},
+    "ivd": {"zh": "体外诊断试剂", "en": "In Vitro Diagnostics (IVD)"},
+    "surgical": {"zh": "手术器械", "en": "Surgical Instruments"},
+    "respiratory": {"zh": "呼吸与麻醉", "en": "Respiratory & Anesthesia"},
+    "infusion_injection": {"zh": "输液输注与穿刺", "en": "Infusion, Injection & Puncture"},
+    "implant_ortho": {"zh": "骨科植入物", "en": "Orthopedic Implants"},
+    "dental": {"zh": "口腔器械", "en": "Dental Devices"},
+    "implant_cardio": {"zh": "心血管植入物", "en": "Cardiovascular Implants"},
+    "rehab_physio": {"zh": "康复与理疗", "en": "Rehabilitation & Physiotherapy"},
+    "wound_care": {"zh": "创面管理与敷料", "en": "Wound Care & Dressings"},
+    "imaging": {"zh": "医学影像", "en": "Medical Imaging"},
+    "monitoring": {"zh": "监护与检测", "en": "Monitoring & Detection"},
+    "ophthalmic": {"zh": "眼科器械", "en": "Ophthalmic Devices"},
+    "blood_transfusion": {"zh": "血液与输血", "en": "Blood & Transfusion"},
+    "reproductive": {"zh": "生殖与妇科", "en": "Reproductive & Gynecology"},
+    "sterilization": {"zh": "灭菌与生物相容性", "en": "Sterilization & Biocompatibility"},
+    "lab_equipment": {"zh": "实验室设备", "en": "Laboratory Equipment"},
+    "tcm": {"zh": "中医器械", "en": "Traditional Chinese Medicine Devices"},
+    "radiation_therapy": {"zh": "放射治疗", "en": "Radiation Therapy"},
+    "software_ai": {"zh": "软件与人工智能", "en": "Software & AI"},
+    "naming": {"zh": "命名指导原则", "en": "Naming Guidance"},
+    "review_point": {"zh": "技术审评要点", "en": "Review Points"},
+    "guidance": {"zh": "其他指导文件", "en": "Other Guidance Documents"},
+}
+
+NMPA_CATEGORY_ORDER = [
+    "general", "ivd", "surgical", "respiratory", "infusion_injection",
+    "implant_ortho", "implant_cardio", "dental", "monitoring", "imaging",
+    "wound_care", "rehab_physio", "ophthalmic", "blood_transfusion",
+    "reproductive", "sterilization", "lab_equipment", "tcm",
+    "radiation_therapy", "software_ai", "naming", "review_point", "guidance",
+]
+
+
+def _guidance_entry_line(entry: dict, lang: str, has_fulltext: dict,
+                         link_prefix: str = "./guidance/") -> str:
+    title = entry.get("title", {})
+    if isinstance(title, dict):
+        display = title.get(lang, "") or title.get("zh" if lang == "en" else "en", "")
+    else:
+        display = str(title) if title else ""
+    if not display:
+        return ""
+    slug = entry.get("slug", "")
+    pub_date = entry.get("published_date", "")
+    date_suffix = f" ({pub_date})" if pub_date else ""
+    ft = has_fulltext.get(entry.get("id", ""), False)
+
+    if ft and slug:
+        return f"- [{display}]({link_prefix}{slug}){date_suffix}"
+    # No fulltext: show as plain text (don't link to .doc/.docx download URLs)
+    return f"- {display}{date_suffix}"
+
+
+def generate_guidance_index_zh(framework: str, entries: list, has_fulltext: dict) -> str:
+    """Generate guidance index page (ZH) for a framework."""
+    fw_names = {"fda": "FDA", "eu_mdr": "EU MDR", "nmpa": "NMPA"}
+    fw_name = fw_names.get(framework, framework.upper())
+
+    use_categories = framework == "nmpa" and any(e.get("category") for e in entries)
+
+    lines = [
+        "---",
+        f"title: {fw_name} 指南文件",
+        "---",
+        "",
+        f"# {fw_name} 指南文件",
+        "",
+    ]
+
+    ft_count = sum(1 for e in entries if has_fulltext.get(e.get("id", ""), False))
+    lines.append(f"共 {len(entries)} 份指南文件，已收录全文 {ft_count} 份。")
+    lines.append("")
+
+    if use_categories:
+        by_cat: dict[str, list] = {}
+        for e in entries:
+            cat = e.get("category", "general")
+            by_cat.setdefault(cat, []).append(e)
+
+        for cat in NMPA_CATEGORY_ORDER:
+            cat_entries = by_cat.get(cat, [])
+            if not cat_entries:
+                continue
+            cat_name = NMPA_GUIDANCE_CATEGORIES.get(cat, {}).get("zh", cat)
+            cat_ft = sum(1 for e in cat_entries if has_fulltext.get(e.get("id", ""), False))
+            lines.append(f"## {cat_name} ({len(cat_entries)})")
+            lines.append("")
+            for entry in cat_entries:
+                line = _guidance_entry_line(entry, "zh", has_fulltext)
+                if line:
+                    lines.append(line)
+            lines.append("")
+
+        uncategorized = [e for e in entries if e.get("category", "") not in NMPA_CATEGORY_ORDER and e.get("category", "") != ""]
+        if uncategorized:
+            lines.append(f"## 其他 ({len(uncategorized)})")
+            lines.append("")
+            for entry in uncategorized:
+                line = _guidance_entry_line(entry, "zh", has_fulltext)
+                if line:
+                    lines.append(line)
+            lines.append("")
+    else:
+        for entry in entries:
+            line = _guidance_entry_line(entry, "zh", has_fulltext)
+            if line:
+                lines.append(line)
+        lines.append("")
+
+    return "\n".join(lines)
+
+
+def generate_guidance_index_en(framework: str, entries: list, has_fulltext: dict) -> str:
+    fw_names = {"fda": "FDA", "eu_mdr": "EU MDR", "nmpa": "NMPA"}
+    fw_name = fw_names.get(framework, framework.upper())
+
+    use_categories = framework == "nmpa" and any(e.get("category") for e in entries)
+
+    lines = [
+        "---",
+        f"title: {fw_name} Guidance Documents",
+        "---",
+        "",
+        f"# {fw_name} Guidance Documents",
+        "",
+    ]
+
+    ft_count = sum(1 for e in entries if has_fulltext.get(e.get("id", ""), False))
+    lines.append(f"Total {len(entries)} guidance documents, {ft_count} with full text available.")
+    lines.append("")
+
+    if use_categories:
+        by_cat: dict[str, list] = {}
+        for e in entries:
+            cat = e.get("category", "general")
+            by_cat.setdefault(cat, []).append(e)
+
+        for cat in NMPA_CATEGORY_ORDER:
+            cat_entries = by_cat.get(cat, [])
+            if not cat_entries:
+                continue
+            cat_name = NMPA_GUIDANCE_CATEGORIES.get(cat, {}).get("en", cat)
+            lines.append(f"## {cat_name} ({len(cat_entries)})")
+            lines.append("")
+            for entry in cat_entries:
+                line = _guidance_entry_line(entry, "en", has_fulltext)
+                if line:
+                    lines.append(line)
+            lines.append("")
+
+        uncategorized = [e for e in entries if e.get("category", "") not in NMPA_CATEGORY_ORDER and e.get("category", "") != ""]
+        if uncategorized:
+            lines.append(f"## Other ({len(uncategorized)})")
+            lines.append("")
+            for entry in uncategorized:
+                line = _guidance_entry_line(entry, "en", has_fulltext)
+                if line:
+                    lines.append(line)
+            lines.append("")
+    else:
+        for entry in entries:
+            line = _guidance_entry_line(entry, "en", has_fulltext)
+            if line:
+                lines.append(line)
+        lines.append("")
+
+    return "\n".join(lines)
+
+
+def _load_translated_fulltext(fw_dir: Path, doc_type: str, entry: dict,
+                              lang: str) -> str:
+    """Load translated fulltext for a specific language.
+
+    Looks for {slug}.{lang}.md or {id}.{lang}.md in the fulltext dir.
+    Returns empty string if not found.
+    """
+    slug = entry.get("slug", "")
+    eid = entry.get("id", "")
+    for name in [slug, re.sub(r'[^\w\-.]', '_', eid)] if eid else [slug]:
+        if not name:
+            continue
+        path = fw_dir / doc_type / "fulltext" / f"{name}.{lang}.md"
+        if path.exists():
+            return path.read_text(encoding="utf-8")
+    return ""
+
+
+def generate_guidance(framework: str, dry_run: bool = False) -> list[str]:
+    """Generate guidance pages for a framework. Returns list of changed files."""
+    if framework == "fda":
+        print("  SKIP: FDA guidance pages are generated by scripts/generate_fda_guidance_index.py")
+        return []
+    fw_dir = ROOT / framework
+    index_path = fw_dir / "guidance" / "_index.json"
+    if not index_path.exists():
+        print(f"  SKIP: {index_path} not found")
+        return []
+
+    index_data = load_json(index_path)
+    entries = index_data.get("entries", [])
+    changed = []
+    has_fulltext = {}
+
+    # Determine source language of the fulltext files
+    source_lang = "zh" if framework == "nmpa" else "en"
+
+    for entry in entries:
+        slug = entry.get("slug", "")
+        if not slug:
+            continue
+
+        fulltext_original = _load_fulltext(fw_dir, "guidance", entry)
+        has_fulltext[entry.get("id", "")] = bool(fulltext_original)
+
+        # Load translated versions if available
+        fulltext_zh_translated = _load_translated_fulltext(fw_dir, "guidance", entry, "zh")
+        fulltext_en_translated = _load_translated_fulltext(fw_dir, "guidance", entry, "en")
+
+        # For ZH page: prefer .zh.md translation, fallback to original if source is ZH
+        if source_lang == "zh":
+            fulltext_zh = fulltext_original
+            fulltext_en = fulltext_en_translated or fulltext_original
+        else:
+            fulltext_zh = fulltext_zh_translated or fulltext_original
+            fulltext_en = fulltext_original
+
+        is_zh_translated = source_lang != "zh" and bool(fulltext_zh_translated)
+        is_en_translated = source_lang != "en" and bool(fulltext_en_translated)
+
+        zh_path = DOCS_ZH / framework / "guidance" / f"{slug}.md"
+        zh_content = generate_guidance_page_zh(entry, fulltext_zh,
+                                               machine_translated=is_zh_translated)
+        if write_md(zh_path, zh_content, dry_run):
+            changed.append(str(zh_path.relative_to(ROOT)))
+            print(f"  {'WOULD WRITE' if dry_run else 'WROTE'}: {zh_path.relative_to(ROOT)}")
+
+        en_path = DOCS_EN / framework / "guidance" / f"{slug}.md"
+        en_content = generate_guidance_page_en(entry, fulltext_en,
+                                               machine_translated=is_en_translated)
+        if write_md(en_path, en_content, dry_run):
+            changed.append(str(en_path.relative_to(ROOT)))
+            print(f"  {'WOULD WRITE' if dry_run else 'WROTE'}: {en_path.relative_to(ROOT)}")
+
+    zh_idx = DOCS_ZH / framework / "guidance.md"
+    zh_idx_content = generate_guidance_index_zh(framework, entries, has_fulltext)
+    if write_md(zh_idx, zh_idx_content, dry_run):
+        changed.append(str(zh_idx.relative_to(ROOT)))
+        print(f"  {'WOULD WRITE' if dry_run else 'WROTE'}: {zh_idx.relative_to(ROOT)}")
+
+    en_idx = DOCS_EN / framework / "guidance.md"
+    en_idx_content = generate_guidance_index_en(framework, entries, has_fulltext)
+    if write_md(en_idx, en_idx_content, dry_run):
+        changed.append(str(en_idx.relative_to(ROOT)))
+        print(f"  {'WOULD WRITE' if dry_run else 'WROTE'}: {en_idx.relative_to(ROOT)}")
+
+    return changed
+
+
+def generate_standards(dry_run: bool = False) -> list[str]:
+    """Generate all EU MDR standards sub-pages. Returns list of changed files."""
+    standards_dir = ROOT / "eu_mdr" / "standards"
+    index_path = standards_dir / "_index.json"
+    if not index_path.exists():
+        print(f"  SKIP: {index_path} not found")
+        return []
+
+    index_data = load_json(index_path)
+    changed = []
+
+    for cat_slug, cat_info in index_data.get("categories", {}).items():
+        json_file = cat_info.get("file")
+        if not json_file:
+            continue
+        json_path = standards_dir / json_file
+        if not json_path.exists():
+            print(f"  WARN: {json_path} not found, skipping")
+            continue
+
+        data = load_json(json_path)
+
+        # Determine output slug (e.g. "biocompatibility" -> "biocompatibility.md")
+        slug = cat_slug.replace("_", "-")
+
+        # Generate ZH
+        zh_path = DOCS_ZH / "eu_mdr" / "standards" / f"{slug}.md"
+        zh_content = generate_standards_subpage_zh(cat_slug, data, index_data)
+        if write_md(zh_path, zh_content, dry_run):
+            changed.append(str(zh_path.relative_to(ROOT)))
+            print(f"  {'WOULD WRITE' if dry_run else 'WROTE'}: {zh_path.relative_to(ROOT)}")
+
+        # Generate EN
+        en_path = DOCS_EN / "eu_mdr" / "standards" / f"{slug}.md"
+        en_content = generate_standards_subpage_en(cat_slug, data, index_data)
+        if write_md(en_path, en_content, dry_run):
+            changed.append(str(en_path.relative_to(ROOT)))
+            print(f"  {'WOULD WRITE' if dry_run else 'WROTE'}: {en_path.relative_to(ROOT)}")
+
+    return changed
+
+
+def generate_shared_section(section: str, dry_run: bool = False) -> list[str]:
+    """Generate VitePress pages for _shared/ sections (iso_iec, imdrf).
+    Returns list of changed files."""
+    section_dir = ROOT / "_shared" / section
+    index_path = section_dir / "_index.json"
+    if not index_path.exists():
+        print(f"  SKIP: {index_path} not found")
+        return []
+
+    index_data = load_json(index_path)
+    entries = index_data.get("entries", [])
+    categories = index_data.get("categories")
+    changed = []
+
+    section_names = {
+        "iso_iec": {"en": "ISO/IEC International Standards", "zh": "ISO/IEC 国际标准"},
+        "imdrf": {"en": "IMDRF Technical Documents", "zh": "IMDRF 技术文件"},
+    }
+    sec_name = section_names.get(section, {"en": section.upper(), "zh": section.upper()})
+
+    has_fulltext = {}
+    for entry in entries:
+        eid = entry.get("id", "")
+        ft_path = section_dir / "fulltext" / f"{eid}.md"
+        has_fulltext[eid] = ft_path.exists()
+
+    for lang in ("zh", "en"):
+        docs_dir = DOCS_ZH if lang == "zh" else DOCS_EN
+        idx_path = docs_dir / "shared" / f"{section}.md"
+
+        lines = ["---"]
+        lines.append(f"title: {_yaml_safe(sec_name[lang])}")
+        lines.append("---")
+        lines.append("")
+        lines.append(f"# {sec_name[lang]}")
+        lines.append("")
+
+        if categories:
+            for cat_id, cat_info in categories.items():
+                cat_name = cat_info.get("name", {})
+                cat_label = cat_name.get(lang, cat_name.get("en", cat_id))
+                cat_entries = [e for e in entries if e.get("category") == cat_id]
+                if not cat_entries:
+                    continue
+                ft_count = sum(1 for e in cat_entries if has_fulltext.get(e.get("id", "")))
+                count_label = f" ({len(cat_entries)})" if len(cat_entries) > 1 else ""
+                lines.append(f"### [{cat_label}{count_label}](./{section}/{cat_id})")
+                lines.append("")
+
+            # Also generate per-category sub-pages
+            for cat_id, cat_info in categories.items():
+                cat_name = cat_info.get("name", {})
+                cat_label = cat_name.get(lang, cat_name.get("en", cat_id))
+                cat_entries = [e for e in entries if e.get("category") == cat_id]
+                if not cat_entries:
+                    continue
+
+                cat_lines = ["---"]
+                cat_lines.append(f"title: {_yaml_safe(cat_label)}")
+                cat_lines.append("---")
+                cat_lines.append("")
+                cat_lines.append(f"# {cat_label}")
+                cat_lines.append("")
+                for entry in cat_entries:
+                    _append_entry_line(cat_lines, entry, section, lang, has_fulltext,
+                                       link_prefix="./")
+                cat_lines.append("")
+
+                cat_path = docs_dir / "shared" / section / f"{cat_id}.md"
+                cat_content = "\n".join(cat_lines)
+                if write_md(cat_path, cat_content, dry_run):
+                    changed.append(str(cat_path.relative_to(ROOT)))
+                    print(f"  {'WOULD WRITE' if dry_run else 'WROTE'}: {cat_path.relative_to(ROOT)}")
+        else:
+            for entry in entries:
+                _append_entry_line(lines, entry, section, lang, has_fulltext)
+
+        lines.append("")
+        idx_content = "\n".join(lines)
+        if write_md(idx_path, idx_content, dry_run):
+            changed.append(str(idx_path.relative_to(ROOT)))
+            print(f"  {'WOULD WRITE' if dry_run else 'WROTE'}: {idx_path.relative_to(ROOT)}")
+
+    for entry in entries:
+        eid = entry.get("id", "")
+        slug = entry.get("slug", eid)
+        if not has_fulltext.get(eid):
+            continue
+
+        fulltext_en = _load_fulltext(section_dir.parent, section, entry)
+        if not fulltext_en:
+            fulltext_en = ""
+            ft_path = section_dir / "fulltext" / f"{eid}.md"
+            if ft_path.exists():
+                fulltext_en = ft_path.read_text(encoding="utf-8")
+        if not fulltext_en:
+            continue
+
+        fulltext_zh = ""
+        zh_path = section_dir / "fulltext" / f"{eid}.zh.md"
+        if zh_path.exists():
+            fulltext_zh = zh_path.read_text(encoding="utf-8")
+
+        for lang in ("zh", "en"):
+            docs_dir = DOCS_ZH if lang == "zh" else DOCS_EN
+            page_path = docs_dir / "shared" / section / f"{slug}.md"
+
+            fulltext = fulltext_zh if (lang == "zh" and fulltext_zh) else fulltext_en
+
+            title = entry.get("title", {})
+            if isinstance(title, dict):
+                t = title.get(lang, "") or title.get("en", "")
+            else:
+                t = str(title) if title else ""
+            source_url = entry.get("source_url", "")
+            doc_number = entry.get("standard_number", entry.get("doc_number", entry.get("document_number", "")))
+
+            page_lines = ["---"]
+            page_lines.append(f"title: {_yaml_safe(t)}")
+            page_lines.append("---")
+            page_lines.append("")
+            page_lines.append(f"# {t}")
+            page_lines.append("")
+            if doc_number:
+                page_lines.append(f"**{'Document' if lang == 'en' else '文件编号'}**: {doc_number}")
+                page_lines.append("")
+            if source_url:
+                tip_label = "Official Source" if lang == "en" else "官方来源"
+                page_lines.append(f"::: tip {tip_label}")
+                page_lines.append(f"[{source_url}]({source_url})")
+                page_lines.append(":::")
+                page_lines.append("")
+
+            if lang == "zh" and fulltext_zh:
+                page_lines.append("::: info")
+                page_lines.append("This content has been machine-translated from the English original.")
+                page_lines.append(":::")
+                page_lines.append("")
+
+            page_lines.append(FULLTEXT_MARKER)
+            page_lines.append("")
+            page_lines.append("---")
+            page_lines.append("")
+            ft_heading = "Full Text" if lang == "en" else "全文"
+            page_lines.append(f"## {ft_heading}")
+            page_lines.append("")
+            page_lines.append(_escape_vue_tags(fulltext))
+            page_lines.append("")
+            page_lines.append(FULLTEXT_END_MARKER)
+            page_lines.append("")
+
+            page_content = "\n".join(page_lines)
+            if write_md(page_path, page_content, dry_run):
+                changed.append(str(page_path.relative_to(ROOT)))
+                print(f"  {'WOULD WRITE' if dry_run else 'WROTE'}: {page_path.relative_to(ROOT)}")
+
+    return changed
+
+
+def _append_entry_line(lines: list, entry: dict, section: str, lang: str,
+                       has_fulltext: dict, link_prefix: str = ""):
+    """Append a single entry line to the index page.
+
+    link_prefix: override the relative path prefix for fulltext links.
+                 Default "" means use "./{section}/{slug}" (for main index).
+                 Pass "./" for sub-pages that are already inside the section dir.
+    """
+    title = entry.get("title", {})
+    if isinstance(title, dict):
+        t = title.get(lang, "") or title.get("en", "")
+    else:
+        t = str(title) if title else ""
+    eid = entry.get("id", "")
+    slug = entry.get("slug", eid)
+    source_url = entry.get("source_url", "")
+    doc_number = entry.get("standard_number", entry.get("doc_number", entry.get("document_number", "")))
+
+    prefix = f"**{doc_number}** " if doc_number else ""
+    if has_fulltext.get(eid):
+        rel = f"{link_prefix}{slug}" if link_prefix else f"./{section}/{slug}"
+        lines.append(f"- {prefix}[{t}]({rel})")
+    elif source_url:
+        lines.append(f"- {prefix}[{t}]({source_url})")
+    else:
+        lines.append(f"- {prefix}{t}")
+
+
+def verify_sync() -> list[str]:
+    """Check which Markdown files are out of sync with JSON data. Returns list of out-of-sync files."""
+    out_of_sync = []
+
+    # Check standards
+    standards_dir = ROOT / "eu_mdr" / "standards"
+    index_path = standards_dir / "_index.json"
+    if not index_path.exists():
+        print("  WARN: eu_mdr/standards/_index.json not found")
+        return out_of_sync
+
+    index_data = load_json(index_path)
+
+    for cat_slug, cat_info in index_data.get("categories", {}).items():
+        json_file = cat_info.get("file")
+        if not json_file:
+            continue
+        json_path = standards_dir / json_file
+        if not json_path.exists():
+            continue
+
+        data = load_json(json_path)
+        slug = cat_slug.replace("_", "-")
+
+        # Check ZH
+        zh_path = DOCS_ZH / "eu_mdr" / "standards" / f"{slug}.md"
+        zh_content = generate_standards_subpage_zh(cat_slug, data, index_data)
+        if zh_path.exists():
+            old = zh_path.read_text(encoding="utf-8")
+            if old.strip() != zh_content.strip():
+                out_of_sync.append(str(zh_path.relative_to(ROOT)))
+        else:
+            out_of_sync.append(str(zh_path.relative_to(ROOT)) + " (MISSING)")
+
+        # Check EN
+        en_path = DOCS_EN / "eu_mdr" / "standards" / f"{slug}.md"
+        en_content = generate_standards_subpage_en(cat_slug, data, index_data)
+        if en_path.exists():
+            old = en_path.read_text(encoding="utf-8")
+            if old.strip() != en_content.strip():
+                out_of_sync.append(str(en_path.relative_to(ROOT)))
+        else:
+            out_of_sync.append(str(en_path.relative_to(ROOT)) + " (MISSING)")
+
+    return out_of_sync
+
+
+# ---------------------------------------------------------------------------
+# CLI
+# ---------------------------------------------------------------------------
+def main():
+    parser = argparse.ArgumentParser(
+        description="Generate bilingual Markdown from JSON data layer"
+    )
+    parser.add_argument(
+        "--section",
+        choices=["standards", "guidance", "shared", "all"],
+        default="all",
+        help="Which section to generate (default: all)"
+    )
+    parser.add_argument(
+        "--dry-run",
+        action="store_true",
+        help="Preview changes without writing files"
+    )
+    parser.add_argument(
+        "--verify",
+        action="store_true",
+        help="Check sync status between JSON and Markdown"
+    )
+    args = parser.parse_args()
+
+    if args.verify:
+        print("Verifying JSON -> Markdown sync status...")
+        out_of_sync = verify_sync()
+        if out_of_sync:
+            print(f"\nOut of sync ({len(out_of_sync)} files):")
+            for f in out_of_sync:
+                print(f"  - {f}")
+            sys.exit(1)
+        else:
+            print("\nAll Markdown files are in sync with JSON data.")
+            sys.exit(0)
+
+    print(f"Generating Markdown from JSON data layer (dry_run={args.dry_run})...")
+    changed = []
+
+    if args.section in ("standards", "all"):
+        print("\n[Standards]")
+        changed.extend(generate_standards(dry_run=args.dry_run))
+
+    if args.section in ("guidance", "all"):
+        for fw in ["fda", "eu_mdr", "nmpa"]:
+            fw_guidance = ROOT / fw / "guidance" / "_index.json"
+            if fw_guidance.exists():
+                print(f"\n[Guidance: {fw}]")
+                changed.extend(generate_guidance(fw, dry_run=args.dry_run))
+
+    if args.section in ("shared", "all"):
+        for section in ["iso_iec", "imdrf"]:
+            section_index = ROOT / "_shared" / section / "_index.json"
+            if section_index.exists():
+                print(f"\n[Shared: {section}]")
+                changed.extend(generate_shared_section(section, dry_run=args.dry_run))
+
+    print(f"\nTotal: {len(changed)} files {'would be' if args.dry_run else ''} changed")
+    if changed:
+        for f in changed:
+            print(f"  {f}")
+
+    return 0 if not changed or not args.dry_run else 0
+
+
+if __name__ == "__main__":
+    sys.exit(main())

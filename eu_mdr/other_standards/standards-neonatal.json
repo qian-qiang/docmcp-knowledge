@@ -1,0 +1,82 @@
+{
+  "standards": [
+    {
+      "id": "eu_mdr-os-iec-60601-2-19-2009+amd1-2016",
+      "number": "IEC 60601-2-19:2020+AMD1:2023",
+      "title": {
+        "en": "Medical electrical equipment - Part 2-19: Particular requirements for the basic safety and essential performance of infant incubators",
+        "zh": "医用电气设备 - 第2-19部分：婴儿培养箱的基本安全和基本性能专用要求"
+      },
+      "status": "active",
+      "source_url": "https://webstore.iec.ch/en/publication/89860",
+      "source_verified": "",
+      "category": "neonatal",
+      "standard_type": "non_harmonised",
+      "scope": "Infant incubators.",
+      "applicable_gsprs": [
+        "14",
+        "14.6"
+      ],
+      "abstract": "Particular requirements for infant incubators.",
+      "title_en": "Medical electrical equipment - Part 2-19: Particular requirements for the basic safety and essential performance of infant incubators",
+      "title_zh": "医用电气设备 - 第2-19部分：婴儿保温箱基本安全和基本性能的特殊要求"
+    },
+    {
+      "id": "eu_mdr-os-iec-60601-2-20-2020",
+      "number": "IEC 60601-2-20:2020",
+      "title": {
+        "en": "Medical electrical equipment - Part 2-20: Particular requirements for the basic safety and essential performance of infant transport incubators",
+        "zh": "医用电气设备 - 第2-20部分：婴儿运输培养箱的基本安全和基本性能专用要求"
+      },
+      "status": "active",
+      "source_url": "https://webstore.iec.ch/en/publication/64027",
+      "source_verified": "",
+      "category": "neonatal",
+      "standard_type": "non_harmonised",
+      "scope": "Infant transport incubators.",
+      "applicable_gsprs": [
+        "14",
+        "14.6"
+      ],
+      "abstract": "Particular requirements for infant transport incubators."
+    },
+    {
+      "id": "eu_mdr-os-iec-60601-2-21-2020",
+      "number": "IEC 60601-2-21:2020+AMD1:2023",
+      "title": {
+        "en": "Medical electrical equipment - Part 2-21: Particular requirements for the basic safety and essential performance of infant radiant warmers",
+        "zh": "医用电气设备 - 第2-21部分：婴儿辐射保暖台的基本安全和基本性能专用要求"
+      },
+      "status": "active",
+      "source_url": "https://webstore.iec.ch/en/publication/89776",
+      "source_verified": "",
+      "category": "neonatal",
+      "standard_type": "non_harmonised",
+      "scope": "Infant radiant warmers.",
+      "applicable_gsprs": [
+        "14",
+        "14.6"
+      ],
+      "abstract": "Particular requirements for infant radiant warmers."
+    },
+    {
+      "id": "eu_mdr-os-iec-60601-2-50-2020",
+      "number": "IEC 60601-2-50:2020+AMD1:2023",
+      "title": {
+        "en": "Medical electrical equipment - Part 2-50: Particular requirements for the basic safety and essential performance of infant phototherapy equipment",
+        "zh": "医用电气设备 - 第2-50部分：婴儿光治疗设备的基本安全和基本性能专用要求"
+      },
+      "status": "active",
+      "source_url": "https://webstore.iec.ch/en/publication/89656",
+      "source_verified": "",
+      "category": "neonatal",
+      "standard_type": "non_harmonised",
+      "scope": "Infant phototherapy equipment.",
+      "applicable_gsprs": [
+        "14",
+        "14.6"
+      ],
+      "abstract": "Particular requirements for infant phototherapy equipment."
+    }
+  ]
+}

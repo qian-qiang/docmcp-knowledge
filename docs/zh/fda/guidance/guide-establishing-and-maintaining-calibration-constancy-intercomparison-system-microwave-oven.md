@@ -1,0 +1,65 @@
+---
+title: "微波合规性调查仪器的校准定位交换系统的建立和维护指南 (FDA 88-8264) ] (仅为PDF)"
+description: "Guide for Establishing and Maintaining a Calibration Constancy Intercomparison System for Microwave Oven Compliance Survey Instruments (FDA 88-8264)] (PDF Only)"
+published: 1988-03-01
+---
+
+# 微波合规性调查仪器的校准定位交换系统的建立和维护指南 (FDA 88-8264) ] (仅为PDF)
+
+**Guide for Establishing and Maintaining a Calibration Constancy Intercomparison System for Microwave Oven Compliance Survey Instruments (FDA 88-8264)] (PDF Only)**
+
+**发布日期**：1988-03-01
+
+**状态**：Final（最终）
+**类型**：Guidance Document
+**类别**：辐射 / 影像
+**受试者**：Radiological Health
+
+::: tip 官方来源
+[https://www.fda.gov/regulatory-information/search-fda-guidance-documents/guide-establishing-and-maintaining-calibration-constancy-intercomparison-system-microwave-oven](https://www.fda.gov/regulatory-information/search-fda-guidance-documents/guide-establishing-and-maintaining-calibration-constancy-intercomparison-system-microwave-oven)
+PDF：[https://www.fda.gov/media/74066/download](https://www.fda.gov/media/74066/download)
+:::
+
+::: info
+本内容由英文原文机器辅助翻译，并经结构校对。如有歧义，以英文官方文本为准。
+:::
+
+<!-- fulltext-start -->
+
+---
+
+## 官方文件全文
+
+本指南说明如何建立并维持用于微波炉泄漏测量仪器的校准恒定性比对系统，以确保辐射泄漏测试结果可靠并符合联邦微波炉性能标准相关测量期望。
+
+## 目的与范围
+
+微波炉制造商与测试实验室需要可溯源、稳定的功率密度测量能力。本指南描述通过比对系统保持场强仪/探头校准恒定性的推荐做法，包括参考仪器、工作标准、比对频率、记录与超差处理。
+
+## 系统要素
+
+- **参考标准仪器**：更高一级或经外部校准实验室校准的仪器；
+- **工作标准**：日常用于生产测试的仪器；
+- **比对程序**：在规定的微波泄漏源或校准器械上同时或依次读数；
+- **接受限**：参考与工作仪器读数差异的控制限；
+- **环境与几何控制**：固定距离、取向、背景与暖机时间。
+
+## 建立程序
+
+1. 选择合适频率与功率水平的校准/比对源；
+2. 确定参考仪器溯源链；
+3. 书面规定比对步骤、数据采集与统计处理（重复测量、平均值、偏差）；
+4. 培训人员并考核；
+5. 试运行以确认重复性。
+
+## 维持与质量控制
+
+按计划频率（例如每日/每周/每批）执行比对；绘制控制图；超差时停用仪器、调查原因、重新校准并评估对已测产品的影响。保存全部校准证书、比对数据与纠正措施记录。
+
+## 与合规测试的关系
+
+生产线泄漏测量必须使用处于校准状态的仪器。比对系统是证明测量体系持续可靠的重要证据，可在FDA检查中审阅。
+
+## 注意事项
+
+本历史指南中的具体器械型号与数值限可能已由更现代的计量实践取代；实施时应结合现行微波炉性能标准、认可测量标准以及实验室质量管理体系（例如ISO/IEC 17025原则）更新程序，同时保持本指南的核心思想：溯源、恒定性监控与完整记录。

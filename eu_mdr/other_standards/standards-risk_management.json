@@ -1,0 +1,93 @@
+{
+  "standards": [
+    {
+      "id": "iso-14971-2019",
+      "number": "ISO 14971:2019",
+      "title": {
+        "en": "Medical devices — Application of risk management to medical devices",
+        "zh": "医疗器械 - 风险管理在医疗器械中的应用"
+      },
+      "status": "active",
+      "source_url": "https://www.iso.org/standard/72704.html",
+      "scope": {
+        "en": "Risk management throughout device lifecycle",
+        "zh": ""
+      },
+      "standard_type": "non_harmonised",
+      "applicable_gsprs": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8",
+        "9"
+      ],
+      "abstract": "Specifies terminology, principles and a process for risk management of medical devices, including in vitro diagnostic devices."
+    },
+    {
+      "id": "iso-tr-24971-2020",
+      "number": "ISO/TR 24971:2020",
+      "title": {
+        "en": "Medical devices - Guidance on the application of ISO 14971",
+        "zh": "医疗器械 - ISO 14971应用指南"
+      },
+      "status": "active",
+      "applicable_gsprs": [
+        "2",
+        "3",
+        "3(e)",
+        "3(a)",
+        "3(c)",
+        "3(b)"
+      ],
+      "standard_type": "non_harmonised",
+      "source_url": "https://www.iso.org/standard/74437.html",
+      "abstract": "Provides guidance on the application of ISO 14971 risk management to medical devices.",
+      "scope": "Medical devices -- Guidance on the application of ISO 14971 for risk management of medical devices.",
+      "source_verified": "2026-06-27"
+    },
+    {
+      "id": "iec-80001-1-2021-rm",
+      "number": "IEC 80001-1:2021",
+      "title": {
+        "en": "Application of risk management for IT-networks incorporating medical devices - Part 1: Safety, effectiveness and security in the implementation and use of connected medical devices or connected health software",
+        "zh": "IT网络中纳入医疗器械的风险管理应用 - 第1部分：联网医疗器械或联网健康软件的实施和使用中的安全性、有效性和网络安全"
+      },
+      "status": "active",
+      "applicable_gsprs": [
+        "1",
+        "2",
+        "3",
+        "17"
+      ],
+      "standard_type": "non_harmonised",
+      "source_url": "https://webstore.iec.ch/en/publication/34263",
+      "source_verified": "2026-06-27",
+      "abstract": "Specifies requirements for risk management when medical devices or health software are incorporated into IT-networks. Edition 2.",
+      "scope": "Risk management for IT networks incorporating medical devices and health software."
+    },
+    {
+      "id": "iso-24971-annex-zz",
+      "number": "EN ISO 14971:2019/A11:2021",
+      "title": {
+        "en": "Medical devices - Application of risk management to medical devices - Annex ZA/ZB/ZC (EU regulatory deviation)",
+        "zh": "医疗器械 - 医疗器械风险管理的应用 - 附录ZA/ZB/ZC（欧盟法规偏差）"
+      },
+      "status": "active",
+      "applicable_gsprs": [
+        "1",
+        "2",
+        "3"
+      ],
+      "standard_type": "harmonised",
+      "source_url": "https://standards.iteh.ai/catalog/standards/cen/b435080b-ca83-4c7a-804b-055ea4ca3c82/en-iso-14971-2019-a11-2021",
+      "source_verified": "2026-06-27",
+      "abstract": "Adds Annexes ZA, ZB, and ZC to EN ISO 14971:2019, covering deviations from ISO 14971 required by EU MDR and IVDR. Critical for EU harmonized standard compliance.",
+      "scope": "EU-specific annexes for risk management (GSPR correlation and deviations).",
+      "note": "Must be used together with EN ISO 14971:2019 for EU MDR presumption of conformity."
+    }
+  ]
+}

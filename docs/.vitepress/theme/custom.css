@@ -1,0 +1,165 @@
+/* Wider sidebar to prevent logo/title overflow and accommodate long Chinese titles */
+:root {
+  --vp-sidebar-width: 320px;
+}
+
+/* Ensure sidebar text doesn't overflow */
+.VPSidebar .items .item .text {
+  word-break: break-all;
+  overflow-wrap: break-word;
+}
+
+/* Better table display for long content — horizontal scroll on overflow */
+.vp-doc table {
+  display: block;
+  overflow-x: auto;
+  -webkit-overflow-scrolling: touch;
+  max-width: 100%;
+  border-collapse: collapse;
+}
+
+.vp-doc th,
+.vp-doc td {
+  min-width: 80px;
+  max-width: 480px;
+  word-break: break-word;
+  overflow-wrap: break-word;
+}
+
+/* Footnote references rendered as [^n]: — style as small muted text */
+.vp-doc .footnotes,
+.vp-doc p:has(> a[href^="#fn"]) {
+  font-size: 0.85em;
+  color: var(--vp-c-text-2);
+}
+
+/* Hub pages: full-width layout, no padding constraints */
+.VPPage .rv-hub {
+  width: 100%;
+}
+.VPPage .vp-doc {
+  padding: 0 !important;
+  max-width: 100% !important;
+}
+
+/* Hub uses its own left nav; hide empty VitePress sidebar */
+html.hub-page-active .VPSidebar,
+html.hub-page-active .VPLocalNav {
+  display: none !important;
+}
+html.hub-page-active .VPContent.has-sidebar,
+html.hub-page-active .VPContent {
+  padding-left: 0 !important;
+}
+html.hub-page-active .VPDoc.has-sidebar .content,
+html.hub-page-active .VPDoc .content {
+  padding: 0 !important;
+}
+html.hub-page-active .VPDoc .container {
+  max-width: 100% !important;
+  margin: 0 !important;
+}
+
+/* Fix VitePress nav bar transparency on Hub pages:
+   Ensure nav bar is fully opaque so Hub banner doesn't bleed through on scroll. */
+.VPNav {
+  background: var(--vp-c-bg) !important;
+}
+.VPNavBar .content {
+  background: var(--vp-c-bg) !important;
+}
+.VPNavBar {
+  background: var(--vp-c-bg) !important;
+}
+.VPNavBar .content-body {
+  background: var(--vp-c-bg) !important;
+}
+
+/*
+ * Nav chrome: keep flyouts (EU / Resources) unclipped, and keep
+ * appearance / GitHub controls on screen.
+ *
+ * Do NOT set overflow-x/y on .VPNavBarMenu -- that clips VPFlyout menus.
+ */
+.VPNav {
+  z-index: 64 !important;
+}
+.VPNavBar {
+  z-index: 64 !important;
+}
+.VPNavBar .container,
+.VPNavBar .content,
+.VPNavBar .content-body {
+  overflow: visible !important;
+}
+.VPNavBar .content-body {
+  display: flex !important;
+  align-items: center;
+  gap: 4px;
+  min-width: 0;
+}
+.VPNavBarMenu {
+  flex: 0 1 auto;
+  min-width: 0;
+  overflow: visible !important;
+}
+.VPNavBarMenu .VPFlyout,
+.VPNavBarMenu .VPFlyout .menu {
+  z-index: 70 !important;
+}
+.VPNavBar .VPNavBarAppearance,
+.VPNavBar .VPSocialLinks,
+.VPNavBar .VPNavBarExtra,
+.VPNavBar .VPNavBarHamburger {
+  flex: 0 0 auto !important;
+  flex-shrink: 0 !important;
+}
+
+/* The site keeps both language routes for direct links, but does not expose
+ * a language switcher in the navigation. */
+.VPNavBarTranslations,
+.VPNavScreenTranslations {
+  display: none !important;
+}
+
+/* Shrink local search so trailing icons are not pushed off-screen */
+.VPNavBarSearch {
+  flex: 0 1 180px;
+  min-width: 120px;
+  max-width: 200px;
+}
+.VPNavBarSearch .DocSearch-Button,
+.VPNavBarSearch button {
+  width: 100%;
+  max-width: 200px;
+  justify-content: flex-start;
+}
+/* Slightly tighter menu item padding on medium widths */
+@media (max-width: 1280px) {
+  .VPNavBarMenu .VPNavBarMenuLink,
+  .VPNavBarMenu .VPNavBarMenuGroup .button {
+    padding-left: 8px !important;
+    padding-right: 8px !important;
+  }
+}
+
+/* Hub embed mode: hide VitePress chrome when loaded inside an iframe with ?embed=true */
+html.hub-embed-mode .VPNav,
+html.hub-embed-mode .VPSidebar,
+html.hub-embed-mode .VPFooter,
+html.hub-embed-mode .VPLocalNav {
+  display: none !important;
+}
+html.hub-embed-mode .VPContent {
+  padding-top: 0 !important;
+  padding-left: 0 !important;
+}
+html.hub-embed-mode .VPContent .VPPage {
+  padding-top: 0 !important;
+}
+html.hub-embed-mode body {
+  overflow-x: hidden;
+}
+html.hub-embed-mode .rv-hub {
+  min-height: 100vh;
+}

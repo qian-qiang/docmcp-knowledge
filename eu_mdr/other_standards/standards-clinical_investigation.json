@@ -1,0 +1,48 @@
+{
+  "standards": [
+    {
+      "id": "eu_mdr-os-iso-14155-2026",
+      "number": "ISO 14155:2026",
+      "title": {
+        "en": "Clinical investigation of medical devices for human subjects - Good clinical practice",
+        "zh": "用于人体对象的医疗器械临床研究 - 良好临床实践"
+      },
+      "status": "active",
+      "applicable_gsprs": [
+        "1",
+        "14.2",
+        "14.2.b",
+        "23.4",
+        "23.4.d"
+      ],
+      "standard_type": "non_harmonised",
+      "source_url": "https://www.iso.org/standard/83968.html",
+      "source_verified": "2026-06-27",
+      "abstract": "Specifies good clinical practice (GCP) for the design, conduct, recording and reporting of clinical investigations carried out in human subjects to assess the clinical performance or effectiveness and safety of medical devices. Fourth edition, replaces ISO 14155:2020.",
+      "scope": {
+        "en": "Clinical investigation of medical devices - GCP",
+        "zh": ""
+      },
+      "note": "Fourth edition published 2026-03-23. Replaces ISO 14155:2020 immediately with no transition period."
+    },
+    {
+      "id": "iso-20916-2019",
+      "number": "ISO 20916:2019",
+      "title": {
+        "en": "In vitro diagnostic medical devices - Clinical performance studies using specimens from human subjects - Good study practice",
+        "zh": "体外诊断医疗器械 - 用于近患者检测（POCT）的临床性能研究"
+      },
+      "status": "active",
+      "applicable_gsprs": [
+        "1",
+        "6",
+        "8"
+      ],
+      "standard_type": "non_harmonised",
+      "source_url": "https://www.iso.org/standard/69455.html",
+      "abstract": "Specifies requirements for clinical performance studies of in vitro diagnostic medical devices using specimens from human subjects.",
+      "scope": "In vitro diagnostic medical devices -- Clinical performance studies using specimens from human subjects -- Good study practice.",
+      "source_verified": "2026-06-24"
+    }
+  ]
+}

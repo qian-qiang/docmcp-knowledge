@@ -1,0 +1,165 @@
+# Plans & Pricing
+
+## Plan Overview
+
+| Plan | Monthly | Yearly | Monthly Credits | Best For |
+|------|---------|--------|----------------|----------|
+| Trial | Free | - | 150 | New users (30-day trial) |
+| Starter | $15/mo | $150/yr | 150 | Light usage, independent consultants |
+| Basic | $50/mo | $500/yr | 500 | Individual RA professionals |
+| Pro | $130/mo | $1,300/yr | 1,200 | Teams (3 seats included, add up to 5) |
+| Max | $1,150/mo | $11,500/yr | 15,000 | Large teams (10 seats included; extra by agreement) |
+| CRO | $1,150/mo | $11,500/yr | 15,000 | CRO organizations |
+
+::: info Annual Discount
+Yearly pricing equals 10 months of monthly billing -- get 2 months free.
+:::
+
+## Extra team seats
+
+Pro / Max / CRO enterprise organizations can add team accounts. Members share the organization's Credits.
+
+| Plan | Included seats | Add-on rules | Add-on price | Credits |
+|------|----------------|--------------|--------------|---------|
+| **Pro** | 3 | Up to **2** extra seats (hard cap **5**). **First subscription year includes 1 complimentary extra seat** (total 4); from year 2, extra seats bill at Starter | Seats 4–5 billed at the **Starter** same-period rate: $15/seat/mo, $150/seat/yr | No extra Credits |
+| **Max** | 10 | Extra seats by written agreement (system cap 50) | **Not auto-priced**; amount is on the quote or written addendum | No extra Credits |
+| **CRO** | 10 | Same as Max | Same as Max | No extra Credits |
+
+Pro teams that need 6 or more seats should upgrade to Max. Extra seats only add login accounts; they **do not** increase the plan's AI Credits or translation quota. The complimentary 4th Pro seat applies to the first subscription year only.
+
+## Feature Comparison
+
+| Feature | Trial | Starter | Basic | Pro | Max | CRO |
+|---------|:-----:|:-------:|:-----:|:---:|:---:|:---:|
+| EU MDR Clinical Evaluation | v | v | v | v | v | v |
+| Risk Management | v | v | v | v | v | v |
+| Device Classification | v | v | v | v | v | v |
+| Equivalent Device Research | v | v | v | v | v | v |
+| Translation Tool | v | v | v | v | v | v |
+| EUDAMED UDI | v | v | v | v | v | v |
+| Knowledge Base | v | v | v | v | v | v |
+| GSPR Compliance | - | - | - | v | v | v |
+| PMS Plan | - | - | - | v | v | v |
+| PMCF Plan | - | - | - | v | v | v |
+| Clinical Evaluation Update | - | - | - | v | v | v |
+| PMCF Evaluation Report | - | - | - | v | v | v |
+| Periodic Safety Update Report | - | - | - | v | v | v |
+| NMPA Registration | - | - | - | v | v | v |
+| Team Accounts | - | - | - | 3 (add up to 5; year-1 gift of 1) | 10 (extra by agreement) | 10 (extra by agreement) |
+| CRM Client Management | - | - | - | - | - | v |
+| Custom Model Selection | - | - | - | - | v | - |
+| Two-Factor Auth (2FA) | - | Required | Required | Required | Required | Required |
+
+::: tip CRO Plan
+The CRO plan includes all Max-tier features plus CRM client management, designed for CRO organizations managing multiple client projects.
+
+Already have an Assistant account, or applying for CRM portal access? Read [Assistant vs CRM](./crm-and-assistant) so you do not confuse portal collaboration with Assistant plans / Credits.
+:::
+
+## Credits
+
+Reguverse uses **Credits** to measure AI service usage. 1 Credit is approximately equivalent to $0.10 USD. Consumption depends on content complexity and length.
+
+**Credit usage follows Qwen model pricing.** The service uses the latest stable Qwen model; a model upgrade may consume more credits for the same task. Figures below are estimates under the current meter; the Account page balance is authoritative.
+
+### Typical Usage
+
+| Operation | Approx. Consumption |
+|-----------|-------------------|
+| Clinical evaluation single step | 3 - 14 Credits |
+| Complete clinical evaluation (10 steps, ~200 articles) | 55 - 140 Credits |
+| Complete clinical evaluation (10 steps, 500+ articles) | 280 - 560 Credits |
+| Document generation -- single document (CEP or CER) | 30 - 55 Credits |
+| Document generation -- DCR | 7 - 14 Credits |
+| Document generation -- full set (CEP + CER + DCR) | 65 - 125 Credits |
+| GSPR compliance check (complete) | 20 - 55 Credits |
+| Technical documentation gap analysis | Varies with file count and chapter scope; a large TD can reach several hundred Credits |
+| AI tool single invocation | 1 - 6 Credits |
+
+::: warning Impact of Literature Volume on Credit Consumption
+In clinical evaluation, **Literature Screening (Step 4)** and **Full-text Appraisal (Step 7)** require the AI to analyze each article individually. These are the most credit-intensive steps, and the number of articles directly determines total consumption.
+
+The "Total Evaluation" column below includes all 10 steps **+ full document generation (CEP + CER + DCR)**:
+
+| Article Count | Est. Step 4 Consumption | Est. Total Evaluation (incl. docs) | Recommended Plan |
+|--------------|------------------------|-----------------------------------|-----------------|
+| ~50 articles | 15 - 30 Credits | 105 - 210 Credits | Starter / Basic |
+| ~200 articles | 55 - 110 Credits | 180 - 335 Credits | Basic / Pro |
+| ~500 articles | 140 - 280 Credits | 350 - 615 Credits | Pro |
+| 800+ articles | 280 - 560 Credits | 560 - 965 Credits | Pro or above |
+
+**Even if you manually write the search strategy (Step 3), Step 4 literature screening still requires the AI to process each article individually**, so more uploaded articles mean higher consumption. For large literature sets, consider pre-screening articles before uploading to optimize costs.
+:::
+
+::: info
+Actual consumption depends on input content length and complexity. Above values are estimates only.
+:::
+
+### Credit Top-up
+
+All paid plans support purchasing additional Credits:
+
+| Plan | Price (per 20 Credits) |
+|------|----------------------|
+| Starter / Basic | $9 |
+| Pro | $8 |
+| Max | $7 |
+| CRO | $5 |
+
+Top-up Credits do not expire and carry over across billing periods.
+
+### Bulk top-up packs (all paid plans)
+
+Small packs (20 Credits) still use the per-plan rates above. Bulk packs use a **unified rate** of about **¥1.30 / Credit** (USD $0.186 at 1:7). That is cheaper than the small pack, still higher than the annual-plan bundled rate, and is meant only for short bursts of extra usage — **not** as a substitute for upgrading or renewing.
+
+| Pack | USD | Approx. CNY | Unit rate |
+|------|----:|------------:|----------:|
+| **500 Credits** | $93 | ¥651 | ¥1.30 / Credit |
+| **2,000 Credits** | $372 | ¥2,604 | ¥1.30 / Credit |
+
+### Translation Credits
+
+Translation tool uses a **separate billing** system, independent from monthly AI Credits:
+
+| Billing | Price |
+|---------|-------|
+| Translation top-up | $70 / million tokens |
+
+Translation usage is not deducted from monthly Credits. Separate translation credits must be purchased.
+
+## FAQ
+
+### What happens when Credits run out?
+
+You can purchase top-up Credits at any time. Top-up Credits don't expire.
+
+### Can I upgrade or downgrade?
+
+**Monthly plan upgrades**: You can choose to activate immediately or at the end of the current billing period.
+- **Activate immediately**: The new plan takes effect right away. Your current monthly credits will be reset to the new plan's allocation. Top-up credits carry over.
+- **At period end** (default): The new plan will activate automatically when your current billing period expires.
+
+**Annual plan upgrades**: Moving to a higher plan (for example Pro to Max) takes effect at the end of the current annual billing period. Immediate activation is not available.
+
+**Early renewal (same annual plan)**: Annual subscribers can pay the next year's **same-plan** fee before expiry. After payment, one year of plan Credits is added on top of the remaining balance (unused plan Credits are not forfeited), and the expiry date is extended by twelve months from the original end date. Each account may prepay at most one billing year; if more than twelve months remain, wait until remaining time is under twelve months. Early renewal is not an upgrade.
+
+**Renewals at expiry**: If you do not use early renewal, renewing the same plan takes effect when the current billing period expires.
+
+**Downgrades**: Regardless of billing period, downgrades take effect at the end of the current billing period.
+
+### Can I get a refund?
+
+All subscription fees are non-refundable once paid, regardless of monthly or annual billing. You can upgrade to a higher plan at any time.
+
+### How do team accounts work?
+
+Pro includes 3 seats and can add 2 more (hard cap 5); seats 4–5 are billed at the Starter same-period rate and do not add Credits. **The first subscription year includes one complimentary extra seat** (total 4); from year 2, extra seats bill at Starter. Max / CRO include 10 seats; extra seats are agreed in writing (not auto-priced, no extra Credits). Team members share the organization's credit pool. See [Extra team seats](#extra-team-seats).
+
+### Are Assistant and CRM two products? How are Credits billed?
+
+Different purpose, same AI: Assistant is the documentation tool; CRM is the CRO client portal and operations platform (it calls the same Assistant API). Requesting portal access is not a separate Assistant purchase; Credits still bill to the account that initiates the AI call. See [Assistant vs CRM](./crm-and-assistant).
+
+## Next Steps
+
+- [Create EU MDR Project](./eu-create-project) -- Start using core features
+- [Assistant vs CRM](./crm-and-assistant) -- Read before applying for portal access if you already have an account

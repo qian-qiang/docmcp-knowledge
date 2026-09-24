@@ -1,0 +1,3080 @@
+{
+  "framework": "fda",
+  "last_updated": "2026-09-22T21:57:15Z",
+  "items": [
+    {
+      "id": "fda_20260922_ventilator_recall_coopersurgical_removes_inca_infant_nasal_c",
+      "framework": "fda",
+      "category": "cdrh_news",
+      "title": {
+        "en": "Ventilator Recall: CooperSurgical Removes INCA Infant Nasal CPAP Sets",
+        "zh": "CooperSurgical召回INCA婴儿鼻CPAP套件（呼吸机相关）"
+      },
+      "summary": {
+        "en": "FDA announced that CooperSurgical is removing INCA Infant Nasal CPAP Sets, which are used with ventilators for infant respiratory support. The recall affects healthcare facilities and neonatal patients using these CPAP sets. Facilities should immediately identify and quarantine affected products, discontinue use, and follow CooperSurgical's recall instructions for return or replacement.",
+        "zh": "FDA发布通告，CooperSurgical正在召回INCA婴儿经鼻CPAP套件，该产品与呼吸机配套用于婴儿呼吸支持。受影响的是使用该套件的医疗机构及新生儿患者。相关机构应立即停止使用并隔离受影响产品，按照CooperSurgical的通知进行退回或更换。"
+      },
+      "source_url": "https://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/ventilator-recall-coopersurgical-removes-inca-infant-nasal-cpap-sets",
+      "source_name": "FDA",
+      "published_date": "2026-09-22",
+      "detected_date": "2026-09-22T21:56:33Z",
+      "importance": "high",
+      "tags": [
+        "recall",
+        "ventilator",
+        "neonatal_cpap"
+      ],
+      "related_docs": [],
+      "status": "published"
+    },
+    {
+      "id": "fda_20260922_avid_medical_convenience_kit_correction_huons_sodium_chlorid",
+      "framework": "fda",
+      "category": "cdrh_news",
+      "title": {
+        "en": "AVID Medical Convenience Kit Correction: Huons Sodium Chloride Ampules",
+        "zh": "AVID Medical 对含 Huons 氯化钠安瓿的便利包发布纠正措施"
+      },
+      "summary": {
+        "en": "FDA CDRH posted a correction notice from AVID Medical concerning convenience kits that contain Huons Sodium Chloride Ampules. Healthcare providers and distributors who received these AVID Medical kits should identify and quarantine affected inventory and follow the company’s correction instructions. No separate deadline is specified in the alert; users should monitor the FDA page and AVID Medical communications for updates.",
+        "zh": "FDA CDRH 发布 AVID Medical 的纠正通知，涉及含有 Huons 氯化钠安瓿的便利包。持有相关 AVID Medical 便利包的医疗机构和经销商应识别并隔离受影响产品，并遵循公司的纠正指示。该警报未单独列出截止日期，用户应关注 FDA 页面和 AVID Medical 的后续通知。"
+      },
+      "source_url": "https://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/convenience-kit-correction-avid-medical-issues-correction-kits-containing-huons-sodium-chloride",
+      "source_name": "FDA",
+      "published_date": "2026-09-22",
+      "detected_date": "2026-09-22T21:56:51Z",
+      "importance": "high",
+      "tags": [
+        "medical_device_correction",
+        "convenience_kits",
+        "sodium_chloride_ampules"
+      ],
+      "related_docs": [],
+      "status": "published"
+    },
+    {
+      "id": "fda_20260922_spectra_medical_recalls_sodium_chloride_injection_usp_ampule",
+      "framework": "fda",
+      "category": "cdrh_news",
+      "title": {
+        "en": "Spectra Medical Recalls Sodium Chloride Injection USP Ampules Used for Flushing",
+        "zh": "Spectra Medical召回用于冲洗的氯化钠注射液USP安瓿"
+      },
+      "summary": {
+        "en": "FDA posted a recall notice for Spectra Medical’s Sodium Chloride Injection USP ampules, which are used as sodium chloride flushes. Healthcare facilities and providers should immediately identify and quarantine affected ampules and follow Spectra Medical’s return or disposal instructions. The recall is due to a lack of sterility assurance, which may lead to serious infections.",
+        "zh": "FDA发布了一则关于Spectra Medical氯化钠注射液USP安瓿的召回通知，该产品用于氯化钠冲洗。医疗机构和医护人员应立即停止使用受影响批号的产品，隔离库存并按照Spectra Medical的退货或处置说明执行。该召回因无菌保证不足，可能导致严重感染。"
+      },
+      "source_url": "https://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/sodium-chloride-flush-recall-spectra-medical-removes-sodium-chloride-injection-usp-ampules",
+      "source_name": "FDA",
+      "published_date": "2026-09-22",
+      "detected_date": "2026-09-22T21:57:06Z",
+      "importance": "high",
+      "tags": [
+        "recall",
+        "sterility_assurance",
+        "sodium_chloride_flush"
+      ],
+      "related_docs": [],
+      "status": "published"
+    },
+    {
+      "id": "fda_20260922_fda_cdrh_town_hall_on_biocompatibility_risk_assessment_septe",
+      "framework": "fda",
+      "category": "cdrh_news",
+      "title": {
+        "en": "FDA CDRH Town Hall on Biocompatibility Risk Assessment – September 9, 2026",
+        "zh": "FDA CDRH 生物相容性风险评估市民会议（2026年9月9日）"
+      },
+      "summary": {
+        "en": "FDA’s Center for Devices and Radiological Health (CDRH) announced a town hall on biocompatibility risk assessment scheduled for September 9, 2026. The event is intended for medical device manufacturers, regulatory affairs professionals, and biocompatibility specialists. Stakeholders should attend or submit questions to gain insight into CDRH’s current expectations and best practices for biocompatibility evaluation.",
+        "zh": "FDA 医疗器械与放射健康中心（CDRH）宣布将于 2026 年 9 月 9 日举办生物相容性风险评估市民会议。该会议面向医疗器械制造商、法规事务人员和生物相容性相关专业人员。建议相关方参会或提交问题，以了解 CDRH 当前对生物相容性评估的要求与最佳实践。"
+      },
+      "source_url": "https://www.fda.gov/medical-devices/medical-devices-news-and-events/town-hall-biocompatibility-risk-assessment-09092026",
+      "source_name": "FDA",
+      "published_date": "2026-09-22",
+      "detected_date": "2026-09-22T21:57:15Z",
+      "importance": "medium",
+      "tags": [
+        "biocompatibility",
+        "risk_assessment",
+        "cdrh",
+        "town_hall",
+        "medical_devices"
+      ],
+      "related_docs": [],
+      "status": "published"
+    },
+    {
+      "id": "fda_20260922_class_i_recall_medical_action_single_shot_epidural_kits_ref",
+      "framework": "fda",
+      "category": "recall_class1",
+      "title": {
+        "en": "Class I Recall: Medical Action Single Shot Epidural Kits (REF 59553) Due to Compromised Sterility",
+        "zh": "Medical Action单次硬膜外穿刺套件（REF 59553）因无菌问题I级召回"
+      },
+      "summary": {
+        "en": "FDA has classified this as a Class I recall. Medical Action Industries, Inc. is recalling 3,606 Single Shot Epidural 20/Cs kits (REF: 59553 and related REF) because they contain Sodium Chloride ampules subject to another recall due to potentially compromised sterility, posing a serious infection risk. Affected kits should be immediately quarantined, not used, and returned per the firm's recall instructions.",
+        "zh": "FDA已将此项行动列为I级召回。Medical Action Industries, Inc. 正在召回3,606套单次硬膜外20/Cs套件（REF: 59553及相关REF），原因是其中含有的氯化钠安瓿因无菌性可能受损而被另一项召回涉及，存在严重感染风险。相关套件应立即隔离、停止使用，并按企业召回说明退回。"
+      },
+      "source_url": "https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfres/res.cfm?id=Z-3107-2026",
+      "source_name": "FDA CDRH",
+      "published_date": "2026-09-16",
+      "detected_date": "2026-09-22T21:55:58Z",
+      "importance": "high",
+      "tags": [
+        "class_i_recall",
+        "epidural_kit",
+        "sterility"
+      ],
+      "related_docs": [],
+      "status": "published"
+    },
+    {
+      "id": "fda_20260922_medical_action_industries_recalls_epidural_pain_kit_ref_8246",
+      "framework": "fda",
+      "category": "recall_class1",
+      "title": {
+        "en": "Medical Action Industries Recalls Epidural/Pain Kit REF 82465 Due to Potential Sterility Compromise",
+        "zh": "Medical Action Industries召回REF 82465硬膜外/疼痛套件，涉无菌受损"
+      },
+      "summary": {
+        "en": "Medical Action Industries, Inc. is recalling its Kit: Epidural/Pain TQC 20/Cs, REF 82465, because the kits contain sodium chloride injection ampules subject to another recall for potentially compromised sterility. This Class I recall covers 1,960 kits and poses a risk of serious infection if compromised components are used. Healthcare providers should immediately quarantine and discontinue use of affected kits and follow the firm’s recall instructions.",
+        "zh": "Medical Action Industries, Inc.正在召回其硬膜外/疼痛套件（REF 82465），原因是套件中所含氯化钠注射液安瓿因可能无菌受损而被另行召回。本次I级召回涉及1,960套，若使用受污染组件可能引发严重感染。医疗机构应立即隔离并停用受影响产品，并按公司召回通知处理。"
+      },
+      "source_url": "https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfres/res.cfm?id=Z-3106-2026",
+      "source_name": "FDA CDRH",
+      "published_date": "2026-09-16",
+      "detected_date": "2026-09-22T21:56:09Z",
+      "importance": "high",
+      "tags": [
+        "class_i_recall",
+        "compromised_sterility",
+        "epidural_pain_kit"
+      ],
+      "related_docs": [],
+      "status": "published"
+    },
+    {
+      "id": "fda_20260922_class_i_recall_given_imaging_bravo_cf_capsule_delivery_devic",
+      "framework": "fda",
+      "category": "recall_class1",
+      "title": {
+        "en": "Class I Recall: Given Imaging Bravo CF Capsule Delivery Device FGS-0635 (Z-3090-2026)",
+        "zh": "Given Imaging Bravo CF 胶囊输送装置 FGS-0635 一级召回"
+      },
+      "summary": {
+        "en": "The FDA posted a Class I recall (Z-3090-2026) for Given Imaging Ltd.’s Bravo CF capsule delivery device, 5-pack, product number FGS-0635. The capsule may fail to attach to the esophagus or detach from the delivery device, creating risks of aspiration/inhalation, esophageal perforation, airway obstruction, and hemorrhage/blood loss. The recall involves 127,416 units. Healthcare providers should immediately quarantine affected devices and follow Given Imaging’s recall instructions.",
+        "zh": "FDA 发布一级召回（Z-3090-2026），涉及 Given Imaging Ltd. 的 Bravo CF 胶囊输送装置 5 件装，产品编号 FGS-0635。该胶囊可能无法附着于食管或从输送装置脱落，可能导致误吸/吸入、食管穿孔、气道阻塞和出血/失血。召回数量为 127,416 件。医疗机构应立即隔离受影响器械，并遵循 Given Imaging 的召回通知。"
+      },
+      "source_url": "https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfres/res.cfm?id=Z-3090-2026",
+      "source_name": "FDA CDRH",
+      "published_date": "2026-09-16",
+      "detected_date": "2026-09-22T21:56:18Z",
+      "importance": "high",
+      "tags": [
+        "class_i_recall",
+        "medical_device_recall",
+        "capsule_delivery_device",
+        "patient_safety"
+      ],
+      "related_docs": [],
+      "status": "published"
+    },
+    {
+      "id": "fda_20260915_fda_announces_medtronic_and_given_imaging_recall_of_esophage",
+      "framework": "fda",
+      "category": "cdrh_news",
+      "title": {
+        "en": "FDA Announces Medtronic and Given Imaging Recall of Esophageal pH Monitoring Capsule Delivery Device",
+        "zh": "FDA通报Medtronic及Given Imaging召回食管pH监测胶囊输送装置"
+      },
+      "summary": {
+        "en": "The FDA posted a recall notice for the esophageal pH monitoring capsule delivery device manufactured by Medtronic and Given Imaging. This device is used to deliver a pH capsule for gastroesophageal reflux monitoring, and the recall addresses delivery system safety concerns. Healthcare providers should identify and quarantine affected devices, stop use, and follow the manufacturers' instructions for return, replacement, or correction. Regulatory affairs professionals should verify impacted lot numbers and report adverse events to the FDA.",
+        "zh": "FDA发布美敦力与Given Imaging食管pH监测胶囊输送装置的召回通知。该装置用于放置监测胃食管反流的pH胶囊，召回针对输送系统相关安全隐患。医疗机构应识别并隔离受影响产品，停止使用，并按制造商的指示进行退回、更换或纠正；法规事务人员应核对受影响批次并向FDA报告不良事件。"
+      },
+      "source_url": "https://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/esophageal-ph-monitoring-capsule-recall-medtronic-and-given-imaging-remove-esophageal-ph-monitoring",
+      "source_name": "FDA",
+      "published_date": "2026-09-15",
+      "detected_date": "2026-09-15T22:01:33Z",
+      "importance": "high",
+      "tags": [
+        "medical_device_recall",
+        "esophageal_ph_monitoring",
+        "medtronic",
+        "given_imaging",
+        "cdrh_news"
+      ],
+      "related_docs": [],
+      "status": "published"
+    },
+    {
+      "id": "fda_20260915_medical_action_industries_issues_correction_for_epidural_kit",
+      "framework": "fda",
+      "category": "cdrh_news",
+      "title": {
+        "en": "Medical Action Industries Issues Correction for Epidural Kits Containing Spectra Medical Devices Lidocaine Ampules",
+        "zh": "Medical Action Industries纠正含Spectra利多卡因安瓿的硬膜外套件"
+      },
+      "summary": {
+        "en": "FDA CDRH posted a notice that Medical Action Industries issued a correction for epidural kits containing lidocaine ampules manufactured by Spectra Medical Devices. Healthcare facilities, distributors, and providers with affected kits should immediately identify and quarantine the products and follow the manufacturer's recall/correction instructions. The notice appears under FDA medical device recalls and early alerts; affected parties should monitor the FDA listing for lot-specific details and report any adverse events.",
+        "zh": "FDA CDRH发布通知，Medical Action Industries对含有Spectra Medical Devices利多卡因安瓿的硬膜外套件发布纠正措施。相关医疗机构、分销商和供应商应立即识别并隔离受影响套件，按照制造商的召回/纠正通知处理，并报告不良事件。请关注FDA公告中的具体批次信息和截止日期。"
+      },
+      "source_url": "https://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/epidural-kit-correction-medical-action-industries-issues-correction-epidural-kits-containing-spectra",
+      "source_name": "FDA",
+      "published_date": "2026-09-15",
+      "detected_date": "2026-09-15T22:01:56Z",
+      "importance": "high",
+      "tags": [
+        "medical_device_recall",
+        "epidural_kits",
+        "lidocaine_ampules",
+        "cdrh_news"
+      ],
+      "related_docs": [],
+      "status": "published"
+    },
+    {
+      "id": "fda_20260908_spinal_cord_stimulator_recall_boston_scientific_removes_infi",
+      "framework": "fda",
+      "category": "cdrh_news",
+      "title": {
+        "en": "Spinal Cord Stimulator Recall: Boston Scientific Removes Infinion CX Leads",
+        "zh": "Spinal Cord Stimulator Recall: Boston Scientific Removes Infinion CX Leads"
+      },
+      "summary": {
+        "en": "CDRH News",
+        "zh": "CDRH News"
+      },
+      "source_url": "https://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/spinal-cord-stimulator-recall-boston-scientific-removes-infinion-cx-lead",
+      "source_name": "FDA",
+      "published_date": "2026-09-08",
+      "detected_date": "2026-09-08T21:48:06Z",
+      "importance": "medium",
+      "tags": [],
+      "related_docs": [],
+      "status": "published"
+    },
+    {
+      "id": "fda_20260908_ge_healthcare_updates_use_instructions_for_portrait_core_ser",
+      "framework": "fda",
+      "category": "cdrh_news",
+      "title": {
+        "en": "GE HealthCare Updates Use Instructions for Portrait Core Services Software Correction",
+        "zh": "GE医疗更新Portrait Core Services软件使用说明纠正措施"
+      },
+      "summary": {
+        "en": "FDA announced a monitoring system correction by GE HealthCare for its Portrait Core Services Software. The company is updating use instructions to address potential operational issues and ensure safe use. Healthcare providers using this software should review the corrected instructions and implement changes in their monitoring workflows promptly.",
+        "zh": "FDA发布GE医疗对Portrait Core Services软件的监测系统纠正通知。GE医疗正在更新使用说明，以解决潜在的操作问题并确保安全使用。使用该软件的医疗机构应尽快查看更新后的说明，并在监测工作流程中落实相关变更。"
+      },
+      "source_url": "https://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/monitoring-system-correction-ge-healthcare-updates-use-instructions-portrait-core-services-software",
+      "source_name": "FDA",
+      "published_date": "2026-09-08",
+      "detected_date": "2026-09-08T21:48:24Z",
+      "importance": "medium",
+      "tags": [
+        "ge_healthcare",
+        "software_correction",
+        "use_instructions",
+        "monitoring_system"
+      ],
+      "related_docs": [],
+      "status": "published"
+    },
+    {
+      "id": "fda_20260908_medline_issues_correction_for_convenience_kits_containing_bd",
+      "framework": "fda",
+      "category": "cdrh_news",
+      "title": {
+        "en": "Medline Issues Correction for Convenience Kits Containing BD ChloraPrep Applicators",
+        "zh": "Medline 对含 BD ChloraPrep 涂抹器的便利套件发布更正通知"
+      },
+      "summary": {
+        "en": "FDA is alerting stakeholders that Medline Industries has issued a correction for convenience kits containing BD ChloraPrep applicators, which are affected by a related BD applicator recall. Healthcare facilities and distributors that received these kits should identify affected lots and follow Medline's instructions for quarantine, return, or disposal. Immediate action is recommended to prevent use of affected kits.",
+        "zh": "FDA 提醒相关方，Medline Industries 已对包含 BD ChloraPrep 涂抹器的便利套件发布更正通知，相关涂抹器受到 BD 召回影响。收到此类套件的医疗机构和经销商应识别受影响批次，并按照 Medline 的指示进行隔离、退回或处置。建议立即采取行动，防止受影响套件被继续使用。"
+      },
+      "source_url": "https://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/convenience-kit-correction-medline-issues-correction-convenience-kits-containing-bd-chloraprep",
+      "source_name": "FDA",
+      "published_date": "2026-09-08",
+      "detected_date": "2026-09-08T21:48:42Z",
+      "importance": "high",
+      "tags": [
+        "medical_device_recall",
+        "convenience_kits",
+        "chloraprep",
+        "antiseptic_applicator",
+        "fda_cdrh"
+      ],
+      "related_docs": [],
+      "status": "published"
+    },
+    {
+      "id": "fda_20260908_medline_recalls_neonatal_and_infant_heated_wire_breathing_ci",
+      "framework": "fda",
+      "category": "cdrh_news",
+      "title": {
+        "en": "Medline Recalls Neonatal and Infant Heated Wire Breathing Circuits",
+        "zh": "Medline召回新生儿和婴儿加热丝呼吸回路"
+      },
+      "summary": {
+        "en": "FDA CDRH announced that Medline is removing/recalling neonatal and infant heated wire breathing circuits. This action affects healthcare facilities using these Medline circuits for neonatal and infant respiratory support. Affected users should identify the recalled products, stop use, quarantine them, and follow Medline’s recall instructions.",
+        "zh": "FDA CDRH发布通知，Medline正在召回/移除新生儿和婴儿加热丝呼吸回路。受影响的是使用Medline该类呼吸回路的新生儿和婴儿呼吸支持医疗机构。相关机构应识别受影响产品，立即停止使用并隔离，按照Medline的召回通知进行后续处理。"
+      },
+      "source_url": "https://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/breathing-circuit-recall-medline-removes-neonatal-and-infant-heated-wire-breathing-circuits",
+      "source_name": "FDA",
+      "published_date": "2026-09-08",
+      "detected_date": "2026-09-08T21:48:57Z",
+      "importance": "high",
+      "tags": [
+        "recall",
+        "breathing_circuit",
+        "neonatal",
+        "infant",
+        "medline",
+        "medical_device_safety"
+      ],
+      "related_docs": [],
+      "status": "published"
+    },
+    {
+      "id": "fda_20260908_convenience_kit_correction_avid_medical_issues_correction_fo",
+      "framework": "fda",
+      "category": "cdrh_news",
+      "title": {
+        "en": "Convenience Kit Correction: AVID Medical Issues Correction for Kits Containing Medline Namic Star Off Handle Manifolds",
+        "zh": "Convenience Kit Correction: AVID Medical Issues Correction for Kits Containing Medline Namic Star Off Handle Manifolds"
+      },
+      "summary": {
+        "en": "CDRH News",
+        "zh": "CDRH News"
+      },
+      "source_url": "https://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/convenience-kit-correction-avid-medical-issues-correction-kits-containing-medline-namic-star-handle",
+      "source_name": "FDA",
+      "published_date": "2026-09-08",
+      "detected_date": "2026-09-08T21:49:28Z",
+      "importance": "medium",
+      "tags": [],
+      "related_docs": [],
+      "status": "published"
+    },
+    {
+      "id": "fda_20260908_percutaneous_catheter_recall_boston_scientific_removes_enrou",
+      "framework": "fda",
+      "category": "cdrh_news",
+      "title": {
+        "en": "Percutaneous Catheter Recall: Boston Scientific Removes ENROUTE Transcarotid Neuroprotection System",
+        "zh": "Percutaneous Catheter Recall: Boston Scientific Removes ENROUTE Transcarotid Neuroprotection System"
+      },
+      "summary": {
+        "en": "CDRH News",
+        "zh": "CDRH News"
+      },
+      "source_url": "https://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/percutaneous-catheter-recall-boston-scientific-removes-enroute-transcarotid-neuroprotection-system",
+      "source_name": "FDA",
+      "published_date": "2026-09-08",
+      "detected_date": "2026-09-08T21:49:59Z",
+      "importance": "medium",
+      "tags": [],
+      "related_docs": [],
+      "status": "published"
+    },
+    {
+      "id": "fda_20260908_class_i_recall_bmc_reacthealth_luna_g3_apap_ref_lg_3600_20_1",
+      "framework": "fda",
+      "category": "recall_class1",
+      "title": {
+        "en": "Class I Recall: BMC/REACTHEALTH Luna G3 APAP (REF LG 3600) – 20,160 Units, 2024 Warehouse Rework",
+        "zh": "BMC/REACTHEALTH Luna G3 APAP（REF LG 3600）I级召回：20,160台仓库返工"
+      },
+      "summary": {
+        "en": "The FDA posted a Class I recall by BMC Medical Co., Ltd. covering 20,160 units of the BMC/REACTHEALTH Luna G3 APAP (REF LG 3600). The recall reason is retroactive reporting of 2024 rework performed at the 3B/React Health warehouse; Class I status indicates a reasonable probability of serious adverse health consequences or death. Users, healthcare facilities, and distributors should identify and quarantine affected devices and follow the manufacturer's recall instructions.",
+        "zh": "FDA已发布BMC Medical Co., Ltd.对20,160台BMC/REACTHEALTH Luna G3 APAP（REF LG 3600）的I级召回。召回原因为2024年在3B/React Health仓库进行的返工未及时报告；I级召回表明存在导致严重健康损害或死亡的合理可能性。医疗机构、分销商和患者应识别并隔离受影响设备，并遵循制造商的召回通知进行退货或纠正。"
+      },
+      "source_url": "https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfres/res.cfm?id=Z-2979-2026",
+      "source_name": "FDA CDRH",
+      "published_date": "2026-08-26",
+      "detected_date": "2026-09-08T21:46:39Z",
+      "importance": "high",
+      "tags": [
+        "class_i_recall",
+        "cpap_device",
+        "rework_reporting"
+      ],
+      "related_docs": [],
+      "status": "published"
+    },
+    {
+      "id": "fda_20260908_class_i_recall_boston_scientific_enroute_transcarotid_neurop",
+      "framework": "fda",
+      "category": "recall_class1",
+      "title": {
+        "en": "Class I Recall: Boston Scientific ENROUTE Transcarotid Neuroprotection System Plus (Z-2978-2026)",
+        "zh": "波士顿科学ENROUTE经颈动脉神经保护系统Plus I级召回：鞘尖分离风险"
+      },
+      "summary": {
+        "en": "The FDA has classified Boston Scientific Corporation's recall of the ENROUTE Transcarotid Neuroprotection System Plus as Class I due to potential arterial sheath tip separation or partial tip separation during use, which may lead to serious adverse events such as vessel injury, thrombosis, or stroke. The recall affects 49,229 units under recall number Z-2978-2026. Healthcare providers should immediately identify and quarantine affected inventory and follow Boston Scientific's recall instructions.",
+        "zh": "FDA已将波士顿科学公司对ENROUTE经颈动脉神经保护系统Plus的召回列为I级，原因是使用过程中可能发生动脉鞘尖端分离或部分分离，可能导致血管损伤、血栓或中风等严重不良事件。此次召回涉及49,229台产品，召回编号Z-2978-2026。医疗机构应立即识别并隔离受影响库存，并遵循波士顿科学的召回通知。"
+      },
+      "source_url": "https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfres/res.cfm?id=Z-2978-2026",
+      "source_name": "FDA CDRH",
+      "published_date": "2026-08-26",
+      "detected_date": "2026-09-08T21:46:53Z",
+      "importance": "high",
+      "tags": [
+        "class_i_recall",
+        "boston_scientific",
+        "neuroprotection_system",
+        "arterial_sheath_tip_separation"
+      ],
+      "related_docs": [],
+      "status": "published"
+    },
+    {
+      "id": "fda_20260908_class_i_recall_z_2872_2026_bard_bd_powered_driver_needle_kit",
+      "framework": "fda",
+      "category": "recall_class1",
+      "title": {
+        "en": "Class I Recall Z-2872-2026: Bard BD Powered Driver Needle Kit 15mm x 15Ga REF D015151NK",
+        "zh": "I级召回Z-2872-2026：Bard BD 15mm x 15Ga动力驱动针套件"
+      },
+      "summary": {
+        "en": "FDA classified this Bard Access Systems, Inc. action as a Class I recall (Z-2872-2026) affecting the BD Needle Kit for Powered Driver 15mm x 15Ga, REF D015151NK. The recall covers 80,200 intraosseous needle kits used when intravenous access is difficult or impossible in emergent, urgent, or medically necessary situations; after placement, users may experience difficulty with the device. Customers should immediately quarantine affected inventory and follow the manufacturer’s recall instructions.",
+        "zh": "FDA将Bard Access Systems, Inc.的本次行动列为I级召回（Z-2872-2026），涉及BD 15mm x 15Ga动力驱动器穿刺针套件，REF D015151NK。该召回涉及80,200套骨内针套件，用于紧急、危重或医疗必需情况下静脉通路难以建立时；置入后用户可能遇到器械使用困难。客户应立即隔离受影响库存并遵循制造商召回指示。"
+      },
+      "source_url": "https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfres/res.cfm?id=Z-2872-2026",
+      "source_name": "FDA CDRH",
+      "published_date": "2026-08-26",
+      "detected_date": "2026-09-08T21:47:16Z",
+      "importance": "high",
+      "tags": [
+        "class_i_recall",
+        "intraosseous_needle_kit",
+        "bard_access_systems"
+      ],
+      "related_docs": [],
+      "status": "published"
+    },
+    {
+      "id": "fda_20260825_early_alert_portrait_mobile_monitoring_software_issue_from_g",
+      "framework": "fda",
+      "category": "cdrh_news",
+      "title": {
+        "en": "Early Alert: Portrait Mobile Monitoring Software Issue from GE HealthCare",
+        "zh": "Early Alert: Portrait Mobile Monitoring Software Issue from GE HealthCare"
+      },
+      "summary": {
+        "en": "CDRH News",
+        "zh": "CDRH News"
+      },
+      "source_url": "https://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/early-alert-portrait-core-services-software-issue-ge-healthcare",
+      "source_name": "FDA",
+      "published_date": "2026-08-25",
+      "detected_date": "2026-08-25T19:36:28Z",
+      "importance": "medium",
+      "tags": [],
+      "related_docs": [],
+      "status": "published"
+    },
+    {
+      "id": "fda_20260825_key_considerations_for_the_development_and_use_of_digitally",
+      "framework": "fda",
+      "category": "cdrh_news",
+      "title": {
+        "en": "Key Considerations for the Development and Use of Digitally Derived Measures for Clinical Investigations, FDA Paper",
+        "zh": "Key Considerations for the Development and Use of Digitally Derived Measures for Clinical Investigations, FDA Paper"
+      },
+      "summary": {
+        "en": "CDRH News",
+        "zh": "CDRH News"
+      },
+      "source_url": "https://www.fda.gov/medical-devices/digital-health-center-excellence/key-considerations-development-and-use-digitally-derived-measures-clinical-investigations-fda-paper",
+      "source_name": "FDA",
+      "published_date": "2026-08-25",
+      "detected_date": "2026-08-25T19:37:00Z",
+      "importance": "medium",
+      "tags": [],
+      "related_docs": [],
+      "status": "published"
+    },
+    {
+      "id": "fda_20260825_convenience_kit_recall_medline_issues_correction_for_conveni",
+      "framework": "fda",
+      "category": "cdrh_news",
+      "title": {
+        "en": "Convenience Kit Recall: Medline Issues Correction for Convenience Kits Containing B. Braun Bupivacaine Hydrochloride Com",
+        "zh": "Convenience Kit Recall: Medline Issues Correction for Convenience Kits Containing B. Braun Bupivacaine Hydrochloride Com"
+      },
+      "summary": {
+        "en": "CDRH News",
+        "zh": "CDRH News"
+      },
+      "source_url": "https://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/convenience-kit-recall-medline-issues-correction-convenience-kits-containing-b-braun-bupivacaine",
+      "source_name": "FDA",
+      "published_date": "2026-08-25",
+      "detected_date": "2026-08-25T19:37:31Z",
+      "importance": "medium",
+      "tags": [],
+      "related_docs": [],
+      "status": "published"
+    },
+    {
+      "id": "fda_20260818_considerations_for_the_regulation_of_generative_ai_enabled_m",
+      "framework": "fda",
+      "category": "cdrh_news",
+      "title": {
+        "en": "Considerations for the Regulation of Generative AI-Enabled Medical Devices: Discussion Paper and Request for Feedback",
+        "zh": "Considerations for the Regulation of Generative AI-Enabled Medical Devices: Discussion Paper and Request for Feedback"
+      },
+      "summary": {
+        "en": "CDRH News",
+        "zh": "CDRH News"
+      },
+      "source_url": "https://www.fda.gov/medical-devices/digital-health-center-excellence/considerations-regulation-generative-ai-enabled-medical-devices-discussion-paper-and-request",
+      "source_name": "FDA",
+      "published_date": "2026-08-18",
+      "detected_date": "2026-08-18T19:49:42Z",
+      "importance": "medium",
+      "tags": [],
+      "related_docs": [],
+      "status": "published"
+    },
+    {
+      "id": "fda_20260818_intraosseous_needle_set_recall_becton_dickinson_removes_cert",
+      "framework": "fda",
+      "category": "cdrh_news",
+      "title": {
+        "en": "Intraosseous Needle Set Recall: Becton Dickinson Removes Certain Intraosseous Vascular Access System Needle Sets",
+        "zh": "Intraosseous Needle Set Recall: Becton Dickinson Removes Certain Intraosseous Vascular Access System Needle Sets"
+      },
+      "summary": {
+        "en": "CDRH News",
+        "zh": "CDRH News"
+      },
+      "source_url": "https://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/intraosseous-needle-set-recall-becton-dickinson-removes-certain-intraosseous-vascular-access-system",
+      "source_name": "FDA",
+      "published_date": "2026-08-18",
+      "detected_date": "2026-08-18T19:50:14Z",
+      "importance": "medium",
+      "tags": [],
+      "related_docs": [],
+      "status": "published"
+    },
+    {
+      "id": "fda_20260818_fda_announces_baxter_duo_vent_intravascular_administration_s",
+      "framework": "fda",
+      "category": "cdrh_news",
+      "title": {
+        "en": "FDA Announces Baxter Duo-Vent Intravascular Administration Set Recall",
+        "zh": "FDA宣布Baxter召回Duo-Vent血管内输液套件"
+      },
+      "summary": {
+        "en": "FDA issued a recall notice for Baxter Duo-Vent Solution Sets used in intravascular administration. Health care providers should immediately identify and quarantine affected lots, stop using the devices, and follow Baxter's return or disposal instructions. Patients who may have been exposed should be monitored, and adverse events should be reported to FDA.",
+        "zh": "FDA发布Baxter Duo-Vent溶液输注套件召回通知，该产品用于血管内输液。医疗机构和医护人员应立即识别并隔离受影响批次，停止使用，并按Baxter的要求进行退货或处置。可能使用过受影响器械的患者应接受监测，不良事件应向FDA报告。"
+      },
+      "source_url": "https://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/intravascular-administration-set-recall-baxter-removes-duo-vent-solution-sets",
+      "source_name": "FDA",
+      "published_date": "2026-08-18",
+      "detected_date": "2026-08-18T19:50:40Z",
+      "importance": "high",
+      "tags": [
+        "recall",
+        "intravascular_administration_set",
+        "baxter",
+        "safety_alert"
+      ],
+      "related_docs": [],
+      "status": "published"
+    },
+    {
+      "id": "fda_20260818_convenience_kit_correction_medline_issues_correction_for_con",
+      "framework": "fda",
+      "category": "cdrh_news",
+      "title": {
+        "en": "Convenience Kit Correction: Medline Issues Correction for Convenience Kits Containing ICU Medical Pain Management Compon",
+        "zh": "Convenience Kit Correction: Medline Issues Correction for Convenience Kits Containing ICU Medical Pain Management Compon"
+      },
+      "summary": {
+        "en": "CDRH News",
+        "zh": "CDRH News"
+      },
+      "source_url": "https://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/convenience-kit-correction-medline-issues-correction-convenience-kits-containing-icu-medical-pain",
+      "source_name": "FDA",
+      "published_date": "2026-08-18",
+      "detected_date": "2026-08-18T19:51:12Z",
+      "importance": "medium",
+      "tags": [],
+      "related_docs": [],
+      "status": "published"
+    },
+    {
+      "id": "fda_20260908_olympus_powerseal_5mm_23cm_curved_jaw_sealer_divider_recalle",
+      "framework": "fda",
+      "category": "safety_communication",
+      "title": {
+        "en": "Olympus POWERSEAL 5mm 23cm Curved Jaw Sealer & Divider Recalled for Outer Box Labeling as 37-cm Device",
+        "zh": "奥林巴斯POWERSEAL 5mm 23cm弯嘴双动闭合器因外箱误标37cm召回"
+      },
+      "summary": {
+        "en": "FDA has posted device recall Z-3035-2026 for Olympus Corporation of the Americas' POWERSEAL 5 mm diameter, 23 cm long curved jaw sealer and divider, double action. The recall is due to a labeling deficiency in which an outer shelf box is incorrectly labeled as a 37-cm device. Providers should check inventory and follow recall instructions to avoid potential device selection errors during procedures.",
+        "zh": "美国FDA发布器械召回Z-3035-2026，涉及奥林巴斯美国公司的POWERSEAL 5毫米直径、23厘米长弯嘴双动闭合/分离器。召回原因为外包装箱存在标签缺陷，被错误标注为37厘米器械。医疗机构应核对库存并遵循召回通知，以避免手术中因标签错误导致器械选择错误。"
+      },
+      "source_url": "https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfRes/res.cfm?id=221962",
+      "source_name": "FDA CDRH",
+      "published_date": "2026-08-18",
+      "detected_date": "2026-09-08T21:44:07Z",
+      "importance": "high",
+      "tags": [
+        "fda_recall",
+        "labeling_deficiency",
+        "electrosurgical_device",
+        "olympus",
+        "medical_device_safety"
+      ],
+      "related_docs": [],
+      "status": "published"
+    },
+    {
+      "id": "fda_20260818_class_i_recall_avid_medical_halyard_kits_with_recalled_medli",
+      "framework": "fda",
+      "category": "recall_class1",
+      "title": {
+        "en": "Class I Recall: AVID Medical Halyard Kits with Recalled Medline Namic Angiographic Star Off Manifolds",
+        "zh": "一级召回：AVID Medical含召回Medline Namic血管造影歧管的Halyard套件"
+      },
+      "summary": {
+        "en": "AVID Medical, Inc. is recalling 5,168 Halyard convenience kits because they contain Medline Namic Angiographic Star Off Handle Manifolds that were recalled due to particulates in the fluid path. Particulate contamination in the angiographic manifold fluid path may present a serious risk of embolic or vascular events if used. Users should immediately locate, quarantine, and stop using affected kits, and follow recall instructions from AVID Medical or Medline.",
+        "zh": "AVID Medical, Inc.正在召回5,168套Halyard便利套件，因其中所含Medline Namic血管造影星型旋塞歧管因流路中存在颗粒物被制造商召回。若使用受污染套件，颗粒物可能引起栓塞或血管事件等严重健康危害。相关机构应立即停用、隔离受影响套件，并按AVID Medical或Medline的召回通知处理。"
+      },
+      "source_url": "https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfres/res.cfm?id=Z-2797-2026",
+      "source_name": "FDA CDRH",
+      "published_date": "2026-08-12",
+      "detected_date": "2026-08-18T19:48:11Z",
+      "importance": "high",
+      "tags": [
+        "class_i_recall",
+        "particulate_contamination",
+        "angiographic_manifold"
+      ],
+      "related_docs": [],
+      "status": "published"
+    },
+    {
+      "id": "fda_20260818_class_i_recall_boston_scientific_infinion_cx_lead_kit_sc_231",
+      "framework": "fda",
+      "category": "recall_class1",
+      "title": {
+        "en": "Class I Recall: Boston Scientific INFINION CX Lead Kit (SC-2317-50) – Lead Fracture Risk",
+        "zh": "波士顿科学INFINION CX电极套件（SC-2317-50）I级召回：断裂风险"
+      },
+      "summary": {
+        "en": "FDA has posted Class I recall #Z-2879-2026 for Boston Scientific Neuromodulation Corporation’s INFINION CX Lead Kit, 50 cm (Model SC-2317-50, Material M365SC2317500). The recall covers 1,079 units because stress at the anchor site may cause high impedance or lead fractures, potentially leading to inadequate spinal cord stimulation or additional intervention. Facilities and users should identify and quarantine affected leads and follow Boston Scientific’s recall instructions for return or replacement.",
+        "zh": "FDA已发布波士顿科学神经调控公司INFINION CX 50cm电极套件（型号SC-2317-50，物料M365SC2317500）的I级召回，编号Z-2879-2026。此次召回涉及1,079件产品，原因是锚定部位应力可能导致高阻抗或电极断裂，进而引起刺激不足或需额外手术。相关机构和用户应立即识别并隔离受影响产品，并按波士顿科学召回通知进行退回或更换。"
+      },
+      "source_url": "https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfres/res.cfm?id=Z-2879-2026",
+      "source_name": "FDA CDRH",
+      "published_date": "2026-08-12",
+      "detected_date": "2026-08-18T19:48:54Z",
+      "importance": "high",
+      "tags": [
+        "class_i_recall",
+        "spinal_cord_stimulation",
+        "lead_fracture"
+      ],
+      "related_docs": [],
+      "status": "published"
+    },
+    {
+      "id": "fda_20260818_class_i_recall_z_2798_2026_avid_medical_halyard_kits_with_re",
+      "framework": "fda",
+      "category": "recall_class1",
+      "title": {
+        "en": "Class I Recall Z-2798-2026: AVID Medical Halyard Kits with Recalled Medline Namic Angiographic Manifolds",
+        "zh": "I级召回Z-2798-2026：AVID Medical Halyard套件含召回Medline Namic血管造影歧管"
+      },
+      "summary": {
+        "en": "AVID Medical, Inc. is recalling 5,168 Halyard convenience kits because they contain Medline Namic Angiographic Star Off Handle Manifolds recalled due to particulates in the fluid path. This is a Class I recall, indicating a reasonable probability of serious adverse health consequences or death. Affected users should quarantine the kits and follow AVID Medical/Medline recall instructions for return or replacement.",
+        "zh": "AVID Medical, Inc. 正在召回5,168套Halyard便利套件，因其中含有的Medline Namic血管造影Star Off手柄歧管因流体通路中存在颗粒物被制造商召回。该召回为I级，存在导致严重健康损害或死亡的合理风险。相关用户应隔离受影响套件，并按照AVID Medical/Medline的召回通知进行退货或更换。"
+      },
+      "source_url": "https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfres/res.cfm?id=Z-2798-2026",
+      "source_name": "FDA CDRH",
+      "published_date": "2026-08-12",
+      "detected_date": "2026-08-18T19:49:11Z",
+      "importance": "high",
+      "tags": [
+        "class_i_recall",
+        "particulate_contamination",
+        "angiographic_manifold",
+        "convenience_kits"
+      ],
+      "related_docs": [],
+      "status": "published"
+    },
+    {
+      "id": "fda_20260811_hamilton_medical_recalls_breathing_circuit_set_fda_announces",
+      "framework": "fda",
+      "category": "cdrh_news",
+      "title": {
+        "en": "Hamilton Medical Recalls Breathing Circuit Set: FDA Announces Removal",
+        "zh": "Hamilton Medical 召回呼吸回路套件：FDA 宣布移除"
+      },
+      "summary": {
+        "en": "The FDA announced that Hamilton Medical is recalling its Breathing Circuit Set. Healthcare facilities using these circuits should immediately stop use and return affected products. The recall addresses a potential issue that could compromise ventilation therapy; specific lot numbers and corrective actions are outlined in the company's notification.",
+        "zh": "美国FDA宣布，Hamilton Medical正在召回其呼吸回路套件。使用该套件的医疗机构应立即停止使用并退回受影响产品。此次召回针对可能影响通气治疗的潜在问题；具体批次号和纠正措施详见公司通知。"
+      },
+      "source_url": "https://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/breathing-circuit-set-recall-hamilton-medical-removes-breathing-circuit-set",
+      "source_name": "FDA",
+      "published_date": "2026-08-11",
+      "detected_date": "2026-08-11T20:05:18Z",
+      "importance": "high",
+      "tags": [
+        "medical_device_recall",
+        "breathing_circuit",
+        "hamilton_medical",
+        "ventilation",
+        "safety_alert"
+      ],
+      "related_docs": [],
+      "status": "published"
+    },
+    {
+      "id": "fda_20260908_baxter_novum_iq_syringe_pump_recall_software_issue_in_volume",
+      "framework": "fda",
+      "category": "safety_communication",
+      "title": {
+        "en": "Baxter Novum IQ Syringe Pump Recall: Software Issue in Volume/Time Multi-Syringe Infusion (Z-3065-2026)",
+        "zh": "Baxter Novum IQ 注射泵召回：多注射器输注软件问题"
+      },
+      "summary": {
+        "en": "The FDA posted a recall (Z-3065-2026) for the Baxter Healthcare Corporation Novum IQ Syringe Pump, Model 40800BAXUS. A software issue may occur during Volume/Time (VOT) multi-syringe infusion when a syringe reaches empty and is replaced while a Volume To Be Infused (VTBI) remains, potentially causing infusion interruption or delay. Healthcare providers should follow Baxter’s recall instructions, identify affected devices, and implement required corrections or mitigations.",
+        "zh": "FDA 发布 Baxter Healthcare Corporation Novum IQ 注射泵（型号 40800BAXUS）召回（Z-3065-2026）。该设备在 Volume/Time (VOT) 多注射器输注过程中，当一个注射器输空被更换且仍有剩余待输注量（VTBI）时，可能发生软件问题，导致输注中断或延迟。医疗机构应按照 Baxter 的召回通知识别受影响设备并采取纠正或缓解措施。"
+      },
+      "source_url": "https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfRes/res.cfm?id=221856",
+      "source_name": "FDA CDRH",
+      "published_date": "2026-08-11",
+      "detected_date": "2026-09-08T21:44:21Z",
+      "importance": "high",
+      "tags": [
+        "device_recall",
+        "infusion_pump",
+        "software_issue"
+      ],
+      "related_docs": [],
+      "status": "published"
+    },
+    {
+      "id": "fda_20260908_device_recall_baxter_healthcare_corporation_baxter_novum_iq",
+      "framework": "fda",
+      "category": "safety_communication",
+      "title": {
+        "en": "Device Recall: Baxter Healthcare Corporation - Baxter Novum IQ Syringe Pump, Loaner, Model Number 40800BAXUSL",
+        "zh": "Device Recall: Baxter Healthcare Corporation - Baxter Novum IQ Syringe Pump, Loaner, Model Number 40800BAXUSL"
+      },
+      "summary": {
+        "en": "Recall Z-3066-2026: A software issue that may occur during a Volume/Time (VOT) multi-syringe infusion when a syringe reaches empty and is replaced while a Volume To Be Infused (VTBI) remains.",
+        "zh": "Recall Z-3066-2026: A software issue that may occur during a Volume/Time (VOT) multi-syringe infusion when a syringe reaches empty and is replaced while a Volume To Be Infused (VTBI) remains."
+      },
+      "source_url": "https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfRes/res.cfm?id=221857",
+      "source_name": "FDA CDRH",
+      "published_date": "2026-08-11",
+      "detected_date": "2026-09-08T21:44:53Z",
+      "importance": "medium",
+      "tags": [],
+      "related_docs": [],
+      "status": "published"
+    },
+    {
+      "id": "fda_20260908_fresenius_5008x_standard_hd_pre_flush_blood_tubing_set_03_51",
+      "framework": "fda",
+      "category": "safety_communication",
+      "title": {
+        "en": "Fresenius 5008X Standard HD Pre-Flush Blood Tubing Set (03-5110-6) Recall: Blood Leak Risk",
+        "zh": "费森尤斯5008X标准HD预冲洗血液管路（03-5110-6）因漏血风险召回"
+      },
+      "summary": {
+        "en": "FDA recall Z-3084-2026 affects the Fresenius Medical Care Renal Therapies Group 5008X Standard HD Pre-Flush Standard Blood Tubing Set, part number 03-5110-6. The connection between the Arterial Alpha Clip and the main line or pump segment has a heightened probability of blood leak, which may cause blood loss and hypovolemia during hemodialysis. Providers should identify and quarantine affected sets, follow recall instructions, and monitor patients for signs of blood loss.",
+        "zh": "美国FDA发布召回Z-3084-2026，涉及费森尤斯医疗肾疗集团5008X标准HD预冲洗标准血液管路，产品编号03-5110-6。该管路动脉Alpha夹与主管路或泵段连接处存在较高漏血风险，治疗中漏血可能导致失血和低血容量。医疗机构应识别并隔离受影响产品，按召回要求处置，并监测患者是否出现失血相关症状。"
+      },
+      "source_url": "https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfRes/res.cfm?id=221852",
+      "source_name": "FDA CDRH",
+      "published_date": "2026-08-10",
+      "detected_date": "2026-09-08T21:45:07Z",
+      "importance": "high",
+      "tags": [
+        "device_recall",
+        "fda_safety",
+        "hemodialysis_tubing",
+        "blood_leak"
+      ],
+      "related_docs": [],
+      "status": "published"
+    },
+    {
+      "id": "fda_20260908_fda_recall_fresenius_5008x_hd_hdf_standard_blood_tubing_set",
+      "framework": "fda",
+      "category": "safety_communication",
+      "title": {
+        "en": "FDA Recall: Fresenius 5008X HD/HDF Standard Blood Tubing Set (P/N 03-5300-3) Leak Risk",
+        "zh": "FDA召回Z-3085-2026：费森尤斯5008X HD/HDF标准血路管（P/N 03-5300-3）漏血风险"
+      },
+      "summary": {
+        "en": "The FDA has posted recall Z-3085-2026 for the Fresenius Medical Care Renal Therapies Group 5008X HD/HDF Standard Blood Tubing Set, part number 03-5300-3, due to a heightened probability of blood leakage at the connection between the Arterial Alpha Clip and the main line or pump segment. A leak during hemodialysis or hemodiafiltration may lead to blood loss and hypovolemia. Healthcare providers should stop use and quarantine affected sets, contact Fresenius for return/replacement, and monitor patients for signs of blood loss if a leak was suspected.",
+        "zh": "FDA已发布召回Z-3085-2026，涉及费森尤斯医疗肾治疗集团5008X HD/HDF标准血路管（部件号03-5300-3），原因是动脉Alpha夹与主管路/泵段连接处发生漏血的概率升高。治疗期间漏血可能导致患者失血和低血容量。医护人员应停止使用并隔离受影响产品，联系费森尤斯退货/更换；如怀疑已发生漏血，应监测患者是否出现失血迹象。"
+      },
+      "source_url": "https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfRes/res.cfm?id=221853",
+      "source_name": "FDA CDRH",
+      "published_date": "2026-08-10",
+      "detected_date": "2026-09-08T21:45:31Z",
+      "importance": "high",
+      "tags": [
+        "fda_recall",
+        "hemodialysis_tubing_set",
+        "blood_loss_hypovolemia"
+      ],
+      "related_docs": [],
+      "status": "published"
+    },
+    {
+      "id": "fda_20260908_fresenius_5008x_hd_hdf_with_clic_blood_tubing_set_part_03_53",
+      "framework": "fda",
+      "category": "safety_communication",
+      "title": {
+        "en": "Fresenius 5008X HD/HDF with CLiC Blood Tubing Set (Part 03-5300-3C) Recalled Due to Blood Leak Risk",
+        "zh": "费森尤斯5008X HD/HDF CLiC血液管路组（部件号03-5300-3C）因漏血风险召回"
+      },
+      "summary": {
+        "en": "The FDA has posted recall Z-3086-2026 for Fresenius Medical Care Renal Therapies Group, LLC's 5008X HD/HDF with CLiC Blood Tubing Set, part number 03-5300-3C. The connection between the Arterial Alpha Clip and the main line or pump segment has a heightened probability of blood leak, which may lead to blood loss and hypovolemia during treatment. Healthcare providers should identify and quarantine affected tubing sets and follow Fresenius Medical Care's recall instructions.",
+        "zh": "FDA发布召回Z-3086-2026，涉及费森尤斯医疗肾护理集团生产的5008X HD/HDF及CLiC血液管路组，部件号03-5300-3C。该产品动脉Alpha夹与主管路/泵段连接处漏血风险增高，治疗中可能导致失血和低血容量。医疗机构应识别并隔离受影响产品，遵循费森尤斯医疗的召回指示。"
+      },
+      "source_url": "https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfRes/res.cfm?id=221854",
+      "source_name": "FDA CDRH",
+      "published_date": "2026-08-10",
+      "detected_date": "2026-09-08T21:45:48Z",
+      "importance": "high",
+      "tags": [
+        "fda_recall",
+        "hemodialysis",
+        "blood_leak_risk",
+        "fresenius_medical_care"
+      ],
+      "related_docs": [],
+      "status": "published"
+    },
+    {
+      "id": "fda_20260908_fresenius_5008x_hd_hdf_with_twister_blood_tubing_set_part_03",
+      "framework": "fda",
+      "category": "safety_communication",
+      "title": {
+        "en": "Fresenius 5008X HD/HDF with Twister Blood Tubing Set (Part 03-5350-8) Recalled Due to Blood Leak Risk",
+        "zh": "费森尤斯5008X HD/HDF Twister血路管套装（部件号03-5350-8）因漏血风险召回"
+      },
+      "summary": {
+        "en": "FDA posted recall Z-3087-2026 for Fresenius Medical Care Renal Therapies Group's 5008X HD/HDF with Twister Blood Tubing Set, part number 03-5350-8. The device has a heightened probability of blood leak at the connection between the Arterial Alpha Clip and the main line or pump segment, which may cause blood loss and hypovolemia during treatment. Affected facilities should identify and quarantine the product, and users should follow the manufacturer's recall instructions and monitor for leaks.",
+        "zh": "FDA发布召回Z-3087-2026，涉及费森尤斯医疗肾疗集团5008X HD/HDF及Twister血路管套装，部件号03-5350-8。该装置在动脉Alpha夹与主管路或泵段连接处发生漏血的概率升高，治疗期间漏血可能导致失血和低血容量。相关机构应识别并隔离受影响产品，用户应遵循制造商召回通知并加强漏血监测。"
+      },
+      "source_url": "https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfRes/res.cfm?id=221855",
+      "source_name": "FDA CDRH",
+      "published_date": "2026-08-10",
+      "detected_date": "2026-09-08T21:46:11Z",
+      "importance": "high",
+      "tags": [
+        "device_recall",
+        "fresenius_medical_care",
+        "blood_tubing_set",
+        "hemodialysis",
+        "fda_safety"
+      ],
+      "related_docs": [],
+      "status": "published"
+    },
+    {
+      "id": "fda_20260811_resmed_astral_100_150_ventilator_class_i_recall_supercapacit",
+      "framework": "fda",
+      "category": "recall_class1",
+      "title": {
+        "en": "ResMed Astral 100/150 Ventilator Class I Recall: Supercapacitor Leak May Stop Therapy",
+        "zh": "瑞思迈Astral 100/150呼吸机I级召回：超级电容泄漏可致治疗中断"
+      },
+      "summary": {
+        "en": "FDA has classified ResMed’s recall of the Astral 100 and Astral 150 ventilators as a Class I recall, the most serious type, because electrolyte leakage from a supercapacitor on the printed circuit board assembly can damage the charger chip and force the device into a fail-safe state, interrupting ventilation therapy. This failure may cause serious patient harm or death. The recall covers 168,069 units distributed globally. Users must follow ResMed’s instructions to monitor for alarms and contact the company for a replacement if the device is affected.",
+        "zh": "美国FDA已将瑞思迈（ResMed）对Astral 100和Astral 150呼吸机的召回定为最严重的I级召回，原因是印刷电路板组件上的超级电容器电解液泄漏可能损坏充电芯片，导致设备进入故障安全状态并中断通气治疗。此种故障可能导致患者严重受伤或死亡。此次召回涉及全球168,069台设备。用户必须按照瑞思迈的指示，监测设备报警，若受影响应立即联系公司更换。"
+      },
+      "source_url": "https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfres/res.cfm?id=Z-2735-2026",
+      "source_name": "FDA CDRH",
+      "published_date": "2026-08-05",
+      "detected_date": "2026-08-11T20:04:16Z",
+      "importance": "high",
+      "tags": [
+        "class_i_recall",
+        "ventilator",
+        "resmed",
+        "supercapacitor_leakage",
+        "patient_safety"
+      ],
+      "related_docs": [],
+      "status": "published"
+    },
+    {
+      "id": "fda_20260811_class_i_recall_of_medical_action_industries_angiography_pack",
+      "framework": "fda",
+      "category": "recall_class1",
+      "title": {
+        "en": "Class I Recall of Medical Action Industries Angiography Pack (REF NCAG62I) Due to Particulate in Fluid Path",
+        "zh": "因颗粒物污染风险，Medical Action Industries血管造影包（REF NCAG62I）被I级召回"
+      },
+      "summary": {
+        "en": "Medical Action Industries, Inc. has initiated a Class I recall of its Pack Angiography NCMC 3/Cs BANNER (REF NCAG62I) because the included Medline Namic manifolds may contain particulate in the fluid path. If particles enter the bloodstream during cardiovascular procedures, they could cause serious adverse health events. The recall involves 657 kits distributed across the U.S.; healthcare facilities should immediately stop using the affected product, quarantine remaining inventory, and follow return instructions.",
+        "zh": "Medical Action Industries公司主动召回其Pack Angiography NCMC 3/Cs BANNER（REF NCAG62I）血管造影包，原因是所包含的Medline Namic歧管可能在生产过程中引入颗粒物，在心血管手术中可能进入血液循环并导致严重伤害。召回数量为657套，医疗机构须立即停用相关批次产品、隔离库存，并按通知退回。"
+      },
+      "source_url": "https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfres/res.cfm?id=Z-2792-2026",
+      "source_name": "FDA CDRH",
+      "published_date": "2026-08-05",
+      "detected_date": "2026-08-11T20:04:32Z",
+      "importance": "high",
+      "tags": [
+        "class_i_recall",
+        "particulate_contamination",
+        "angiography_pack",
+        "medical_action_industries",
+        "vascular_procedure"
+      ],
+      "related_docs": [],
+      "status": "published"
+    },
+    {
+      "id": "fda_20260804_medline_recalls_convenience_kits_with_huons_lidocaine_and_bu",
+      "framework": "fda",
+      "category": "cdrh_news",
+      "title": {
+        "en": "Medline Recalls Convenience Kits with Huons Lidocaine and Bupivacaine Injection Due to Incorrect Drug Concentration",
+        "zh": "Medline因药物浓度错误召回含Huons利多卡因和布比卡因注射液的便利套装"
+      },
+      "summary": {
+        "en": "Medline Industries has issued a correction for convenience kits containing Huons Lidocaine Hydrochloride and Bupivacaine Hydrochloride in Dextrose Injection due to a labeling error that misstates the drug concentration. Affected kits were distributed to healthcare facilities nationwide. Users should immediately quarantine and return any impacted kits to Medline and avoid using the product until corrected replacements are provided.",
+        "zh": "Medline Industries因其便利套装中Huons盐酸利多卡因和盐酸布比卡因葡萄糖注射液标签浓度标示错误而发布纠正通知。受影响套装已分销至全美医疗机构。使用者应立即隔离并退回相关套装，在获得纠正后的替代品之前不得使用该产品。"
+      },
+      "source_url": "https://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/convenience-kit-correction-medline-issues-correction-kits-containing-huons-lidocaine-hydrochloride",
+      "source_name": "FDA",
+      "published_date": "2026-08-04",
+      "detected_date": "2026-08-04T20:42:28Z",
+      "importance": "high",
+      "tags": [
+        "convenience_kit_recall",
+        "lidocaine_bupivacaine",
+        "medication_labeling_error",
+        "cdrh",
+        "medical_device_correction"
+      ],
+      "related_docs": [],
+      "status": "published"
+    },
+    {
+      "id": "fda_20260804_medical_action_industries_corrects_convenience_kits_with_rec",
+      "framework": "fda",
+      "category": "cdrh_news",
+      "title": {
+        "en": "Medical Action Industries Corrects Convenience Kits with Recalled Namic Manifolds",
+        "zh": "Medical Action Industries 对含有召回Namic歧管的便利套件发起纠正"
+      },
+      "summary": {
+        "en": "Medical Action Industries has issued a correction for certain convenience kits that contain Namic manifolds previously recalled due to potential sterility or performance issues. Healthcare providers and facilities using these kits should immediately identify and quarantine affected products, and follow the company’s instructions for return or replacement. The FDA notice alerts users to check inventory and stop using impacted kit lots to prevent patient safety risks.",
+        "zh": "Medical Action Industries 因其部分便利套件中包含之前召回的Namic歧管而发起纠正行动，该歧管可能存在无菌性或性能问题。医疗机构和使用者应立即识别并隔离受影响产品，按照公司指示进行退货或更换。FDA 通告提醒用户核查库存，停止使用相关批次套件，以避免患者安全风险。"
+      },
+      "source_url": "https://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/convenience-kit-correction-medical-action-industries-issues-correction-kits-containing-recalled",
+      "source_name": "FDA",
+      "published_date": "2026-08-04",
+      "detected_date": "2026-08-04T20:42:41Z",
+      "importance": "medium",
+      "tags": [
+        "recall",
+        "convenience_kit",
+        "namic_manifold",
+        "correction",
+        "sterility_risk"
+      ],
+      "related_docs": [],
+      "status": "published"
+    },
+    {
+      "id": "fda_20260804_argon_medical_issues_correction_for_convenience_kits_contain",
+      "framework": "fda",
+      "category": "cdrh_news",
+      "title": {
+        "en": "Argon Medical Issues Correction for Convenience Kits Containing Spectra Lidocaine Ampules",
+        "zh": "Argon Medical因便利包含Spectra利多卡因安瓿发布更正通知"
+      },
+      "summary": {
+        "en": "Argon Medical has announced a voluntary correction for convenience kits that include Spectra Medical Device Lidocaine Ampules, due to a potential issue with the ampules. Healthcare providers using these kits should immediately quarantine and stop using the affected products, and follow Argon Medical’s instructions for return or disposal. The FDA is sharing this CDRH news update to raise awareness and protect patient safety.",
+        "zh": "Argon Medical现因便利包中所含Spectra Medical Device利多卡因安瓿存在潜在问题，主动发布更正通知。使用该类便利包的医疗机构应立即隔离并停用受影响产品，并遵循Argon Medical的退货或处理指引。FDA通过CDRH新闻更新传播此信息，以提醒相关方并确保患者安全。"
+      },
+      "source_url": "https://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/convenience-kit-correction-argon-medical-issues-correction-convenience-kits-containing-spectra",
+      "source_name": "FDA",
+      "published_date": "2026-08-04",
+      "detected_date": "2026-08-04T20:43:03Z",
+      "importance": "medium",
+      "tags": [
+        "convenience_kit",
+        "argon_medical",
+        "lidocaine_ampules",
+        "field_correction",
+        "cdrh_news"
+      ],
+      "related_docs": [],
+      "status": "published"
+    },
+    {
+      "id": "fda_20260804_fda_posts_town_hall_slides_transcript_on_human_factors_info",
+      "framework": "fda",
+      "category": "cdrh_news",
+      "title": {
+        "en": "FDA Posts Town Hall Slides & Transcript on Human Factors Info in Marketing Submissions Final Guidance (July 2026)",
+        "zh": "FDA发布2026年7月人因信息上市申请最终指南城镇会议资料"
+      },
+      "summary": {
+        "en": "The CDRH published the presentation, slides, and transcript from the July 22, 2026 town hall discussing the final guidance on human factors information in medical device marketing submissions. The materials clarify how manufacturers should incorporate usability engineering data in 510(k), PMA, and De Novo applications. Review is recommended for regulatory and R&D teams to align future submissions with current FDA expectations.",
+        "zh": "FDA医疗器械与放射健康中心发布了2026年7月22日举行的关于人因信息在医疗器械上市申请中最终指南的城镇会议演示文稿、幻灯片和文字记录。该资料阐释了制造商在510(k)、PMA及De Novo申请中整合可用性工程数据的规范要求。建议法规事务和研发团队查阅，确保后续申报文件符合当前期望。"
+      },
+      "source_url": "https://www.fda.gov/medical-devices/medical-devices-news-and-events/town-hall-content-human-factors-information-medical-device-marketing-submissions-final-guidance",
+      "source_name": "FDA",
+      "published_date": "2026-08-04",
+      "detected_date": "2026-08-04T20:43:18Z",
+      "importance": "medium",
+      "tags": [
+        "human_factors",
+        "marketing_submission",
+        "town_hall",
+        "final_guidance"
+      ],
+      "related_docs": [],
+      "status": "published"
+    },
+    {
+      "id": "fda_20260818_recall_z_2872_2026_bard_bd_needle_kits_for_powered_driver_15",
+      "framework": "fda",
+      "category": "safety_communication",
+      "title": {
+        "en": "Recall Z-2872-2026: Bard BD Needle Kits for Powered Driver (15mm/25mm, 15Ga) Obturator Locking Issue",
+        "zh": "Bard BD 电动驱动针套件（15/25mm 15Ga）因闭孔器锁定召回"
+      },
+      "summary": {
+        "en": "FDA posted recall Z-2872-2026 affecting Bard Access Systems BD Needle Kits for Powered Driver, specifically 15mm x 15Ga (REF D015151NK) and 25mm x 15Ga (REF D01525). These intraosseous needle sets may have an obturator that locks after placement, making it difficult or impossible to remove during emergent or urgent vascular access. Healthcare providers should identify and quarantine affected lots and follow Bard/BD recall instructions to avoid delays in critical IO access.",
+        "zh": "FDA发布召回Z-2872-2026，涉及Bard Access Systems的BD电动驱动针套件，具体为15mm x 15Ga（REF D015151NK）和25mm x 15Ga（REF D01525）。这些骨内针套件在置入后闭孔器可能锁定，导致在紧急或必要情况下难以或无法取出。医护人员应立即识别并隔离受影响批次，并遵循Bard/BD召回指示，以避免关键骨内通路延误。"
+      },
+      "source_url": "https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfRes/res.cfm?id=221651",
+      "source_name": "FDA CDRH",
+      "published_date": "2026-07-30",
+      "detected_date": "2026-08-18T19:46:49Z",
+      "importance": "high",
+      "tags": [
+        "device_recall",
+        "intraosseous_access",
+        "obturator_locking",
+        "bard_access_systems",
+        "bd_needle_kit"
+      ],
+      "related_docs": [],
+      "status": "published"
+    },
+    {
+      "id": "fda_20260804_class_i_recall_medline_total_knee_lf_procedure_kit_contains",
+      "framework": "fda",
+      "category": "recall_class1",
+      "title": {
+        "en": "Class I Recall: Medline TOTAL KNEE-LF Procedure Kit Contains Recalled Bupivacaine Injection",
+        "zh": "I类召回：Medline TOTAL KNEE-LF手术包含被召回的布比卡因注射液"
+      },
+      "summary": {
+        "en": "Medline Industries, LP is recalling 318 TOTAL KNEE-LF medical procedure convenience kits (Recall #Z-2765-2026) because they contain ICU Medical pain management kits with Bupivacaine Hydrochloride in Dextrose Injection, USP, which was previously recalled due to quality issues that could lead to serious health hazards. The affected kits were distributed nationwide and pose a Class I recall risk. Healthcare providers should immediately quarantine and return any remaining inventory.",
+        "zh": "Medline Industries, LP正在召回318套TOTAL KNEE-LF医疗手术便利包（召回编号#Z-2765-2026），因其内含的ICU Medical疼痛管理包使用了先前因质量问题被召回的布比卡因盐酸盐葡萄糖注射液，可能引发严重健康风险。此次为I类召回，产品全国分销。医疗机构应立即隔离并退回所有受影响产品。"
+      },
+      "source_url": "https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfres/res.cfm?id=Z-2765-2026",
+      "source_name": "FDA CDRH",
+      "published_date": "2026-07-29",
+      "detected_date": "2026-08-04T20:41:13Z",
+      "importance": "high",
+      "tags": [
+        "class_i_recall",
+        "convenience_kit",
+        "bupivacaine_injection",
+        "drug_recall",
+        "medical_device_kit"
+      ],
+      "related_docs": [],
+      "status": "published"
+    },
+    {
+      "id": "fda_20260804_class_i_recall_medline_industries_lp_medline_anterior_hip_me",
+      "framework": "fda",
+      "category": "recall_class1",
+      "title": {
+        "en": "Class I Recall: Medline Industries, LP - MEDLINE ANTERIOR HIP, Medline Kit SKU DYNJ909640G",
+        "zh": "Class I Recall: Medline Industries, LP - MEDLINE ANTERIOR HIP, Medline Kit SKU DYNJ909640G"
+      },
+      "summary": {
+        "en": "Recall #Z-2747-2026 by Medline Industries, LP. Reason: Medline Industries, LP is issuing a recall for specific Medline kits containing B. Braun convenience kits that include Bupivacaine Hydrochloride in Dextrose Injection, USP. B. Braun Medical Inc. was n. Quantity: 60 kits.",
+        "zh": "Recall #Z-2747-2026 by Medline Industries, LP. Reason: Medline Industries, LP is issuing a recall for specific Medline kits containing B. Braun convenience kits that include Bupivacaine Hydrochloride in Dextrose Injection, USP. B. Braun Medical Inc. was n. Quantity: 60 kits."
+      },
+      "source_url": "https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfres/res.cfm?id=Z-2747-2026",
+      "source_name": "FDA CDRH",
+      "published_date": "2026-07-29",
+      "detected_date": "2026-08-04T20:41:44Z",
+      "importance": "medium",
+      "tags": [],
+      "related_docs": [],
+      "status": "published"
+    },
+    {
+      "id": "fda_20260804_medline_industries_recalls_c_section_convenience_kit_sku_dyn",
+      "framework": "fda",
+      "category": "recall_class1",
+      "title": {
+        "en": "Medline Industries Recalls C-Section Convenience Kit (SKU DYNJ910835) Containing Bupivacaine Injection",
+        "zh": "美联工业召回剖宫产手术包（SKU DYNJ910835），涉及布比卡因注射液问题"
+      },
+      "summary": {
+        "en": "Medline Industries, LP is conducting a Class I recall of its C-SECTION convenience kit (SKU DYNJ910835) because it contains a B. Braun component that includes Bupivacaine Hydrochloride in Dextrose Injection with a potential health hazard. The recall affects 56 kits distributed in the US. Users should immediately quarantine the affected kits and return them to Medline.",
+        "zh": "美联工业（Medline Industries, LP）对批号为DYNJ910835的C-SECTION手术便利包发起I级召回，原因是其包含的贝朗配件中含有存在潜在健康危害的盐酸布比卡因葡萄糖注射液。召回涉及美国境内分发的56套器械包。用户应立即隔离受影响产品并退回美联公司。"
+      },
+      "source_url": "https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfres/res.cfm?id=Z-2748-2026",
+      "source_name": "FDA CDRH",
+      "published_date": "2026-07-29",
+      "detected_date": "2026-08-04T20:41:59Z",
+      "importance": "high",
+      "tags": [
+        "class_i_recall",
+        "convenience_kit",
+        "bupivacaine_injection",
+        "medline_industries",
+        "surgical_kit"
+      ],
+      "related_docs": [],
+      "status": "published"
+    },
+    {
+      "id": "fda_20260804_class_i_recall_medline_industries_lp_medline_hip_cds_lf_proc",
+      "framework": "fda",
+      "category": "recall_class1",
+      "title": {
+        "en": "Class I Recall: Medline Industries, LP - MEDLINE HIP CDS-LF Procedure Kit Contains Recalled Bupivacaine Injection",
+        "zh": "Medline HIP CDS-LF 手术便利套装因含召回布比卡因注射液被一级召回"
+      },
+      "summary": {
+        "en": "Medline Industries, LP is recalling 52 units of its MEDLINE ‘HIP CDS-LF’ procedure convenience kit after discovering they contain ICU Medical pain management kits with Bupivacaine Hydrochloride in Dextrose Injection, USP that were recalled due to quality issues posing a health hazard. The recall is Class I, the most serious type, because use of the affected product could lead to serious adverse health consequences. Healthcare facilities should immediately quarantine and discontinue use of the affected kits and contact Medline for return or disposal instructions.",
+        "zh": "Medline Industries, LP 正在召回52套标注为‘HIP CDS-LF’的MEDLINE医疗手术便利套装，原因是其中包含ICU Medical的疼痛管理套件，该套件中含有的盐酸布比卡因葡萄糖注射液因质量问题被召回，存在健康风险。此召回为最严重的一级召回，可能造成严重不良健康后果。医疗机构应立即停止使用并隔离受影响套件，并联系Medline进行退货或处置。"
+      },
+      "source_url": "https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfres/res.cfm?id=Z-2764-2026",
+      "source_name": "FDA CDRH",
+      "published_date": "2026-07-29",
+      "detected_date": "2026-08-04T20:42:13Z",
+      "importance": "high",
+      "tags": [
+        "class_i_recall",
+        "medline",
+        "procedure_kit",
+        "bupivacaine",
+        "drug_device_combination",
+        "pain_management",
+        "safety_alert"
+      ],
+      "related_docs": [],
+      "status": "published"
+    },
+    {
+      "id": "fda_20260811_class_i_recall_medline_industries_lp_medline_convenience_kit",
+      "framework": "fda",
+      "category": "recall_class1",
+      "title": {
+        "en": "Class I Recall: Medline Industries, LP - MEDLINE convenience kits labeled as:    1) TOTAL JOINT KIT, Medline Kit SKU DYK",
+        "zh": "Class I Recall: Medline Industries, LP - MEDLINE convenience kits labeled as:    1) TOTAL JOINT KIT, Medline Kit SKU DYK"
+      },
+      "summary": {
+        "en": "Recall #Z-2749-2026 by Medline Industries, LP. Reason: Medline Industries, LP is issuing a recall for specific Medline kits containing B. Braun convenience kits that include Bupivacaine Hydrochloride in Dextrose Injection, USP. B. Braun Medical Inc. was n. Quantity: 2301 kits.",
+        "zh": "Recall #Z-2749-2026 by Medline Industries, LP. Reason: Medline Industries, LP is issuing a recall for specific Medline kits containing B. Braun convenience kits that include Bupivacaine Hydrochloride in Dextrose Injection, USP. B. Braun Medical Inc. was n. Quantity: 2301 kits."
+      },
+      "source_url": "https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfres/res.cfm?id=Z-2749-2026",
+      "source_name": "FDA CDRH",
+      "published_date": "2026-07-29",
+      "detected_date": "2026-08-11T20:05:04Z",
+      "importance": "medium",
+      "tags": [],
+      "related_docs": [],
+      "status": "published"
+    },
+    {
+      "id": "fda_20260818_recall_spectral_instruments_inc_lago_x_momentary_absence_of",
+      "framework": "fda",
+      "category": "safety_communication",
+      "title": {
+        "en": "Recall: Spectral Instruments Inc Lago X - Momentary Absence of 'X-Ray On' Banner During Readiness Check",
+        "zh": "Spectral Instruments Inc Lago X设备召回：就绪检查期间“X-Ray On”横幅短暂缺失"
+      },
+      "summary": {
+        "en": "FDA has posted a recall (Z-2939-2026) for the Spectral Instruments Inc Lago X imaging device due to a momentary absence of the on-screen 'X-Ray On' banner during the run readiness check. This could prevent operators from being alerted that X-ray emission is active, potentially leading to unintended radiation exposure. Affected facilities should identify impacted Lago X units and follow the manufacturer's recall instructions, including any software updates or workflow mitigations.",
+        "zh": "FDA已发布Spectral Instruments Inc Lago X设备召回（Z-2939-2026），原因是在运行就绪检查期间，屏幕上的“X-Ray On”横幅会短暂缺失。该问题可能导致操作者无法及时得知X射线已开启，存在意外辐射暴露风险。相关机构应识别受影响的Lago X设备，并遵循制造商的召回指示，包括软件更新或操作流程缓解措施。"
+      },
+      "source_url": "https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfRes/res.cfm?id=222029",
+      "source_name": "FDA CDRH",
+      "published_date": "2026-07-24",
+      "detected_date": "2026-08-18T19:47:05Z",
+      "importance": "high",
+      "tags": [
+        "fda_recall",
+        "x_ray_safety",
+        "radiation_exposure",
+        "medical_device_compliance",
+        "software_defect"
+      ],
+      "related_docs": [],
+      "status": "published"
+    },
+    {
+      "id": "fda_20260818_fda_recall_spectral_instruments_inc_ami_htx_missing_on_scree",
+      "framework": "fda",
+      "category": "safety_communication",
+      "title": {
+        "en": "FDA Recall: Spectral Instruments Inc Ami HTX – Missing On-Screen \"X-Ray On\" Banner (Z-2940-2026)",
+        "zh": "FDA召回：Spectral Instruments Ami HTX 因“X-Ray On”提示瞬时缺失"
+      },
+      "summary": {
+        "en": "FDA has posted recall Z-2940-2026 for the Spectral Instruments Inc Ami HTX imaging system due to a momentary absence of the on-screen \"X-Ray On\" banner during the run readiness check. This may leave operators unaware that X-ray output is active, creating a potential radiation safety risk. Affected facilities should identify impacted units and follow the manufacturer's recall instructions promptly.",
+        "zh": "FDA已发布Spectral Instruments Inc Ami HTX成像系统的召回（编号Z-2940-2026），原因是运行就绪检查期间屏幕上的“X-Ray On”提示会瞬时消失。该问题可能导致操作者未意识到X射线已开启，带来辐射安全风险。相关机构应确认受影响设备，并按照制造商召回通知及时采取行动。"
+      },
+      "source_url": "https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfRes/res.cfm?id=222031",
+      "source_name": "FDA CDRH",
+      "published_date": "2026-07-24",
+      "detected_date": "2026-08-18T19:47:21Z",
+      "importance": "high",
+      "tags": [
+        "fda_recall",
+        "radiation_safety",
+        "xray_imaging"
+      ],
+      "related_docs": [],
+      "status": "published"
+    },
+    {
+      "id": "fda_20260728_class_i_recall_abiomed_impella_cp_set_due_to_visually_undete",
+      "framework": "fda",
+      "category": "recall_class1",
+      "title": {
+        "en": "Class I Recall: Abiomed Impella CP Set Due to Visually Undetectable Introducer Sheath Leakage",
+        "zh": "Abiomed公司因导引鞘泄漏缺陷召回Impella CP泵组（I级召回）"
+      },
+      "summary": {
+        "en": "Abiomed, Inc. has initiated a Class I recall for 87,277 units of its Impella CP Set (Pump Set Code 0048-0003) after identifying a manufacturing defect in 14Fr and 23Fr introducers that can cause leakage from under the sheath cap and along hub score lines. The defect is not visually detectable and poses serious health risks, including bleeding or air embolism. Healthcare providers should immediately stop using affected devices, quarantine them, and follow Abiomed's return instructions.",
+        "zh": "Abiomed公司因14Fr和23Fr导引鞘存在鞘帽下及护套刻度线处泄漏的潜在风险（该缺陷肉眼无法察觉），对87,277台Impella CP泵组（泵组代码0048-0003）启动I级召回。该问题可能导致出血或空气栓塞等严重患者伤害。医疗机构应立即停止使用受影响产品，隔离并按公司指示办理退回。"
+      },
+      "source_url": "https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfres/res.cfm?id=Z-2682-2026",
+      "source_name": "FDA CDRH",
+      "published_date": "2026-07-22",
+      "detected_date": "2026-07-28T20:21:01Z",
+      "importance": "high",
+      "tags": [
+        "class_i_recall",
+        "abiomed",
+        "impella_cp_set",
+        "introducer_leakage",
+        "patient_safety"
+      ],
+      "related_docs": [],
+      "status": "published"
+    },
+    {
+      "id": "fda_20260728_class_i_recall_abiomed_impella_cp_introducer_kit_14fr_code_0",
+      "framework": "fda",
+      "category": "recall_class1",
+      "title": {
+        "en": "Class I Recall: Abiomed Impella CP Introducer Kit 14Fr (Code 0052-0038) Due to Sheath Leak Risk",
+        "zh": "I级召回：Abiomed Impella CP 14Fr导入器套件（0052-0038）因鞘漏液风险"
+      },
+      "summary": {
+        "en": "Abiomed, Inc. is recalling 1,540 units of the Impella CP Introducer Kit 14 Fr, 13 cm (Pump Set Code 0052-0038) because the introducer sheath can leak from under the sheath cap and along hub score lines. The manufacturing defect is not visually detectable and poses serious health risks, including bleeding or air embolism. The firm issued an Urgent Medical Device Recall letter instructing customers to immediately quarantine and return all affected kits.",
+        "zh": "Abiomed公司召回1,540套Impella CP导入器套件（14Fr、13cm，泵组代码0052-0038），原因是导入器鞘管帽下方和接头刻痕线处可能发生漏液，该制造缺陷无法肉眼检出，可能导致出血或空气栓塞等严重伤害。公司已发布紧急召回通知，要求客户立即隔离并退回所有受影响产品。"
+      },
+      "source_url": "https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfres/res.cfm?id=Z-2685-2026",
+      "source_name": "FDA CDRH",
+      "published_date": "2026-07-22",
+      "detected_date": "2026-07-28T20:21:19Z",
+      "importance": "high",
+      "tags": [
+        "class_i_recall",
+        "impella_cp_introducer",
+        "sheath_leakage",
+        "abiomed",
+        "medical_device_safety"
+      ],
+      "related_docs": [],
+      "status": "published"
+    },
+    {
+      "id": "fda_20260728_class_i_recall_abiomed_impella_cp_introducer_kit_14fr_due_to",
+      "framework": "fda",
+      "category": "recall_class1",
+      "title": {
+        "en": "Class I Recall: Abiomed Impella CP Introducer Kit 14Fr Due to Undetectable Sheath Leakage Risk",
+        "zh": "一级召回：Abiomed Impella CP 14Fr导入器套件因不可见的鞘管泄漏风险"
+      },
+      "summary": {
+        "en": "Abiomed, Inc. is recalling 846 units of its Impella CP Introducer Kit (14 Fr, 13 and 25 cm, Pump Set Code 1000550) because of a manufacturing issue that can cause introducer sheath leakage under the cap or along hub score lines, which is not visible to the user. If leaks occur, patients may experience bleeding, air embolism, or loss of hemodynamic support, creating a serious health hazard. Healthcare facilities should immediately quarantine and return all affected devices to Abiomed.",
+        "zh": "Abiomed, Inc. 正在召回846台Impella CP导入器套件（14 Fr、13和25厘米，产品代码1000550），原因是制造缺陷可能导致鞘管帽下方或接头刻线处泄漏，且该问题肉眼无法察觉。泄漏可能引发出血、空气栓塞或血流动力学支持失效，构成严重健康威胁。医疗机构应立即隔离并退回所有受影响产品。"
+      },
+      "source_url": "https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfres/res.cfm?id=Z-2683-2026",
+      "source_name": "FDA CDRH",
+      "published_date": "2026-07-22",
+      "detected_date": "2026-07-28T20:21:33Z",
+      "importance": "high",
+      "tags": [
+        "class_i_recall",
+        "impella_introducer",
+        "sheath_leakage",
+        "abio_med",
+        "cardiac_device"
+      ],
+      "related_docs": [],
+      "status": "published"
+    },
+    {
+      "id": "fda_20260728_oscor_inc_recalls_abiomed_introducer_kit_for_impella_due_to",
+      "framework": "fda",
+      "category": "recall_class1",
+      "title": {
+        "en": "Oscor Inc. Recalls Abiomed Introducer Kit for Impella Due to Leak Risk (Class I)",
+        "zh": "Oscor公司因泄漏风险召回Abiomed Impella导入器套件（I级召回）"
+      },
+      "summary": {
+        "en": "Oscor Inc. has initiated a Class I recall of the Abiomed Introducer Kit (REF 0052-3025), a hemostatic peel-away introducer used with Impella catheters, due to manufacturing defects that can cause leakage from the sidearm, under the sheath cap, and along hub score lines. This defect may lead to blood loss, air embolism, or loss of hemostasis, posing serious health risks. The recall covers 355 units distributed in the U.S.; healthcare facilities should immediately stop using affected kits, quarantine all stock, and return them to Oscor Inc.",
+        "zh": "Oscor公司对用于Impella导管系统的Abiomed导入器套件（型号0052-3025）发起I级召回，原因为制造缺陷可能导致护套从侧臂、帽下及接口压痕处发生泄漏。该问题可能造成血液流失、空气栓塞或止血失效，构成严重健康威胁。此次召回涉及在美国销售的355台设备，医疗机构应立即停用受影响产品、隔离相关库存并退回Oscor公司。"
+      },
+      "source_url": "https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfres/res.cfm?id=Z-2678-2026",
+      "source_name": "FDA CDRH",
+      "published_date": "2026-07-22",
+      "detected_date": "2026-07-28T20:21:49Z",
+      "importance": "high",
+      "tags": [
+        "class_i_recall",
+        "introducer_kit",
+        "leak_risk",
+        "air_embolism",
+        "oscor_inc",
+        "impella"
+      ],
+      "related_docs": [],
+      "status": "published"
+    },
+    {
+      "id": "fda_20260728_class_i_recall_argon_medical_devices_inc_general_biospy_tray",
+      "framework": "fda",
+      "category": "recall_class1",
+      "title": {
+        "en": "Class I Recall: Argon Medical Devices, Inc - General Biospy Tray, REF: GUTS1000",
+        "zh": "Class I Recall: Argon Medical Devices, Inc - General Biospy Tray, REF: GUTS1000"
+      },
+      "summary": {
+        "en": "Recall #Z-2706-2026 by Argon Medical Devices, Inc. Reason: Kits containing Lidocaine HCL Injection USP 1% 10mg/mL 5mL ampules subject to another recall recalled due to not meeting release criteria for sterility.. Quantity: 1800.",
+        "zh": "Recall #Z-2706-2026 by Argon Medical Devices, Inc. Reason: Kits containing Lidocaine HCL Injection USP 1% 10mg/mL 5mL ampules subject to another recall recalled due to not meeting release criteria for sterility.. Quantity: 1800."
+      },
+      "source_url": "https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfres/res.cfm?id=Z-2706-2026",
+      "source_name": "FDA CDRH",
+      "published_date": "2026-07-22",
+      "detected_date": "2026-07-28T20:22:21Z",
+      "importance": "medium",
+      "tags": [],
+      "related_docs": [],
+      "status": "published"
+    },
+    {
+      "id": "fda_20260728_class_i_recall_argon_medical_devices_arterial_line_kit_due_t",
+      "framework": "fda",
+      "category": "recall_class1",
+      "title": {
+        "en": "Class I Recall: Argon Medical Devices Arterial Line Kit Due to Non-Sterile Lidocaine Ampules",
+        "zh": "Argon Medical Devices动脉管路套件因利多卡因安瓿瓶无菌问题被I级召回"
+      },
+      "summary": {
+        "en": "Argon Medical Devices, Inc. is recalling 440 units of its Arterial Line Kit (REF 400115A) because the kit contains Lidocaine HCL Injection USP 1% ampules that are subject to another recall for failing sterility release criteria. This Class I recall, the most serious type, presents a risk of serious infection or death if the non-sterile solution is used. Customers should immediately quarantine and discontinue use of all affected kits and return them to the firm.",
+        "zh": "Argon Medical Devices, Inc. 正在召回440套动脉管路套件（REF 400115A），原因是套件中包含的利多卡因注射液安瓿瓶因另一召回而未能满足无菌放行标准。这是最严重的I级召回，若使用该非无菌产品可能导致严重感染或死亡。客户应立即隔离并停止使用所有受影响套件，并将其退回公司。"
+      },
+      "source_url": "https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfres/res.cfm?id=Z-2708-2026",
+      "source_name": "FDA CDRH",
+      "published_date": "2026-07-22",
+      "detected_date": "2026-07-28T20:22:40Z",
+      "importance": "high",
+      "tags": [
+        "class_i_recall",
+        "sterility_issue",
+        "arterial_line_kit"
+      ],
+      "related_docs": [],
+      "status": "published"
+    },
+    {
+      "id": "fda_20260728_class_i_recall_abiomed_insertion_kit_jp_set_0052_0011_jp_due",
+      "framework": "fda",
+      "category": "recall_class1",
+      "title": {
+        "en": "Class I Recall: Abiomed Insertion Kit (JP Set 0052-0011-JP) due to Introducer Sheath Leakage Risk",
+        "zh": "Abiomed插入套件（JP套件0052-0011-JP）因导引鞘渗漏风险被I级召回"
+      },
+      "summary": {
+        "en": "Abiomed, Inc. is recalling its ABIOMED Insertion Kit, packaged for Japan (Pump Set Code 0052-0011-JP), containing 14Fr and 23Fr Introducers. The recall is due to a potential for introducer sheath leakage from under the cap and along hub score lines, a manufacturing defect that is not visually detectable and could lead to air embolism or bleeding. A total of 117 units are affected, and customers must immediately quarantine, discontinue use, and return the product.",
+        "zh": "Abiomed公司主动召回其面向日本市场的ABIOMED插入套件（泵组代码0052-0011-JP），该套件包含14Fr和23Fr导引鞘。召回原因为导引鞘帽下及接头刻痕线处可能存在渗漏，该制造缺陷无法通过肉眼发现，可能导致空气栓塞或出血等严重健康风险。共涉及117台产品，用户须立即隔离停用并联系公司退回。"
+      },
+      "source_url": "https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfres/res.cfm?id=Z-2692-2026",
+      "source_name": "FDA CDRH",
+      "published_date": "2026-07-22",
+      "detected_date": "2026-07-28T20:22:54Z",
+      "importance": "high",
+      "tags": [
+        "class_i_recall",
+        "abiomed",
+        "introducer_sheath",
+        "leakage_risk",
+        "patient_safety"
+      ],
+      "related_docs": [],
+      "status": "published"
+    },
+    {
+      "id": "fda_20260728_class_i_recall_argon_medical_transvenous_pacing_electrode_tr",
+      "framework": "fda",
+      "category": "recall_class1",
+      "title": {
+        "en": "Class I Recall: Argon Medical Transvenous Pacing Electrode Tray (REF:0) for Sterility Failure of Lidocaine Ampules",
+        "zh": "Argon Medical经静脉起搏电极托盘(REF:0)因无菌问题被I级召回"
+      },
+      "summary": {
+        "en": "Argon Medical Devices, Inc. is recalling 950 units of its Transvenous Pacing Electrode Tray with Bipolar Balloon Pacing Electrode 5F (REF:0) because the kits contain Lidocaine HCl Injection USP 1% ampules that failed sterility release criteria. This Class I recall indicates a reasonable probability of serious infection risk or other adverse health consequences. Healthcare facilities should immediately quarantine affected products and follow the firm's recall instructions.",
+        "zh": "Argon Medical Devices, Inc.因产品内附的利多卡因注射液安瓿未能通过无菌放行标准，正召回950套经静脉起搏电极托盘（带双极球囊起搏电极5F，REF:0）。此为最严重的I级召回，表明可能引发严重感染等不良健康后果。医疗机构应立即隔离受影响批次，并按公司召回通知处置。"
+      },
+      "source_url": "https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfres/res.cfm?id=Z-2704-2026",
+      "source_name": "FDA CDRH",
+      "published_date": "2026-07-22",
+      "detected_date": "2026-07-28T20:23:21Z",
+      "importance": "high",
+      "tags": [
+        "class_i_recall",
+        "sterility_failure",
+        "pacing_electrode",
+        "argon_medical"
+      ],
+      "related_docs": [],
+      "status": "published"
+    },
+    {
+      "id": "fda_20260728_class_i_recall_oscor_inc_abiomed_introducer_kit_for_impella",
+      "framework": "fda",
+      "category": "recall_class1",
+      "title": {
+        "en": "Class I Recall: Oscor Inc. – Abiomed Introducer Kit for Impella Hemostatic Peel Away Intro – Sheath Leakage Risk",
+        "zh": "Oscor公司因护套泄漏风险召回Abiomed Impella导引器套件（I级召回）"
+      },
+      "summary": {
+        "en": "Oscor Inc. has initiated a Class I recall for 1332 units of the Abiomed REF 0052-3021 Introducer Kit for Impella Hemostatic Peel Away Intro. Manufacturing issues may cause the 14Fr and 23Fr introducer sheaths to leak from the sidearm, under the sheath cap, or along hub score lines, posing risks of blood loss, air embolism, or infection. Healthcare facilities should immediately stop use, quarantine affected products, and return them to Oscor per recall instructions.",
+        "zh": "Oscor公司对1332套Abiomed REF 0052-3021 Impella止血剥离型导引器套件实施I级召回。因制造缺陷，14Fr和23Fr导引器护套可能在侧臂、护套盖下方及接头刻痕线处发生泄漏，导致失血、空气栓塞或感染风险。医疗机构应立即停用、隔离相关产品，并按召回要求退回Oscor公司。"
+      },
+      "source_url": "https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfres/res.cfm?id=Z-2679-2026",
+      "source_name": "FDA CDRH",
+      "published_date": "2026-07-22",
+      "detected_date": "2026-07-28T20:23:34Z",
+      "importance": "high",
+      "tags": [
+        "class_i_recall",
+        "introducer_sheath_leakage",
+        "manufacturing_defect",
+        "oscor",
+        "abiomed",
+        "cardiovascular_device"
+      ],
+      "related_docs": [],
+      "status": "published"
+    },
+    {
+      "id": "fda_20260728_class_i_recall_argon_medical_devices_one_piece_introducer_tr",
+      "framework": "fda",
+      "category": "recall_class1",
+      "title": {
+        "en": "Class I Recall: Argon Medical Devices One-Piece Introducer Tray Due to Non-Sterile Lidocaine",
+        "zh": "Argon Medical一次性导入托盘因利多卡因安瓿无菌问题遭I级召回"
+      },
+      "summary": {
+        "en": "Argon Medical Devices, Inc. is recalling its One-Piece Introducer Tray (REF 497455, 497434) because the kit contains Lidocaine HCL Injection USP 1% ampules that failed sterility release criteria, prompting a separate recall. This Class I recall affects 200 units distributed in the U.S. and poses a risk of serious infection or sepsis if non-sterile lidocaine is used. Users should immediately quarantine and discontinue use of affected lots, and return products to Argon Medical as directed.",
+        "zh": "Argon Medical Devices, Inc. 正在召回其一次性导入托盘（产品编号 497455 及 497434），原因为套装中含有利多卡因盐酸盐注射液（1% 10mg/mL 5mL安瓿），该注射液因未能通过无菌放行标准而被单独召回。此次I级召回涉及200套在美国销售的产品，使用非无菌利多卡因可能导致严重感染或败血症。用户应立即停用并隔离受影响批次，按公司指示退回产品。"
+      },
+      "source_url": "https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfres/res.cfm?id=Z-2705-2026",
+      "source_name": "FDA CDRH",
+      "published_date": "2026-07-22",
+      "detected_date": "2026-07-28T20:24:01Z",
+      "importance": "high",
+      "tags": [
+        "class_i_recall",
+        "sterility_issue",
+        "lidocaine",
+        "one_piece_introducer_tray",
+        "argon_medical",
+        "cardiovascular"
+      ],
+      "related_docs": [],
+      "status": "published"
+    },
+    {
+      "id": "fda_20260728_class_i_recall_abiomed_inc_abiomed_impella_cp_set_pump_set_c",
+      "framework": "fda",
+      "category": "recall_class1",
+      "title": {
+        "en": "Class I Recall: Abiomed, Inc. - ABIOMED Impella CP Set, Pump Set Code 0048-0014; containing Introducer Product C",
+        "zh": "Class I Recall: Abiomed, Inc. - ABIOMED Impella CP Set, Pump Set Code 0048-0014; containing Introducer Product C"
+      },
+      "summary": {
+        "en": "Recall #Z-2689-2026 by Abiomed, Inc.. Reason: A potential for introducer sheath leakage from under the sheath cap and along the hub score lines, identified in 14Fr and 23Fr Introducers. These manufacturing issues are not visually detectable by th. Quantity: 35,430 units.",
+        "zh": "Recall #Z-2689-2026 by Abiomed, Inc.. Reason: A potential for introducer sheath leakage from under the sheath cap and along the hub score lines, identified in 14Fr and 23Fr Introducers. These manufacturing issues are not visually detectable by th. Quantity: 35,430 units."
+      },
+      "source_url": "https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfres/res.cfm?id=Z-2689-2026",
+      "source_name": "FDA CDRH",
+      "published_date": "2026-07-22",
+      "detected_date": "2026-07-28T20:24:33Z",
+      "importance": "medium",
+      "tags": [],
+      "related_docs": [],
+      "status": "published"
+    },
+    {
+      "id": "fda_20260728_class_i_recall_abiomed_impella_cp_14_fr_introducer_kit_recal",
+      "framework": "fda",
+      "category": "recall_class1",
+      "title": {
+        "en": "Class I Recall: Abiomed Impella CP 14 Fr Introducer Kit Recalled Due to Undetectable Sheath Leakage",
+        "zh": "Abiomed Impella CP 14Fr导引器套件因鞘管不可见泄漏被一级召回"
+      },
+      "summary": {
+        "en": "Abiomed, Inc. is recalling 1,223 units of the Impella CP Introducer Kit 14 Fr (pump set code 0052-0039) because of potential introducer sheath leakage from under the cap and along hub score lines, a manufacturing defect not visually detectable. This Class I recall poses serious health risks including air embolism, bleeding, or infection. Healthcare providers must immediately quarantine the affected devices and follow Abiomed's return instructions.",
+        "zh": "Abiomed 公司因导引器鞘管可能在帽盖下及裂口线处发生无法目视检测的泄漏，对 1,223 台 Impella CP 14Fr 导引器套件（泵组代码 0052-0039）发起一级召回。该缺陷可能导致空气栓塞、出血或感染等严重健康风险。医疗机构应立即隔离受影响产品，并按企业指示退回。"
+      },
+      "source_url": "https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfres/res.cfm?id=Z-2686-2026",
+      "source_name": "FDA CDRH",
+      "published_date": "2026-07-22",
+      "detected_date": "2026-07-28T20:24:47Z",
+      "importance": "high",
+      "tags": [
+        "class_i_recall",
+        "impella_cp",
+        "introducer_sheath",
+        "manufacturing_defect"
+      ],
+      "related_docs": [],
+      "status": "published"
+    },
+    {
+      "id": "fda_20260728_class_i_recall_argon_t_lok_bone_marrow_trays_due_to_non_ster",
+      "framework": "fda",
+      "category": "recall_class1",
+      "title": {
+        "en": "Class I Recall: Argon T-Lok Bone Marrow Trays Due to Non-Sterile Lidocaine Ampules",
+        "zh": "I 级召回：Argon T-Lok 骨髓穿刺托盘因利多卡因安瓿无菌问题被召回"
+      },
+      "summary": {
+        "en": "Argon Medical Devices, Inc. is recalling 850 T-Lok Bone Marrow Trays (REF BMT1104STL, BMET1104TL, BMT1104CATL) because the kits contain Lidocaine HCL Injection USP 1% 5mL ampules subject to another recall for failing sterility release criteria. Use of a non-sterile ampule poses a risk of serious infection, prompting this Class I recall, the most serious type. Affected facilities should immediately quarantine all impacted lots and follow Argon’s instructions for return or disposal.",
+        "zh": "Argon Medical Devices, Inc. 正在召回 850 套 T-Lok 骨髓穿刺托盘（产品编号 BMT1104STL、BMET1104TL、BMT1104CATL），因套件中所含 1% 盐酸利多卡因注射液 5mL 安瓿瓶未满足无菌放行标准，并已受另一召回影响。使用非无菌安瓿可能导致严重感染，故此次召回级别为最严重的 I 级。受影响机构应立即隔离相关批次产品，并按厂家指引进行退货或销毁。"
+      },
+      "source_url": "https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfres/res.cfm?id=Z-2707-2026",
+      "source_name": "FDA CDRH",
+      "published_date": "2026-07-22",
+      "detected_date": "2026-07-28T20:25:01Z",
+      "importance": "high",
+      "tags": [
+        "class_i_recall",
+        "sterility_failure",
+        "bone_marrow_tray",
+        "argon_medical",
+        "lidocaine",
+        "medical_device_recall"
+      ],
+      "related_docs": [],
+      "status": "published"
+    },
+    {
+      "id": "fda_20260728_class_i_recall_abiomed_impella_5_5_smartassist_s2_set_recall",
+      "framework": "fda",
+      "category": "recall_class1",
+      "title": {
+        "en": "Class I Recall: Abiomed Impella 5.5 SmartAssist S2 Set Recalled for Introducer Sheath Leakage Risk",
+        "zh": "Abiomed Impella 5.5 SmartAssist S2套装因引导鞘渗漏风险被I类召回"
+      },
+      "summary": {
+        "en": "Abiomed, Inc. is recalling 1,574 units of the Impella 5.5 SmartAssist S2 Set (pump set codes 1000459, 1000460, JP configuration) due to a manufacturing defect in 14Fr and 23Fr introducers that may cause leakage under the sheath cap or along hub score lines. This Class I recall, the most serious type, warns that the undetectable leak could lead to hemorrhage, air embolism, or inadequate hemodynamic support. The affected devices were distributed in Japan; users must immediately discontinue use, quarantine the product, and contact Abiomed for return and replacement.",
+        "zh": "Abiomed公司正在召回1,574套Impella 5.5 SmartAssist S2套装（泵套件代码1000459、1000460，日本型号），原因是14Fr和23Fr引导鞘存在制造缺陷，可能从鞘帽下方或座部刻痕线处发生不可见渗漏。此次I类召回为最严重级别，该隐蔽性渗漏可能导致大出血、空气栓塞或血流动力学支持不足。受影响产品在日本分销，用户应立即停用、隔离产品并联系Abiomed安排退货换货。"
+      },
+      "source_url": "https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfres/res.cfm?id=Z-2688-2026",
+      "source_name": "FDA CDRH",
+      "published_date": "2026-07-22",
+      "detected_date": "2026-07-28T20:25:16Z",
+      "importance": "high",
+      "tags": [
+        "class_i_recall",
+        "introducer_sheath_leakage",
+        "abiomed_impella",
+        "high_risk",
+        "medical_device"
+      ],
+      "related_docs": [],
+      "status": "published"
+    },
+    {
+      "id": "fda_20260728_class_i_recall_abiomed_impella_rp_flex_sets_due_to_introduce",
+      "framework": "fda",
+      "category": "recall_class1",
+      "title": {
+        "en": "Class I Recall: Abiomed Impella RP Flex Sets Due to Introducer Sheath Leakage Risk",
+        "zh": "Abiomed Impella RP Flex系统因导引鞘泄漏风险发起I级召回"
+      },
+      "summary": {
+        "en": "Abiomed, Inc. is recalling its Impella RP Flex with SmartAssist Set (pump set code 1000323) because 14Fr and 23Fr introducer sheaths may leak from under the sheath cap and along hub score lines, a manufacturing defect not visually detectable. This could cause bleeding, air embolism, or other serious patient injury. The Class I recall covers 5,017 units distributed in the U.S. Healthcare providers must immediately stop using and quarantine affected products and return them to Abiomed.",
+        "zh": "Abiomed公司正在召回其Impella RP Flex with SmartAssist套装（泵组代码1000323），原因是14Fr和23Fr导引鞘存在不可目测的制造缺陷，可能导致鞘帽下方及接口划痕处泄漏。此问题可能引发出血、空气栓塞等严重不良事件。该I级召回涉及在美国分销的5,017台设备，医疗机构须立即停止使用、隔离受影响产品并退回Abiomed。"
+      },
+      "source_url": "https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfres/res.cfm?id=Z-2681-2026",
+      "source_name": "FDA CDRH",
+      "published_date": "2026-07-22",
+      "detected_date": "2026-07-28T20:25:38Z",
+      "importance": "high",
+      "tags": [
+        "class_i_recall",
+        "abiomed",
+        "introducer_sheath_leakage"
+      ],
+      "related_docs": [],
+      "status": "published"
+    },
+    {
+      "id": "fda_20260728_class_i_recall_abiomed_impella_cp_set_with_introducer_produc",
+      "framework": "fda",
+      "category": "recall_class1",
+      "title": {
+        "en": "Class I Recall: Abiomed Impella CP Set with Introducer Product C (Code 0048-0044) Due to Introducer Sheath Leakage",
+        "zh": "一级召回：Abiomed Impella CP套装（含Introducer Product C）因鞘管泄漏风险发起召回"
+      },
+      "summary": {
+        "en": "Abiomed, Inc. is conducting a Class I recall of 557 units of the Impella CP Set (Pump Set Code 0048-0044) containing Introducer Product C. The recall is due to a manufacturing defect in 14Fr and 23Fr introducers that can cause sheath leakage from under the cap or along hub score lines, not visually detectable. This poses a risk of air embolism, bleeding, or inadequate circulatory support. Users must immediately quarantine affected products and return them to Abiomed.",
+        "zh": "Abiomed公司对557台Impella CP套装（泵组代码0048-0044，含Introducer Product C）发起一级召回。原因是14Fr和23Fr导引鞘存在制造缺陷，可能导致鞘盖下或座体刻痕线处泄漏，该缺陷无法目视检测，可能引发空气栓塞、出血或循环支持不足等严重风险。使用者须立即隔离并退回受影响产品。"
+      },
+      "source_url": "https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfres/res.cfm?id=Z-2691-2026",
+      "source_name": "FDA CDRH",
+      "published_date": "2026-07-22",
+      "detected_date": "2026-07-28T20:25:48Z",
+      "importance": "high",
+      "tags": [
+        "class_i_recall",
+        "cardiac_assist_device",
+        "introducer_leakage",
+        "manufacturing_defect",
+        "patient_safety"
+      ],
+      "related_docs": [],
+      "status": "published"
+    },
+    {
+      "id": "fda_20260728_abiomed_recalls_impella_5_5_smart_assist_set_due_to_introduc",
+      "framework": "fda",
+      "category": "recall_class1",
+      "title": {
+        "en": "Abiomed Recalls Impella 5.5 Smart Assist Set Due to Introducer Sheath Leakage Risk",
+        "zh": "Abiomed召回Impella 5.5智能辅助套装，因鞘管泄漏风险"
+      },
+      "summary": {
+        "en": "Abiomed, Inc. is recalling its Impella 5.5 Smart Assist Set (pump set codes 1000211 and 1000212) due to potential introducer sheath leakage from under the cap and along hub score lines, a manufacturing defect not visually detectable. This Class I recall, the most serious type, covers 383 units and poses a risk of serious adverse health consequences or death. Customers should immediately quarantine affected products and follow Abiomed's recall instructions.",
+        "zh": "Abiomed公司因潜在鞘管泄漏（鞘帽下方及鲁尔接口刻痕线处）的风险，召回其Impella 5.5智能辅助套装（泵套装代码1000211及1000212）。该制造缺陷肉眼无法识别，属最严重的一级召回，涉及383台设备，可能导致严重健康损害或死亡。用户须立即隔离受影响产品并遵循Abiomed的召回通知采取行动。"
+      },
+      "source_url": "https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfres/res.cfm?id=Z-2687-2026",
+      "source_name": "FDA CDRH",
+      "published_date": "2026-07-22",
+      "detected_date": "2026-07-28T20:26:17Z",
+      "importance": "high",
+      "tags": [
+        "class_i_recall",
+        "abiomed",
+        "impella_5_5",
+        "introducer_sheath_leakage",
+        "cardiovascular_device",
+        "recall_z_2687_2026"
+      ],
+      "related_docs": [],
+      "status": "published"
+    },
+    {
+      "id": "fda_20260728_class_i_recall_abiomed_intro_kit_14fr_jp_due_to_risk_of_intr",
+      "framework": "fda",
+      "category": "recall_class1",
+      "title": {
+        "en": "Class I Recall: Abiomed Intro Kit (14Fr, JP) Due to Risk of Introducer Sheath Leakage",
+        "zh": "I类召回：Abiomed导引套件（14Fr，日本）因鞘管泄漏风险"
+      },
+      "summary": {
+        "en": "Abiomed, Inc. is recalling 96 units of its ABIOMED Intro Kit, 14Fr x 13 and 25 cm, packaged for Japan (Pump Set Code 0052-0023-JP). The recall was initiated due to a manufacturing defect that may cause introducer sheath leakage from under the sheath cap and along hub score lines; this defect is not visually detectable and could lead to air embolism or bleeding. Users must immediately stop using the affected products, quarantine them, and return them to the firm. This is a Class I recall, the most serious type, indicating a reasonable probability of serious health consequences or death.",
+        "zh": "Abiomed公司正在召回96台ABIOMED导引套件，规格为14Fr x 13和25 cm，日本包装（泵组代码0052-0023-JP）。召回原因是制造缺陷可能导致鞘管帽下及接头刻痕处发生泄漏，该缺陷无法肉眼发现，可能引发空气栓塞或出血。使用者须立即停止使用受影响产品、就地隔离并退回公司。这是一次I类召回，代表存在导致严重健康危害或死亡的合理可能性。"
+      },
+      "source_url": "https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfres/res.cfm?id=Z-2693-2026",
+      "source_name": "FDA CDRH",
+      "published_date": "2026-07-22",
+      "detected_date": "2026-07-28T20:26:35Z",
+      "importance": "high",
+      "tags": [
+        "class_i_recall",
+        "introducer_sheath_leakage",
+        "abiomed",
+        "manufacturing_defect",
+        "air_embolism",
+        "cardiovascular_device"
+      ],
+      "related_docs": [],
+      "status": "published"
+    },
+    {
+      "id": "fda_20260728_class_i_recall_abiomed_impella_cp_smart_assist_set_jp_code_0",
+      "framework": "fda",
+      "category": "recall_class1",
+      "title": {
+        "en": "Class I Recall: Abiomed Impella CP Smart Assist Set (JP, Code 0048-0024-JP) for Introducer Sheath Leakage Risk",
+        "zh": "一级召回：Abiomed Impella CP智能辅助套装（日本版，代码0048-0024-JP）因护套渗漏风险"
+      },
+      "summary": {
+        "en": "Abiomed, Inc. is recalling 8,382 units of its Impella CP Smart Assist Set, JP (Pump Set Code 0048-0024-JP) due to potential introducer sheath leakage from under the sheath cap and along hub score lines in 14Fr and 23Fr Introducers. The defect is not visually detectable and could lead to patient complications such as bleeding or vascular injury. Healthcare facilities should immediately quarantine affected products and follow Abiomed’s recall instructions.",
+        "zh": "Abiomed公司正在召回8,382台Impella CP智能辅助套装（日本泵组代码0048-0024-JP），原因是14Fr和23Fr导引鞘的鞘帽下方及座划痕线处可能出现渗漏，该缺陷肉眼无法识别，可能导致患者出血或血管损伤。医疗机构应立即隔离受影响设备，并遵循公司的召回通知处理。"
+      },
+      "source_url": "https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfres/res.cfm?id=Z-2690-2026",
+      "source_name": "FDA CDRH",
+      "published_date": "2026-07-22",
+      "detected_date": "2026-07-28T20:26:54Z",
+      "importance": "high",
+      "tags": [
+        "class_i_recall",
+        "impella",
+        "introducer_sheath",
+        "patient_safety"
+      ],
+      "related_docs": [],
+      "status": "published"
+    },
+    {
+      "id": "fda_20260721_abiomed_recalls_14fr_low_profile_catheter_introducer_kits",
+      "framework": "fda",
+      "category": "cdrh_news",
+      "title": {
+        "en": "Abiomed Recalls 14Fr Low Profile Catheter Introducer Kits",
+        "zh": "Abiomed召回14Fr低轮廓导管导入器套件"
+      },
+      "summary": {
+        "en": "Abiomed is recalling its 14Fr Low Profile Introducer Kits (used with Impella heart pumps) due to a potential tip separation issue that could lead to vascular injury or procedure delay. The FDA has classified this as a Class I recall, the most serious type, requiring immediate discontinuation of use. Healthcare facilities should quarantine all affected units and follow Abiomed's instructions for return or replacement.",
+        "zh": "Abiomed因导入器尖端可能分离导致患者损伤风险，主动召回其14Fr低轮廓导管导入器套件（与Impella心脏泵配合使用）。FDA将此定为最严重的I级召回，要求立即停用。医疗机构须隔离受影响产品，并按Abiomed通知进行退还或更换。"
+      },
+      "source_url": "https://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/catheter-introducer-kit-recall-abiomed-removes-14fr-low-profile-introducer-kits",
+      "source_name": "FDA",
+      "published_date": "2026-07-21",
+      "detected_date": "2026-07-21T20:22:46Z",
+      "importance": "high",
+      "tags": [
+        "catheter_introducer_kit",
+        "recall",
+        "abiomed",
+        "impella",
+        "class_i",
+        "medical_device"
+      ],
+      "related_docs": [],
+      "status": "published"
+    },
+    {
+      "id": "fda_20260721_b_braun_medical_removes_spinal_anesthesia_kits_containing_hu",
+      "framework": "fda",
+      "category": "cdrh_news",
+      "title": {
+        "en": "B. Braun Medical Removes Spinal Anesthesia Kits Containing Huons Bupivacaine HCl in Dextrose Due to Quality Issue",
+        "zh": "B. Braun Medical因质量问题召回含Huons布比卡因葡萄糖注射液的脊髓麻醉套件"
+      },
+      "summary": {
+        "en": "B. Braun Medical, Inc. is voluntarily removing certain convenience kits that include Huons Bupivacaine Hydrochloride in Dextrose Injection, USP. The recall is due to a potential quality defect that may compromise product integrity, leading to risk for patients. Healthcare facilities should immediately stop using and quarantine affected kits, and contact B. Braun to arrange return. This is a safety-related removal coordinated with FDA CDRH.",
+        "zh": "B. Braun Medical, Inc. 主动召回含有Huons布比卡因盐酸盐葡萄糖注射液的特制脊髓麻醉套件。此次召回因潜在质量缺陷可能影响产品完整性，给患者带来风险。医疗机构应立即停用并隔离相关套件，联系B. Braun安排退回。这是与美国FDA CDRH协调的安全召回行动。"
+      },
+      "source_url": "https://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/convenience-kit-recall-b-braun-medical-inc-removes-spinal-anesthesia-kits-containing-huons",
+      "source_name": "FDA",
+      "published_date": "2026-07-21",
+      "detected_date": "2026-07-21T20:23:02Z",
+      "importance": "high",
+      "tags": [
+        "recall",
+        "spinal_anesthesia",
+        "b_braun",
+        "convenience_kit",
+        "quality_defect",
+        "cdrh"
+      ],
+      "related_docs": [],
+      "status": "published"
+    },
+    {
+      "id": "fda_20260721_arrow_international_issues_correction_for_convenience_kits_c",
+      "framework": "fda",
+      "category": "cdrh_news",
+      "title": {
+        "en": "Arrow International Issues Correction for Convenience Kits Containing Recalled Huons Lidocaine, Bupivacaine, and Saline",
+        "zh": "Arrow International 发布对包含召回Huons利多卡因、布比卡因和生理盐水的便利套件的纠正通知"
+      },
+      "summary": {
+        "en": "Arrow International is issuing a field correction for certain convenience kits that include Huons-manufactured lidocaine, bupivacaine, and saline separately recalled by Huons due to lack of sterility assurance. The correction involves notifying users to quarantine and remove the affected drug components from the kits and arrange for their return. Healthcare facilities that received the impacted kits should immediately check inventory, stop using the specified drug vials, and follow Arrow International's removal instructions.",
+        "zh": "Arrow International 针对部分便利套件发布现场纠正通知，这些套件含有因无菌保证缺失而被Huons公司另行召回的利多卡因、布比卡因和生理盐水。纠正措施要求使用者隔离并取出受影响药品组分并安排退回。收到相关套件的医疗机构应立即清点库存，停止使用指定药品安瓿，并按照 Arrow International 的移除说明操作。"
+      },
+      "source_url": "https://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/convenience-kit-correction-arrow-international-issues-correction-convenience-kits-containing",
+      "source_name": "FDA",
+      "published_date": "2026-07-21",
+      "detected_date": "2026-07-21T20:23:14Z",
+      "importance": "medium",
+      "tags": [
+        "convenience_kit",
+        "drug_recall",
+        "field_correction",
+        "arrow_international",
+        "huons",
+        "lidocaine",
+        "bupivacaine",
+        "sterility_assurance"
+      ],
+      "related_docs": [],
+      "status": "published"
+    },
+    {
+      "id": "fda_20260721_fda_cdrh_town_hall_on_biocompatibility_and_toxicological_ris",
+      "framework": "fda",
+      "category": "cdrh_news",
+      "title": {
+        "en": "FDA CDRH Town Hall on Biocompatibility and Toxicological Risk Assessment – October 7, 2026",
+        "zh": "FDA CDRH 生物相容性及毒理学风险评估线上交流会（2026年10月7日）"
+      },
+      "summary": {
+        "en": "The FDA's Center for Devices and Radiological Health (CDRH) is hosting a virtual Town Hall on biocompatibility and toxicological risk assessment on October 7, 2026. The event provides medical device manufacturers and stakeholders an opportunity to engage with FDA experts on current expectations, challenges, and evolving best practices for demonstrating biocompatibility under ISO 10993. Attendees can submit questions in advance and participate in live discussions to clarify regulatory pathways for chemical characterization and toxicological risk assessment.",
+        "zh": "FDA 器械与放射健康中心（CDRH）将于2026年10月7日举办一场关于生物相容性与毒理学风险评估的线上交流会。本次活动面向医疗器械制造商和相关方，提供与FDA专家直接对话的机会，探讨当前生物相容性评价（基于ISO 10993系列）的监管要求、常见挑战及最新实践。参会者可提前提交问题并参与现场讨论，以澄清化学表征和毒理学风险评估的法规路径。"
+      },
+      "source_url": "https://www.fda.gov/medical-devices/medical-devices-news-and-events/town-hall-biocompatibility-and-toxicological-risk-assessment-10072026",
+      "source_name": "FDA",
+      "published_date": "2026-07-21",
+      "detected_date": "2026-07-21T20:23:25Z",
+      "importance": "medium",
+      "tags": [
+        "biocompatibility",
+        "toxicological_risk_assessment",
+        "town_hall",
+        "cdrh",
+        "iso_10993",
+        "medical_devices"
+      ],
+      "related_docs": [],
+      "status": "published"
+    },
+    {
+      "id": "fda_20260721_fda_cdrh_town_hall_on_biocompatibility_and_chemical_characte",
+      "framework": "fda",
+      "category": "cdrh_news",
+      "title": {
+        "en": "FDA CDRH Town Hall on Biocompatibility and Chemical Characterization: Focus on Extractions (Sep 23, 2026)",
+        "zh": "FDA CDRH 生物相容性与化学表征测试提取专题市民大会（2026年9月23日）"
+      },
+      "summary": {
+        "en": "The FDA's Center for Devices and Radiological Health (CDRH) will host a virtual town hall on September 23, 2026, dedicated to biocompatibility and chemical characterization testing with a specific focus on extraction protocols. Medical device manufacturers preparing premarket submissions should attend to understand current expectations for extraction study design, solvent selection, and data interpretation. This event provides a direct opportunity to ask questions and clarify regulatory requirements under ISO 10993-18 and related guidance.",
+        "zh": "美国FDA器械与放射健康中心（CDRH）将于2026年9月23日举办线上市民大会，专门讨论生物相容性与化学表征测试，重点聚焦提取实验方案。即将提交上市申请的医疗器械制造商应参加此次会议，以了解当前对提取研究设计、溶剂选择及数据解读的期望。此次会议提供了直接提问并澄清ISO 10993-18及相关指南中法规要求的机会。"
+      },
+      "source_url": "https://www.fda.gov/medical-devices/medical-devices-news-and-events/town-hall-biocompatibility-and-chemical-characterization-testing-extractions-09232026",
+      "source_name": "FDA",
+      "published_date": "2026-07-21",
+      "detected_date": "2026-07-21T20:23:35Z",
+      "importance": "medium",
+      "tags": [
+        "biocompatibility",
+        "chemical_characterization",
+        "extractions",
+        "town_hall",
+        "iso_10993",
+        "fda_cdrh"
+      ],
+      "related_docs": [],
+      "status": "published"
+    },
+    {
+      "id": "fda_20260721_fda_cdrh_announces_town_hall_on_biocompatibility_risk_assess",
+      "framework": "fda",
+      "category": "cdrh_news",
+      "title": {
+        "en": "FDA CDRH Announces Town Hall on Biocompatibility Risk Assessment on September 9, 2026",
+        "zh": "FDA CDRH 将于2026年9月9日举办生物相容性风险评估市政厅会议"
+      },
+      "summary": {
+        "en": "The FDA’s Center for Devices and Radiological Health (CDRH) will hold a town hall on September 9, 2026, focused on biocompatibility risk assessment for medical devices. This event is intended for medical device manufacturers and regulatory affairs professionals seeking clarity on current expectations for biocompatibility evaluation. Participants will have the opportunity to engage directly with FDA experts, ask questions, and discuss best practices. Manufacturers are encouraged to register in advance and prepare specific questions related to their biocompatibility assessment strategies.",
+        "zh": "FDA 器械与放射健康中心（CDRH）将于2026年9月9日举办一场市政厅会议，聚焦医疗器械的生物相容性风险评估。该活动面向医疗器械制造商和法规事务专业人员，旨在澄清当前对生物相容性评估的期望。参会者可直接与 FDA 专家交流、提问并探讨最佳实践。建议制造商提前注册并准备与生物相容性评估策略相关的具体问题。"
+      },
+      "source_url": "https://www.fda.gov/medical-devices/medical-devices-news-and-events/town-hall-biocompatibility-risk-assessment-09092026",
+      "source_name": "FDA",
+      "published_date": "2026-07-21",
+      "detected_date": "2026-07-21T20:23:46Z",
+      "importance": "medium",
+      "tags": [
+        "biocompatibility",
+        "risk_assessment",
+        "town_hall",
+        "cdrh",
+        "medical_device",
+        "regulatory_affairs"
+      ],
+      "related_docs": [],
+      "status": "published"
+    },
+    {
+      "id": "fda_20260818_fda_recall_z_2954_2026_sdi_limited_dentsply_sirona_capsule_m",
+      "framework": "fda",
+      "category": "safety_communication",
+      "title": {
+        "en": "FDA Recall Z-2954-2026: SDI Limited - Dentsply Sirona Capsule Mixer Model 5546068 Electrical Discharge Risk",
+        "zh": "FDA召回Z-2954-2026：SDI Limited/Dentsply Sirona胶囊混合机型号5546068电气放电风险"
+      },
+      "summary": {
+        "en": "FDA posted recall Z-2954-2026 for the SDI Limited - Dentsply Sirona Capsule Mixer, Model No. 5546068, due to potential electrical discharge from the unit when unplugged. This dental device may pose an electrical shock hazard to users. Affected facilities should identify and remove the device from use and follow the manufacturer's recall instructions.",
+        "zh": "FDA发布召回Z-2954-2026，涉及SDI Limited - Dentsply Sirona胶囊混合机型号5546068，原因是设备拔下电源时可能存在电气放电。该牙科设备可能对使用者造成电击风险。相关机构应识别并停用受影响设备，并遵循制造商的召回说明。"
+      },
+      "source_url": "https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfRes/res.cfm?id=221283",
+      "source_name": "FDA CDRH",
+      "published_date": "2026-07-20",
+      "detected_date": "2026-08-18T19:47:39Z",
+      "importance": "high",
+      "tags": [
+        "device_recall",
+        "electrical_safety",
+        "dental_device"
+      ],
+      "related_docs": [],
+      "status": "published"
+    },
+    {
+      "id": "fda_20260818_paragonix_kidneyvault_portable_renal_perfusion_system_recall",
+      "framework": "fda",
+      "category": "safety_communication",
+      "title": {
+        "en": "Paragonix KidneyVault Portable Renal Perfusion System Recall Z-2967-2026: Firmware Defect Causes Blank Screen",
+        "zh": "Paragonix KidneyVault便携式肾脏灌注系统召回：固件缺陷致屏幕空白"
+      },
+      "summary": {
+        "en": "FDA has posted a recall for the Paragonix Technologies Inc. KidneyVault Portable Renal Perfusion System, REF PRGNX-8008-001, under recall Z-2967-2026. A firmware defect in the datalogger may cause it to lose its configuration, resulting in a blank screen and loss of displayed preservation parameters. This can prevent transplant teams from monitoring critical organ preservation data during transport. Affected facilities should identify and quarantine affected units, contact Paragonix Technologies, and follow the recall instructions.",
+        "zh": "FDA已发布Paragonix Technologies Inc. KidneyVault便携式肾脏灌注系统（REF PRGNX-8008-001）召回，编号为Z-2967-2026。该设备数据记录仪因固件缺陷可能丢失配置，导致屏幕空白并无法显示保存参数。这可能使移植团队在运输过程中无法监测关键的器官保存数据。受影响机构应识别并隔离相关设备，联系Paragonix Technologies并按召回通知处理。"
+      },
+      "source_url": "https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfRes/res.cfm?id=221632",
+      "source_name": "FDA CDRH",
+      "published_date": "2026-07-20",
+      "detected_date": "2026-08-18T19:47:55Z",
+      "importance": "high",
+      "tags": [
+        "device_recall",
+        "firmware_defect",
+        "organ_preservation",
+        "fda_safety_communication"
+      ],
+      "related_docs": [],
+      "status": "published"
+    },
+    {
+      "id": "fda_20260811_recall_thermo_fisher_neisseria_meningitidis_gp_c_antisera_r3",
+      "framework": "fda",
+      "category": "safety_communication",
+      "title": {
+        "en": "Recall: Thermo Fisher Neisseria meningitidis Gp C Antisera (R30166901) Fails IFU Performance, Not Positive within 60 Seconds",
+        "zh": "Thermo Fisher脑膜炎奈瑟菌C群诊断试剂（R30166901）召回：因性能不达标准，60秒内未能检出阳性"
+      },
+      "summary": {
+        "en": "The FDA has issued a Class I recall for specific lots of Remel Europe Ltd. / Thermo Fisher Diagnostics Neisseria meningitidis Gp C antisera (R30166901). The affected product does not yield a positive reaction with the ATCC13102 control strain within 60 seconds as required by the instructions for use, potentially leading to false-negative results. Misidentification of Neisseria meningitidis serogroup C may delay appropriate treatment and infection control measures, posing serious health risks. Laboratories should immediately discontinue use of the impacted lots, quarantine remaining inventory, and contact Thermo Fisher for replacement. All results obtained with these lots should be re-evaluated.",
+        "zh": "FDA已对特定批次的Thermo Fisher Diagnostics（Remel Europe Ltd.）脑膜炎奈瑟菌C群抗血清（产品号R30166901）发出I级召回。受影响产品未能按照说明书要求，在60秒内与ATCC13102菌株产生阳性反应，可能导致假阴性结果。错误鉴定脑膜炎球菌C群会延误临床治疗和感染防控，带来严重健康风险。各实验室应立即停用相关批次、隔离库存，联系Thermo Fisher更换产品，并对既往检测结果进行复核。"
+      },
+      "source_url": "https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfRes/res.cfm?id=221582",
+      "source_name": "FDA CDRH",
+      "published_date": "2026-07-17",
+      "detected_date": "2026-08-11T20:03:40Z",
+      "importance": "high",
+      "tags": [
+        "device_recall",
+        "fda_safety_alert",
+        "invitro_diagnostics",
+        "neisseria_meningitidis",
+        "false_negative",
+        "class_i_recall"
+      ],
+      "related_docs": [],
+      "status": "published"
+    },
+    {
+      "id": "fda_20260811_biofire_defense_recalls_filmarray_ngds_warrior_panel_due_to",
+      "framework": "fda",
+      "category": "safety_communication",
+      "title": {
+        "en": "Biofire Defense Recalls FilmArray NGDS Warrior Panel Due to Outbreak Strain Mismatch",
+        "zh": "Biofire Defense召回FilmArray NGDS Warrior Panel因爆发菌株与参考菌株不匹配"
+      },
+      "summary": {
+        "en": "Biofire Defense has recalled the FilmArray NGDS Warrior Panel (REF NGDS-ASY-0007, UDI-DI (01)00851458005136) because the reference strains used in test development do not match circulating outbreak strains, which may cause false negative or inaccurate results. Affected product should be immediately removed from use, quarantined, and returned or disposed of as directed by the firm. The FDA has classified this as a Class II recall (Z-2877-2026).",
+        "zh": "Biofire Defense已召回FilmArray NGDS Warrior Panel（REF NGDS-ASY-0007，UDI-DI (01)00851458005136），因检测开发所用参考菌株与实际爆发菌株不匹配，可能导致假阴性或检测不准确。医疗机构须立即停用受影响产品，隔离库存并按照企业指示退回或销毁。FDA已将此列为II级召回（Z-2877-2026）。"
+      },
+      "source_url": "https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfRes/res.cfm?id=221599",
+      "source_name": "FDA CDRH",
+      "published_date": "2026-07-16",
+      "detected_date": "2026-08-11T20:03:59Z",
+      "importance": "high",
+      "tags": [
+        "device_recall",
+        "class_ii_recall",
+        "ivd_panel",
+        "nucleic_acid_test",
+        "biofire_defense",
+        "filmArray",
+        "safety_alert"
+      ],
+      "related_docs": [],
+      "status": "published"
+    },
+    {
+      "id": "fda_20260714_pulmonary_valve_catheter_delivery_system_recall_medtronic_re",
+      "framework": "fda",
+      "category": "cdrh_news",
+      "title": {
+        "en": "Pulmonary Valve Catheter Delivery System Recall: Medtronic Removes Harmony Catheter Delivery Catheter System (DCS)",
+        "zh": "Pulmonary Valve Catheter Delivery System Recall: Medtronic Removes Harmony Catheter Delivery Catheter System (DCS)"
+      },
+      "summary": {
+        "en": "CDRH News",
+        "zh": "CDRH News"
+      },
+      "source_url": "https://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/pulmonary-valve-catheter-delivery-system-recall-medtronic-removes-harmony-delivery-catheter-system",
+      "source_name": "FDA",
+      "published_date": "2026-07-14",
+      "detected_date": "2026-07-14T20:24:23Z",
+      "importance": "medium",
+      "tags": [],
+      "related_docs": [],
+      "status": "published"
+    },
+    {
+      "id": "fda_20260714_cdrh_news_fda_small_business_determination_sbd_program_offer",
+      "framework": "fda",
+      "category": "cdrh_news",
+      "title": {
+        "en": "CDRH News: FDA Small Business Determination (SBD) Program Offers Reduced or Waived Medical Device User Fees",
+        "zh": "CDRH动态：FDA小企业认定项目提供医疗器械使用费减免"
+      },
+      "summary": {
+        "en": "This CDRH news item provides an overview of the FDA’s Small Business Determination (SBD) program, which allows qualifying small businesses to receive reduced or waived user fees for certain medical device premarket submissions. Eligible firms must meet gross receipts thresholds and submit an SBD request using Form 3602 or 3602A. The update clarifies eligibility criteria, application steps, and the need for an active SBD number before submitting a fee‑based application. Manufacturers are advised to apply early to avoid processing delays.",
+        "zh": "该CDRH新闻介绍了FDA小企业认定（SBD）项目，符合条件的小型企业在提交医疗器械上市前申请时可享受使用费减免或豁免。企业需满足毛收入上限要求，并通过表格3602/3602A提交认定申请。新闻明确了资格标准、申请流程，并强调在提交收费申请前须持有效的SBD编号。建议制造商尽早申请以避免处理延迟。"
+      },
+      "source_url": "https://www.fda.gov/medical-devices/premarket-submissions-selecting-and-preparing-correct-submission/reduced-or-waived-medical-device-user-fees-small-business-determination-sbd-program",
+      "source_name": "FDA",
+      "published_date": "2026-07-14",
+      "detected_date": "2026-07-14T20:24:40Z",
+      "importance": "medium",
+      "tags": [
+        "small_business",
+        "user_fee",
+        "sbd_program",
+        "cdrh_news",
+        "medical_device"
+      ],
+      "related_docs": [],
+      "status": "published"
+    },
+    {
+      "id": "fda_20260714_class_i_recall_insulet_corporation_omnipod_5_pods_pod_omni_i",
+      "framework": "fda",
+      "category": "recall_class1",
+      "title": {
+        "en": "Class I Recall: Insulet Corporation - Omnipod 5 Pods (POD-OMNI-I1-6720) Due to Cannula Damage and Insulin Leakage",
+        "zh": "I类召回：Insulet公司Omnipod 5 Pods（POD-OMNI-I1-6720）因软管损坏导致胰岛素泄漏"
+      },
+      "summary": {
+        "en": "Insulet Corporation is recalling 4,936,056 Omnipod 5 Pods (model POD-OMNI-I1-6720) because a manufacturing defect in the external soft cannula may cause insulin to leak around the Pod, leading to under-delivery. This Class I recall—the most serious type—poses risks of hyperglycemia and diabetic ketoacidosis. Users should immediately check their device and contact Insulet for a replacement or further guidance.",
+        "zh": "Insulet公司召回4,936,056个Omnipod 5 Pods（型号POD-OMNI-I1-6720），原因是生产过程中外部软管损坏，导致胰岛素从Pod周围泄漏，造成输注不足。此次I类召回（最严重级别）可能引发高血糖和糖尿病酮症酸中毒。用户应立即检查设备，并联系Insulet更换或获取进一步指导。"
+      },
+      "source_url": "https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfres/res.cfm?id=Z-2603-2026",
+      "source_name": "FDA CDRH",
+      "published_date": "2026-07-08",
+      "detected_date": "2026-07-14T20:18:13Z",
+      "importance": "high",
+      "tags": [
+        "class_i_recall",
+        "insulin_pump",
+        "omnipod",
+        "cannula_damage",
+        "insulin_leakage",
+        "patient_safety"
+      ],
+      "related_docs": [],
+      "status": "published"
+    },
+    {
+      "id": "fda_20260714_class_i_recall_baxter_s_hillrom_volara_system_patient_circui",
+      "framework": "fda",
+      "category": "recall_class1",
+      "title": {
+        "en": "Class I Recall: Baxter's Hillrom VOLARA System Patient Circuit Kits Recalled Due to Air and Medication Leakage from Nebulizer Cup",
+        "zh": "一级召回：百特Hillrom VOLARA系统P.CIRCUIT KIT AC因雾化杯泄漏导致氧气下降风险被召回"
+      },
+      "summary": {
+        "en": "Baxter Healthcare Corporation has initiated a Class I recall for 16,187 units of its Hillrom VOLARA System P.CIRCUIT KIT AC (single patient use circuit) due to reports of air and medication leakage from the nebulizer cup. This leakage can cause a drop in the patient's oxygen level and ineffective therapy, posing a serious health hazard. The FDA classifies this as the most serious type of recall; healthcare providers should immediately stop using affected circuits, quarantine them, and return the products to Baxter.",
+        "zh": "百特医疗公司已对16,187台Hillrom VOLARA系统P.CIRCUIT KIT AC（单患者使用呼吸管路）启动一级召回，原因为雾化杯在使用过程中出现空气和药物泄漏。该问题可导致患者氧饱和度下降和治疗无效，构成严重健康风险。FDA将此列为最严重的召回级别；医疗机构应立即停用受影响产品，予以隔离并退回百特。"
+      },
+      "source_url": "https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfres/res.cfm?id=Z-2550-2026",
+      "source_name": "FDA CDRH",
+      "published_date": "2026-07-08",
+      "detected_date": "2026-07-14T20:18:27Z",
+      "importance": "high",
+      "tags": [
+        "class_i_recall",
+        "nebulizer_leakage",
+        "respiratory_device"
+      ],
+      "related_docs": [],
+      "status": "published"
+    },
+    {
+      "id": "fda_20260714_class_i_recall_hamilton_medical_ag_coaxial_breathing_circuit",
+      "framework": "fda",
+      "category": "recall_class1",
+      "title": {
+        "en": "Class I Recall: Hamilton Medical AG Coaxial Breathing Circuit Set – Sticking Valve Membranes Risk Obstructed Exhalation",
+        "zh": "一级召回：Hamilton Medical AG同轴呼吸管路套装因呼气阀膜片粘连导致呼气阻塞风险"
+      },
+      "summary": {
+        "en": "Hamilton Medical AG has initiated a Class I recall for its coaxial breathing circuit sets (REF 260127, 260128, 260167, 260168) used with Hamilton Medical ventilators. The expiratory valve membranes may stick to the valve body, an issue not detectable during pre-operative testing, causing an 'exhalation obstructed' alarm and potentially leading to ventilation failure and serious patient harm. The recall covers 27,270 units distributed in the U.S. Users should immediately quarantine the affected products, identify them by reference number, and contact the manufacturer for replacement or further instructions per the recall notice.",
+        "zh": "汉密尔顿医疗公司（Hamilton Medical AG）已对其同轴呼吸管路套装（型号REF 260127, 260128, 260167, 260168）发起一级召回，该产品用于配合Hamilton Medical呼吸机使用。原因是呼气阀膜片可能与阀体粘连，且无法在术前测试中检出，导致触发“呼气阻塞”警报，存在通气失败和严重患者伤害的风险。此次召回涉及美国境内27,270件产品。用户应立即隔离受影响产品，按参考号识别，并联系制造商进行更换或遵循召回通知中的指导。"
+      },
+      "source_url": "https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfres/res.cfm?id=Z-2463-2026",
+      "source_name": "FDA CDRH",
+      "published_date": "2026-07-08",
+      "detected_date": "2026-07-14T20:19:28Z",
+      "importance": "high",
+      "tags": [
+        "class_i_recall",
+        "ventilator",
+        "breathing_circuit",
+        "exhalation_valve"
+      ],
+      "related_docs": [],
+      "status": "published"
+    },
+    {
+      "id": "fda_20260714_class_i_recall_insulet_corporation_omnipod_dash_pod_includes",
+      "framework": "fda",
+      "category": "recall_class1",
+      "title": {
+        "en": "Class I Recall: Insulet Corporation - Omnipod DASH Pod. Includes the below Model/REF Numbers:     1. POD-BLE-I1-525 (5",
+        "zh": "Class I Recall: Insulet Corporation - Omnipod DASH Pod. Includes the below Model/REF Numbers:     1. POD-BLE-I1-525 (5"
+      },
+      "summary": {
+        "en": "Recall #Z-2604-2026 by Insulet Corporation. Reason: External soft cannula damage during manufacturing that results in insulin leaking around the Pod instead of being delivered to the user regardless of basal or bolus delivery. The primary failure mode . Quantity: 1,790,784 units.",
+        "zh": "Recall #Z-2604-2026 by Insulet Corporation. Reason: External soft cannula damage during manufacturing that results in insulin leaking around the Pod instead of being delivered to the user regardless of basal or bolus delivery. The primary failure mode . Quantity: 1,790,784 units."
+      },
+      "source_url": "https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfres/res.cfm?id=Z-2604-2026",
+      "source_name": "FDA CDRH",
+      "published_date": "2026-07-08",
+      "detected_date": "2026-07-14T20:20:00Z",
+      "importance": "medium",
+      "tags": [],
+      "related_docs": [],
+      "status": "published"
+    },
+    {
+      "id": "fda_20260714_class_i_recall_windstone_medical_packaging_recalls_ams7200d",
+      "framework": "fda",
+      "category": "recall_class1",
+      "title": {
+        "en": "Class I Recall: Windstone Medical Packaging Recalls AMS7200D Surgical Kits Due to Contaminated Alcohol Prep Pads",
+        "zh": "I级召回：Windstone Medical Packaging因酒精棉片污染召回AMS7200D手术包"
+      },
+      "summary": {
+        "en": "Windstone Medical Packaging, Inc. is conducting a Class I recall of its AMS, Aligned Medical Solutions, Dr. Lewin Pack (Pack Number AMS7200D) surgical kits because they contain Webcol Large Alcohol Prep Pads recalled by Cardinal Health. The prep pads were found to be contaminated with Paenibacillus phoenicis, posing a risk of serious infection. Only 45 units are affected. Customers should immediately quarantine and return any affected kits to the recalling firm.",
+        "zh": "Windstone Medical Packaging, Inc. 正在对其AMS、Aligned Medical Solutions、Dr. Lewin Pack（AMS7200D包装号）手术包实施I级召回，因为包内含有被Cardinal Health召回的Webcol大号酒精棉片。这些酒精棉片被检出含有凤凰类芽孢杆菌（Paenibacillus phoenicis），可能导致严重感染，共涉及45件产品。用户应立即隔离并退回受影响批次的所有器械包。"
+      },
+      "source_url": "https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfres/res.cfm?id=Z-2622-2026",
+      "source_name": "FDA CDRH",
+      "published_date": "2026-07-08",
+      "detected_date": "2026-07-14T20:20:18Z",
+      "importance": "high",
+      "tags": [
+        "class_i_recall",
+        "windstone_medical_packaging",
+        "alcohol_prep_pad",
+        "microbial_contamination",
+        "surgical_kit"
+      ],
+      "related_docs": [],
+      "status": "published"
+    },
+    {
+      "id": "fda_20260714_class_i_recall_windstone_medical_packaging_s_ams_thyroid_fna",
+      "framework": "fda",
+      "category": "recall_class1",
+      "title": {
+        "en": "Class I Recall: Windstone Medical Packaging’s AMS Thyroid FNA Pack-RX Contains Recalled Contaminated Alcohol Prep Pads",
+        "zh": "I级召回：Windstone包装的AMS甲状腺FNA试剂盒含污染酒精棉片"
+      },
+      "summary": {
+        "en": "Windstone Medical Packaging, Inc. is recalling 200 units of Aligned Medical Solutions Thyroid FNA Pack-RX (pack number AMS17729) because the kits include Webcol Large Alcohol Prep Pads that were recalled by Cardinal Health after a contaminant, Paenibacillus phoenicis, was found during a routine sterilization dose audit. This Class I recall is the most serious type, as use of the contaminated prep pads could lead to life-threatening infections, particularly in immunocompromised patients. The products were distributed to medical facilities performing thyroid fine-needle aspiration procedures. Customers must immediately stop using the kits, quarantine all affected units, and return them to Windstone Medical Packaging.",
+        "zh": "Windstone Medical Packaging, Inc. 正在召回200套Aligned Medical Solutions甲状腺细针穿刺活检（FNA Pack-RX）套装（包装编号AMS17729），原因是其中的Webcol大号酒精棉片因在Cardinal Health常规灭菌剂量审核中发现污染物（Paenibacillus phoenicis）而被召回。此为I级召回，属最严重召回级别，使用受污染的酒精棉片可能导致危及生命的感染，对免疫功能低下患者风险尤高。受影响产品已分发至开展甲状腺穿刺操作的医疗机构。客户须立即停止使用该套装，隔离所有涉事产品，并退回给Windstone Medical Packaging。"
+      },
+      "source_url": "https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfres/res.cfm?id=Z-2620-2026",
+      "source_name": "FDA CDRH",
+      "published_date": "2026-07-08",
+      "detected_date": "2026-07-14T20:20:37Z",
+      "importance": "high",
+      "tags": [
+        "class_i_recall",
+        "contaminated_device",
+        "alcohol_prep_pad",
+        "thyroid_fna_kit",
+        "windstone_medical",
+        "paenibacillus_phoenicis"
+      ],
+      "related_docs": [],
+      "status": "published"
+    },
+    {
+      "id": "fda_20260714_class_i_recall_baxter_s_hillrom_volara_system_circuit_kits_n",
+      "framework": "fda",
+      "category": "recall_class1",
+      "title": {
+        "en": "Class I Recall: Baxter's Hillrom VOLARA System Circuit Kits – Nebulizer Cup Leakage Can Drop Patient Oxygen Levels",
+        "zh": "百特 Hillrom VOLARA 呼吸回路套装 I 级召回：雾化杯泄漏致患者氧浓度下降"
+      },
+      "summary": {
+        "en": "Baxter Healthcare Corporation has issued a Class I recall for 13,881 units of its Hillrom VOLARA System P.CIRCUIT 5KIT AC single-patient use circuits. Air and medication leakage from the nebulizer cup during therapy may cause a drop in the patient's oxygen level and reduce treatment effectiveness. This recall, the most serious type, requires healthcare providers to immediately cease using affected circuits, quarantine them, and follow Baxter's return or disposal instructions. No injuries have been reported yet, but the hazard is significant.",
+        "zh": "百特医疗已对 13,881 套 Hillrom VOLARA 系统 P.CIRCUIT 5KIT AC 单患者使用呼吸回路发起 I 级召回。治疗过程中雾化杯的空气和药物泄漏可能导致患者氧饱和度下降及治疗无效。这是最严重的召回类型，医疗机构须立即停用受影响产品、就地隔离并按百特指引退回或处置。目前尚无伤害报告，但风险重大。"
+      },
+      "source_url": "https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfres/res.cfm?id=Z-2551-2026",
+      "source_name": "FDA CDRH",
+      "published_date": "2026-07-08",
+      "detected_date": "2026-07-14T20:21:17Z",
+      "importance": "high",
+      "tags": [
+        "class_i_recall",
+        "fda",
+        "baxter",
+        "volara",
+        "respiratory_device",
+        "safety_alert"
+      ],
+      "related_docs": [],
+      "status": "published"
+    },
+    {
+      "id": "fda_20260714_medtronic_recalls_harmony_delivery_catheter_system_due_to_di",
+      "framework": "fda",
+      "category": "recall_class1",
+      "title": {
+        "en": "Medtronic Recalls Harmony Delivery Catheter System Due to Distal Tip Detachment Risk (Class I Recall)",
+        "zh": "美敦力召回Harmony输送导管系统：远端尖端脱落风险（I级召回）"
+      },
+      "summary": {
+        "en": "The FDA has classified Medtronic Heart Valves Division's recall of its Harmony Delivery Catheter System as Class I due to a potential for distal tip detachment from specific manufacturing lots. This issue may lead to embolization, vascular injury, or the need for emergency surgical intervention. A total of 1,881 units are affected. Healthcare providers should immediately stop using the affected lots, quarantine the products, and follow Medtronic's instructions for return and patient management.",
+        "zh": "FDA已将美敦力心脏瓣膜部门对Harmony输送导管系统的召回定为最严重的I级召回，原因是特定批次的内轴组件可能导致远端尖端在术中使用时脱落，引发栓塞、血管损伤或紧急手术风险。此次召回涉及1881台设备。医疗机构应立即停止使用受影响批次、隔离相关产品，并按美敦力通知进行退回和患者随访。"
+      },
+      "source_url": "https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfres/res.cfm?id=Z-2624-2026",
+      "source_name": "FDA CDRH",
+      "published_date": "2026-07-08",
+      "detected_date": "2026-07-14T20:22:24Z",
+      "importance": "high",
+      "tags": [
+        "class_i_recall",
+        "medtronic",
+        "harmony_delivery_catheter",
+        "tip_detachment",
+        "fda_recall"
+      ],
+      "related_docs": [],
+      "status": "published"
+    },
+    {
+      "id": "fda_20260714_medline_industries_recalls_reprocessed_electrophysiology_and",
+      "framework": "fda",
+      "category": "recall_class1",
+      "title": {
+        "en": "Medline Industries Recalls Reprocessed Electrophysiology and Ultrasound Catheters Due to Particulate Contamination (Z-2615-2026)",
+        "zh": "Medline召回再处理电生理和超声导管 (Z-2615-2026)"
+      },
+      "summary": {
+        "en": "Medline Industries, LP is conducting a Class I recall of specific lots of reprocessed electrophysiology and ultrasound catheters (Recall #Z-2615-2026). The devices may contain small residual particles on patient-contacting surfaces, posing a risk of embolization or other serious harm if used. This recall expands RES 98277 and affects 3 units. Healthcare facilities should immediately quarantine affected products and follow the firm’s return or disposal instructions.",
+        "zh": "Medline Industries, LP正对特定批次再处理电生理导管和超声导管实施一类召回（召回号Z-2615-2026），因产品患者接触表面可能残留小颗粒物，使用后可能导致栓塞等严重伤害。此为RES 98277的扩大召回，涉及3件器械。医疗机构应立即隔离相关产品并按Medline指示退货或处置。"
+      },
+      "source_url": "https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfres/res.cfm?id=Z-2615-2026",
+      "source_name": "FDA CDRH",
+      "published_date": "2026-07-08",
+      "detected_date": "2026-07-14T20:22:52Z",
+      "importance": "high",
+      "tags": [
+        "class_i_recall",
+        "particulate_contamination",
+        "reprocessed_catheters",
+        "patient_safety_hazard"
+      ],
+      "related_docs": [],
+      "status": "published"
+    },
+    {
+      "id": "fda_20260714_class_i_recall_windstone_medical_dsaek_pack_rx_kits_with_con",
+      "framework": "fda",
+      "category": "recall_class1",
+      "title": {
+        "en": "Class I Recall: Windstone Medical DSAEK Pack-RX Kits with Contaminated Alcohol Prep Pads",
+        "zh": "Windstone Medical DSAEK Pack-RX 套装因含污染酒精消毒垫被一级召回"
+      },
+      "summary": {
+        "en": "Windstone Medical Packaging, Inc. is recalling 1,080 DSAEK Pack-RX surgical kits (Pack Number AMS12394B) because they include Webcol Large Alcohol Prep Pads that were recalled by Cardinal Health after routine sterilization audits detected Paenibacillus phoenicis contamination. Use of the affected kits could lead to serious infections in surgical patients. Healthcare providers should immediately quarantine all kits, stop usage, and return them to the recalling firm.",
+        "zh": "Windstone Medical Packaging 公司因 DSAEK Pack-RX 手术套件（包装号 AMS12394B）中包含的 Webcol 大型酒精消毒垫在 Cardinal Health 的常规灭菌审核中发现污染菌（Paenibacillus phoenicis），正在召回 1,080 套该产品。该污染可能导致手术患者严重感染。医疗机构应立即隔离所有相关套件、停止使用并将其退回召回企业。"
+      },
+      "source_url": "https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfres/res.cfm?id=Z-2619-2026",
+      "source_name": "FDA CDRH",
+      "published_date": "2026-07-08",
+      "detected_date": "2026-07-14T20:23:10Z",
+      "importance": "high",
+      "tags": [
+        "class_i_recall",
+        "surgical_kit",
+        "alcohol_prep_pad"
+      ],
+      "related_docs": [],
+      "status": "published"
+    },
+    {
+      "id": "fda_20260714_class_i_recall_windstone_medical_packaging_preop_kit_ns_ams1",
+      "framework": "fda",
+      "category": "recall_class1",
+      "title": {
+        "en": "Class I Recall: Windstone Medical Packaging Preop Kit-NS (AMS18227) Due to Contaminated Alcohol Prep Pads",
+        "zh": "I级召回：Windstone Medical Packaging Preop Kit-NS (AMS18227) 因酒精准备垫污染"
+      },
+      "summary": {
+        "en": "Windstone Medical Packaging, Inc. has issued a Class I recall for ALIGNED MEDICAL SOLUTIONS Preop Kit-NS, pack number AMS18227, following the contamination of included Webcol Large Alcohol Prep Pads with Paenibacillus phoenicis. The pads were previously recalled by Cardinal Health after the contaminant was discovered during a routine sterilization dose audit, posing a risk of serious infection. The recall covers 200 units distributed in the U.S. Users should immediately quarantine and discontinue use of the affected kits, and return them to the recalling firm.",
+        "zh": "Windstone Medical Packaging, Inc. 已对 ALIGNED MEDICAL SOLUTIONS 术前准备包 (Preop Kit-NS，包装编号 AMS18227) 发起 I 级召回，原因是在常规灭菌剂量审核中发现内含的 Webcol 大号酒精准备垫受到 Paenibacillus phoenicis 菌污染。该准备垫此前已被 Cardinal Health 召回，存在严重感染风险。本次召回涉及在美国销售的 200 件产品，使用者应立即隔离并停用受影响套件，并退回至召回企业。"
+      },
+      "source_url": "https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfres/res.cfm?id=Z-2621-2026",
+      "source_name": "FDA CDRH",
+      "published_date": "2026-07-08",
+      "detected_date": "2026-07-14T20:23:26Z",
+      "importance": "high",
+      "tags": [
+        "class_i_recall",
+        "contamination",
+        "surgical_prep_kit",
+        "alcohol_prep_pad",
+        "paenibacillus_phoenicis",
+        "windstone_medical_packaging",
+        "aligned_medical_solutions",
+        "recall_z-2621-2026"
+      ],
+      "related_docs": [],
+      "status": "published"
+    },
+    {
+      "id": "fda_20260714_class_i_recall_insulet_corporation_omnipod_eros_pod_due_to_c",
+      "framework": "fda",
+      "category": "recall_class1",
+      "title": {
+        "en": "Class I Recall: Insulet Corporation - Omnipod (Eros) Pod due to Cannula Damage and Insulin Leakage",
+        "zh": "Insulet公司Omnipod (Eros) Pod因套管损坏导致胰岛素泄漏被I级召回"
+      },
+      "summary": {
+        "en": "Insulet Corporation is recalling 289,046 units of its Omnipod (Eros) Pod (model POD-ZXP425) due to external soft cannula damage during manufacturing, which can cause insulin to leak around the Pod instead of being delivered, potentially leading to under-delivery and hyperglycemia. The FDA has classified this as a Class I recall, the most serious type, indicating a reasonable probability of serious adverse health consequences or death. Users should immediately inspect their Pods, discontinue use of affected lots, and contact Insulet for replacements while monitoring blood glucose closely.",
+        "zh": "Insulet公司正在召回289,046个Omnipod (Eros) Pod（型号POD-ZXP425），因为制造过程中外部软套管损坏，可能导致胰岛素在Pod周围泄漏而未输注至用户体内，从而引发胰岛素输送不足和高血糖。FDA将其定为最严重的I级召回，意味着存在导致严重健康损害或死亡的合理可能性。用户应立即检查Pod，停止使用受影响批次产品，联系Insulet更换，并密切监测血糖。"
+      },
+      "source_url": "https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfres/res.cfm?id=Z-2605-2026",
+      "source_name": "FDA CDRH",
+      "published_date": "2026-07-08",
+      "detected_date": "2026-07-14T20:23:51Z",
+      "importance": "high",
+      "tags": [
+        "class_i_recall",
+        "omnipod",
+        "insulin_pump",
+        "cannula_damage"
+      ],
+      "related_docs": [],
+      "status": "published"
+    },
+    {
+      "id": "fda_20260721_class_i_recall_baxter_healthcare_hillrom_volara_system_p_cir",
+      "framework": "fda",
+      "category": "recall_class1",
+      "title": {
+        "en": "Class I Recall: Baxter Healthcare Hillrom VOLARA System P.CIRCUIT KIT – Nebulizer Cup Leakage Causing Oxygen Drop",
+        "zh": "百特医疗Hillrom VOLARA管路套件I级召回：雾化器泄漏致血氧下降"
+      },
+      "summary": {
+        "en": "Baxter Healthcare Corporation has initiated a Class I recall of 10,540 units of the Hillrom VOLARA System P.CIRCUIT KIT due to air and medication leakage from the nebulizer cup during therapy. This fault can cause a drop in the patient's oxygen level and render treatment ineffective, posing serious health risks. All affected circuits should be immediately quarantined and returned to Baxter for replacement.",
+        "zh": "百特医疗公司已对10,540套Hillrom VOLARA系统P.CIRCUIT KIT（一次性患者管路）发起I级召回，原因是治疗期间雾化杯出现空气和药物泄漏，可能导致患者血氧水平下降及治疗无效，存在严重健康风险。用户应立即停止使用并隔离受影响产品，联系百特进行退货或更换。"
+      },
+      "source_url": "https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfres/res.cfm?id=Z-2548-2026",
+      "source_name": "FDA CDRH",
+      "published_date": "2026-07-08",
+      "detected_date": "2026-07-21T20:22:11Z",
+      "importance": "high",
+      "tags": [
+        "class_i_recall",
+        "respiratory_device",
+        "nebulizer_leakage",
+        "patient_safety",
+        "fda"
+      ],
+      "related_docs": [],
+      "status": "published"
+    },
+    {
+      "id": "fda_20260721_baxter_recalls_hillrom_volara_p_circuit_5kit_due_to_nebulize",
+      "framework": "fda",
+      "category": "recall_class1",
+      "title": {
+        "en": "Baxter Recalls Hillrom Volara P.Circuit 5KIT Due to Nebulizer Cup Leakage Causing Oxygen Drop",
+        "zh": "百特召回Hillrom Volara P.Circuit 5KIT 因雾化杯泄漏致血氧下降"
+      },
+      "summary": {
+        "en": "Baxter Healthcare Corporation is conducting a Class I recall of the Hillrom Volara P.Circuit 5KIT (single patient use circuit) because of air and medication leakage from the nebulizer cup during therapy. This defect can lead to a dangerous drop in the patient’s oxygen level and render the treatment ineffective. The recall impacts zero units (likely a field correction notification), and users must immediately discontinue use of affected circuits and follow the manufacturer’s instructions.",
+        "zh": "百特医疗宣布对Hillrom Volara P.Circuit 5KIT（一次性系统管路）实施一级召回，原因为治疗期间雾化杯发生空气与药物泄漏。此问题可能导致患者血氧水平严重下降及治疗无效。本次召回涉及数量为0（可能为现场纠正通知），使用者须立即停用受影响管路并按厂商指示处理。"
+      },
+      "source_url": "https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfres/res.cfm?id=Z-2549-2026",
+      "source_name": "FDA CDRH",
+      "published_date": "2026-07-08",
+      "detected_date": "2026-07-21T20:22:26Z",
+      "importance": "high",
+      "tags": [
+        "class_i_recall",
+        "baxter_healthcare",
+        "hillrom_volara",
+        "circuit_leakage",
+        "oxygen_desaturation",
+        "nebulizer_defect"
+      ],
+      "related_docs": [],
+      "status": "published"
+    },
+    {
+      "id": "fda_20260728_olympus_oev321uh_4k_uhd_monitor_recall_faulty_hdmi_displaypo",
+      "framework": "fda",
+      "category": "safety_communication",
+      "title": {
+        "en": "Olympus OEV321UH 4K UHD Monitor Recall: Faulty HDMI/DisplayPort Connectors May Cause Image Loss",
+        "zh": "奥林巴斯OEV321UH 4K超高清监视器召回：HDMI/DisplayPort接口故障可能导致图像丢失"
+      },
+      "summary": {
+        "en": "Olympus Corporation of the Americas is recalling its OEV321UH 4K UHD LCD Monitor (Recall Z-2761-2026) because the HDMI and DisplayPort connectors can become faulty, leading to image loss or image abnormalities during use. This defect poses risks of misdiagnosis or surgical complications if the monitor is relied upon for visualization. The FDA has issued this as a serious safety communication. Healthcare providers should immediately identify and cease use of affected units, and contact Olympus for remediation instructions.",
+        "zh": "奥林巴斯美国公司正在召回其OEV321UH 4K超高清液晶监视器（召回编号Z-2761-2026），原因是HDMI和DisplayPort接口可能发生故障，导致使用中图像丢失或图像异常。若依赖该监视器进行可视化操作，此缺陷可能造成误诊或手术并发症。FDA已将此列为严重安全通报。医疗机构应立即识别并停用受影响设备，联系奥林巴斯获取纠正措施指导。"
+      },
+      "source_url": "https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfRes/res.cfm?id=221196",
+      "source_name": "FDA CDRH",
+      "published_date": "2026-07-07",
+      "detected_date": "2026-07-28T20:20:32Z",
+      "importance": "high",
+      "tags": [
+        "recall",
+        "olympus",
+        "hdmi_dp_fault"
+      ],
+      "related_docs": [],
+      "status": "published"
+    },
+    {
+      "id": "fda_20260804_device_recall_integrated_medcraft_llc_forward_oral_airway_ki",
+      "framework": "fda",
+      "category": "safety_communication",
+      "title": {
+        "en": "Device Recall: INTEGRATED MEDCRAFT LLC - FORWARD Oral Airway Kit (OPA Sizes 5, 6.5, 7, 8, 9, 10, 12). REF Number: 1011-4",
+        "zh": "Device Recall: INTEGRATED MEDCRAFT LLC - FORWARD Oral Airway Kit (OPA Sizes 5, 6.5, 7, 8, 9, 10, 12). REF Number: 1011-4"
+      },
+      "summary": {
+        "en": "Recall Z-2836-2026: Devices could potentially contain an occluded or partially occluded Guedel Airway tip.",
+        "zh": "Recall Z-2836-2026: Devices could potentially contain an occluded or partially occluded Guedel Airway tip."
+      },
+      "source_url": "https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfRes/res.cfm?id=221221",
+      "source_name": "FDA CDRH",
+      "published_date": "2026-07-07",
+      "detected_date": "2026-08-04T20:40:43Z",
+      "importance": "medium",
+      "tags": [],
+      "related_docs": [],
+      "status": "published"
+    },
+    {
+      "id": "fda_20260804_recall_integrated_medcraft_kingfisher_first_aid_kit_ref_7665",
+      "framework": "fda",
+      "category": "safety_communication",
+      "title": {
+        "en": "Recall: Integrated Medcraft Kingfisher First Aid Kit (REF 76656) – Guedel Airway Occlusion Hazard",
+        "zh": "召回：Integrated Medcraft Kingfisher急救包（REF 76656）Guedel气道堵塞风险"
+      },
+      "summary": {
+        "en": "Integrated Medcraft LLC is recalling its Kingfisher Compact Individual First Aid Kit (REF 76656) because the included one-piece Guedel airway may have a fully or partially occluded tip. This defect could obstruct airflow, delaying emergency ventilation and potentially causing serious injury or death. Distributors and end-users should immediately quarantine affected kits and contact the firm for return or replacement.",
+        "zh": "Integrated Medcraft LLC召回其Kingfisher紧凑型个人急救包（REF 76656），因所含一体式Guedel气道尖端可能存在完全或部分堵塞。该缺陷可能阻碍气流，延误紧急通气，导致严重伤害或死亡。经销商和用户应立即隔离受影响产品，并联系公司进行退货或更换。"
+      },
+      "source_url": "https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfRes/res.cfm?id=221261",
+      "source_name": "FDA CDRH",
+      "published_date": "2026-07-07",
+      "detected_date": "2026-08-04T20:40:56Z",
+      "importance": "high",
+      "tags": [
+        "recall",
+        "fda_safety_communication",
+        "airway_obstruction",
+        "first_aid_kit",
+        "guedel_airway",
+        "integrated_medcraft"
+      ],
+      "related_docs": [],
+      "status": "published"
+    },
+    {
+      "id": "fda_20260703_fda_class_i_recall_insulet_removes_omnipod_pods_insulin_pump",
+      "framework": "fda",
+      "category": "cdrh_news",
+      "title": {
+        "en": "FDA Class I Recall: Insulet Removes Omnipod Pods Insulin Pump Due to Under-Delivery Risk",
+        "zh": "FDA I 级召回：Insulet 因剂量不足风险移除 Omnipod Pods 胰岛素泵"
+      },
+      "summary": {
+        "en": "The FDA has announced a Class I recall for Insulet's Omnipod Pods, used with the Omnipod DASH Insulin Management System, due to a missing cannula or needle that can result in under-delivery of insulin. This poses risks of hyperglycemia, diabetic ketoacidosis, and death. Patients and caregivers must immediately stop using affected lots, contact Insulet for replacements, and transition to an alternative insulin delivery method.",
+        "zh": "FDA 宣布了一项针对 Insulet 公司 Omnipod Pods（与 Omnipod DASH 胰岛素管理系统配合使用）的 I 级召回，原因是部分产品可能存在导管或针头缺失，导致胰岛素输注不足，可能引发高血糖、糖尿病酮症酸中毒甚至死亡。受影响用户应立即停用相关批次产品，联系 Insulet 更换新泵，并改用其他胰岛素给药方式。"
+      },
+      "source_url": "https://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/insulin-pump-recall-insulet-removes-omnipod-pods",
+      "source_name": "FDA",
+      "published_date": "2026-07-03",
+      "detected_date": "2026-07-03T07:54:56Z",
+      "importance": "high",
+      "tags": [
+        "insulin_pump",
+        "class_I_recall",
+        "omnipod",
+        "diabetes_device",
+        "safety_alert",
+        "insulet"
+      ],
+      "related_docs": [],
+      "status": "published"
+    },
+    {
+      "id": "fda_20260703_abiomed_recalls_impella_cp_sets_with_smartassist_due_to_pote",
+      "framework": "fda",
+      "category": "cdrh_news",
+      "title": {
+        "en": "Abiomed Recalls Impella CP Sets with SmartAssist Due to Potential for Catheter Perforation",
+        "zh": "Abiomed召回带SmartAssist的Impella CP心脏泵套装，因导管可能穿孔"
+      },
+      "summary": {
+        "en": "Abiomed is recalling its Impella CP with SmartAssist sets after reports of the catheter tip breaking or perforating during insertion, which could lead to serious injury or death. The FDA has classified this as a Class I recall, the most serious type. Health care providers should immediately stop using affected devices and follow Abiomed's instructions for return and replacement. The recall affects certain lots distributed from August 2021 to March 2023.",
+        "zh": "Abiomed公司正在召回其配备SmartAssist功能的Impella CP心脏泵套装，因有报告称导管尖端在插入过程中可能破裂或穿孔，可导致严重伤害或死亡。FDA已将其列为最严重的I类召回。医护人员应立即停止使用受影响的设备，并按Abiomed的指示进行退货和更换。召回涉及2021年8月至2023年3月分销的特定批次。"
+      },
+      "source_url": "https://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/heart-pump-recall-abiomed-removes-impella-cp-sets-smartassist",
+      "source_name": "FDA",
+      "published_date": "2026-07-03",
+      "detected_date": "2026-07-03T07:55:06Z",
+      "importance": "high",
+      "tags": [
+        "recall",
+        "class_i",
+        "impella_cp",
+        "smartassist",
+        "heart_pump",
+        "abiomed",
+        "catheter_perforation"
+      ],
+      "related_docs": [],
+      "status": "published"
+    },
+    {
+      "id": "fda_20260707_class_i_recall_abiomed_inc_abiomed_impella_cp_set_with_smart",
+      "framework": "fda",
+      "category": "recall_class1",
+      "title": {
+        "en": "Class I Recall: Abiomed, Inc. - Abiomed Impella CP Set with SmartAssist (10th Generation) containing affected 14",
+        "zh": "I级召回：Abiomed Impella CP智能辅助套装（第10代）含问题14号组件"
+      },
+      "summary": {
+        "en": "Abiomed, Inc. is recalling 168 units of its Impella CP Set with SmartAssist (10th Generation) that contain the affected component 14. The recall was initiated due to the potential for thrombus formation during prolonged use of the introducer. Customers should immediately locate and quarantine the affected sets, discontinue use, and return them to Abiomed as instructed in the firm's Urgent Medical Device Recall notice.",
+        "zh": "Abiomed公司因配套引入器长时间使用时可能导致血栓形成，正在召回168台第10代Impella CP智能辅助套装（含受影响的14号组件）。医疗机构应立即清点库存，停止使用相关产品，并按照紧急医疗器械召回通知要求退回给Abiomed。"
+      },
+      "source_url": "https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfres/res.cfm?id=Z-2601-2026",
+      "source_name": "FDA CDRH",
+      "published_date": "2026-07-01",
+      "detected_date": "2026-07-07T20:53:30Z",
+      "importance": "high",
+      "tags": [
+        "class_i_recall",
+        "abiomed",
+        "impella_cp",
+        "thrombus",
+        "introducer"
+      ],
+      "related_docs": [],
+      "status": "published"
+    },
+    {
+      "id": "fda_20260707_abiomed_recalls_impella_cp_low_profile_introducer_kit_due_to",
+      "framework": "fda",
+      "category": "recall_class1",
+      "title": {
+        "en": "Abiomed Recalls Impella CP Low Profile Introducer Kit Due to Thrombus Risk – FDA Class I Recall",
+        "zh": "Abiomed召回Impella CP导入器套件，因血栓风险——FDA I类召回"
+      },
+      "summary": {
+        "en": "Abiomed, Inc. has initiated a Class I recall of its Abiomed 14 Fr x 25 cm Low Profile Introducer Kit for Impella CP, part of the Impella Set Pro, due to the potential for thrombus formation during prolonged use. The FDA has classified this as the most serious type of recall, indicating a risk of serious injury or death. A total of 17 units are affected. Healthcare providers should immediately stop using the recalled devices, quarantine them, and contact Abiomed for return instructions.",
+        "zh": "Abiomed, Inc.已对其Impella CP系统使用的14Fr×25cm薄壁导入器套件发起I类召回，原因是长时间使用可能导致血栓形成。FDA将此列为最严重的召回级别，提示存在重伤或死亡风险。受影响产品共17件，医疗机构应立即停用、隔离该产品，并联系Abiomed办理退货。"
+      },
+      "source_url": "https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfres/res.cfm?id=Z-2600-2026",
+      "source_name": "FDA CDRH",
+      "published_date": "2026-07-01",
+      "detected_date": "2026-07-07T20:53:49Z",
+      "importance": "high",
+      "tags": [
+        "fda_class_i_recall",
+        "abiomed",
+        "impella_cp",
+        "introducer_kit",
+        "thrombus_risk",
+        "medical_device"
+      ],
+      "related_docs": [],
+      "status": "published"
+    },
+    {
+      "id": "fda_20260707_class_i_recall_abiomed_14_fr_low_profile_introducer_kit_for",
+      "framework": "fda",
+      "category": "recall_class1",
+      "title": {
+        "en": "Class I Recall: Abiomed 14 Fr Low Profile Introducer Kit for Impella CP – Thrombus Formation Risk",
+        "zh": "Abiomed Impella CP低轮廓导入器套件因血栓风险启动一级召回"
+      },
+      "summary": {
+        "en": "Abiomed, Inc. is recalling its 14 Fr x 13 cm Low Profile Introducer Kit (used with Impella CP/Impella Set Pro) due to a potential for thrombus formation during prolonged use. This Class I recall, the most serious type, involves only 3 units. Users should immediately quarantine the affected kits and follow the manufacturer’s instructions to prevent possible embolic events.",
+        "zh": "Abiomed公司对用于Impella CP系统的14 Fr x 13 cm低轮廓导入器套件（Impella Set Pro组件）发起一级召回，原因是在延长使用期间可能形成血栓。此次最严重级别的召回仅涉及3台设备。相关用户应立即隔离受影响产品并遵循厂家通知，以防范血栓脱落导致栓塞等严重风险。"
+      },
+      "source_url": "https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfres/res.cfm?id=Z-2599-2026",
+      "source_name": "FDA CDRH",
+      "published_date": "2026-07-01",
+      "detected_date": "2026-07-07T20:54:08Z",
+      "importance": "high",
+      "tags": [
+        "class_i_recall",
+        "thrombus_formation",
+        "impella_cp",
+        "abiomed",
+        "introducer_kit"
+      ],
+      "related_docs": [],
+      "status": "published"
+    },
+    {
+      "id": "fda_20260707_class_i_recall_medline_industries_lp_medline_convenience_kit",
+      "framework": "fda",
+      "category": "recall_class1",
+      "title": {
+        "en": "Class I Recall: Medline Industries, LP - Medline Convenience Kits:   1) DYNJ905503F, Model Number: CV ANESTHESIA - ROOM ",
+        "zh": "Class I Recall: Medline Industries, LP - Medline Convenience Kits:   1) DYNJ905503F, Model Number: CV ANESTHESIA - ROOM "
+      },
+      "summary": {
+        "en": "Recall #Z-2452-2026 by Medline Industries, LP. Reason: The Medline Convenience Kits contain Arrow Kits and Sets that include Lidocaine Hydrochloride Injection, USP and Bupivacaine Hydrochloride in Dextrose Injection, USP which were recalled due to quality. Quantity: 227 units.",
+        "zh": "Recall #Z-2452-2026 by Medline Industries, LP. Reason: The Medline Convenience Kits contain Arrow Kits and Sets that include Lidocaine Hydrochloride Injection, USP and Bupivacaine Hydrochloride in Dextrose Injection, USP which were recalled due to quality. Quantity: 227 units."
+      },
+      "source_url": "https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfres/res.cfm?id=Z-2452-2026",
+      "source_name": "FDA CDRH",
+      "published_date": "2026-07-01",
+      "detected_date": "2026-07-07T20:54:40Z",
+      "importance": "medium",
+      "tags": [],
+      "related_docs": [],
+      "status": "published"
+    },
+    {
+      "id": "fda_20260714_class_i_recall_medline_industries_lp_medline_convenience_kit",
+      "framework": "fda",
+      "category": "recall_class1",
+      "title": {
+        "en": "Class I Recall: Medline Industries, LP - Medline Convenience Kits:   1) DRAWER 6A ADULT CENTRAL LINE, Model Number: ACC0",
+        "zh": "Class I Recall: Medline Industries, LP - Medline Convenience Kits:   1) DRAWER 6A ADULT CENTRAL LINE, Model Number: ACC0"
+      },
+      "summary": {
+        "en": "Recall #Z-2455-2026 by Medline Industries, LP. Reason: The Medline Convenience Kits contain Arrow Kits and Sets that include Lidocaine Hydrochloride Injection, USP and Bupivacaine Hydrochloride in Dextrose Injection, USP which were recalled due to quality. Quantity: 503 units.",
+        "zh": "Recall #Z-2455-2026 by Medline Industries, LP. Reason: The Medline Convenience Kits contain Arrow Kits and Sets that include Lidocaine Hydrochloride Injection, USP and Bupivacaine Hydrochloride in Dextrose Injection, USP which were recalled due to quality. Quantity: 503 units."
+      },
+      "source_url": "https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfres/res.cfm?id=Z-2455-2026",
+      "source_name": "FDA CDRH",
+      "published_date": "2026-07-01",
+      "detected_date": "2026-07-14T20:18:58Z",
+      "importance": "medium",
+      "tags": [],
+      "related_docs": [],
+      "status": "published"
+    },
+    {
+      "id": "fda_20260714_class_i_recall_medline_convenience_kit_drawer_6_central_line",
+      "framework": "fda",
+      "category": "recall_class1",
+      "title": {
+        "en": "Class I Recall: Medline Convenience Kit 'DRAWER 6 CENTRAL LINE INSERTIO' (ACC) with Recalled Lidocaine and Bupivacaine Injections",
+        "zh": "Medline中心静脉置管便利包(ACC)因内含召回麻醉药被实施I级召回"
+      },
+      "summary": {
+        "en": "Medline Industries, LP is recalling 233 units of its Convenience Kits (DRAWER 6 CENTRAL LINE INSERTIO, Model ACC) because they contain Arrow Kits with recalled Lidocaine Hydrochloride Injection, USP and Bupivacaine Hydrochloride in Dextrose Injection, USP. The recalled anesthetic injections pose potential serious health risks due to quality defects, including infection, non-sterility, or adverse patient outcomes. This is a Class I recall, the most serious type. Healthcare providers must immediately stop using affected kits, quarantine them, and contact Medline for return or disposal instructions.",
+        "zh": "Medline Industries, LP正在召回233套便利套装（DRAWER 6 CENTRAL LINE INSERTIO，型号ACC），原因是其中包含Arrow套件，而该套件内的盐酸利多卡因注射液和盐酸布比卡因葡萄糖注射液因质量问题被召回。这些被召回的麻醉注射剂可能存在严重健康风险，如感染、非无菌状态或其他不良后果。此次为最严重的I级召回。医疗机构应立即停止使用受影响产品，隔离库存，并联系Medline办理退回或处置事宜。"
+      },
+      "source_url": "https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfres/res.cfm?id=Z-2454-2026",
+      "source_name": "FDA CDRH",
+      "published_date": "2026-07-01",
+      "detected_date": "2026-07-14T20:21:03Z",
+      "importance": "high",
+      "tags": [
+        "class_i_recall",
+        "medline",
+        "convenience_kits",
+        "lidocaine_recall",
+        "bupivacaine_recall",
+        "arrow_kits",
+        "drug_quality_defect"
+      ],
+      "related_docs": [],
+      "status": "published"
+    },
+    {
+      "id": "fda_20260714_class_i_recall_abiomed_impella_cp_set_with_smartassist_10th",
+      "framework": "fda",
+      "category": "recall_class1",
+      "title": {
+        "en": "Class I Recall: Abiomed Impella CP Set with SmartAssist (10th Gen) Over Introducer Thrombus Risk",
+        "zh": "一级召回：Abiomed Impella CP SmartAssist（第10代）套装因导引器可能血栓形成"
+      },
+      "summary": {
+        "en": "Abiomed, Inc. has issued a Class I recall for 7 units of the Impella CP Set with SmartAssist (10th Generation) due to a potential for thrombus formation during prolonged use of the introducer. This defect could lead to serious patient injury or death. Users should immediately quarantine and discontinue use of affected devices and follow the firm's recall instructions. Distribution was limited to a small number of facilities.",
+        "zh": "Abiomed公司主动召回7台Impella CP SmartAssist（第10代）心脏泵套装，原因是延长使用导引器时可能形成血栓，属于最严重的一级召回。该问题可能导致严重患者伤害或死亡。用户应立即停止使用并隔离受影响产品，遵循公司召回通知。本次召回仅限小范围分销。"
+      },
+      "source_url": "https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfres/res.cfm?id=Z-2602-2026",
+      "source_name": "FDA CDRH",
+      "published_date": "2026-07-01",
+      "detected_date": "2026-07-14T20:22:06Z",
+      "importance": "high",
+      "tags": [
+        "class_i_recall",
+        "impella_cp",
+        "thrombus_risk"
+      ],
+      "related_docs": [],
+      "status": "published"
+    },
+    {
+      "id": "fda_20260630_fda_title_21_cfr_update_medical_device_parts_800_898_revised",
+      "framework": "fda",
+      "category": "regulation_update",
+      "title": {
+        "en": "FDA Title 21 CFR Update: Medical Device Parts 800-898 Revised (June 26, 2026)",
+        "zh": "FDA联邦法规第21篇更新：涉及医疗器械第800-898部分 (2026年6月26日)"
+      },
+      "summary": {
+        "en": "The FDA has updated Title 21 of the Code of Federal Regulations (CFR), with the latest revision dated June 26, 2026. This update potentially affects medical device regulations under Parts 800-898. Regulatory affairs professionals should review the amended sections to ensure ongoing compliance for medical device manufacturing, labeling, and quality systems.",
+        "zh": "FDA更新了《联邦法规》(CFR)第21篇，最新修订日期为2026年6月26日。此次更新可能影响第800-898部分下的医疗器械法规。注册法规专业人员应审查修订后的条款，以确保医疗器械制造、标签和质量系统的持续合规。"
+      },
+      "source_url": "https://www.ecfr.gov/current/title-21",
+      "source_name": "eCFR",
+      "published_date": "2026-06-30",
+      "detected_date": "2026-06-30T12:25:45Z",
+      "importance": "medium",
+      "tags": [
+        "fda",
+        "cfr_title_21",
+        "medical_device_regulations"
+      ],
+      "related_docs": [],
+      "status": "published"
+    },
+    {
+      "id": "fda_20260714_boston_scientific_recalls_rapid_refill_continuous_injection",
+      "framework": "fda",
+      "category": "safety_communication",
+      "title": {
+        "en": "Boston Scientific Recalls Rapid Refill Continuous Injection System Due to Risk of Syringe Disconnection from Manifold",
+        "zh": "波士顿科学召回Rapid Refill连续注射系统，因注射器与歧管可能松脱断开"
+      },
+      "summary": {
+        "en": "The FDA announced a recall of Boston Scientific's Rapid Refill Continuous Injection System (UPN M00566001) because it contains a recalled Medline Namic Angiographic Control Syringe with Rotating Adaptor. The syringe may loosen or completely disconnect from the manifold, potentially causing therapy interruption, blood loss, or air embolism. Healthcare providers should immediately quarantine affected devices and follow Boston Scientific's recall instructions.",
+        "zh": "因设备内含已召回的Medline Namic血管造影控制注射器（带旋转接头），波士顿科学公司正在召回其Rapid Refill连续注射系统（UPN M00566001）。该注射器可能从歧管松动或完全断开，导致治疗中断、失血或空气栓塞等风险。医疗机构应立即隔离受影响产品，并按波士顿科学的召回通知处理。"
+      },
+      "source_url": "https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfRes/res.cfm?id=221336",
+      "source_name": "FDA CDRH",
+      "published_date": "2026-06-30",
+      "detected_date": "2026-07-14T20:17:57Z",
+      "importance": "high",
+      "tags": [
+        "device_recall",
+        "fda_safety_alert",
+        "syringe_disconnection",
+        "boston_scientific",
+        "class_i_recall"
+      ],
+      "related_docs": [],
+      "status": "published"
+    },
+    {
+      "id": "fda_20260728_kent_imaging_recalls_snapshotglo_wound_imaging_device_due_to",
+      "framework": "fda",
+      "category": "safety_communication",
+      "title": {
+        "en": "Kent Imaging Recalls SnapshotGLO Wound Imaging Device Due to Battery Charging Failure",
+        "zh": "Kent Imaging因电池充电故障召回SnapshotGLO伤口成像设备"
+      },
+      "summary": {
+        "en": "Kent Imaging, Inc. is recalling its SnapshotGLO Wound Imaging Device (Models KB100, KB100AA) because the software controlling the battery charging circuit fails to recover a battery that has fully discharged into a low-power ‘shipping mode’. This prevents the device from recharging, leaving it inoperable when needed for wound assessment. Users should stop using the device if it does not charge and contact the manufacturer for a correction.",
+        "zh": "Kent Imaging公司正在召回其SnapshotGLO伤口成像设备（型号KB100、KB100AA），原因是电池充电电路控制软件无法识别并恢复已完全放电进入低功耗“运输模式”的电池。这会导致设备无法充电，在需要伤口成像时无法使用。受影响用户若发现设备不充电，应立即停用并联系制造商获取解决方案。"
+      },
+      "source_url": "https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfRes/res.cfm?id=221505",
+      "source_name": "FDA CDRH",
+      "published_date": "2026-06-30",
+      "detected_date": "2026-07-28T20:20:45Z",
+      "importance": "high",
+      "tags": [
+        "recall",
+        "battery_charging",
+        "wound_imaging",
+        "fda_safety_alert",
+        "medical_device"
+      ],
+      "related_docs": [],
+      "status": "published"
+    },
+    {
+      "id": "fda_20260703_accuray_cyberknife_xchange_collimator_changer_recalled_colli",
+      "framework": "fda",
+      "category": "safety_communication",
+      "title": {
+        "en": "Accuray CyberKnife Xchange Collimator Changer Recalled: Collimator Docking Failure May Cause Injury",
+        "zh": "Accuray CyberKnife Xchange 准直器更换器召回：对接故障存在受伤风险"
+      },
+      "summary": {
+        "en": "Accuray Incorporated is recalling its CyberKnife Treatment Delivery System with Xchange Robotic Collimator Changer due to a risk that a collimator may not fully dock. If personnel enter the treatment room and use the in-room control pendant after a docking interlock, the collimator could fall, posing a serious injury hazard. Users must follow the manufacturer's corrective actions, including not attempting manual motion when the interlock is active.",
+        "zh": "Accuray 公司召回其配备 Xchange 机器人准直器更换器的 CyberKnife 治疗输送系统，因准直器可能未完全对接。若人员在触发互锁后进入治疗室并使用室内控制面板，准直器可能坠落，造成严重伤害风险。用户须遵循制造商纠正措施，包括互锁激活时不得尝试手动移动。"
+      },
+      "source_url": "https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfRes/res.cfm?id=220744",
+      "source_name": "FDA CDRH",
+      "published_date": "2026-06-16",
+      "detected_date": "2026-07-03T07:53:01Z",
+      "importance": "high",
+      "tags": [
+        "recall",
+        "radiation_therapy",
+        "collimator",
+        "safety",
+        "linear_accelerator",
+        "medical_device"
+      ],
+      "related_docs": [],
+      "status": "published"
+    },
+    {
+      "id": "fda_20260703_accuray_cyberknife_with_xchange_collimator_changer_recalled",
+      "framework": "fda",
+      "category": "safety_communication",
+      "title": {
+        "en": "Accuray CyberKnife with Xchange Collimator Changer Recalled for Collimator Docking Failure Hazard",
+        "zh": "Accuray CyberKnife系统因准直器对接故障风险被召回"
+      },
+      "summary": {
+        "en": "The FDA announced a recall of Accuray's CyberKnife Treatment Delivery System equipped with the Xchange Robotic Collimator Changer. If a collimator does not fully dock, a system interlock may be triggered; should personnel then manually move the robot using the in-room pendant, the collimator could fall, risking injury to patients or staff. Users should immediately inform all operators of this risk and adhere to the manufacturer's interim safety instructions until a permanent correction is deployed.",
+        "zh": "FDA发布召回通知，涉及Accuray公司配备Xchange机器人准直器更换器的CyberKnife治疗递送系统。当准直器未完全对接时会触发系统互锁，若操作人员随后使用室内控制盒移动机械臂，准直器可能脱落，导致患者或操作人员受伤。医疗机构须立即向相关人员传达风险并严格执行制造商提供的临时安全操作指南，直至永久修正措施到位。"
+      },
+      "source_url": "https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfRes/res.cfm?id=220764",
+      "source_name": "FDA CDRH",
+      "published_date": "2026-06-16",
+      "detected_date": "2026-07-03T07:53:19Z",
+      "importance": "high",
+      "tags": [
+        "device_recall",
+        "radiation_oncology",
+        "collimator_failure",
+        "patient_safety",
+        "fda_recall"
+      ],
+      "related_docs": [],
+      "status": "published"
+    },
+    {
+      "id": "fda_20260707_recall_zimmer_surgical_sterile_tourniquet_hoses_a_t_s_4000_t",
+      "framework": "fda",
+      "category": "safety_communication",
+      "title": {
+        "en": "Recall: Zimmer Surgical Sterile Tourniquet Hoses (A.T.S 4000 TS) – Potential Sterility Breach (Recall Z-2673-2026)",
+        "zh": "Zimmer Surgical A.T.S 4000 TS 无菌止血带软管召回：无菌包装密封失效风险"
+      },
+      "summary": {
+        "en": "Zimmer Surgical has initiated a recall (Z-2673-2026) of its A.T.S 4000 TS Tourniquet Systems Dual Hose with CPC Connectors due to a potential sterility breach in the sealing area of the sterile pouch. Use of affected devices could lead to moderate localized infection requiring treatment; if the issue is noticed before use, it may cause a clinically insignificant delay while an alternative device is obtained. Healthcare providers should immediately identify and quarantine all affected units, stop using them, and return them to the manufacturer as instructed.",
+        "zh": "Zimmer Surgical 已对其 A.T.S 4000 TS 止血带系统双管（带 CPC 连接器）发起召回（召回编号 Z-2673-2026），原因是无菌袋密封区域存在潜在的无菌性破坏。使用受影响产品可能导致中度局部感染；若在术前发现，需临时寻找替代设备，可能造成手术的轻微延迟。医疗机构应立即查点隔离受影响产品，停止使用并按照厂家指示退货。"
+      },
+      "source_url": "https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfRes/res.cfm?id=220992",
+      "source_name": "FDA CDRH",
+      "published_date": "2026-06-09",
+      "detected_date": "2026-07-07T20:52:51Z",
+      "importance": "high",
+      "tags": [
+        "device_recall",
+        "sterility_breach",
+        "tourniquet_hoses",
+        "zimmer_surgical"
+      ],
+      "related_docs": [],
+      "status": "published"
+    },
+    {
+      "id": "fda_20260707_zimmer_surgical_recalls_a_t_s_4000_ts_tourniquet_single_hose",
+      "framework": "fda",
+      "category": "safety_communication",
+      "title": {
+        "en": "Zimmer Surgical Recalls A.T.S 4000 TS Tourniquet Single Hose Over Potential Sterility Breach",
+        "zh": "捷迈外科召回A.T.S 4000 TS止血带单管，因无菌袋封口存在潜在破损"
+      },
+      "summary": {
+        "en": "The FDA has announced a recall of Zimmer Surgical's A.T.S 4000 TS Tourniquet Systems Single Hose with CPC Connectors (Recall Z-2674-2026) due to a potential sterility breach in the sealing area of the sterile pouch. If the affected device is used, it may lead to moderate localized infection; if discovered prior to use, it may cause a clinically insignificant extension of surgery while an alternative is sourced. Healthcare providers should immediately identify and quarantine all affected units.",
+        "zh": "美国FDA宣布召回捷迈外科（Zimmer Surgical）生产的A.T.S 4000 TS止血带系统单管（带CPC接头，召回编号Z-2674-2026），原因是无菌袋封口区域可能存在无菌性破损。若使用受影响的器械，可能导致中度局部感染；若术前发现，则可能轻微延长手术时间以替换各用器械。医疗机构应立即识别并隔离所有相关产品。"
+      },
+      "source_url": "https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfRes/res.cfm?id=220993",
+      "source_name": "FDA CDRH",
+      "published_date": "2026-06-09",
+      "detected_date": "2026-07-07T20:53:06Z",
+      "importance": "high",
+      "tags": [
+        "recall",
+        "sterility_breach",
+        "tourniquet_hose",
+        "zimmer_surgical",
+        "infection_risk"
+      ],
+      "related_docs": [],
+      "status": "published"
+    },
+    {
+      "id": "fda_20260703_fda_recalls_siemens_artis_icono_ceiling_due_to_risk_of_monit",
+      "framework": "fda",
+      "category": "safety_communication",
+      "title": {
+        "en": "FDA Recalls Siemens ARTIS icono ceiling Due to Risk of Monitor Detachment from Ceiling Suspension",
+        "zh": "西门子ARTIS icono ceiling显示器悬挂装置因螺丝松动被FDA召回"
+      },
+      "summary": {
+        "en": "The FDA has issued a Class I recall (Z-2648-2026) for the Siemens ARTIS icono ceiling angiography system (model 11328100) due to a potential issue with the Display Ceiling Suspension (DCS Fix XL). Over time, screws securing the monitor to the suspension may gradually loosen, causing the monitor to detach and fall, posing a risk of impact injury to patients or healthcare staff. Affected facilities should immediately inspect the suspension assembly and contact Siemens to arrange for corrective maintenance.",
+        "zh": "美国FDA已对西门子ARTIS icono ceiling血管造影系统（型号11328100）发布I级召回(Z-2648-2026)，原因是显示器天花板悬挂装置（DCS Fix XL）的固定螺丝可能随时间逐渐松动。这可能导致显示器脱落坠落，造成患者或医护人员撞击受伤的风险。受影响的医疗机构应立即检查悬挂组件，并联系西门子安排纠正维修。"
+      },
+      "source_url": "https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfRes/res.cfm?id=221088",
+      "source_name": "FDA CDRH",
+      "published_date": "2026-06-08",
+      "detected_date": "2026-07-03T07:53:45Z",
+      "importance": "high",
+      "tags": [
+        "fda_recall",
+        "siemens_medical_solutions",
+        "artis_icono_ceiling",
+        "ceiling_suspension",
+        "loose_screws",
+        "safety_alert"
+      ],
+      "related_docs": [],
+      "status": "published"
+    },
+    {
+      "id": "fda_20260703_medela_recalls_enfit_exset_syringes_due_to_incompatible_conn",
+      "framework": "fda",
+      "category": "safety_communication",
+      "title": {
+        "en": "Medela Recalls ENFit ExSet Syringes Due to Incompatible Connectors Risking Enteral Feeding Delays",
+        "zh": "Medela因连接器不兼容召回ENFit ExSet注射器，可能导致肠内喂养延迟"
+      },
+      "summary": {
+        "en": "Medela Inc. is recalling its ENFit ExSet Strl 60 2.0ml PV 1ct EN syringe (Model ENF060182LD / 101033086) because the product may contain incorrect connectors that cannot attach or misconnect to ENFit connections. This incompatibility could cause a slight delay in the delivery of enteral nutritional fluids or oral medication. Healthcare providers and patients should immediately identify affected units, discontinue use, and follow the firm's instructions for return or disposal.",
+        "zh": "Medela Inc. 正在召回其 ENFit ExSet Strl 60 2.0ml PV 1ct EN 注射器（型号 ENF060182LD / 101033086），原因是该产品可能带有错误的连接器，无法连接或错误连接至 ENFit 接口，从而导致肠内营养液或口服药物输送出现轻微延迟。医护人员和患者应立即识别受影响产品，停止使用，并按照厂家指示进行退货或处置。"
+      },
+      "source_url": "https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfRes/res.cfm?id=220801",
+      "source_name": "FDA CDRH",
+      "published_date": "2026-06-05",
+      "detected_date": "2026-07-03T07:54:03Z",
+      "importance": "high",
+      "tags": [
+        "recall",
+        "enteral_feeding",
+        "connector_safety",
+        "fda",
+        "medela"
+      ],
+      "related_docs": [],
+      "status": "published"
+    },
+    {
+      "id": "fda_20260703_device_recall_remel_inc_gc_agar_base_150mm_10_pk_r04030_gc_a",
+      "framework": "fda",
+      "category": "safety_communication",
+      "title": {
+        "en": "Device Recall: Remel, Inc - GC Agar Base (150mm) 10/PK R04030; GC Agar Base (100mm) 10/PK R01460",
+        "zh": "FDA器械召回：Remel公司GC琼脂培养基"
+      },
+      "summary": {
+        "en": "Recall Z-2623-2026: Reduced or no recovery of some strains of Neisseria gonorrhoeae.",
+        "zh": "FDA发布关于Remel公司GC Agar Base (150mm)培养基产品的器械召回通知。"
+      },
+      "source_url": "https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfRes/res.cfm?id=220907",
+      "source_name": "FDA CDRH",
+      "published_date": "2026-06-03",
+      "detected_date": "2026-07-03T07:54:35Z",
+      "importance": "medium",
+      "tags": [],
+      "related_docs": [],
+      "status": "published"
+    },
+    {
+      "id": "fda_2026_cybersecurity_guidance",
+      "framework": "fda",
+      "category": "guidance_new",
+      "title": {
+        "en": "FDA Revised Cybersecurity Guidance for Medical Devices (Feb 2026)",
+        "zh": "FDA 修订医疗器械网络安全上市前提交指南（2026年2月）"
+      },
+      "summary": {
+        "en": "Issued 3 February 2026, superseding the June 2025 version. Aligns with the new QMSR and ISO 13485. Applies to all devices with cybersecurity considerations, not just network-connected devices. Key expectations: Secure Product Development Framework (SPDF), threat modeling, Software Bill of Materials (SBOM), eight security control categories (authentication, authorization, cryptography, integrity, confidentiality, event detection, resiliency, updatability), and coordinated vulnerability disclosure processes.",
+        "zh": "2026年2月3日发布，取代2025年6月版本，与新 QMSR 和 ISO 13485 保持一致。适用于所有具有网络安全考量的器械（不限于联网设备）。核心要求：安全产品开发框架（SPDF）、威胁建模、软件物料清单（SBOM）、八大安全控制类别（认证、授权、加密、完整性、机密性、事件检测、弹性恢复、可更新性），以及协调漏洞披露流程。"
+      },
+      "source_url": "https://www.fda.gov/regulatory-information/search-fda-guidance-documents/cybersecurity-medical-devices-quality-management-system-considerations-and-content-premarket",
+      "source_name": "FDA",
+      "published_date": "2026-02-03",
+      "detected_date": "2026-02-05T12:00:00Z",
+      "importance": "high",
+      "tags": [
+        "cybersecurity",
+        "premarket_submission",
+        "software",
+        "sbom"
+      ],
+      "related_docs": [
+        "fda-guidance"
+      ],
+      "status": "published"
+    },
+    {
+      "id": "fda_2026_qmsr",
+      "framework": "fda",
+      "category": "regulation_update",
+      "title": {
+        "en": "QMSR Takes Effect -- 21 CFR Part 820 Incorporates ISO 13485:2016",
+        "zh": "QMSR 正式生效 -- 21 CFR Part 820 纳入 ISO 13485:2016"
+      },
+      "summary": {
+        "en": "Effective 2 February 2026, the FDA's Quality Management System Regulation (QMSR) amends 21 CFR Part 820 by incorporating ISO 13485:2016 by reference. The legacy Quality System Inspection Technique (QSIT) was discontinued and replaced by Compliance Program 7382.850, aligned with ISO 13485. Manufacturers must now explicitly comply with ISO 13485:2016 requirements. Two older guidance documents (1997 design control guidance and 2008 PMA manufacturing inspection guidance) were withdrawn.",
+        "zh": "2026年2月2日生效，FDA 质量管理体系法规（QMSR）修订 21 CFR Part 820，正式纳入 ISO 13485:2016。旧版质量体系检查技术（QSIT）被废止，替换为与 ISO 13485 一致的合规程序 7382.850。制造商须明确满足 ISO 13485:2016 要求。1997年设计控制指南和2008年 PMA 生产检查指南已同步撤回。"
+      },
+      "source_url": "https://www.fda.gov/medical-devices/postmarket-requirements-devices/quality-management-system-regulation-qmsr",
+      "source_name": "FDA",
+      "published_date": "2026-02-02",
+      "detected_date": "2026-02-04T12:00:00Z",
+      "importance": "high",
+      "tags": [
+        "quality_management",
+        "iso_13485",
+        "cgmp",
+        "inspection"
+      ],
+      "related_docs": [
+        "fda-regulations"
+      ],
+      "status": "published"
+    }
+  ]
+}

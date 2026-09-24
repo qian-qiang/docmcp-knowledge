@@ -1,0 +1,33 @@
+# Generate Documents (CEP/CER/DCR)
+
+::: info
+The current operating guide is maintained in Chinese. Read [Generate Documents](/zh/guide/eu-documents) after the [overview](/zh/guide/eu-ce-overview). English translation will follow after that text is confirmed.
+:::
+
+## Document Types
+
+| Document | Full Name | Generation Method |
+|----------|-----------|-------------------|
+| CEP | Clinical Evaluation Plan | AI + code injection |
+| CER | Clinical Evaluation Report | AI + code injection |
+| DCR | Data Collection Report | Deterministic code assembly |
+
+## Document Pipeline
+
+After all steps are approved:
+
+1. Each document shows status (Ready / Generating / Completed)
+2. Click "Generate" to start
+3. Streaming output shows progress in real-time
+4. Upon completion, available actions:
+   - **Insert to Word** -- insert into current document
+   - **Download** -- export as .docx file
+   - **Preview** -- view content
+   - **Edit** -- modify text
+   - **Redo** -- regenerate (confirmation required)
+
+## AI Content Labeling
+
+All generated documents include:
+- Cover page label: "AI-Assisted Document -- Generated with Reguverse Assistant"
+- Word document metadata with AI generation information

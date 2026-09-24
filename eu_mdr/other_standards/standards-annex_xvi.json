@@ -1,0 +1,65 @@
+{
+  "standards": [
+    {
+      "id": "eu-mdr-annex-xvi",
+      "number": "Regulation (EU) 2017/745 Annex XVI",
+      "title": {
+        "en": "List of groups of products without an intended medical purpose referred to in Article 1(2)",
+        "zh": "第1条第2款所述的无预期医疗目的的产品组清单"
+      },
+      "status": "active",
+      "applicable_gsprs": [
+        "1",
+        "2",
+        "3",
+        "5",
+        "10"
+      ],
+      "standard_type": "non_harmonised",
+      "source_url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32017R0745",
+      "source_verified": "2026-06-27",
+      "abstract": "Lists 6 groups of products without an intended medical purpose that fall under EU MDR scope: contact lenses, implants for aesthetic purposes, substances for facial/dermal filling, equipment for liposuction/lipodissolving, high-intensity EM radiation equipment, equipment for brain stimulation.",
+      "scope": "Regulatory framework for Annex XVI products (aesthetic devices, non-medical contact lenses, dermal fillers, etc.)."
+    },
+    {
+      "id": "eu-2022-2346-annex-xvi-csr",
+      "number": "Regulation (EU) 2022/2346",
+      "title": {
+        "en": "Common specifications for products without an intended medical purpose listed in Annex XVI to MDR",
+        "zh": "MDR附录XVI中列出的无预期医疗目的产品的通用规范"
+      },
+      "status": "active",
+      "applicable_gsprs": [
+        "1",
+        "2",
+        "3",
+        "5",
+        "10"
+      ],
+      "standard_type": "non_harmonised",
+      "source_url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32022R2346",
+      "source_verified": "2026-06-27",
+      "abstract": "Establishes common specifications laying down detailed requirements for groups of products listed in Annex XVI of the MDR. Covers safety, performance, risk management and clinical evaluation requirements for non-medical purpose products.",
+      "scope": "Common specifications for Annex XVI products including aesthetic implants, dermal fillers, colored contact lenses, and body contouring equipment."
+    },
+    {
+      "id": "iso-14889-2024",
+      "number": "ISO 14889:2025",
+      "title": {
+        "en": "Ophthalmic optics - Spectacle lenses - Fundamental requirements for uncut finished lenses",
+        "zh": "眼科光学 - 眼镜片 - 未切割成品镜片的基本要求"
+      },
+      "status": "active",
+      "applicable_gsprs": [
+        "1",
+        "3",
+        "5"
+      ],
+      "standard_type": "non_harmonised",
+      "source_url": "https://www.iso.org/standard/86730.html",
+      "source_verified": "2026-06-27",
+      "abstract": "Specifies fundamental requirements for uncut finished spectacle lenses. Applicable to colored and decorative contact lenses under Annex XVI when used without corrective purpose. Edition 3.",
+      "scope": "Spectacle lenses requirements, applicable by reference to non-corrective colored contact lenses."
+    }
+  ]
+}

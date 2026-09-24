@@ -1,0 +1,169 @@
+{
+  "framework": "eu_mdr",
+  "last_updated": "2026-09-13T21:14:31Z",
+  "items": [
+    {
+      "id": "eu_mdr_20260913_mdcg_2020_16_rev_5_updated_ivdr_classification_rules_guidanc",
+      "framework": "eu_mdr",
+      "category": "regulation_update",
+      "title": {
+        "en": "MDCG 2020-16 Rev.5: Updated IVDR Classification Rules Guidance (September 2026)",
+        "zh": "MDCG 2020-16 第5版：IVDR分类规则指南更新（2026年9月）"
+      },
+      "summary": {
+        "en": "The European Commission has published revision 5 of MDCG 2020-16, updating guidance on classification rules for in vitro diagnostic medical devices under Regulation (EU) 2017/746 (IVDR). This revision affects IVD manufacturers, notified bodies, and other economic operators who must apply the IVDR classification rules. Stakeholders should review the updated guidance, reassess the risk class of their IVD products, and adjust technical documentation and conformity assessment procedures where necessary.",
+        "zh": "欧盟委员会发布了MDCG 2020-16第5版，更新了关于体外诊断医疗器械根据（EU）2017/746法规（IVDR）分类规则的指南。此次修订影响IVD制造商、公告机构及其他经济运营者，需适用IVDR分类规则。相关方应审查更新后的指南，重新评估其IVD产品的风险等级，并在必要时调整技术文件和符合性评定程序。"
+      },
+      "source_url": "https://health.ec.europa.eu/latest-updates/mdcg-2020-16-rev5-guidance-classification-rules-vitro-diagnostic-medical-devices-under-regulation-eu-2026-09-09_en",
+      "source_name": "European Commission",
+      "published_date": "2026-09-09",
+      "detected_date": "2026-09-13T21:14:31Z",
+      "importance": "medium",
+      "tags": [
+        "ivdr",
+        "classification_rules",
+        "mdcg_guidance",
+        "in_vitro_diagnostics",
+        "regulatory_affairs"
+      ],
+      "related_docs": [],
+      "status": "published"
+    },
+    {
+      "id": "eu_mdr_20260726_new_mdcg_position_paper_clarifies_udi_assignment_responsibil",
+      "framework": "eu_mdr",
+      "category": "regulation_update",
+      "title": {
+        "en": "New MDCG Position Paper Clarifies UDI Assignment Responsibilities Between Manufacturers and Distributors",
+        "zh": "MDCG发布新立场文件：明确制造商与经销商之间的UDI分配责任"
+      },
+      "summary": {
+        "en": "The European Commission has released a new MDCG position paper on assigning Unique Device Identification (UDI) between manufacturers and distributors under the EU Medical Device Regulations. It clarifies which party is responsible for UDI placement when devices are relabeled, repackaged, or sold under a distributor’s own name, covering manufacturers, importers, and distributors. Affected stakeholders should review the guidance to align their UDI assignment processes with the clarified obligations, especially for private labelling and parallel trade scenarios. Timely adoption is essential to maintain compliance with MDR/IVDR traceability requirements.",
+        "zh": "欧盟委员会发布了一份新的MDCG立场文件，说明在欧盟医疗器械法规下制造商与经销商之间唯一器械标识（UDI）的分配问题。该文件明确了器械被重新贴标、重新包装或以经销商自有名义销售时UDI的分配责任，涉及制造商、进口商和经销商。相关方应审阅该指导文件，确保其UDI分配流程符合已明确的义务，特别是在自有标签和平行贸易情况下。及时落实对于遵守MDR/IVDR可追溯性要求至关重要。"
+      },
+      "source_url": "https://health.ec.europa.eu/medical-devices-sector/new-regulations/guidance-mdcg-endorsed-documents-and-other-guidance_en#sec18",
+      "source_name": "European Commission",
+      "published_date": "2026-07-22",
+      "detected_date": "2026-07-26T20:07:13Z",
+      "importance": "medium",
+      "tags": [
+        "udi",
+        "mdcg",
+        "guidance",
+        "manufacturers",
+        "distributors",
+        "traceability"
+      ],
+      "related_docs": [],
+      "status": "published"
+    },
+    {
+      "id": "eu_mdr_20260719_ec_publishes_dashboard_v3_5_for_monitoring_medical_device_av",
+      "framework": "eu_mdr",
+      "category": "regulation_update",
+      "title": {
+        "en": "EC Publishes Dashboard v3.5 for Monitoring Medical Device Availability on the EU Market",
+        "zh": "欧盟委员会发布医疗器械可用性监测仪表盘3.5版"
+      },
+      "summary": {
+        "en": "The European Commission has released version 3.5 of the dashboard supporting its study on the availability of medical devices in the EU market. This update provides enhanced data visualization for stakeholders, including manufacturers, notified bodies, and competent authorities, to monitor device supply trends and potential shortages. The dashboard aids in assessing the impact of the MDR/IVDR transition on market access. Affected parties should consult the new version for current market intelligence and compliance planning.",
+        "zh": "欧盟委员会发布了支持其医疗器械可用性研究的仪表盘3.5版。此次更新为制造商、公告机构和主管当局等利益相关方提供了增强的数据可视化，用于监测器械供应趋势和潜在短缺。该仪表盘有助于评估MDR/IVDR过渡对市场准入的影响。相关方应查阅新版本，获取最新市场情报和合规规划参考。"
+      },
+      "source_url": "https://health.ec.europa.eu/latest-updates/monitoring-availability-medical-devices-eu-market-2024-01-09_en",
+      "source_name": "European Commission",
+      "published_date": "2026-07-14",
+      "detected_date": "2026-07-19T20:06:20Z",
+      "importance": "medium",
+      "tags": [
+        "medical_device_availability",
+        "dashboard_update",
+        "market_surveillance",
+        "eu_mdr"
+      ],
+      "related_docs": [],
+      "status": "published"
+    },
+    {
+      "id": "eu_mdr_20260630_ec_publishes_delegated_acts_on_well_established_technologies",
+      "framework": "eu_mdr",
+      "category": "regulation_update",
+      "title": {
+        "en": "EC Publishes Delegated Acts on Well-Established Technologies Under EU MDR",
+        "zh": "欧盟委员会发布关于MDR下“成熟技术”医疗器械的授权法案"
+      },
+      "summary": {
+        "en": "The European Commission has published new delegated acts concerning well-established technologies (WET) under the Medical Devices Regulation (MDR). This update affects manufacturers of specific Class IIb implantable and Class III devices, such as sutures, staples, and bone screws, by clarifying exemptions for clinical investigations. Affected manufacturers must review the updated acts upon entry into force to verify their eligibility for WET exemptions and adjust their clinical evaluation strategies accordingly.",
+        "zh": "欧盟委员会发布了关于《医疗器械法规》(MDR)下“成熟技术”(WET)的最新授权法案。此更新主要影响生产缝合线、吻合器和骨钉等特定IIb类植入物和III类器械的制造商，进一步明确了临床试验的豁免条件。相关制造商应在法案生效后立即评估其产品是否符合豁免资格，并相应调整临床评价策略和更新技术文件。"
+      },
+      "source_url": "https://ec.europa.eu/newsroom/sante/newsletter-archives/77013",
+      "source_name": "European Commission",
+      "published_date": "2026-06-30",
+      "detected_date": "2026-06-30T14:06:08Z",
+      "importance": "high",
+      "tags": [
+        "eu_mdr",
+        "delegated_act",
+        "well_established_technologies",
+        "clinical_evaluation"
+      ],
+      "related_docs": [],
+      "status": "published"
+    },
+    {
+      "id": "eu_mdr_2026_cid_1231",
+      "framework": "eu_mdr",
+      "category": "regulation_update",
+      "title": {
+        "en": "Commission Implementing Decision (EU) 2026/1231 -- Updated Harmonised Standards for MDR",
+        "zh": "欧盟实施决定 (EU) 2026/1231 -- MDR 协调标准更新（九大类别）"
+      },
+      "summary": {
+        "en": "Published 17 June 2026 (effective 11 June 2026), this decision amends Decision 2021/1182 and updates harmonised standard references across nine medical device categories: biological evaluation (EN ISO 10993-12:2021/A1:2025), labelling/symbols (EN ISO 15223-1:2021/A1:2025), electromedical equipment, transfusion equipment, ophthalmic optics, non-active surgical implants, washer-disinfectors, prostheses, and sharps injury protection. Manufacturers must review technical documentation, declarations of conformity, and test reports against updated standard references.",
+        "zh": "2026年6月17日发布（6月11日生效），该决定修订了2021/1182号决定，更新了九大类别医疗器械协调标准引用：生物评价（EN ISO 10993-12:2021/A1:2025）、标签符号（EN ISO 15223-1:2021/A1:2025）、电气医用设备、输血设备、眼科光学、非有源外科植入物、清洗消毒器、假肢和锐器伤防护。制造商须审查技术文件、符合性声明及测试报告，确保引用最新标准版本。"
+      },
+      "source_url": "https://eur-lex.europa.eu/eli/dec_impl/2026/1231/oj",
+      "source_name": "EUR-Lex",
+      "published_date": "2026-06-17",
+      "detected_date": "2026-06-17T12:00:00Z",
+      "importance": "high",
+      "tags": [
+        "harmonised_standards",
+        "biological_evaluation",
+        "labelling",
+        "conformity"
+      ],
+      "related_docs": [
+        "eu_mdr-standards"
+      ],
+      "status": "published"
+    },
+    {
+      "id": "eu_mdr_2026_mdcg_2026_4",
+      "framework": "eu_mdr",
+      "category": "guidance_new",
+      "title": {
+        "en": "MDCG 2026-4: Management of SS(C)P in EUDAMED After Mandatory Use",
+        "zh": "MDCG 2026-4: EUDAMED 强制使用后 SS(C)P 管理职责转移"
+      },
+      "summary": {
+        "en": "Published June 2026, MDCG 2026-4 transfers SSCP/SSP upload responsibility from Notified Bodies to manufacturers in EUDAMED. Key dates: from 28 May 2026 Notified Bodies continue uploading during transition; from October 2026 manufacturers take over direct upload; deadline 27 February 2027 for devices already on market. Manufacturers must upload master SS(C)P and translations, ensuring the uploaded version matches the one validated during certification.",
+        "zh": "2026年6月发布，MDCG 2026-4 将 SSCP/SSP 上传职责从公告机构转移至制造商。关键时间节点：2026年5月28日起过渡期内公告机构继续上传；2026年10月起制造商直接上传；已上市器械截止日期为2027年2月27日。制造商须上传主版 SS(C)P 及翻译件，确保上传版本与认证时验证的版本一致。"
+      },
+      "source_url": "https://health.ec.europa.eu/document/download/a80332cf-e9f0-4d45-8863-3d96e8c2a675_en?filename=mdcg_2026-4_en.pdf",
+      "source_name": "European Commission",
+      "published_date": "2026-06-02",
+      "detected_date": "2026-06-05T12:00:00Z",
+      "importance": "high",
+      "tags": [
+        "eudamed",
+        "sscp",
+        "notified_body",
+        "manufacturer_obligation"
+      ],
+      "related_docs": [
+        "eu_mdr-mdcg"
+      ],
+      "status": "published"
+    }
+  ]
+}

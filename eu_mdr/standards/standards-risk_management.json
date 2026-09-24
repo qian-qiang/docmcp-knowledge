@@ -1,0 +1,70 @@
+{
+  "standards": [
+    {
+      "id": "eu_mdr-hs-en-iso-14971-2019",
+      "number": "EN ISO 14971:2019",
+      "title": {
+        "en": "Medical devices - Application of risk management to medical devices (ISO 14971:2019)",
+        "zh": "医疗器械 - 风险管理在医疗器械中的应用"
+      },
+      "status": "active",
+      "source_url": "https://eur-lex.europa.eu/eli/dec_impl/2021/1182",
+      "source_verified": "2026-04-09",
+      "category": "risk_management",
+      "amendments": [
+        "EN ISO 14971:2019/A11:2021"
+      ],
+      "applicable_gsprs": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8",
+        "9",
+        "10",
+        "11",
+        "11.1",
+        "13",
+        "14",
+        "14.1",
+        "14.2",
+        "14.3",
+        "14.7",
+        "15",
+        "15.1",
+        "16",
+        "16.1",
+        "17",
+        "18",
+        "19",
+        "19.1",
+        "20",
+        "20.1",
+        "20.5",
+        "21",
+        "21.1",
+        "21.2",
+        "22",
+        "22.2",
+        "3(d)",
+        "3(b)",
+        "5(a)",
+        "4(a)",
+        "3(f)",
+        "3(c)",
+        "3(e)",
+        "3(a)",
+        "4(b)"
+      ],
+      "scope": {
+        "en": "Risk management process for medical devices throughout the product lifecycle",
+        "zh": ""
+      },
+      "standard_type": "harmonised",
+      "abstract": "Specifies terminology, principles and a process for risk management of medical devices, including in vitro diagnostic devices."
+    }
+  ]
+}

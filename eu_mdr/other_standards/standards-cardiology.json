@@ -1,0 +1,160 @@
+{
+  "standards": [
+    {
+      "id": "eu_mdr-os-iec-60601-2-47-2012+amd1-2019",
+      "number": "IEC 60601-2-47:2012",
+      "title": {
+        "en": "Medical electrical equipment - Part 2-47: Particular requirements for the basic safety and essential performance of ambulatory electrocardiographic systems",
+        "zh": "医用电气设备 - 第2-47部分：动态心电图系统的基本安全和基本性能专用要求"
+      },
+      "status": "active",
+      "source_url": "https://webstore.iec.ch/en/publication/2666",
+      "source_verified": "",
+      "category": "cardiology",
+      "standard_type": "non_harmonised",
+      "scope": "Ambulatory electrocardiographic systems.",
+      "applicable_gsprs": [
+        "14",
+        "14.1"
+      ],
+      "abstract": "Particular requirements for ambulatory ECG systems."
+    },
+    {
+      "id": "eu_mdr-os-iec-60601-2-25-2011+amd1-2014",
+      "number": "IEC 60601-2-25:2011",
+      "title": {
+        "en": "Medical electrical equipment - Part 2-25: Particular requirements for the basic safety and essential performance of electrocardiographs",
+        "zh": "医用电气设备 - 第2-25部分：心电图设备的基本安全和基本性能专用要求"
+      },
+      "status": "active",
+      "source_url": "https://webstore.iec.ch/en/publication/2636",
+      "source_verified": "2026-06-24",
+      "category": "cardiology",
+      "standard_type": "non_harmonised",
+      "scope": "Recording and analysing electrocardiographs (replaces IEC 60601-2-51:2003).",
+      "applicable_gsprs": [
+        "14",
+        "14.1"
+      ],
+      "abstract": "Particular requirements for electrocardiographs. Consolidates former IEC 60601-2-25 and IEC 60601-2-51.",
+      "note": "IEC 60601-2-51:2003 was withdrawn in 2011 and merged into this standard."
+    },
+    {
+      "id": "eu_mdr-os-iec-60601-2-31-2020",
+      "number": "IEC 60601-2-31:2020",
+      "title": {
+        "en": "Medical electrical equipment - Part 2-31: Particular requirements for the basic safety and essential performance of external cardiac pacemakers with internal power source",
+        "zh": "医用电气设备 - 第2-31部分：外部心脏起搏器的基本安全和基本性能专用要求"
+      },
+      "status": "active",
+      "source_url": "https://webstore.iec.ch/en/publication/31934",
+      "source_verified": "",
+      "category": "cardiology",
+      "standard_type": "non_harmonised",
+      "scope": "External cardiac pacemakers with internal power source.",
+      "applicable_gsprs": [
+        "14",
+        "14.2"
+      ],
+      "abstract": "Particular requirements for external cardiac pacemakers."
+    },
+    {
+      "id": "iso-25539-1-2017",
+      "number": "ISO 25539-1:2017",
+      "title": {
+        "en": "Cardiovascular implants - Endovascular devices - Part 1: Endovascular prostheses",
+        "zh": "心血管植入物 - 血管内器械 - 第1部分：血管内假体"
+      },
+      "status": "active",
+      "applicable_gsprs": [
+        "1",
+        "3",
+        "5",
+        "10"
+      ],
+      "standard_type": "non_harmonised",
+      "source_url": "https://www.iso.org/standard/66925.html",
+      "source_verified": "2026-06-27",
+      "abstract": "Specifies requirements for endovascular prostheses (stent-grafts) including design, material, sterility, biocompatibility, packaging, and labelling. Confirmed 2023.",
+      "scope": "Endovascular prostheses (stent-grafts for aortic and peripheral vascular applications)."
+    },
+    {
+      "id": "iso-25539-2-2020",
+      "number": "ISO 25539-2:2020",
+      "title": {
+        "en": "Cardiovascular implants - Endovascular devices - Part 2: Vascular stents",
+        "zh": "心血管植入物 - 血管内器械 - 第2部分：血管支架"
+      },
+      "status": "active",
+      "applicable_gsprs": [
+        "1",
+        "3",
+        "5",
+        "10"
+      ],
+      "standard_type": "non_harmonised",
+      "source_url": "https://www.iso.org/standard/69835.html",
+      "source_verified": "2026-06-27",
+      "abstract": "Specifies requirements for vascular stents based upon current medical knowledge, including design attributes, materials, design evaluation, manufacturing, sterilization, packaging and information supplied by the manufacturer. Edition 2.",
+      "scope": "Vascular stents for coronary, peripheral, and neurovascular applications."
+    },
+    {
+      "id": "iso-5840-1-2021",
+      "number": "ISO 5840-1:2021",
+      "title": {
+        "en": "Cardiovascular implants - Cardiac valve prostheses - Part 1: General requirements",
+        "zh": "心血管植入物 - 人工心脏瓣膜 - 第1部分：通用要求"
+      },
+      "status": "active",
+      "applicable_gsprs": [
+        "1",
+        "3",
+        "5",
+        "10"
+      ],
+      "standard_type": "non_harmonised",
+      "source_url": "https://www.iso.org/standard/77033.html",
+      "source_verified": "2026-06-27",
+      "abstract": "Outlines general requirements for cardiac valve substitutes and provides a framework for qualification and ongoing evaluation. Edition 1.",
+      "scope": "General requirements for heart valve prostheses (mechanical and biological)."
+    },
+    {
+      "id": "iec-60601-2-27-2011",
+      "number": "IEC 60601-2-27:2011",
+      "title": {
+        "en": "Medical electrical equipment - Part 2-27: Particular requirements for the basic safety and essential performance of electrocardiographic monitoring equipment",
+        "zh": "医用电气设备 - 第2-27部分：心电监护设备的基本安全和基本性能的特殊要求"
+      },
+      "status": "active",
+      "applicable_gsprs": [
+        "1",
+        "3",
+        "14"
+      ],
+      "standard_type": "non_harmonised",
+      "source_url": "https://webstore.iec.ch/en/publication/2638",
+      "source_verified": "2026-06-27",
+      "abstract": "Applies to the basic safety and essential performance of electrocardiographic monitoring equipment. Edition 3.",
+      "scope": "ECG monitoring equipment for patient monitoring in clinical settings."
+    },
+    {
+      "id": "iec-60601-2-34-2024",
+      "number": "IEC 60601-2-34:2024",
+      "title": {
+        "en": "Medical electrical equipment - Part 2-34: Particular requirements for the basic safety and essential performance of invasive blood pressure monitoring equipment",
+        "zh": "医用电气设备 - 第2-34部分：有创血压监测设备的基本安全和基本性能的特殊要求"
+      },
+      "status": "active",
+      "applicable_gsprs": [
+        "1",
+        "3",
+        "14"
+      ],
+      "standard_type": "non_harmonised",
+      "source_url": "https://webstore.iec.ch/en/publication/68609",
+      "source_verified": "2026-06-27",
+      "abstract": "Applies to the basic safety and essential performance of invasive blood pressure monitoring equipment. Edition 4, published 2024-10.",
+      "scope": "Invasive blood pressure monitoring equipment."
+    }
+  ]
+}

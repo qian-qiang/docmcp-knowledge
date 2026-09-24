@@ -1,0 +1,691 @@
+---
+title: Regulatory News
+---
+
+# Japan PMDA Regulatory News
+
+> Latest regulatory updates, standard revisions, and guidance publications in the medical device compliance space.
+
+### Japan PMDA Class II Recall: Medtronic OmniaSecure MRI Lead (ICD/Pacemaker Lead)
+
+**2026-09-17** | Japan PMDA | Safety Communication | !! MEDIUM
+
+Japan's PMDA has issued a Class II recall (#2-12968) for the OmniaSecure MRI lead, an implantable defibrillator/pacemaker lead manufactured by Japan Medtronic. The notice indicates a moderate device safety risk; healthcare facilities should confirm the specific failure mode in the official PMDA/Medtronic communication. Affected products should be identified, quarantined, and handled according to the recall instructions.
+
+**Tags**: `pmda_recall`, `class_ii`, `cardiac_lead`, `medtronic`
+
+[View Source (PMDA (Japan))](https://www.info.pmda.go.jp/rgo/MainServlet?recallno=2-12968)
+
+---
+
+### PMDA Class II Recall No. 2-12967: Getinge HLS Cannula (Heparin-Coated Central Circulatory AV Cannula)
+
+**2026-09-17** | Japan PMDA | Safety Communication | !! MEDIUM
+
+Japan's PMDA has published a Class II recall (No. 2-12967) for the HLS Cannula, a heparin-coated central circulatory arteriovenous cannula from Getinge Group Japan K.K. The recall is classified as moderate risk and was initiated due to a medical device safety concern. Affected facilities should review the PMDA notice, identify affected lots, and follow the manufacturer's recall instructions.
+
+**Tags**: `japan_pmda`, `class_ii_recall`, `medical_device_recall`, `getinge`, `hls_cannula`
+
+[View Source (PMDA (Japan))](https://www.info.pmda.go.jp/rgo/MainServlet?recallno=2-12967)
+
+---
+
+### PMDA Class II Recall: Boston Scientific Japan Direction Catheter System (Central Circulatory Microcatheter), Recall No. 2-12966
+
+**2026-09-16** | Japan PMDA | Safety Communication | !! MEDIUM
+
+The Japanese PMDA has issued a Class II (moderate) recall (No. 2-12966) for the Direction Catheter System, a central circulatory system microcatheter marketed by Boston Scientific Japan K.K. The recall notice identifies the affected device as a medical device, but the specific safety issue is not detailed in the PMDA listing. Regulatory affairs professionals and affected facilities should review the official recall notice, identify affected inventory, and follow Boston Scientific Japan's instructions for return or corrective action.
+
+**Tags**: `pmda`, `class_ii_recall`, `microcatheter`, `boston_scientific`, `medical_device_recall`
+
+[View Source (PMDA (Japan))](https://www.info.pmda.go.jp/rgo/MainServlet?recallno=2-12966)
+
+---
+
+### Japan PMDA Class II Recall: Stryker Hoffman 3 External Fixation System (Recall #2-12964)
+
+**2026-09-15** | Japan PMDA | Safety Communication | !! MEDIUM
+
+Japan's PMDA issued a Class II recall (Recall #2-12964) for the Hoffman 3 External Fixation System, an external fixator from Stryker Japan K.K. The notice identifies it as a medical device; the specific safety reason is not detailed in the provided source. Affected facilities should check the official PMDA notice, identify impacted devices, and follow Stryker Japan's instructions for quarantine, return, or corrective action.
+
+**Tags**: `pmda_recall`, `class_ii`, `external_fixation`, `stryker_japan`, `medical_device`
+
+[View Source (PMDA (Japan))](https://www.info.pmda.go.jp/rgo/MainServlet?recallno=2-12964)
+
+---
+
+### PMDA Class II Recall: T-FLEX Anesthesia/Breathing Circuit Set by Total Medical Supply, Recall #2-12963
+
+**2026-09-15** | Japan PMDA | Safety Communication | !! MEDIUM
+
+Japan's PMDA has issued a Class II recall (#2-12963) for the T-FLEX Anesthesia/Breathing Circuit Set manufactured by Total Medical Supply Co., Ltd. The Class II classification indicates a moderate risk of adverse health consequences. Healthcare facilities using this device should check the recall notice, identify affected lots, and follow the manufacturer's instructions for return or correction. The specific safety issue and required actions are detailed in the official PMDA notice.
+
+**Tags**: `pmda_recall`, `class_ii`, `anesthesia_circuit`, `medical_device_safety`
+
+[View Source (PMDA (Japan))](https://www.info.pmda.go.jp/rgo/MainServlet?recallno=2-12963)
+
+---
+
+### Japan PMDA Class II Recall: Coloplast Porges Ureteral Stent (Long-Term Ureteral Tube Stent)
+
+**2026-09-14** | Japan PMDA | Safety Communication | !! MEDIUM
+
+The Japanese PMDA has issued a Class II (moderate) medical device recall (#2-12962) for the Porges Ureteral Stent, a long-term ureteral tube stent distributed by Coloplast K.K. This recall affects healthcare facilities that use or stock this device. The specific safety issue and affected lots should be confirmed in the official PMDA notice; actions include identifying and quarantining affected units, following Coloplast's recall instructions, and reporting related adverse events.
+
+**Tags**: `japan_pmda`, `medical_device_recall`, `class_ii`, `ureteral_stent`, `coloplast`
+
+[View Source (PMDA (Japan))](https://www.info.pmda.go.jp/rgo/MainServlet?recallno=2-12962)
+
+---
+
+### PMDA Class II Recall: GE Healthcare Japan Aisys Anesthesia System (Recall #2-12961)
+
+**2026-09-11** | Japan PMDA | Safety Communication | !! MEDIUM
+
+The Japan PMDA has posted a Class II recall (#2-12961) for the Aisys anesthesia system marketed by GE Healthcare Japan Corporation. Class II indicates a moderate-risk safety or performance issue. Healthcare facilities should identify affected units, review the official PMDA notice for the specific defect, and follow GE Healthcare Japan's recall instructions.
+
+**Tags**: `pmda_recall`, `class_ii`, `anesthesia_system`
+
+[View Source (PMDA (Japan))](https://www.info.pmda.go.jp/rgo/MainServlet?recallno=2-12961)
+
+---
+
+### Class II Recall: Pancreatic Duct Plastic Stent System (Pancreatic Stent) – Boston Scientific Japan
+
+**2026-09-10** | Japan PMDA | Safety Communication | !! MEDIUM
+
+Japan's PMDA has posted a Class II medical device recall (#2-12959) for the Pancreatic Duct Plastic Stent System (Pancreatic Stent) manufactured by Boston Scientific Japan K.K. A Class II recall indicates a moderate risk situation where serious adverse health consequences are unlikely but temporary or medically reversible adverse consequences may occur. Affected users and facilities should review the manufacturer's recall notification, identify affected lots, and follow required return or corrective actions. The notice metadata does not describe the specific failure mode.
+
+**Tags**: `japan_pmda`, `class_ii_recall`, `pancreatic_stent`, `boston_scientific`
+
+[View Source (PMDA (Japan))](https://www.info.pmda.go.jp/rgo/MainServlet?recallno=2-12959)
+
+---
+
+### PMDA Class II Recall: Medtronic Japan Nav Instruments and Passive Biopsy Needles
+
+**2026-09-10** | Japan PMDA | Safety Communication | !! MEDIUM
+
+Japan's PMDA posted Class II recall #2-12958 for Nihon Medtronic's Nav instruments (bone surgery instruments) and passive biopsy needles (single-use tissue biopsy needles). The notice identifies these medical devices as recalled, though the specific safety reason is not detailed in the provided excerpt. Affected facilities should check inventory, quarantine affected products, and follow Medtronic Japan's recall instructions.
+
+**Tags**: `pmda_recall`, `class_ii`, `medtronic_japan`, `bone_surgery_instruments`, `biopsy_needles`
+
+[View Source (PMDA (Japan))](https://www.info.pmda.go.jp/rgo/MainServlet?recallno=2-12958)
+
+---
+
+### PMDA Class II Recall: Fujifilm VersiFlex VISTA Multipurpose X-Ray Fluoroscopy System
+
+**2026-09-08** | Japan PMDA | Safety Communication | !! MEDIUM
+
+The PMDA has issued a Class II recall (No. 2-12957) for the Fujifilm VersiFlex VISTA, a stationary digital general-purpose X-ray fluoroscopic diagnostic device. This recall affects units distributed in Japan and is classified as Class II, indicating a moderate risk of adverse health consequences. Affected healthcare facilities should verify whether their systems are included and follow Fujifilm's recall communication and corrective actions. The specific technical issue should be confirmed in the official PMDA recall notice.
+
+**Tags**: `japan_pmda`, `class_ii_recall`, `fluoroscopy_x_ray`, `fujifilm`, `medical_device_recall`
+
+[View Source (PMDA (Japan))](https://www.info.pmda.go.jp/rgo/MainServlet?recallno=2-12957)
+
+---
+
+### PMDA Class II Recall of Philips Azurion Angiography X-Ray System (Recall #2-12956)
+
+**2026-09-07** | Japan PMDA | Safety Communication | !! MEDIUM
+
+Japan's PMDA has issued a Class II recall (No. 2-12956) for the Azurion angiography X-ray diagnostic device, a stationary digital cardiovascular fluoroscopic diagnostic system manufactured by Philips Japan. The recall involves a potential safety issue with the device, as detailed in the PMDA notice. Healthcare facilities using affected Azurion systems should review the recall notice, identify impacted units, and follow Philips Japan's corrective actions.
+
+**Tags**: `pmda`, `class_ii_recall`, `angiography_xray`, `philips`, `medical_device`
+
+[View Source (PMDA (Japan))](https://www.info.pmda.go.jp/rgo/MainServlet?recallno=2-12956)
+
+---
+
+### Class II Recall: Invictus Spinal Internal Fixation System by ATEC Japan (PMDA Recall #2-12953)
+
+**2026-09-07** | Japan PMDA | Safety Communication | !! MEDIUM
+
+PMDA has issued a Class II recall (Rec. No. 2-12953) for the Invictus spinal internal fixation system from ATEC Japan K.K. The recall is classified as moderate risk. Healthcare facilities with this device should verify affected lots, quarantine the product, and follow the manufacturer’s recall or return instructions. For the specific safety issue or device failure, refer to the official PMDA notice.
+
+**Tags**: `japan_pmda`, `class_ii_recall`, `spinal_internal_fixation`, `medical_device`
+
+[View Source (PMDA (Japan))](https://www.info.pmda.go.jp/rgo/MainServlet?recallno=2-12953)
+
+---
+
+### Class II Recall: Nakashima Health Force Bone Cement Mixing System (Orthopedic Bone Cement Mixer)
+
+**2026-09-07** | Japan PMDA | Safety Communication | !! MEDIUM
+
+Japan's PMDA has issued a Class II recall (No. 2-12952) for the Bone Cement Mixing System, an orthopedic bone cement mixer manufactured by Nakashima Health Force Co., Ltd. This recall is classified as moderate risk. Healthcare facilities, distributors, and users should review the PMDA recall notice, identify affected product lots, and follow the manufacturer’s and regulator’s instructions for corrective or return actions.
+
+**Tags**: `japan_pmda`, `class_ii_recall`, `bone_cement_mixer`, `medical_device_recall`, `orthopedic_device`
+
+[View Source (PMDA (Japan))](https://www.info.pmda.go.jp/rgo/MainServlet?recallno=2-12952)
+
+---
+
+### PMDA Class II Recall: Tosoh HLC-723GR01 Automated Glycohemoglobin Analyzer (Recall #2-12951)
+
+**2026-09-07** | Japan PMDA | Safety Communication | !! MEDIUM
+
+Japan's PMDA has issued a Class II recall (No. 2-12951) for the Tosoh HLC-723GR01 automated glycohemoglobin analyzer manufactured by Tosoh Corporation. The recall concerns a device safety/performance issue for this specific analyzer and is classified as Class II, indicating moderate risk. Affected facilities should confirm whether their unit is impacted, review the official PMDA/manufacturer notice, and follow Tosoh's recommended corrective actions.
+
+**Tags**: `japan_pmda`, `class_ii_recall`, `tosoh`, `glycohemoglobin_analyzer`, `medical_device`
+
+[View Source (PMDA (Japan))](https://www.info.pmda.go.jp/rgo/MainServlet?recallno=2-12951)
+
+---
+
+### [Class II] ゴア バイアバーン ステントグラフト (ヘパリン使用中心循環系ステントグラフト) - 日本ゴア合同会社
+
+**2026-09-03** | Japan PMDA | Safety Communication | !! MEDIUM
+
+Recall #2-12949: ヘパリン使用中心循環系ステントグラフト / ゴア バイアバーン ステントグラフト by 日本ゴア合同会社. Type: 医療機器.
+
+[View Source (PMDA (Japan))](https://www.info.pmda.go.jp/rgo/MainServlet?recallno=2-12949)
+
+---
+
+### PMDA Class II Recall: NeuroStar TMS Treatment Device (Vopar Technologies K.K.)
+
+**2026-09-03** | Japan PMDA | Safety Communication | !! MEDIUM
+
+Japan’s PMDA has issued Class II recall No. 2-12948 for the NeuroStar TMS Treatment Device, a transcranial magnetic stimulation device marketed by Vopar Technologies K.K. The recall requires affected healthcare facilities to review the official PMDA notice and follow the manufacturer’s corrective actions for the device. Class II indicates a moderate risk; users should confirm whether their units are affected.
+
+**Tags**: `japan_pmda`, `class_ii_recall`, `neurostar_tms`, `transcranial_magnetic_stimulation`, `medical_device_safety`
+
+[View Source (PMDA (Japan))](https://www.info.pmda.go.jp/rgo/MainServlet?recallno=2-12948)
+
+---
+
+### Philips Japan Central Monitor Information Center Analysis Program Class II Recall (PMDA #2-12947)
+
+**2026-09-02** | Japan PMDA | Safety Communication | !! MEDIUM
+
+Japan's PMDA has posted a Class II recall (No. 2-12947) for the Philips Information Center central monitor program with analysis function, marketed by Philips Japan K.K. This recall affects healthcare facilities using this Class II medical device software for central monitoring. Affected users should review the official PMDA notice and Philips Japan communications, identify installed versions, and follow any corrective actions required by the manufacturer.
+
+**Tags**: `pmda_recall`, `central_monitor`, `philips_japan`, `class_ii`, `medical_device_software`
+
+[View Source (PMDA (Japan))](https://www.info.pmda.go.jp/rgo/MainServlet?recallno=2-12947)
+
+---
+
+### PMDA Class II Recall: Nippon Abiomed Impella Control Device for Intracardiac Pump Catheter (Recall No. 2-12943)
+
+**2026-08-31** | Japan PMDA | Safety Communication | !! MEDIUM
+
+PMDA has issued a Class II medical device recall (No. 2-12943) for the IMPELLA Control Device, a control unit for circulatory assist intracardiac indwelling pump catheters, marketed by Nippon Abiomed K.K. Class II indicates a moderate-risk recall. Affected facilities should identify affected units, review the official PMDA/manufacturer recall notice for the specific safety issue, and follow Nippon Abiomed's corrective actions.
+
+**Tags**: `pmda_recall`, `class_ii`, `impella_control_device`, `cardiovascular_device`
+
+[View Source (PMDA (Japan))](https://www.info.pmda.go.jp/rgo/MainServlet?recallno=2-12943)
+
+---
+
+### PMDA Class II Recall: Olympus Gastrointestinal Balloon Dilator (Endoscopic Dilation Catheter), Recall No. 2-12940
+
+**2026-08-28** | Japan PMDA | Safety Communication | !! MEDIUM
+
+The Japanese PMDA posted a Class II recall (No. 2-12940) for Olympus Medical Systems Corporation's gastrointestinal balloon dilator/endoscopic dilation catheter. This is a moderate-risk medical device recall affecting healthcare facilities that use the device. Affected users should review the PMDA recall notice, identify affected lots, quarantine the devices, and follow Olympus Medical Systems' instructions for return or correction.
+
+**Tags**: `japan_pmda`, `medical_device_recall`, `class_ii`, `olympus`, `balloon_dilator`
+
+[View Source (PMDA (Japan))](https://www.info.pmda.go.jp/rgo/MainServlet?recallno=2-12940)
+
+---
+
+### [Class II] 医用画像ビューワソフトウェア　EIRL　Viewer (汎用画像診断装置ワークステーション用プログラム) - エルピクセル株式会社
+
+**2026-08-28** | Japan PMDA | Safety Communication | !! MEDIUM
+
+Recall #2-12939: 汎用画像診断装置ワークステーション用プログラム / 医用画像ビューワソフトウェア　EIRL　Viewer by エルピクセル株式会社. Type: 医療機器.
+
+[View Source (PMDA (Japan))](https://www.info.pmda.go.jp/rgo/MainServlet?recallno=2-12939)
+
+---
+
+### PMDA Class II Recall: Boston Scientific Japan ImagerII Angiography Catheter (Recall #2-12935)
+
+**2026-08-25** | Japan PMDA | Safety Communication | !! MEDIUM
+
+Japan's PMDA has published a Class II recall (moderate risk) for the ImagerII catheter, a central circulatory angiography catheter marketed by Boston Scientific Japan K.K., under recall no. 2-12935. This notice affects the ImagerII angiography catheter. Affected users and distributors should consult the official PMDA or company recall notice for the specific safety issue and required actions, such as return, replacement, or inspection.
+
+**Tags**: `pmda_recall`, `class_ii`, `angiography_catheter`, `boston_scientific_japan`
+
+[View Source (PMDA (Japan))](https://www.info.pmda.go.jp/rgo/MainServlet?recallno=2-12935)
+
+---
+
+### [Class II] (1)先端可動シースＡ(2)ＥＳダイレータ(3)ゼメックスＥＳダイレータ ((1)心臓用カテーテルイントロデューサキット、 (2)及び(3)カテーテル拡張器) - ゼオンメディカル株式会社
+
+**2026-08-25** | Japan PMDA | Safety Communication | !! MEDIUM
+
+Recall #2-12934: (1)心臓用カテーテルイントロデューサキット、 (2)及び(3)カテーテル拡張器 / (1)先端可動シースＡ(2)ＥＳダイレータ(3)ゼメックスＥＳダイレータ by ゼオンメディカル株式会社. Type: 医療機器.
+
+[View Source (PMDA (Japan))](https://www.info.pmda.go.jp/rgo/MainServlet?recallno=2-12934)
+
+---
+
+### PMDA Class II Recall: Beckman Coulter AU480 Discrete Clinical Chemistry Analyzer (Recall No. 2-12932)
+
+**2026-08-24** | Japan PMDA | Safety Communication | !! MEDIUM
+
+Japan's PMDA posted a Class II recall (No. 2-12932) for the Beckman Coulter AU480 discrete clinical chemistry autoanalyzer, manufactured by Beckman Coulter K.K. The provided notice does not specify the underlying safety defect; Class II indicates moderate risk. Affected users should review the official PMDA/manufacturer notice and follow recommended corrective actions.
+
+**Tags**: `pmda_recall`, `class_ii`, `clinical_chemistry_analyzer`, `beckman_coulter`
+
+[View Source (PMDA (Japan))](https://www.info.pmda.go.jp/rgo/MainServlet?recallno=2-12932)
+
+---
+
+### [Class II] ツインキュア (歯科技工用重合装置) - デンケン・ハイデンタル株式会社
+
+**2026-08-18** | Japan PMDA | Safety Communication | !! MEDIUM
+
+Recall #2-12926: 歯科技工用重合装置 / ツインキュア by デンケン・ハイデンタル株式会社. Type: 医療機器.
+
+[View Source (PMDA (Japan))](https://www.info.pmda.go.jp/rgo/MainServlet?recallno=2-12926)
+
+---
+
+### Class II Recall: Daiichi Ika's Stella FU-STE ENT Treatment Unit (Recall #2-12921)
+
+**2026-08-05** | Japan PMDA | Safety Communication | !! MEDIUM
+
+The PMDA has issued a Class II recall (No. 2-12921) for the Stella FU-STE ear, nose, and throat (ENT) treatment unit manufactured by Daiichi Ika Co., Ltd. The recall addresses a potential safety issue that may affect device performance and patient safety. Healthcare facilities should immediately stop using the affected device, quarantine it, and contact Daiichi Ika for necessary corrective actions such as repair or replacement.
+
+**Tags**: `japan_pmda`, `class_ii_recall`, `ent_device`, `medical_device_recall`, `daiichi_ika`, `stella_fu_ste`
+
+[View Source (PMDA (Japan))](https://www.info.pmda.go.jp/rgo/MainServlet?recallno=2-12921)
+
+---
+
+### [Class II] イオム　レガロ (歯科用ユニット) - 株式会社ジーシー
+
+**2026-08-04** | Japan PMDA | Safety Communication | !! MEDIUM
+
+Recall #2-12920: 歯科用ユニット / イオム　レガロ by 株式会社ジーシー. Type: 医療機器.
+
+[View Source (PMDA (Japan))](https://www.info.pmda.go.jp/rgo/MainServlet?recallno=2-12920)
+
+---
+
+### Class II Recall: Olympus Disposable Ligation Device (Endoscopic Loop Ligator) – PMDA Recall #2-12918
+
+**2026-08-04** | Japan PMDA | Safety Communication | !! MEDIUM
+
+The PMDA has issued a Class II recall (No. 2-12918) for the Olympus Medical Systems Disposable Ligation Device (Endoscopic Loop Ligator). The recall addresses a potential quality or performance issue that may affect device safety. Healthcare facilities should immediately quarantine affected lots, cease use, and follow Olympus’s return or disposal instructions as detailed in the official recall notice.
+
+**Tags**: `pmda`, `class_ii_recall`, `olympus`, `endoscopic_ligation`, `disposable_device`, `medical_device_safety`
+
+[View Source (PMDA (Japan))](https://www.info.pmda.go.jp/rgo/MainServlet?recallno=2-12918)
+
+---
+
+### PMDA Class II Recall: Japan Stryker Sterile Trauma Drill Bits (Surgical Drill Bits)
+
+**2026-08-03** | Japan PMDA | Safety Communication | !! MEDIUM
+
+The Japanese PMDA has issued a Class II recall (No. 2-12916) for the Sterile Drill Bits for Trauma (surgical drill bits) distributed by Japan Stryker K.K. The recall addresses a potential safety issue that may cause temporary or medically reversible adverse health consequences. Affected healthcare providers should immediately stop using the product, quarantine remaining inventory, and follow the manufacturer’s instructions for return or disposal.
+
+**Tags**: `pmda`, `recall`, `class_ii`, `orthopedic`, `surgical_drill`, `stryker`
+
+[View Source (PMDA (Japan))](https://www.info.pmda.go.jp/rgo/MainServlet?recallno=2-12916)
+
+---
+
+### PMDA Publishes Report on ASEAN-Japan Medical Devices Regulatory Symposium 2026
+
+**2026-07-29** | Japan PMDA | Regulation Update | ! LOW
+
+The PMDA has released the report of the ASEAN-Japan Medical Devices Regulatory Symposium 2026, covering discussions on regulatory harmonization, quality management systems, and post-market surveillance between Japan and ASEAN states. The report offers insights for manufacturers and regulatory professionals active in both regions, though it does not introduce new requirements. It may guide future regulatory alignment and cooperation.
+
+**Tags**: `asean`, `japan`, `regulatory_symposium`, `report`, `medical_devices`
+
+[View Source (PMDA (Japan))](https://www.pmda.go.jp/english/symposia/0361.html)
+
+---
+
+### ASEAN-Japan Medical Devices Regulatory Seminar 2026 Announced
+
+**2026-07-29** | Japan PMDA | Regulation Update | ! LOW
+
+PMDA has announced the ASEAN-Japan Medical Devices Regulatory Seminar scheduled for 2026. This event will cover regulatory harmonization and updates between Japan and ASEAN countries. Medical device manufacturers seeking market access in these regions should note this upcoming opportunity for regulatory insights. No specific date or registration details are provided yet.
+
+**Tags**: `asean`, `japan`, `regulatory_seminar`, `medical_devices`, `pmda`
+
+[View Source (PMDA (Japan))](https://www.pmda.go.jp/english/symposia/0359.html)
+
+---
+
+### PMDA Class II Recall: Denver Splint (External Nasal Splint) by Meiyu Co., Ltd.
+
+**2026-07-28** | Japan PMDA | Safety Communication | !! MEDIUM
+
+The PMDA has issued a Class II recall (No. 2-12911) for the Denver Splint, an external nasal splint manufactured by Meiyu Co., Ltd. The recall addresses a potential quality or safety defect that may affect device performance. Healthcare providers and distributors should immediately quarantine impacted units and follow the manufacturer's return or disposal procedures.
+
+**Tags**: `class_ii_recall`, `nasal_splint`, `denver_splint`, `pmda`, `meiyu`
+
+[View Source (PMDA (Japan))](https://www.info.pmda.go.jp/rgo/MainServlet?recallno=2-12911)
+
+---
+
+### [Class II Recall] Level 1 Hotline Warming Tube (Blood/Fluid Warming Coil) - ICU Medical Japan K.K.
+
+**2026-07-28** | Japan PMDA | Safety Communication | !! MEDIUM
+
+The PMDA announced a Class II recall (Recall #2-12910) for the Level 1 Hotline Warming Tube, a blood and fluid warming coil manufactured by ICU Medical Japan K.K. The recall is due to a potential quality defect that may affect device safety. Affected healthcare facilities should immediately identify, quarantine, and return the affected units in accordance with the manufacturer's recall instructions.
+
+**Tags**: `class_ii_recall`, `blood_fluid_warmer`, `icu_medical_japan`, `pmda`, `safety_recall`
+
+[View Source (PMDA (Japan))](https://www.info.pmda.go.jp/rgo/MainServlet?recallno=2-12910)
+
+---
+
+### PMDA Class II Recall: PTA Balloon Catheter II by Firmec Co., Ltd. (Recall No. 2-12909)
+
+**2026-07-28** | Japan PMDA | Safety Communication | !! MEDIUM
+
+The Japanese PMDA has issued a Class II recall for the PTA Balloon Catheter II, a balloon dilatation catheter for percutaneous transluminal angioplasty, manufactured by Firmec Co., Ltd. The recall (No. 2-12909) is due to a potential issue that may affect device performance, such as balloon deflation or rupture. Healthcare facilities are advised to identify and quarantine affected lots, and follow the manufacturer's recall instructions.
+
+**Tags**: `pmda`, `class_ii_recall`, `pta_balloon_catheter`, `firmec`, `medical_device`, `japan`
+
+[View Source (PMDA (Japan))](https://www.info.pmda.go.jp/rgo/MainServlet?recallno=2-12909)
+
+---
+
+### Class II Recall: Philips Japan Fetal Monitor FM (分娩監視装置 FM) – Potential Malfunction in Fetal Heart Rate Tracing
+
+**2026-07-27** | Japan PMDA | Safety Communication | !! MEDIUM
+
+Philips Japan is conducting a Class II recall of its Fetal Monitor FM (分娩監視装置 FM) due to a potential malfunction that may affect the accuracy of fetal heart rate tracing. This issue could lead to misinterpretation of fetal well-being and delayed clinical intervention. Affected healthcare facilities should immediately follow the manufacturer’s recall instructions, which include device inspection and correction by Philips service personnel.
+
+**Tags**: `class_ii_recall`, `fetal_monitor`, `philips_japan`, `pmda`, `medical_device_safety`
+
+[View Source (PMDA (Japan))](https://www.info.pmda.go.jp/rgo/MainServlet?recallno=2-12908)
+
+---
+
+### Class II Recall: Meira Compression Hip Screw (Internal Fixation Plate) by Meira Corporation
+
+**2026-07-23** | Japan PMDA | Safety Communication | !! MEDIUM
+
+The Japanese PMDA has issued a Class II recall (No. 2-12907) for the Meira Compression Hip Screw, an internal fixation device manufactured by Meira Corporation. The specific safety issue prompting this recall has not been publicly detailed, but the classification indicates a moderate risk where the product may cause temporary or medically reversible health consequences. Healthcare facilities should immediately identify affected inventory, quarantine the devices, and follow the manufacturer’s recall instructions for return or disposal.
+
+**Tags**: `pmda`, `recall`, `class_ii`, `orthopedic_device`, `hip_screw`, `meira`
+
+[View Source (PMDA (Japan))](https://www.info.pmda.go.jp/rgo/MainServlet?recallno=2-12907)
+
+---
+
+### Class II Recall: Gunze Medical Cranio Fixation System SHINOBI (Internal Fixation Plate)
+
+**2026-07-23** | Japan PMDA | Safety Communication | !! MEDIUM
+
+The Japanese PMDA has issued a Class II recall (No. 2-12906) for the Cranio Fixation System SHINOBI, an internal fixation plate manufactured by Gunze Medical Co., Ltd. This moderate-risk recall addresses a safety issue that could affect device performance. Healthcare facilities should quarantine affected products, stop using them immediately, and follow the manufacturer’s return or disposal instructions.
+
+**Tags**: `japan_pmda`, `class_ii_recall`, `cranio_fixation_plate`, `gunze_medical`, `shinobi`
+
+[View Source (PMDA (Japan))](https://www.info.pmda.go.jp/rgo/MainServlet?recallno=2-12906)
+
+---
+
+### Class II Recall: Shimadzu LIGHTVISION and LIGHTVISION2 Near-Infrared Camera Systems (Portable Surgical Microscope & ICG Fluorescence Device)
+
+**2026-07-21** | Japan PMDA | Safety Communication | !! MEDIUM
+
+Shimadzu Corporation has initiated a Class II recall (No. 2-12903) in Japan for its LIGHTVISION and LIGHTVISION2 near-infrared camera systems, which include portable surgical microscopes and ICG fluorescence observation devices. The recall is due to a potential quality or safety issue that may lead to temporary or reversible health consequences. Affected users should immediately identify and quarantine the devices, and follow the manufacturer's instructions for correction or return.
+
+**Tags**: `japan_pmda`, `class_ii_recall`, `near_infrared_camera`, `shimadzu`, `lightvision`, `surgical_microscope`, `icg_fluorescence`
+
+[View Source (PMDA (Japan))](https://www.info.pmda.go.jp/rgo/MainServlet?recallno=2-12903)
+
+---
+
+### PMDA Class II Recall of Nisshin 救急バンPS Adhesive Bandage (Recall #2-12902)
+
+**2026-07-21** | Japan PMDA | Safety Communication | !! MEDIUM
+
+The Japanese PMDA issued a Class II (moderate risk) recall for 救急バンPS adhesive bandage by Nisshin Medical Instrument Co., Ltd. (recall #2-12902). The recall addresses a quality issue that may compromise product safety. Users should stop using affected lots immediately and return or dispose per manufacturer instructions.
+
+**Tags**: `pmda`, `class_ii_recall`, `adhesive_bandage`, `japan`, `medical_device`, `nisshin_medical`
+
+[View Source (PMDA (Japan))](https://www.info.pmda.go.jp/rgo/MainServlet?recallno=2-12902)
+
+---
+
+### Class II Recall: GE Healthcare Japan Carestation 600/750 Series Anesthesia Systems
+
+**2026-07-21** | Japan PMDA | Safety Communication | !! MEDIUM
+
+The PMDA has issued a Class II recall (No. 2-12901) for GE Healthcare Japan's Carestation 600 and 750 series anesthesia systems. This moderate-level recall is due to a safety-related issue with the device. Affected users should immediately follow the manufacturer's recall notification and implement any recommended corrective actions.
+
+**Tags**: `recall`, `class_ii`, `anesthesia_system`, `ge_healthcare`, `pmda`
+
+[View Source (PMDA (Japan))](https://www.info.pmda.go.jp/rgo/MainServlet?recallno=2-12901)
+
+---
+
+### PMDA Class II Recall of Intuitive Surgical’s NIR Camera System (Endoscopic Video Camera)
+
+**2026-07-21** | Japan PMDA | Safety Communication | !! MEDIUM
+
+Intuitive Surgical’s NIR Camera System (endoscopic video camera) is the subject of a Class II recall in Japan (Recall No. 2-12900), indicating a moderate risk. The specific safety issue or reason for the recall was not detailed in the initial notice. Healthcare facilities using this device should consult the PMDA recall database and follow any manufacturer instructions to address the recall.
+
+**Tags**: `pmda_recall`, `class_ii`, `intuitive_surgical`, `endoscopic_camera`, `nir_camera`, `medical_device`, `japan`
+
+[View Source (PMDA (Japan))](https://www.info.pmda.go.jp/rgo/MainServlet?recallno=2-12900)
+
+---
+
+### PMDA Class II Recall: Mesh Carrier (Skin Graft Expander) by Keisei Medical Industry
+
+**2026-07-17** | Japan PMDA | Safety Communication | !! MEDIUM
+
+The PMDA has issued a Class II recall (No. 2-12899) for the Mesh Carrier (autologous skin graft expander) manufactured by Keisei Medical Industry Co., Ltd. This recall addresses a safety issue with the device used in skin grafting procedures. Healthcare facilities should immediately check their inventory, quarantine affected products, and follow the manufacturer's instructions for return or disposal.
+
+**Tags**: `japan_pmda`, `class_ii_recall`, `skin_graft_expander`, `mesh_carrier`, `medical_device`
+
+[View Source (PMDA (Japan))](https://www.info.pmda.go.jp/rgo/MainServlet?recallno=2-12899)
+
+---
+
+### Class II Recall for Nipro NAZ-1 Blood Purification Device in Japan (Recall No. 2-12897)
+
+**2026-07-15** | Japan PMDA | Safety Communication | !! MEDIUM
+
+Japan's PMDA has issued a Class II (moderate risk) recall for the NAZ-1 multi-purpose blood processing device by Nipro Corporation. The alert references recall number 2-12897, though the specific safety issue and corrective actions were not detailed in the initial notification. Healthcare facilities and users of this device should review the official PMDA recall notice for full instructions.
+
+**Tags**: `japan`, `class_ii_recall`, `blood_purification_device`, `nipro`, `pmda`
+
+[View Source (PMDA (Japan))](https://www.info.pmda.go.jp/rgo/MainServlet?recallno=2-12897)
+
+---
+
+### PMDA Class II Recall: Nipro SafeTech Pro Syringe Pump Unit
+
+**2026-07-15** | Japan PMDA | Safety Communication | !! MEDIUM
+
+The Japanese PMDA issued a Class II recall (No. 2-12896) for the SafeTech Pro Syringe Pump Unit, a syringe-type infusion pump manufactured by Nipro Corporation. The recall addresses a potential performance issue that could affect infusion accuracy or device reliability. Affected healthcare facilities should immediately review the recall notice, identify devices with the specified serial numbers, and follow Nipro's instructions for corrective action such as inspection, repair, or replacement.
+
+**Tags**: `pmda_recall`, `class_ii`, `syringe_pump`, `infusion_pump`, `nipro`, `medical_device`, `safety_correction`
+
+[View Source (PMDA (Japan))](https://www.info.pmda.go.jp/rgo/MainServlet?recallno=2-12896)
+
+---
+
+### Class II Recall: Boston Scientific Japan OverStitch Single-Use Automatic Suturing Device
+
+**2026-07-14** | Japan PMDA | Safety Communication | !! MEDIUM
+
+The Japanese PMDA has issued a Class II recall (No. 2-12894) for the OverStitch single-use automatic suturing device, manufactured by Boston Scientific Japan. The recall addresses a potential safety or performance issue that could compromise device function during use. Affected healthcare facilities should immediately quarantine unused devices, discontinue use, and contact the manufacturer for return or proper disposal. This moderate-risk recall requires prompt action to prevent patient harm.
+
+**Tags**: `class_ii_recall`, `surgical_suture_device`, `boston_scientific`, `pmda`, `medical_device_safety`
+
+[View Source (PMDA (Japan))](https://www.info.pmda.go.jp/rgo/MainServlet?recallno=2-12894)
+
+---
+
+### Class II Recall: Clean Air ASTRAL Adult Ventilator by ResMed Ltd. (Japan PMDA Recall No. 2-12893)
+
+**2026-07-14** | Japan PMDA | Safety Communication | !! MEDIUM
+
+The Japan PMDA has issued a Class II recall (No. 2-12893) for the Clean Air ASTRAL adult ventilator manufactured by ResMed Ltd. This recall is due to a potential safety concern that could affect device performance, posing a moderate risk to patients. Healthcare facilities should immediately identify affected units, discontinue use if necessary, and contact the manufacturer for inspection, repair, or replacement as appropriate.
+
+**Tags**: `japan_pmda`, `class_ii_recall`, `ventilator`, `resmed`, `safety`
+
+[View Source (PMDA (Japan))](https://www.info.pmda.go.jp/rgo/MainServlet?recallno=2-12893)
+
+---
+
+### Japan PMDA Class II Recall: Dilasoft Cervical Dilator by TKB Co., Ltd.
+
+**2026-07-13** | Japan PMDA | Safety Communication | !! MEDIUM
+
+The PMDA has issued a Class II recall for the Dilasoft cervical dilator (子宮頚管拡張器) manufactured by TKB Co., Ltd. (株式会社ＴＫＢ). This recall addresses a potential quality issue that could affect device safety or performance. Healthcare providers should immediately quarantine and return affected units to the manufacturer.
+
+**Tags**: `japan_pmda`, `class_ii_recall`, `cervical_dilator`, `medical_device`
+
+[View Source (PMDA (Japan))](https://www.info.pmda.go.jp/rgo/MainServlet?recallno=2-12888)
+
+---
+
+### Class II Recall: Atom Medical FSV Central Monitor (Recall #2-12887)
+
+**2026-07-13** | Japan PMDA | Safety Communication | !! MEDIUM
+
+Atom Medical Corporation has issued a Class II recall (No. 2-12887) for its FSV Central Monitor due to a potential safety issue that could affect device performance. Affected devices should be immediately taken out of service, and healthcare facilities should follow the manufacturer's instructions for return or corrective action. The recall notice is posted on the PMDA website for further details.
+
+**Tags**: `recall`, `class_ii`, `central_monitor`, `atom_medical`, `patient_monitoring`, `japan_pmda`, `medical_device_safety`
+
+[View Source (PMDA (Japan))](https://www.info.pmda.go.jp/rgo/MainServlet?recallno=2-12887)
+
+---
+
+### Class II Recall: Cerabian ZR Dental Porcelain by Kuraray Noritake Dental Inc.
+
+**2026-07-10** | Japan PMDA | Safety Communication | !! MEDIUM
+
+The Japanese PMDA has issued a Class II recall (No. 2-12886) for Cerabian ZR, a dental porcelain product manufactured by Kuraray Noritake Dental Inc. The recall addresses a specific quality or safety concern; healthcare professionals should consult the official notice for details. Affected users must immediately stop using the involved lots and contact the manufacturer for appropriate corrective actions.
+
+**Tags**: `dental_porcelain`, `class_ii_recall`, `japan_pmda`, `medical_device`, `cerabian_zr`
+
+[View Source (PMDA (Japan))](https://www.info.pmda.go.jp/rgo/MainServlet?recallno=2-12886)
+
+---
+
+### Class II Recall: Fukuda Denshi Servo Ventilator System (General-Purpose Ventilator)
+
+**2026-07-09** | Japan PMDA | Safety Communication | !! MEDIUM
+
+The Japanese PMDA has issued a Class II recall (No. 2-12885) for the Servo Ventilator System, a general-purpose ventilator manufactured by Fukuda Denshi Co., Ltd., due to a potential safety issue. Healthcare facilities using this device should immediately review the recall notice and follow the manufacturer’s instructions for corrective action.
+
+**Tags**: `pmda_recall`, `class_ii`, `ventilator`, `fukuda_denshi`, `medical_device_safety`
+
+[View Source (PMDA (Japan))](https://www.info.pmda.go.jp/rgo/MainServlet?recallno=2-12885)
+
+---
+
+### Class II Recall of Noritsu Precision Enteral Feeding Pump CP-55E (Enteral Nutrition Infusion Pump) in Japan
+
+**2026-07-07** | Japan PMDA | Safety Communication | !! MEDIUM
+
+The PMDA has issued a Class II recall for the Enteral Feeding Pump CP-55E, an enteral nutrition infusion pump manufactured by Noritsu Precision Co., Ltd. This recall addresses a safety-related issue that may affect device performance or labeling. Healthcare facilities using this pump should immediately identify affected units, cease use if instructed, and follow the manufacturer’s corrective actions as detailed in the recall notice.
+
+**Tags**: `class_ii_recall`, `enteral_feeding_pump`, `pmda_japan`
+
+[View Source (PMDA (Japan))](https://www.info.pmda.go.jp/rgo/MainServlet?recallno=2-12882)
+
+---
+
+### Philips Japan Recalls Integris Allura Flat Detector, Allura Centron, and Azurion Cardiac X-Ray Fluoroscopic Systems (Class II)
+
+**2026-07-07** | Japan PMDA | Safety Communication | !! MEDIUM
+
+Philips Japan has initiated a Class II recall (No. 2-12881) for three stationary digital cardiac X-ray fluoroscopic diagnostic devices: Integris Allura Flat Detector, Allura Centron, and Azurion. This recall addresses a moderate safety risk that may affect device performance or patient safety. Healthcare facilities using these systems should immediately follow the manufacturer's field safety corrective action, which may involve inspection, software update, or part replacement, and contact Philips Japan for guidance.
+
+**Tags**: `philips`, `allura`, `azurion`, `cardiac_x_ray`, `class_ii_recall`, `pmda_japan`
+
+[View Source (PMDA (Japan))](https://www.info.pmda.go.jp/rgo/MainServlet?recallno=2-12881)
+
+---
+
+### Class II Recall: Covidien Japan V-Loc90 & V-Loc180 Barbed Suture Closure Devices
+
+**2026-07-07** | Japan PMDA | Safety Communication | !! MEDIUM
+
+Covidien Japan has issued a Class II recall (No. 2-12880) for its V-Loc90 and V-Loc180 barbed closure devices, which use polyglycomer and polyglyconate sutures respectively. The recall addresses a potential manufacturing defect that may compromise suture integrity, posing a risk of wound dehiscence or prolonged healing. Healthcare providers must immediately identify and quarantine affected lots, discontinue use, and arrange product return to the manufacturer.
+
+**Tags**: `recall`, `class_ii`, `suture`, `barbed_suture`, `covidien`, `pmda`
+
+[View Source (PMDA (Japan))](https://www.info.pmda.go.jp/rgo/MainServlet?recallno=2-12880)
+
+---
+
+### PMDA Class II Recall: Sensitouch Synthetic Rubber Surgical Gloves (Non-Latex) by Toray Medical (Recall No. 2-12879)
+
+**2026-07-07** | Japan PMDA | Safety Communication | !! MEDIUM
+
+The Japanese PMDA issued a Class II recall for Sensitouch synthetic rubber surgical gloves manufactured by Toray Medical Co., Ltd. This moderate-risk recall addresses a potential quality defect that could compromise glove integrity. Healthcare providers must immediately identify and quarantine affected lots, cease use, and follow the manufacturer's return or disposal instructions as detailed in recall notice 2-12879.
+
+**Tags**: `surgical_gloves`, `class_ii_recall`, `non_latex`, `pmda`, `toray_medical`, `product_safety`
+
+[View Source (PMDA (Japan))](https://www.info.pmda.go.jp/rgo/MainServlet?recallno=2-12879)
+
+---
+
+### Class II Recall of VITROS XT7600, 5600II, 5600, 4600 Clinical Chemistry Analyzers by Ortho Clinical Diagnostics in Japan
+
+**2026-07-06** | Japan PMDA | Safety Communication | !! MEDIUM
+
+Japan's PMDA announced a Class II recall (No. 2-12877) for Ortho Clinical Diagnostics' VITROS XT7600, 5600II, 5600, and 4600 discrete clinical chemistry analyzers due to a potential performance issue. Affected devices may produce inaccurate results, necessitating a field correction. Healthcare facilities should immediately follow the manufacturer's notification for inspection, software update, or device replacement to mitigate patient risk.
+
+**Tags**: `pmda`, `class_ii_recall`, `vitros`, `clinical_chemistry_analyzer`, `ortho_clinical_diagnostics`, `safety`
+
+[View Source (PMDA (Japan))](https://www.info.pmda.go.jp/rgo/MainServlet?recallno=2-12877)
+
+---
+
+### Class II Recall of Nemuri SCAN (NN-1530) Body Motion Sensor by Paramount Bed
+
+**2026-07-06** | Japan PMDA | Safety Communication | !! MEDIUM
+
+Paramount Bed Co., Ltd. has initiated a Class II recall of its Nemuri SCAN (NN-1530) body motion sensor. The recall addresses a potential issue where the sensor may provide inaccurate movement detection, which could affect monitoring of patient sleep and activity. Healthcare facilities and users should stop using affected units and follow the manufacturer's instructions for return or replacement.
+
+**Tags**: `class_ii_recall`, `body_motion_sensor`, `paramount_bed`, `pmda`, `japan`
+
+[View Source (PMDA (Japan))](https://www.info.pmda.go.jp/rgo/MainServlet?recallno=2-12875)
+
+---
+
+### Paramount Bed Recalls Nemuri SCAN (NN-1530) Body Movement Sensor – Class II
+
+**2026-07-06** | Japan PMDA | Safety Communication | !! MEDIUM
+
+The Japanese PMDA has issued a Class II recall (No. 2-12874) for the Nemuri SCAN (NN-1530) body movement sensor, manufactured by Paramount Bed Co., Ltd. The recall addresses a potential malfunction that could result in inaccurate detection of patient movements, posing a moderate safety risk. Healthcare facilities and distributors should immediately check affected devices and contact the manufacturer to arrange inspection and necessary corrective actions.
+
+**Tags**: `pmda`, `recall`, `class_ii`, `body_movement_sensor`, `paramount_bed`, `sleep_scan`
+
+[View Source (PMDA (Japan))](https://www.info.pmda.go.jp/rgo/MainServlet?recallno=2-12874)
+
+---
+
+### [Class II] ジーシー　ガスレーザー (炭酸ガスレーザ) - 株式会社ジーシー
+
+**2026-07-03** | Japan PMDA | Safety Communication | !! MEDIUM
+
+Recall #2-12873: 炭酸ガスレーザ / ジーシー　ガスレーザー by 株式会社ジーシー. Type: 医療機器.
+
+[View Source (PMDA (Japan))](https://www.info.pmda.go.jp/rgo/MainServlet?recallno=2-12873)
+
+---
+
+### Accuray CyberKnife Radiosurgery System and M6 Series Class II Recall in Japan (No. 2-12872)
+
+**2026-07-03** | Japan PMDA | Safety Communication | !! MEDIUM
+
+Japan’s PMDA has issued a Class II recall (No. 2-12872) for the CyberKnife Radiosurgery System and CyberKnife M6 Series linear accelerator systems used in stereotactic radiotherapy, manufactured by Accuray Inc. The recall indicates a potential safety issue affecting these devices. Healthcare facilities in Japan operating these systems should immediately contact Accuray for corrective actions and follow the manufacturer’s instructions.
+
+**Tags**: `pmda_recall`, `class_ii`, `cyberknife`, `radiosurgery`, `linear_accelerator`, `stereotactic_radiotherapy`, `accuray`
+
+[View Source (PMDA (Japan))](https://www.info.pmda.go.jp/rgo/MainServlet?recallno=2-12872)
+
+---

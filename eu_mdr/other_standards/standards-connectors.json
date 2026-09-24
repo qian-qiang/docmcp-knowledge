@@ -1,0 +1,60 @@
+{
+  "standards": [
+    {
+      "id": "iso-80369-1-2018-amd1-2021",
+      "number": "ISO 80369-1:2025",
+      "title": {
+        "en": "Small-bore connectors for liquids and gases in healthcare applications - Part 1: General requirements",
+        "zh": "小口径连接件 - 第1部分：通用要求"
+      },
+      "status": "active",
+      "applicable_gsprs": [
+        "14",
+        "21"
+      ],
+      "standard_type": "non_harmonised",
+      "source_url": "https://www.iso.org/standard/82071.html",
+      "source_verified": "2026-06-24",
+      "abstract": "Specifies general requirements for small-bore connectors to reduce risk of misconnections in healthcare applications.",
+      "scope": "Small-bore connectors for liquids and gases in healthcare applications -- General requirements.",
+      "note": "Edition 3 (2025) replaces 2018+AMD1:2021."
+    },
+    {
+      "id": "iso-80369-7-2021",
+      "number": "ISO 80369-7:2021",
+      "title": {
+        "en": "Small-bore connectors for liquids and gases in healthcare applications - Part 7: Connectors for intravascular or hypodermic applications",
+        "zh": "小口径连接件 - 第7部分：血管内和皮下注射应用连接件"
+      },
+      "status": "active",
+      "applicable_gsprs": [
+        "14",
+        "21"
+      ],
+      "standard_type": "non_harmonised",
+      "source_url": "https://www.iso.org/standard/79173.html",
+      "source_verified": "2026-06-27",
+      "abstract": "Specifies requirements for small-bore connectors for intravascular or hypodermic applications.",
+      "scope": "Small-bore connectors for liquids and gases in healthcare applications -- Connectors for intravascular or hypodermic applications."
+    },
+    {
+      "id": "iso-iso-80369-2-2024",
+      "number": "ISO 80369-2:2024",
+      "title": {
+        "en": "Small-bore connectors for liquids and gases in healthcare applications - Part 2: Connectors for respiratory applications (ISO 80369-2:2024, Corrected version 2025-06)",
+        "zh": "医疗保健应用中液体和气体的小口径连接器 - 第2部分：呼吸应用连接器"
+      },
+      "status": "active",
+      "applicable_gsprs": [
+        "10",
+        "10.3",
+        "14",
+        "14.2"
+      ],
+      "standard_type": "non_harmonised",
+      "source_url": "https://www.iso.org/standard/79601.html",
+      "source_verified": "2026-06-27",
+      "note": "International version of harmonised standard EN ISO 80369-2:2024"
+    }
+  ]
+}

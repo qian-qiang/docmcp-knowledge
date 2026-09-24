@@ -1,0 +1,94 @@
+{
+  "standards": [
+    {
+      "id": "astm-f2052-21",
+      "number": "ASTM F2052-21",
+      "title": {
+        "en": "Standard Test Method for Measurement of Magnetically Induced Displacement Force on Medical Devices in the Magnetic Resonance Environment",
+        "zh": "医疗器械在磁共振环境中磁致位移力测量的标准测试方法"
+      },
+      "status": "active",
+      "applicable_gsprs": [
+        "14",
+        "16"
+      ],
+      "standard_type": "non_harmonised",
+      "source_url": "https://store.astm.org/f2052-21.html",
+      "abstract": "Covers the measurement of the magnetically induced displacement force produced by static magnetic field gradients on medical devices and the comparison of that force to the weight of the medical device.",
+      "scope": "Standard test method for measurement of magnetically induced displacement force on medical devices in the magnetic resonance environment.",
+      "source_verified": "2026-06-24"
+    },
+    {
+      "id": "astm-f2119-24",
+      "number": "ASTM F2119-24",
+      "title": {
+        "en": "Standard Test Method for Evaluation of MR Image Artifacts from Passive Implants",
+        "zh": "无源植入物MR图像伪影评估的标准测试方法"
+      },
+      "status": "active",
+      "applicable_gsprs": [
+        "14",
+        "16"
+      ],
+      "standard_type": "non_harmonised",
+      "source_url": "https://store.astm.org/f2119-24.html",
+      "abstract": "Characterizes the distortion and signal loss artifacts produced in a magnetic resonance image by a passive implant.",
+      "scope": "Standard test method for evaluation of MR image artifacts from passive implants.",
+      "source_verified": "2026-06-24"
+    },
+    {
+      "id": "astm-f2182-19e2",
+      "number": "ASTM F2182-19e2",
+      "title": {
+        "en": "Standard Test Method for Measurement of Radio Frequency Induced Heating On or Near Passive Implants During Magnetic Resonance Imaging",
+        "zh": "磁共振成像过程中无源植入物上或附近射频感应加热测量的标准测试方法"
+      },
+      "status": "active",
+      "applicable_gsprs": [
+        "14",
+        "16"
+      ],
+      "standard_type": "non_harmonised",
+      "source_url": "https://store.astm.org/f2182-19e02.html",
+      "abstract": "Covers the measurement of radio frequency induced heating on or near passive implants during magnetic resonance imaging.",
+      "scope": "Standard test method for measurement of radio frequency induced heating on or near passive implants during magnetic resonance imaging.",
+      "source_verified": "2026-06-24"
+    },
+    {
+      "id": "astm-f2213-25",
+      "number": "ASTM F2213-25",
+      "title": {
+        "en": "Standard Test Method for Measurement of Magnetically Induced Torque on Medical Devices in the Magnetic Resonance Environment",
+        "zh": "医疗器械在磁共振环境中磁致扭矩测量的标准测试方法"
+      },
+      "status": "active",
+      "applicable_gsprs": [
+        "14",
+        "16"
+      ],
+      "standard_type": "non_harmonised",
+      "source_url": "https://store.astm.org/f2213-25.html",
+      "abstract": "Covers the measurement of the magnetically induced torque produced by the static magnetic field in the magnetic resonance environment on medical devices.",
+      "scope": "Standard test method for measurement of magnetically induced torque on medical devices in the magnetic resonance environment.",
+      "source_verified": "2026-06-24"
+    },
+    {
+      "id": "astm-f2503-23e1",
+      "number": "ASTM F2503-23e1",
+      "title": {
+        "en": "Standard Practice for Marking Medical Devices and Other Items for Safety in the Magnetic Resonance Environment",
+        "zh": "磁共振环境中医疗器械和其他物品安全标记的标准实践"
+      },
+      "status": "active",
+      "applicable_gsprs": [
+        "14",
+        "23"
+      ],
+      "standard_type": "international",
+      "source_url": "https://www.astm.org/f2503-23e01.html",
+      "source_verified": true,
+      "abstract": "System of icons and labels for marking medical devices for safety in MRI environments.",
+      "scope": "MRI safety marking"
+    }
+  ]
+}

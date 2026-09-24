@@ -1,0 +1,63 @@
+{
+  "standards": [
+    {
+      "id": "eu_mdr-os-iec-60601-2-36-2023",
+      "number": "IEC 60601-2-36:2014",
+      "title": {
+        "en": "Medical electrical equipment - Part 2-36: Particular requirements for the basic safety and essential performance of equipment for extracorporeally induced lithotripsy",
+        "zh": "医用电气设备 - 第2-36部分：体外引发碎石设备基本安全和基本性能的特殊要求"
+      },
+      "status": "active",
+      "source_url": "https://webstore.iec.ch/en/publication/2651",
+      "source_verified": "",
+      "category": "lithotripsy",
+      "standard_type": "non_harmonised",
+      "scope": "Extracorporeally induced lithotripsy equipment.",
+      "applicable_gsprs": [
+        "14",
+        "14.1"
+      ],
+      "abstract": "Particular requirements for extracorporeal lithotripsy equipment."
+    },
+    {
+      "id": "iec-61846-1998",
+      "number": "IEC 61846:2025",
+      "title": {
+        "en": "Ultrasonics - Pressure pulse lithotripters - Characteristics of fields",
+        "zh": "超声学 - 压力脉冲碎石机 - 场的特性"
+      },
+      "status": "active",
+      "applicable_gsprs": [
+        "14",
+        "18"
+      ],
+      "standard_type": "international",
+      "source_url": "https://webstore.iec.ch/en/publication/72095",
+      "source_verified": true,
+      "abstract": "Characteristics of fields produced by pressure pulse lithotripters.",
+      "scope": "Lithotripter field characterization",
+      "title_en": "Ultrasonics - Therapeutic focused short pressure pulse sources - Characteristics of fields",
+      "title_zh": "超声学 - 治疗性聚焦短压力脉冲源 - 场特性"
+    },
+    {
+      "id": "iec-61847-1998",
+      "number": "IEC 61847:2025",
+      "title": {
+        "en": "Ultrasonics - Surgical systems - Measurement and declaration of the basic output characteristics",
+        "zh": "超声学 - 外科系统 - 基本输出特性的测量和声明"
+      },
+      "status": "active",
+      "applicable_gsprs": [
+        "14",
+        "18"
+      ],
+      "standard_type": "international",
+      "source_url": "https://webstore.iec.ch/en/publication/73373",
+      "source_verified": true,
+      "abstract": "Measurement and declaration of basic output characteristics of ultrasonic surgical systems.",
+      "scope": "Ultrasonic surgical systems output",
+      "title_en": "Ultrasonics - Surgical systems - Measurement and declaration of the basic output characteristics",
+      "title_zh": "超声学 - 手术系统 - 基本输出特性的测量和声明"
+    }
+  ]
+}

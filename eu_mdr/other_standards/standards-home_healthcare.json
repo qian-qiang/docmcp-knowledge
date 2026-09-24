@@ -1,0 +1,76 @@
+{
+  "standards": [
+    {
+      "id": "iec-60601-1-11-2015-amd1-2020",
+      "number": "IEC 60601-1-11:2015+AMD1:2020",
+      "title": {
+        "en": "Medical electrical equipment - Part 1-11: General requirements for basic safety and essential performance - Collateral standard: Requirements for medical electrical equipment and medical electrical systems used in the home healthcare environment",
+        "zh": "医用电气设备 - 第1-11部分：基本安全和基本性能的通用要求 - 并列标准：家用医疗设备和家用医疗系统的要求"
+      },
+      "status": "active",
+      "applicable_gsprs": [
+        "14",
+        "18",
+        "22"
+      ],
+      "standard_type": "non_harmonised",
+      "source_url": "https://webstore.iec.ch/en/publication/67384",
+      "abstract": "Specifies requirements for medical electrical equipment and systems used in the home healthcare environment.",
+      "scope": "General requirements for basic safety and essential performance -- Collateral standard: Requirements for medical electrical equipment and medical electrical systems used in the home healthcare environment."
+    },
+    {
+      "id": "iec-60601-1-12-2014",
+      "number": "IEC 60601-1-12:2014+AMD1:2020",
+      "title": {
+        "en": "Medical electrical equipment - Part 1-12: General requirements for basic safety and essential performance - Collateral Standard: Requirements for medical electrical equipment and medical electrical systems intended for use in the emergency medical services environment",
+        "zh": "医用电气设备 - 第1-12部分：基本安全和基本性能的通用要求 - 并列标准：用于急救医疗服务环境的要求"
+      },
+      "status": "active",
+      "applicable_gsprs": [
+        "14",
+        "18"
+      ],
+      "standard_type": "international",
+      "source_url": "https://webstore.iec.ch/en/publication/67385",
+      "source_verified": true,
+      "abstract": "Requirements for medical electrical equipment used in emergency medical services environments.",
+      "scope": "Emergency medical services equipment"
+    },
+    {
+      "id": "iso-80601-2-72-2023",
+      "number": "ISO 80601-2-72:2023",
+      "title": {
+        "en": "Medical electrical equipment - Part 2-72: Particular requirements for basic safety and essential performance of home healthcare environment ventilators for ventilator-dependent patients",
+        "zh": "医用电气设备 - 第2-72部分：家庭医疗环境呼吸机-依赖呼吸机患者用呼吸机的基本安全和基本性能专用要求"
+      },
+      "status": "active",
+      "applicable_gsprs": [
+        "14",
+        "18"
+      ],
+      "standard_type": "international",
+      "source_url": "https://www.iso.org/standard/83464.html",
+      "source_verified": "2026-06-27",
+      "abstract": "Requirements for home healthcare ventilators for ventilator-dependent patients.",
+      "scope": "Home ventilators"
+    },
+    {
+      "id": "iec-80601-2-78-2019",
+      "number": "IEC 80601-2-78:2019",
+      "title": {
+        "en": "Medical electrical equipment - Part 2-78: Particular requirements for basic safety and essential performance of medical robots for rehabilitation, assessment, compensation or alleviation",
+        "zh": "医用电气设备 - 第2-78部分：康复、评估、补偿或缓解用医疗机器人的基本安全和基本性能专用要求"
+      },
+      "status": "active",
+      "applicable_gsprs": [
+        "14",
+        "18"
+      ],
+      "standard_type": "international",
+      "source_url": "https://www.iso.org/standard/68474.html",
+      "source_verified": "2026-06-27",
+      "abstract": "Requirements for medical robots used for rehabilitation, assessment, compensation or alleviation.",
+      "scope": "Rehabilitation robots"
+    }
+  ]
+}

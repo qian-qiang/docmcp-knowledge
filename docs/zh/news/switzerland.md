@@ -1,0 +1,2361 @@
+---
+title: 法规速递
+---
+
+# Swissmedic 法规速递
+
+> 医疗器械合规领域的最新法规动态、标准更新和指南发布。
+
+## 法规框架
+
+**监管机构：** Swissmedic（瑞士医疗产品管理局）
+
+**核心法规：**
+- 《联邦药品和医疗器械法》（治疗产品法 TPA/HMG）
+- 《医疗器械条例》（MedDO）-- 2021年5月26日生效，与 EU MDR 2017/745 对齐
+- 《体外诊断医疗器械条例》（IvDO）-- 2022年5月26日生效，与 EU IVDR 2017/746 对齐
+
+**分类体系：** 基于风险的4级分类（I、IIa、IIb、III），与 EU MDR 分类体系一致。
+
+**注册路径：**
+1. 通过 EU 公告机构完成 EU MDR 合格评定（需要 CE 标志）
+2. 境外制造商须指定瑞士授权代表（CH-REP）
+3. 在 swissdamed 中注册为经济运营商并获取 CHRN（瑞士注册号）
+4. 在 swissdamed UDI 器械模块中注册器械（2026年7月1日起强制）
+
+**关键要求：**
+- 进入瑞士市场需要 EU MDR/IVDR 下的 CE 标志
+- 所有非瑞士制造商必须指定 CH-REP（EU AR 不能替代）
+- swissdamed 器械注册：2026年7月1日起强制，过渡期至2026年12月31日
+- swissdamed 与 EUDAMED 之间无数据接口，需单独注册
+
+**当前有效指南：**
+- [swissdamed 注册指南](https://www.swissmedic.ch/swissmedic/en/home/medical-devices/medizinprodukte-datenbank/produktregistrierung.html)
+- [CH-REP 与经济运营商注册 (CHRN)](https://www.swissmedic.ch/swissmedic/en/home/medizinprodukte/marktzugang/registriernummer-chrn.html)
+- [FSCA 报告（警戒系统）](https://www.swissmedic.ch/swissmedic/en/home/medical-devices/reporting-incidents---fscas/hersteller---inverkehrbringer.html)
+
+## 最新动态
+
+### Swissmedic FSCA：波士顿科学 Direxion 和 Direxion HI-FLO 扭矩微导管
+
+**2026-09-16** | Swissmedic | 安全通报 | !! MEDIUM
+
+Swissmedic 已发布针对波士顿科学 Direxion 和 Direxion HI-FLO 扭矩微导管（血管微导管）的现场安全纠正措施（FSCA）。该通报中具体原因及受影响型号/批次信息请参阅制造商的现场安全通知（FSN），未在摘要中详述。相关法规事务和临床人员应查阅 FSN 并按制造商建议采取行动，包括识别和隔离受影响器械（如适用）。
+
+**标签**: `swissmedic`, `fsca`, `boston_scientific`, `microcatheter`, `field_safety_notice`
+
+[查看来源 (Swissmedic)](https://fsca.swissmedic.ch/mep/#?q=Vk_20260914_018)
+
+---
+
+### Swissmedic发布My Lubie Ultra Fin男用避孕器具FSCA
+
+**2026-09-16** | Swissmedic | 安全通报 | !!! HIGH
+
+Swissmedic发布了由Richter Rubber Technology Sdn Bhd生产的男用避孕器具My Lubie Ultra Fin的现场安全纠正措施（FSCA）。该通知摘要未说明纠正原因及受影响型号/批次。相关使用者和医护人员应查阅Swissmedic官方FSCA通知，并遵循制造商或经销商的指示。
+
+**标签**: `swissmedic`, `fsca`, `male_contraceptive_devices`, `field_safety_corrective_action`
+
+[查看来源 (Swissmedic)](https://fsca.swissmedic.ch/mep/#?q=Vk_20260902_024)
+
+---
+
+### Swissmedic发布Abbott Amplatzer Amulet左心耳封堵器FSCA
+
+**2026-09-16** | Swissmedic | 安全通报 | !!! HIGH
+
+Swissmedic已发布Abbott Medical Amplatzer Amulet左心耳封堵器的现场安全纠正措施（FSCA）。涉及型号包括9-ACP2-007-016、9-ACP2-007-018、9-ACP2-007-020、9-ACP2-007-022、9-ACP2-010-025、9-ACP2-010-028、9-ACP2-010-031、9-ACP2-010-034。公告未说明具体原因，相关医疗机构应查阅Swissmedic/FSN官方文件并遵循制造商指示。
+
+**标签**: `swissmedic`, `fsca`, `left_atrial_appendage_occluder`, `abbott_medical`
+
+[查看来源 (Swissmedic)](https://fsca.swissmedic.ch/mep/#?q=Vk_20260910_032)
+
+---
+
+### Williams Cystoscopic Injection Needle - Cook Incorporated
+
+**2026-09-16** | Swissmedic | 安全通报 | !! MEDIUM
+
+FSCA: MD: General-purpose endoscopic needle, single-use. Reason: . Model: 090001-S26; G16112.
+
+[查看来源 (Swissmedic)](https://fsca.swissmedic.ch/mep/#?q=Vk_20260915_007)
+
+---
+
+### Swissmedic发布Gyrus ACMI SOLTIVE一次性激光光纤产品安全通告
+
+**2026-09-15** | Swissmedic | 安全通报 | !!! HIGH
+
+Swissmedic已发布针对Gyrus ACMI公司SOLTIVE一次性激光光纤产品的现场安全纠正措施（FSCA），该产品属于通用/多种手术激光系统光束导引装置。具体安全原因、受影响型号及批次需参见制造商现场安全通知（FSN）。用户应识别并隔离受影响产品，并按照制造商指示进行退货或更换。
+
+**标签**: `swissmedic`, `fsca`, `surgical_laser`, `single_use_device`, `gyrus_acmi`
+
+[查看来源 (Swissmedic)](https://fsca.swissmedic.ch/mep/#?q=Vk_20260911_025)
+
+---
+
+### Swissmedic发布Gyrus ACMI SOLTIVE可重复使用激光光纤产品FSCA
+
+**2026-09-15** | Swissmedic | 安全通报 | !!! HIGH
+
+Swissmedic已发布针对Gyrus ACMI, Inc. SOLTIVE激光光纤产品（可重复使用的通用/多用途手术激光系统光束导引器）的现场安全纠正措施。受影响型号和批次详见制造商现场安全通知（FSN），Swissmedic条目未列明具体原因。医疗机构和用户应查阅FSN、识别相关设备并遵循制造商建议的纠正措施。
+
+**标签**: `swissmedic`, `fsca`, `laser_fiber`, `gyrus_acmi`, `surgical_laser`
+
+[查看来源 (Swissmedic)](https://fsca.swissmedic.ch/mep/#?q=Vk_20260911_025)
+
+---
+
+### 瑞士Swissmedic发布Winncare Nordic Luna X5推车FSCA
+
+**2026-09-15** | Swissmedic | 安全通报 | !! MEDIUM
+
+瑞士药监局（Swissmedic）发布了Winncare Nordic制造的Luna X5推车（LUNA天花板移位机运输推车）的现场安全纠正措施（FSCA）。Swissmedic条目中未列明具体纠正原因，受影响型号/批次详见制造商的现场安全通知（FSN）。用户和医疗机构应查阅FSN并遵循Winncare Nordic建议的措施，包括任何检查或使用限制。
+
+**标签**: `swissmedic`, `fsca`, `medical_device`, `ceiling_lift`, `winncare_nordic`
+
+[查看来源 (Swissmedic)](https://fsca.swissmedic.ch/mep/#?q=Vk_20260827_025)
+
+---
+
+### 瑞士Swissmedic FSCA：GORE VIABAHN肝素/PROPATEN表面覆膜支架新增语言
+
+**2026-09-09** | Swissmedic | 安全通报 | !! MEDIUM
+
+本瑞士Swissmedic FSCA涉及W. L. Gore & Associates Inc的GORE VIABAHN肝素/PROPATEN表面覆膜支架（一种药物涂层外周动脉血管内支架移植物）。纠正措施原因为产品标签/使用说明新增语言版本。瑞士受影响编号为PAJR070502E（GTIN 00733132627431），其他国家请参阅现场安全通知。建议监管事务人员确保分发并备妥更新后的语言版本。
+
+**标签**: `swissmedic`, `fsca`, `labeling_update`, `peripheral_stent_graft`
+
+[查看来源 (Swissmedic)](https://fsca.swissmedic.ch/mep/#?q=Vk_20260902_010)
+
+---
+
+### Swissmedic FSCA：岛津FDR Visionary Suite数字X射线系统
+
+**2026-09-09** | Swissmedic | 安全通报 | !! MEDIUM
+
+瑞士Swissmedic已发布岛津制作所医疗系统事业部FDR Visionary Suite（固定式基础诊断数字X射线系统）的现场安全纠正措施（FSCA）。所列通知未提供具体原因和型号细节，受影响设备按产品名称识别。建议医疗器械法规事务人员查阅Swissmedic官方条目并联系岛津获取纠正措施详情和所需行动。
+
+**标签**: `swissmedic`, `fsca`, `x_ray_system`, `shimadzu`, `field_safety_corrective_action`
+
+[查看来源 (Swissmedic)](https://fsca.swissmedic.ch/mep/#?q=Vk_20260908_022)
+
+---
+
+### Shockwave Reducer - Shockwave Medical, Inc.
+
+**2026-09-09** | Swissmedic | 安全通报 | !! MEDIUM
+
+FSCA: MD: Vascular and cardiac prostheses - other. Reason: . Model: RED-001; R1385CEV.
+
+[查看来源 (Swissmedic)](https://fsca.swissmedic.ch/mep/#?q=Vk_20260907_025)
+
+---
+
+### 瑞士药监局发布Cynosure Lutronic DermaV激光系统FSCA：ICD气体类型配置
+
+**2026-09-09** | Swissmedic | 安全通报 | !! MEDIUM
+
+本瑞士药监局现场安全纠正措施涉及 Cynosure Lutronic Technology Corporation 生产的 DermaV 皮肤科固态激光系统。该措施适用于所有配置使用指定 ICD 气体类型的 DermaV 系统，未列出具体型号。受影响用户应关注制造商的纠正措施并遵循与 ICD 气体配置相关的建议。
+
+**标签**: `swissmedic`, `fsca`, `laser_system`, `medical_device`, `cynosure_lutronic`
+
+[查看来源 (Swissmedic)](https://fsca.swissmedic.ch/mep/#?q=Vk_20260903_001)
+
+---
+
+### 飞利浦荷兰 MR 7700 全身磁共振（型号 782130）瑞士 FSCA 升级
+
+**2026-09-09** | Swissmedic | 安全通报 | !! MEDIUM
+
+Swissmedic 已针对飞利浦医疗系统荷兰公司生产的 MR 7700 全身磁共振成像系统（超导磁体，型号 782130）发布现场安全纠正措施（FSCA）。该通知涉及该系统升级，但 Swissmedic 条目未列出具体风险或原因。受影响机构应获取并遵循制造商的纠正措施说明，完成建议升级，以确保安全与合规。
+
+**标签**: `swissmedic`, `fsca`, `mri`, `philips`, `medical_device`
+
+[查看来源 (Swissmedic)](https://fsca.swissmedic.ch/mep/#?q=Vk_20260902_004)
+
+---
+
+### 瑞士药监局FSCA：飞利浦dStream升级全身MRI系统型号782127
+
+**2026-09-09** | Swissmedic | 安全通报 | !! MEDIUM
+
+瑞士药监局发布了一项针对飞利浦医疗系统荷兰公司（Philips Medical Systems Nederland B.V.）全身MRI系统的现场安全纠正措施（FSCA），该系统为超导磁体型，型号782127。该纠正措施名称为“Upgrade dStream”，但公布的原因栏未提供更多细节。相关用户和法规事务人员应查阅瑞士药监局FSCA条目，并按飞利浦的说明处理受影响系统。
+
+**标签**: `swissmedic`, `fsca`, `mri`, `philips`
+
+[查看来源 (Swissmedic)](https://fsca.swissmedic.ch/mep/#?q=Vk_20260902_004)
+
+---
+
+### SmartPath to MR 7700 - Philips Medical Systems Nederland B.V.
+
+**2026-09-09** | Swissmedic | 安全通报 | !! MEDIUM
+
+FSCA: MD: Full-body MRI system, superconducting magnet. Reason: . Model: 782178, 782207.
+
+[查看来源 (Swissmedic)](https://fsca.swissmedic.ch/mep/#?q=Vk_20260902_004)
+
+---
+
+### 飞利浦 SmartPath to dStream 3.0T MRI 系统 Swissmedic FSCA（型号 782145、782164）
+
+**2026-09-09** | Swissmedic | 安全通报 | !!! HIGH
+
+Swissmedic 已针对飞利浦医疗系统荷兰公司 SmartPath to dStream 3.0T 全身磁共振成像系统（超导磁体）发布现场安全纠正措施（FSCA）。该通知涉及型号 782145 和 782164。现有描述未披露具体原因和纠正措施，相关用户应查阅 Swissmedic 官方 FSCA 及制造商通知以获取详细信息。
+
+**标签**: `swissmedic`, `fsca`, `mri`, `philips`, `field_safety_corrective_action`, `medical_device`
+
+[查看来源 (Swissmedic)](https://fsca.swissmedic.ch/mep/#?q=Vk_20260902_004)
+
+---
+
+### Swissmedic FSCA：Philips MR 7700全身MRI系统型号782120等
+
+**2026-09-09** | Swissmedic | 安全通报 | !!! HIGH
+
+本Swissmedic FSCA涉及Philips Medical Systems Nederland B.V. MR 7700全身MRI系统（超导磁体）。受影响型号为782120、782153、782155、782179和782199。该公告摘要未说明具体原因，相关机构应查阅完整Swissmedic通知并遵循Philips建议的纠正措施。用户应联系Philips或其当地代表确认所需步骤。
+
+**标签**: `swissmedic`, `fsca`, `mri`, `philips`, `field_safety_corrective_action`
+
+[查看来源 (Swissmedic)](https://fsca.swissmedic.ch/mep/#?q=Vk_20260902_004)
+
+---
+
+### Swissmedic发布飞利浦MR 5300全身MRI系统现场安全纠正措施
+
+**2026-09-09** | Swissmedic | 安全通报 | !!! HIGH
+
+此Swissmedic现场安全纠正措施（FSCA）涉及Philips Medical Systems Nederland B.V.生产的MR 5300全身MRI系统，该系统采用超导磁体，受影响型号包括782110、782152、782156和782196。现有预警信息中未列出具体纠正原因。受影响用户和机构应查阅Swissmedic官方FSCA通知及飞利浦说明，落实必要的纠正措施。
+
+**标签**: `swissmedic`, `fsca`, `mri_safety`, `philips`, `field_safety_corrective_action`
+
+[查看来源 (Swissmedic)](https://fsca.swissmedic.ch/mep/#?q=Vk_20260902_004)
+
+---
+
+### 瑞士Swissmedic FSCA：飞利浦Ingenia Elition S全身MRI系统（型号781357等）
+
+**2026-09-09** | Swissmedic | 安全通报 | !! MEDIUM
+
+瑞士药品监督管理局（Swissmedic）已发布一项针对飞利浦医疗系统荷兰公司Ingenia Elition S全身MRI（超导磁体）的现场安全纠正措施（FSCA）。受影响型号为781357、782106、782137、782157和782180。通知元数据中未说明具体原因，相关用户应查阅瑞士Swissmedic官方通知并执行所需的纠正措施。
+
+**标签**: `swissmedic`, `fsca`, `philips`, `mri_safety`, `field_safety_corrective_action`
+
+[查看来源 (Swissmedic)](https://fsca.swissmedic.ch/mep/#?q=Vk_20260902_004)
+
+---
+
+### 瑞士药监局FSCA：飞利浦Ingenia Ambition X MRI系统（型号781356等）
+
+**2026-09-09** | Swissmedic | 安全通报 | !! MEDIUM
+
+瑞士药监局（Swissmedic）发布一项针对 Philips Medical Systems Nederland B.V. Ingenia Ambition X 全身MRI系统（超导磁体）的现场安全纠正措施（FSCA）。受影响型号为 781356、782109、782138、782160、782195。现有通知摘要未说明具体原因和措施，相关用户应查阅瑞士药监局官方通知及飞利浦现场安全通告并执行纠正措施。
+
+**标签**: `swissmedic`, `fsca`, `mri`, `philips`, `field_safety_corrective_action`
+
+[查看来源 (Swissmedic)](https://fsca.swissmedic.ch/mep/#?q=Vk_20260902_004)
+
+---
+
+### Swissmedic FSCA：飞利浦 Ingenia Ambition S 磁共振系统型号警示
+
+**2026-09-09** | Swissmedic | 安全通报 | !!! HIGH
+
+Swissmedic 已发布针对 Philips Medical Systems Nederland B.V. 生产的 Ingenia Ambition S 全身磁共振成像系统（超导磁体）的现场安全纠正措施（FSCA）。受影响型号为 781359、782108、782139、782159、782194。Swissmedic 条目未列明具体纠正原因，用户应参阅制造商现场安全通知并按要求采取行动。
+
+**标签**: `swissmedic`, `fsca`, `mri_safety`, `philips`
+
+[查看来源 (Swissmedic)](https://fsca.swissmedic.ch/mep/#?q=Vk_20260902_004)
+
+---
+
+### 瑞士Swissmedic FSCA：飞利浦SmartPath to Ingenia Elition X MRI（型号782118等）
+
+**2026-09-09** | Swissmedic | 安全通报 | !! MEDIUM
+
+Swissmedic发布了一项针对飞利浦医疗系统荷兰公司（Philips Medical Systems Nederland B.V.）全身MRI系统“SmartPath to Ingenia Elition X”的现场安全纠正措施（FSCA）。受影响型号为782118、782144和782163。现有摘要未说明具体原因和建议措施，相关机构应查阅Swissmedic官方通知及飞利浦现场安全通知以获取纠正措施。
+
+**标签**: `swissmedic`, `fsca`, `philips`, `mri`, `field_safety_corrective_action`
+
+[查看来源 (Swissmedic)](https://fsca.swissmedic.ch/mep/#?q=Vk_20260902_004)
+
+---
+
+### Philips SmartPath to dStream XR/3.0T MRI 瑞士药监局FSCA涉及型号781270等
+
+**2026-09-09** | Swissmedic | 安全通报 | !! MEDIUM
+
+瑞士Swissmedic发布针对Philips Medical Systems Nederland B.V. 全身MRI系统（超导磁体）的现场安全纠正措施（FSCA），涉及SmartPath to dStream的XR和3.0T配置，受影响型号为781270、782113和782129。该警报摘要未提供具体纠正原因和建议措施，用户应查阅Swissmedic官方通知并遵循Philips的指导。
+
+**标签**: `swissmedic`, `fsca`, `mri_safety`
+
+[查看来源 (Swissmedic)](https://fsca.swissmedic.ch/mep/#?q=Vk_20260902_004)
+
+---
+
+### 瑞士Swissmedic发布飞利浦SmartPath to dStream 1.5T磁共振系统FSCA
+
+**2026-09-09** | Swissmedic | 安全通报 | !! MEDIUM
+
+Swissmedic已针对飞利浦医疗系统荷兰公司SmartPath to dStream 1.5T全身磁共振系统发布现场安全纠正措施（FSCA）。受影响型号为781260、782112、782146和782165。该条目未列出具体原因和建议措施，相关用户应查阅飞利浦官方现场安全通知并联系飞利浦执行纠正措施。
+
+**标签**: `swissmedic`, `fsca`, `mri_safety`, `philips`, `field_safety_corrective_action`
+
+[查看来源 (Swissmedic)](https://fsca.swissmedic.ch/mep/#?q=Vk_20260902_004)
+
+---
+
+### 瑞士药监局发布飞利浦Ingenia Elition X MRI系统FSCA
+
+**2026-09-09** | Swissmedic | 安全通报 | !! MEDIUM
+
+瑞士药监局（Swissmedic）发布了飞利浦医疗系统荷兰公司（Philips Medical Systems Nederland B.V.）生产的 Ingenia Elition X 全身超导磁共振成像系统的现场安全纠正措施（FSCA）。受影响型号为：781358、782107、782119、782136、782151、782158、782181、782198。瑞士药监局条目中未说明具体纠正原因，相关用户应查阅制造商现场安全通知并遵循建议措施。
+
+**标签**: `swissmedic`, `fsca`, `mri`, `philips`, `field_safety_corrective_action`
+
+[查看来源 (Swissmedic)](https://fsca.swissmedic.ch/mep/#?q=Vk_20260902_004)
+
+---
+
+### 瑞士药监局发布飞利浦 Ingenia 3.0T CX 核磁共振系统 FSCA（型号 781271）
+
+**2026-09-09** | Swissmedic | 安全通报 | !!! HIGH
+
+瑞士药品监督管理局（Swissmedic）发布了一项针对飞利浦医疗系统荷兰有限公司 Ingenia 3.0T CX 全身核磁共振系统（超导磁体，型号 781271）的现场安全纠正措施（FSCA）。该通知中未列明具体纠正原因。受影响用户应查阅制造商的 FSCA 通知并遵循建议的安全措施。
+
+**标签**: `swissmedic`, `fsca`, `mri`, `philips`, `medical_device_safety`
+
+[查看来源 (Swissmedic)](https://fsca.swissmedic.ch/mep/#?q=Vk_20260902_004)
+
+---
+
+### Swissmedic FSCA：飞利浦Ingenia 3.0T全身MRI系统（型号781342/781377/782103）
+
+**2026-09-09** | Swissmedic | 安全通报 | !!! HIGH
+
+Swissmedic已发布飞利浦医疗系统荷兰公司Ingenia 3.0T全身MRI系统（超导磁体）的现场安全纠正措施（FSCA），涉及型号781342、781377和782103。该警报摘要未列出具体纠正原因，相关机构应查阅Swissmedic官网和飞利浦现场安全通知。建议用户遵循制造商的纠正措施，并联系飞利浦处理。
+
+**标签**: `swissmedic`, `fsca`, `mri`, `philips`, `safety_corrective_action`
+
+[查看来源 (Swissmedic)](https://fsca.swissmedic.ch/mep/#?q=Vk_20260902_004)
+
+---
+
+### Swissmedic发布飞利浦Ingenia 1.5T S MRI系统FSCA（型号781347）
+
+**2026-09-09** | Swissmedic | 安全通报 | !! MEDIUM
+
+Swissmedic已发布一项针对飞利浦医疗系统荷兰公司（Philips Medical Systems Nederland B.V.）Ingenia 1.5T S全身MRI系统（超导磁体，型号781347）的现场安全纠正措施（FSCA）。该公告元数据未说明具体纠正原因。该型号用户应查看Swissmedic官方公告并遵循制造商的现场安全建议。
+
+**标签**: `swissmedic`, `fsca`, `philips`, `mri`, `medical_device`
+
+[查看来源 (Swissmedic)](https://fsca.swissmedic.ch/mep/#?q=Vk_20260902_004)
+
+---
+
+### Swissmedic发布飞利浦Ingenia 1.5T CX MRI系统FSCA（型号781262）
+
+**2026-09-09** | Swissmedic | 安全通报 | !! MEDIUM
+
+Swissmedic发布了一项针对飞利浦Ingenia 1.5T CX全身MRI系统（超导磁体，型号781262）的现场安全纠正措施（FSCA），制造商为Philips Medical Systems Nederland B.V.。该公开条目未说明具体纠正原因。拥有该型号设备的医疗机构应查阅Swissmedic官方通知及飞利浦现场安全通知，核对库存并遵循制造商建议的措施。
+
+**标签**: `swissmedic`, `fsca`, `mri_safety`, `philips_ingenia`
+
+[查看来源 (Swissmedic)](https://fsca.swissmedic.ch/mep/#?q=Vk_20260902_004)
+
+---
+
+### 瑞士Swissmedic发布飞利浦Ingenia 1.5T MRI FSCA（型号781315等）
+
+**2026-09-09** | Swissmedic | 安全通报 | !!! HIGH
+
+瑞士Swissmedic发布了一项针对飞利浦医疗系统荷兰公司Ingenia 1.5T全身超导MRI系统的现场安全纠正措施（FSCA）。登记信息列出受影响型号为781315、781341、781396、782115和782140；现有条目未详述具体纠正原因。相关医疗机构应查阅Swissmedic官方FSCA及飞利浦现场安全通知，并执行所要求的纠正措施。
+
+**标签**: `swissmedic`, `fsca`, `mri_safety`, `philips_ingenia`
+
+[查看来源 (Swissmedic)](https://fsca.swissmedic.ch/mep/#?q=Vk_20260902_004)
+
+---
+
+### Philips Evolution Upgrade 3.0T 磁共振瑞士Swissmedic FSCA（型号782117/782143/782162）
+
+**2026-09-09** | Swissmedic | 安全通报 | !!! HIGH
+
+瑞士Swissmedic已发布飞利浦医疗系统荷兰有限公司Evolution upgrade 3.0T全身磁共振成像系统（超导磁体）的现场安全纠正措施（FSCA）。受影响型号为782117、782143和782162。目前公布的通知摘要未说明具体纠正原因。受影响用户应查阅Swissmedic FSCA通知并联系飞利浦医疗系统荷兰有限公司获取建议的纠正措施。
+
+**标签**: `swissmedic`, `fsca`, `mri_safety`
+
+[查看来源 (Swissmedic)](https://fsca.swissmedic.ch/mep/#?q=Vk_20260902_004)
+
+---
+
+### 瑞士药监局FSCA：飞利浦Evolution升级1.5T磁共振系统（型号782116等）
+
+**2026-09-09** | Swissmedic | 安全通报 | !! MEDIUM
+
+瑞士药监局发布飞利浦医疗（荷兰）Evolution升级1.5T全身磁共振系统（超导磁体）的现场安全纠正措施。受影响型号为782116、782148、782166和782201。公告元数据未详述纠正原因，使用者应查阅瑞士药监局官方通知及制造商说明，识别受影响设备并执行制造商现场安全纠正措施。
+
+**标签**: `swissmedic`, `fsca`, `mri`
+
+[查看来源 (Swissmedic)](https://fsca.swissmedic.ch/mep/#?q=Vk_20260902_004)
+
+---
+
+### 瑞士Swissmedic FSCA：飞利浦BlueSeal XE磁共振型号782192
+
+**2026-09-09** | Swissmedic | 安全通报 | !!! HIGH
+
+瑞士药品监督管理局（Swissmedic）发布了一项针对飞利浦医疗系统荷兰有限公司（Philips Medical Systems Nederland B.V.）BlueSeal XE 全身磁共振成像系统（超导磁体，型号782192）的现场安全纠正措施（FSCA）。该FSCA涉及该系统的安全相关纠正措施；具体风险与所需措施详见制造商现场安全通知。受影响机构应识别型号782192的设备，查阅飞利浦通知并尽快执行建议的纠正措施。
+
+**标签**: `swissmedic`, `fsca`, `mri`, `philips`, `field_safety_corrective_action`
+
+[查看来源 (Swissmedic)](https://fsca.swissmedic.ch/mep/#?q=Vk_20260902_004)
+
+---
+
+### 瑞士药监局FSCA：飞利浦BlueSeal SE全身MRI系统（型号782185）
+
+**2026-09-09** | Swissmedic | 安全通报 | !! MEDIUM
+
+瑞士药监局发布了一项针对飞利浦医疗系统荷兰公司BlueSeal SE全身磁共振成像系统的现场安全纠正措施（FSCA），涉及超导磁体，型号782185。该摘要未显示具体纠正原因，相关机构应查阅瑞士药监局官方FSCA页面及飞利浦现场安全通知。使用该型号的单位应核实设备状态并遵循制造商建议的纠正措施。
+
+**标签**: `swissmedic`, `fsca`, `mri_safety`, `philips_healthcare`
+
+[查看来源 (Swissmedic)](https://fsca.swissmedic.ch/mep/#?q=Vk_20260902_004)
+
+---
+
+### Swissmedic发布NOxBOX Ltd NOxBOXi一氧化氮输送装置FSCA
+
+**2026-09-09** | Swissmedic | 安全通报 | !!! HIGH
+
+Swissmedic已针对NOxBOX Ltd生产的NOxBOXi一氧化氮输送装置（系统类设备，型号NOXBOX-I）发布现场安全纠正措施（FSCA）。该公告摘要中未注明具体纠正原因。相关使用机构和经销商应查阅Swissmedic官方FSCA页面，并遵循制造商对受影响设备的处理要求。
+
+**标签**: `swissmedic`, `fsca`, `nitric_oxide_delivery`, `medical_device`, `noxbox`
+
+[查看来源 (Swissmedic)](https://fsca.swissmedic.ch/mep/#?q=Vk_20260903_045)
+
+---
+
+### 瑞士药监局FSCA：Dexcom G7 iOS CGM App SW12300 新增语言
+
+**2026-09-08** | Swissmedic | 安全通报 | !! MEDIUM
+
+瑞士药监局发布了一则针对Dexcom公司Dexcom G7 iOS CGM App（型号SW12300）的现场安全纠正措施。此次纠正措施的原因是应用新增了一种语言。受影响用户应遵循Dexcom的说明，并按建议安装更新版本的应用。
+
+**标签**: `swissmedic`, `fsca`, `dexcom`, `cgm`, `software_update`
+
+[查看来源 (Swissmedic)](https://fsca.swissmedic.ch/mep/#?q=Vk_20260821_006)
+
+---
+
+### 瑞士药监局FSCA：GE Healthcare Centricity PACS / Enterprise Archive放射科PACS软件
+
+**2026-09-08** | Swissmedic | 安全通报 | !! MEDIUM
+
+该瑞士药监局FSCA涉及GE Healthcare生产的Centricity PACS和Enterprise Archive放射科PACS软件。现有摘要未列明具体原因及受影响型号/批次。受影响用户应查阅瑞士药监局官方FSCA通知，了解纠正措施并执行相应要求。
+
+**标签**: `swissmedic`, `fsca`, `radiology_pacs`, `ge_healthcare`, `software_correction`
+
+[查看来源 (Swissmedic)](https://fsca.swissmedic.ch/mep/#?q=Vk_20260902_005)
+
+---
+
+### Swissmedic发布Dexcom G7安卓CGM应用FSCA（型号SW12299）
+
+**2026-09-08** | Swissmedic | 安全通报 | !!! HIGH
+
+瑞士药品监督管理局（Swissmedic）已发布一项针对Dexcom, Inc. 的Dexcom G7 Android CGM应用程序（型号SW12299）的现场安全纠正措施（FSCA），该应用程序属于经皮组织间液葡萄糖监测系统的一部分。该FSCA涉及与Dexcom G7持续葡萄糖监测系统配套使用的安卓应用程序。相关医护人员和患者应查阅Swissmedic官方通知，并遵循Dexcom建议的纠正措施，例如更新至修正后的软件版本或采取临时安全措施。
+
+**标签**: `swissmedic`, `fsca`, `dexcom_g7`, `android_app`, `continuous_glucose_monitoring`, `software_correction`
+
+[查看来源 (Swissmedic)](https://fsca.swissmedic.ch/mep/#?q=Vk_20260821_005)
+
+---
+
+### Dexcom G7 iOS CGM App - Dexcom, Inc.
+
+**2026-09-08** | Swissmedic | 安全通报 | !! MEDIUM
+
+FSCA: MD: Percutaneous interstitial fluid glucose monitoring system, electrochemical. Reason: . Model: SW12300 G7 App (iOS).
+
+[查看来源 (Swissmedic)](https://fsca.swissmedic.ch/mep/#?q=Vk_20260821_005)
+
+---
+
+### 瑞士Swissmedic发布Northern Digital/Medtronic NDI Passive Spheres FSCA（型号8801074/8801075）
+
+**2026-09-08** | Swissmedic | 安全通报 | !!! HIGH
+
+Swissmedic发布了一项关于NDI Passive Spheres的现场安全纠正措施，该产品由Northern Digital, Inc.和Medtronic Navigation Inc.生产，作为立体定向骨科手术器械的一次性耗材使用。受影响型号为8801074和8801075。提取信息中未说明具体纠正原因，相关用户应查阅Swissmedic官方FSCA编号Vk_20260902_048以获取必要措施。
+
+**标签**: `swissmedic`, `fsca`, `medical_device_safety`, `stereotactic_surgery`
+
+[查看来源 (Swissmedic)](https://fsca.swissmedic.ch/mep/#?q=Vk_20260902_048)
+
+---
+
+### 瑞士药监局FSCA：Northern Digital/Medtronic被动活检针套件 型号9733068
+
+**2026-09-08** | Swissmedic | 安全通报 | !!! HIGH
+
+瑞士药监局发布了针对被动活检针套件（脑活检手术套件，型号9733068）的现场安全纠正措施，制造商/责任方为Northern Digital, Inc. / Medtronic Navigation Inc.。通知摘要未给出具体原因，相关法规事务人员应查阅完整FSCA，核对受影响型号并遵循制造商的纠正措施。
+
+**标签**: `swissmedic`, `fsca`, `medical_device_recall`, `biopsy_needle_kit`
+
+[查看来源 (Swissmedic)](https://fsca.swissmedic.ch/mep/#?q=Vk_20260902_048)
+
+---
+
+### 瑞士Swissmedic FSCA：Fluoptics FLUOBEAM LX及FLUOSOFT LX（型号FSLX-CL）
+
+**2026-09-08** | Swissmedic | 安全通报 | !! MEDIUM
+
+此瑞士Swissmedic FSCA涉及Fluoptics SAS的FLUOBEAM LX成像系统及FLUOSOFT LX软件附件，受影响型号为FSLX-CL。该现场安全纠正措施针对用于生物成像和放射治疗器械的软件附件，但Swissmedic条目中未列明具体原因。相关法规事务人员应查阅该警示并遵循制造商Fluoptics SAS对受影响型号FSLX-CL的建议。
+
+**标签**: `swissmedic`, `fsca`, `medical_device_software`, `fluorescence_imaging`, `field_safety_corrective_action`
+
+[查看来源 (Swissmedic)](https://fsca.swissmedic.ch/mep/#?q=Vk_20260902_001)
+
+---
+
+### 瑞士药监局FSCA：飞利浦IntelliVue病人监护仪特定型号
+
+**2026-09-08** | Swissmedic | 安全通报 | !! MEDIUM
+
+瑞士药监局发布飞利浦IntelliVue病人监护仪（Philips France / Philips Medizin Systeme Böblingen GmbH生产，多参数生命体征监测系统）的现场安全纠正措施。受影响型号为866471、866470、867130、867133、116465125、116465126、116465127、121218694、121218695。通知未说明具体原因，用户应核对库存并联系飞利浦获取纠正措施。
+
+**标签**: `swissmedic`, `fsca`, `patient_monitor`, `philips`, `medical_device_safety`
+
+[查看来源 (Swissmedic)](https://fsca.swissmedic.ch/mep/#?q=Vk_20260827_018)
+
+---
+
+### Swissmedic FSCA：Spectrum Medical Srl Quantum Pure Flow标准热交换器高流量3/8新增受影响批次
+
+**2026-09-07** | Swissmedic | 安全通报 | !!! HIGH
+
+瑞士Swissmedic更新了Spectrum Medical Srl公司Quantum Pure Flow Standard Heat Exchanger High Flow 3/8热交换器的现场安全纠正措施（FSCA），涉及型号HX55V-S0W和HX55V-S0，原因是新增受影响批次。此次更新扩大了体外循环和辅助循环设备中受影响产品的范围。用户应查阅更新后的FSCA，确认受影响批次，并按照制造商要求采取纠正措施。
+
+**标签**: `swissmedic`, `fsca`, `extracorporeal_circulation`, `heat_exchanger`, `spectrum_medical`, `lot_expansion`
+
+[查看来源 (Swissmedic)](https://fsca.swissmedic.ch/mep/#?q=Vk_20260825_009)
+
+---
+
+### Swissmedic发布Promedon VICTO人工尿道括约肌FSCA
+
+**2026-09-07** | Swissmedic | 安全通报 | !!! HIGH
+
+Swissmedic发布了Promedon S.A.生产的VICTO人工尿道括约肌的现场安全纠正措施（FSCA）。公开警示未说明具体原因，受影响型号和批次详见相应的现场安全通知（FSN）。医疗机构应查阅FSN，并对受影响设备执行制造商建议的纠正措施。
+
+**标签**: `swissmedic`, `fsca`, `artificial_urinary_sphincter`, `promedon`, `medical_device_safety`
+
+[查看来源 (Swissmedic)](https://fsca.swissmedic.ch/mep/#?q=Vk_20260824_012)
+
+---
+
+### Automated Impella Controller (AIC) - Abiomed Inc
+
+**2026-09-03** | Swissmedic | 安全通报 | !! MEDIUM
+
+FSCA: MD: Various instruments for cardiology and cardiac surgery. Reason: . Model: 0042-0040; 0042-0010; 0042-0000; 0042-0040-EU; 0042-0010-EU; 0042-0000-EU; 0042-0000-UK; 0042-0040-UK; 0042-0010-UK; .
+
+[查看来源 (Swissmedic)](https://fsca.swissmedic.ch/mep/#?q=Vk_20260818_037)
+
+---
+
+### 瑞士药监局FSCA：GE医疗Centricity高敏麻醉系统—语言补充
+
+**2026-09-02** | Swissmedic | 安全通报 | !! MEDIUM
+
+瑞士药监局（Swissmedic）已发布针对GE Healthcare Finland Oy生产的Centricity High Acuity Anesthesia患者健康记录信息系统的现场安全纠正措施（FSCA）。所列原因为“补充语言”，表明这是一项与语言可用性相关的产品纠正，而非安全召回；通知中未明确受影响型号/批次。相关用户和法规事务人员应查阅Swissmedic FSCA编号Vk_20260831_011，并遵循制造商说明或语言更新指引。
+
+**标签**: `swissmedic`, `fsca`, `ge_healthcare`, `anesthesia_information_system`, `medical_device_correction`
+
+[查看来源 (Swissmedic)](https://fsca.swissmedic.ch/mep/#?q=Vk_20260831_011)
+
+---
+
+### Swissmedic FSCA：GE Healthcare Centricity High Acuity Critical Care 语言更新
+
+**2026-09-02** | Swissmedic | 安全通报 | !! MEDIUM
+
+Swissmedic发布了针对GE Healthcare Finland Oy生产的Centricity High Acuity Critical Care患者健康记录信息系统的现场安全纠正措施（FSCA）。该措施原因为“Additional Languages”（增加语言），通知中未列明受影响的型号/批次。使用者应查阅制造商的FSCA文件并遵循GE Healthcare提供的指示。
+
+**标签**: `swissmedic`, `fsca`, `ge_healthcare`, `health_record_software`, `medical_device_correction`
+
+[查看来源 (Swissmedic)](https://fsca.swissmedic.ch/mep/#?q=Vk_20260831_011)
+
+---
+
+### Shiley Hi-Lo Evac Tracheostomy Tube Cuffed - Covidien llc
+
+**2026-09-02** | Swissmedic | 安全通报 | !! MEDIUM
+
+FSCA: MD: Tracheostomy tube, non-reinforced, non-customized, single-use. Reason: . Model: 313-60, 313-70, 313-80, 313-90, 313-10 .
+
+[查看来源 (Swissmedic)](https://fsca.swissmedic.ch/mep/#?q=Vk_20260827_019)
+
+---
+
+### EyeFill C-B Cohesive Ophthalmic Viscoelastic Dev. - Bausch & Lomb Incorporated
+
+**2026-09-02** | Swissmedic | 安全通报 | !! MEDIUM
+
+FSCA: MD: Vitreous/aqueous humour replacement medium, intraoperative. Reason: . Model: EYEFILL C OVD; EYEFILL C-B.
+
+[查看来源 (Swissmedic)](https://fsca.swissmedic.ch/mep/#?q=Vk_20260828_025)
+
+---
+
+### 瑞士药监局发布飞利浦Zenition血管造影X射线系统FSCA
+
+**2026-09-02** | Swissmedic | 安全通报 | !!! HIGH
+
+瑞士药监局（Swissmedic）已针对飞利浦医疗系统荷兰有限公司（Philips Medical Systems Nederland B.V.）的Zenition固定式血管造影X射线系统（数字型）发布现场安全纠正措施（FSCA），涉及型号718096、718133、718401、718076、718134。公告描述中未披露具体原因，但要求用户遵循飞利浦的现场安全说明。相关机构应核对所列型号，并联系飞利浦或瑞士药监局获取纠正措施。
+
+**标签**: `swissmedic`, `fsca`, `philips`, `angiography_xray`, `field_safety_corrective_action`
+
+[查看来源 (Swissmedic)](https://fsca.swissmedic.ch/mep/#?q=Vk_20260826_012)
+
+---
+
+### BV Pulsera - Philips Medical Systems Nederland B.V.
+
+**2026-09-02** | Swissmedic | 安全通报 | !! MEDIUM
+
+FSCA: MD: Stationary angiographic x-ray system, digital. Reason: . Model: 718095.
+
+[查看来源 (Swissmedic)](https://fsca.swissmedic.ch/mep/#?q=Vk_20260826_012)
+
+---
+
+### 瑞士药监局FSCA：飞利浦BV Endura血管造影X射线系统（型号718075）
+
+**2026-09-02** | Swissmedic | 安全通报 | !! MEDIUM
+
+瑞士药监局（Swissmedic）发布了一项针对飞利浦医疗系统荷兰有限公司（Philips Medical Systems Nederland B.V.）BV Endura固定式血管造影X射线系统（数字型，型号718075）的现场安全纠正措施（FSCA）。目前公布的FSCA信息中未说明具体纠正原因。受影响用户应查阅瑞士药监局官方通知，并遵循制造商或瑞士药监局的相关指示。
+
+**标签**: `swissmedic`, `fsca`, `angiographic_xray`, `philips`, `medical_device`
+
+[查看来源 (Swissmedic)](https://fsca.swissmedic.ch/mep/#?q=Vk_20260826_012)
+
+---
+
+### BV Vectra - Philips Medical Systems Nederland B.V.
+
+**2026-09-02** | Swissmedic | 安全通报 | !! MEDIUM
+
+FSCA: MD: Mobile general-purpose fluoroscopic x-ray system, analogue. Reason: . Model: 718400.
+
+[查看来源 (Swissmedic)](https://fsca.swissmedic.ch/mep/#?q=Vk_20260826_012)
+
+---
+
+### 瑞士药监局发布飞利浦Veradius移动C形臂X射线机FSCA（型号718131/718132）
+
+**2026-09-02** | Swissmedic | 安全通报 | !! MEDIUM
+
+瑞士药监局（Swissmedic）发布了一项针对飞利浦医疗系统荷兰有限公司生产的Veradius移动式C形臂诊断X射线机的现场安全纠正措施（FSCA），涉及型号718131和718132。所提供的通知摘要中未包含具体纠正原因和建议措施。相关用户应查阅Swissmedic官方FSCA通知（Vk_20260826_012）及飞利浦医疗系统，确认设备是否受影响并采取相应措施。
+
+**标签**: `swissmedic`, `fsca`, `philips`, `c_arm`, `diagnostic_x_ray`, `field_safety_corrective_action`
+
+[查看来源 (Swissmedic)](https://fsca.swissmedic.ch/mep/#?q=Vk_20260826_012)
+
+---
+
+### 瑞士Swissmedic发布Datex-Ohmeda Carestation 850c麻醉工作站FSCA更新
+
+**2026-09-01** | Swissmedic | 安全通报 | !! MEDIUM
+
+Swissmedic已发布Datex-Ohmeda Carestation 850c通用麻醉工作站的现场安全纠正措施（FSCA）。该通知为瑞士更新，涉及型号1012-9855-000。受影响用户应查阅Swissmedic FSCA及制造商说明，并对相关设备采取要求的纠正措施。
+
+**标签**: `swissmedic`, `fsca`, `anesthesia_workstation`, `datex_ohmeda`, `carestation_850c`
+
+[查看来源 (Swissmedic)](https://fsca.swissmedic.ch/mep/#?q=Vk_20260828_004)
+
+---
+
+### 瑞士药监局FSCA更新：Datex-Ohmeda Carestation 850麻醉工作站
+
+**2026-09-01** | Swissmedic | 安全通报 | !! MEDIUM
+
+本瑞士药监局现场安全纠正措施涉及 Datex-Ohmeda Inc. 的 Carestation 850 通用麻醉工作站。该通知为面向瑞士的更新，受影响型号为 1012-9850-000。受影响机构应审查制造商的 FSCA 文件，实施必要的纠正措施或联系当地代表。
+
+**标签**: `swissmedic`, `fsca`, `anesthesia_workstation`
+
+[查看来源 (Swissmedic)](https://fsca.swissmedic.ch/mep/#?q=Vk_20260828_004)
+
+---
+
+### Philips MR 7700 升级：全身 MRI 系统 FSCA（型号 782130）
+
+**2026-09-01** | Swissmedic | 安全通报 | !! MEDIUM
+
+Swissmedic 发布了 Philips Medical Systems Nederland B.V. 的 MR 7700 全身 MRI 系统（超导磁体，型号 782130）现场安全纠正措施。该措施涉及 MR 7700 升级，瑞士 Swissmedic 摘要中未详细说明具体安全原因。受影响用户应查阅制造商 FSCA 并执行建议的升级措施。
+
+**标签**: `swissmedic`, `fsca`, `philips`, `mri`, `product_correction`
+
+[查看来源 (Swissmedic)](https://fsca.swissmedic.ch/mep/#?q=Vk_20260825_022)
+
+---
+
+### 飞利浦 Ingenia Elition X MRI 现场安全纠正措施（型号 782118、782144）
+
+**2026-09-01** | Swissmedic | 安全通报 | !!! HIGH
+
+瑞士药品监督管理局发布了一项针对飞利浦医疗系统荷兰公司 Ingenia Elition X 全身磁共振成像系统的现场安全纠正措施（FSCA）。受影响型号为 782118 和 782144。该警报摘要未说明具体原因，相关机构应查阅 Swissmedic FSCA 通知并遵循飞利浦建议的安全措施。
+
+**标签**: `swissmedic`, `fsca`, `mri_safety`, `philips`, `field_safety_corrective_action`
+
+[查看来源 (Swissmedic)](https://fsca.swissmedic.ch/mep/#?q=Vk_20260825_022)
+
+---
+
+### MR 7700 - Philips Medical Systems Nederland B.V.
+
+**2026-09-01** | Swissmedic | 安全通报 | !! MEDIUM
+
+FSCA: MD: Full-body MRI system, superconducting magnet. Reason: . Model: 782120, 782153.
+
+[查看来源 (Swissmedic)](https://fsca.swissmedic.ch/mep/#?q=Vk_20260825_022)
+
+---
+
+### Swissmedic发布Philips MR 5300全身MRI系统FSCA（型号782110/782135/782152）
+
+**2026-09-01** | Swissmedic | 安全通报 | !!! HIGH
+
+Swissmedic已发布针对Philips Medical Systems Nederland B.V.生产的MR 5300全身MRI系统（超导磁体）的现场安全纠正措施（FSCA）。受影响型号为782110、782135和782152。公告未列出具体纠正原因，相关机构应查阅官方FSCA并联系Philips获取必要的纠正措施。
+
+**标签**: `swissmedic`, `fsca`, `philips`, `mri`, `field_safety_corrective_action`
+
+[查看来源 (Swissmedic)](https://fsca.swissmedic.ch/mep/#?q=Vk_20260825_022)
+
+---
+
+### Intera 1.5T - Philips Medical Systems Nederland B.V.
+
+**2026-09-01** | Swissmedic | 安全通报 | !! MEDIUM
+
+FSCA: MD: Full-body MRI system, superconducting magnet. Reason: . Model: 781195, 781295, 781175, 781172, 781173, 781104, 781171.
+
+[查看来源 (Swissmedic)](https://fsca.swissmedic.ch/mep/#?q=Vk_20260825_022)
+
+---
+
+### 瑞士Swissmedic发布飞利浦Ingenia Ambition S/X MRI系统现场安全纠正措施
+
+**2026-09-01** | Swissmedic | 安全通报 | !! MEDIUM
+
+Swissmedic 已发布飞利浦医疗（荷兰）Ingenia Ambition S 和 X 全身 MRI 系统（超导磁体）的现场安全纠正措施（FSCA），涉及型号 781359、782108、782133、782139、781356、782109、782138。当前通知摘要未列明具体原因，相关机构应查阅正式 FSCA 通知并遵循飞利浦的制造商指引。通常需确认受影响设备、联系制造商并落实纠正措施后再继续临床使用。
+
+**标签**: `swissmedic`, `fsca`, `mri`, `philips`, `field_safety_corrective_action`
+
+[查看来源 (Swissmedic)](https://fsca.swissmedic.ch/mep/#?q=Vk_20260825_022)
+
+---
+
+### 瑞士Swissmedic FSCA：飞利浦Evolution Upgrade 1.5T/3.0T全身MRI系统
+
+**2026-09-01** | Swissmedic | 安全通报 | !! MEDIUM
+
+瑞士Swissmedic发布了一则关于飞利浦医疗系统荷兰公司Evolution Upgrade 1.5T和3.0T全身MRI系统（超导磁体）的现场安全纠正措施（FSCA）。受影响型号为782116、782148、782117和782143。该记录未提供详细原因和具体建议措施，受影响用户应查阅飞利浦现场安全通知并遵循制造商指示。
+
+**标签**: `swissmedic`, `fsca`, `mri_safety`
+
+[查看来源 (Swissmedic)](https://fsca.swissmedic.ch/mep/#?q=Vk_20260825_022)
+
+---
+
+### 瑞士Swissmedic发布飞利浦SmartPath to dStream MRI系统FSCA
+
+**2026-09-01** | Swissmedic | 安全通报 | !!! HIGH
+
+瑞士Swissmedic发布针对Philips Medical Systems Nederland B.V.超导磁体全身MRI系统的现场安全纠正措施（FSCA），涉及SmartPath to dStream配置。受影响型号包括781260、782112、782146、782145、781270、782113和782129。公告摘要未说明具体原因和建议措施，相关用户应查看Swissmedic通知并遵循飞利浦现场安全指示。
+
+**标签**: `swissmedic`, `fsca`, `mri`, `philips`, `medical_device`, `field_safety_corrective_action`
+
+[查看来源 (Swissmedic)](https://fsca.swissmedic.ch/mep/#?q=Vk_20260825_022)
+
+---
+
+### 飞利浦 Ingenia Elition S/X 全身磁共振系统：瑞士Swissmedic FSCA（多型号）
+
+**2026-09-01** | Swissmedic | 安全通报 | !!! HIGH
+
+瑞士Swissmedic已发布一项针对飞利浦医疗（荷兰）Ingenia Elition S和X全身磁共振系统的现场安全纠正措施（FSCA），该系统配备超导磁体。受影响型号包括781357、782106、782137、782150、781358、782107、782119、782136、782151和782158。该警报摘要未说明具体原因，用户应查阅完整Swissmedic通知并遵循飞利浦要求的纠正措施。
+
+**标签**: `swissmedic`, `fsca`, `mri`, `philips`, `field_safety_corrective_action`
+
+[查看来源 (Swissmedic)](https://fsca.swissmedic.ch/mep/#?q=Vk_20260825_022)
+
+---
+
+### Ingenia 1.5T and 3.0T - Philips Medical Systems Nederland B.V.
+
+**2026-09-01** | Swissmedic | 安全通报 | !! MEDIUM
+
+FSCA: MD: Full-body MRI system, superconducting magnet. Reason: . Model: 781315, 781341, 781396, 782101, 782115, 782140, 781261, 781262, 781347, 781342, 781377, 782103, 781271, 782105.
+
+[查看来源 (Swissmedic)](https://fsca.swissmedic.ch/mep/#?q=Vk_20260825_022)
+
+---
+
+### Achieva - Philips Medical Systems Nederland B.V.
+
+**2026-09-01** | Swissmedic | 安全通报 | !! MEDIUM
+
+FSCA: MD: Full-body MRI system, superconducting magnet. Reason: . Model: 781196, 781296, 781343, 781283, 781346, 781178, 781177, 781277, 781278, 781344, 781345, 781153, 781253; .
+
+[查看来源 (Swissmedic)](https://fsca.swissmedic.ch/mep/#?q=Vk_20260825_022)
+
+---
+
+### VentStar Resuscitaire - DrÃ¤gerwerk AG & Co. KGaA
+
+**2026-09-01** | Swissmedic | 安全通报 | !! MEDIUM
+
+FSCA: MD: Tubing. Reason: . Model: MP00311; MP00311.
+
+[查看来源 (Swissmedic)](https://fsca.swissmedic.ch/mep/#?q=Vk_20260828_012)
+
+---
+
+### Swissmedic FSCA：Dräger VentStar Resus Neo 管路（MP00310）
+
+**2026-09-01** | Swissmedic | 安全通报 | !!! HIGH
+
+瑞士Swissmedic发布了Drägerwerk AG & Co. KGaA公司VentStar Resus Neo呼吸管路（型号MP00310）的现场安全纠正措施（FSCA）。该警报涉及管路相关问题，但具体原因未在摘要中详细说明。相关用户应查阅官方FSCA通知，并按照制造商指引识别和处理受影响产品。
+
+**标签**: `fsca`, `swissmedic`, `ventilation_tubing`, `draeger`, `medical_device`
+
+[查看来源 (Swissmedic)](https://fsca.swissmedic.ch/mep/#?q=Vk_20260828_012)
+
+---
+
+### 瑞士Swissmedic FSCA：GE Carescape Central Station V3 MAS800/MAI800
+
+**2026-09-01** | Swissmedic | 安全通报 | !! MEDIUM
+
+瑞士Swissmedic发布的这项现场安全纠正措施（FSCA）涉及GE医疗信息技术的Carescape Central Station V3，包括MAS800台式机和MAI800集成式中央信息计算系统。受影响型号为5867474-04、5867474-13和5867474-03。现有FSCA摘要中未说明具体纠正原因，相关机构应查阅Swissmedic官方通知和GE现场安全通知以获取所需措施。
+
+**标签**: `swissmedic`, `fsca`, `ge_healthcare`, `central_monitoring_system`, `field_safety_corrective_action`
+
+[查看来源 (Swissmedic)](https://fsca.swissmedic.ch/mep/#?q=Vk_20260825_035)
+
+---
+
+### Swissmedic发布PTW VERIQA RT MonteCarlo 3D v3剂量仪FSCA
+
+**2026-08-27** | Swissmedic | 安全通报 | !! MEDIUM
+
+Swissmedic已发布涉及PTW-Freiburg公司VERIQA RT MonteCarlo 3D v3剂量仪（型号S070031.520）的现场安全纠正措施（FSCA）。该通知将受影响设备列为剂量仪，但瑞士药监局条目中未说明具体纠正原因。相关用户应核对库存、联系制造商或查阅通知，并落实要求的纠正措施。
+
+**标签**: `swissmedic`, `fsca`, `dosimeter`, `ptw_freiburg`, `field_safety_corrective_action`
+
+[查看来源 (Swissmedic)](https://fsca.swissmedic.ch/mep/#?q=Vk_20260812_036)
+
+---
+
+### 瑞士medic发布飞利浦Spectral CT Verida全身CT系统FSCA（型号728345）
+
+**2026-08-27** | Swissmedic | 安全通报 | !! MEDIUM
+
+瑞士medic发布了对飞利浦医疗荷兰公司Spectral CT Verida全身CT系统（型号728345）的现场安全纠正措施（FSCA）。目前条目未说明具体原因，受影响用户应查阅瑞士medic官方通知和飞利浦相关通告，了解具体风险。使用该型号设备的机构应核查受影响设备，并执行制造商建议的纠正措施。
+
+**标签**: `swissmedic`, `fsca`, `computed_tomography`, `philips`, `medical_device_safety`
+
+[查看来源 (Swissmedic)](https://fsca.swissmedic.ch/mep/#?q=Vk_20260820_030)
+
+---
+
+### 瑞士药监局发布飞利浦Spectral CT Plus China全身CT系统FSCA（型号728344）
+
+**2026-08-27** | Swissmedic | 安全通报 | !!! HIGH
+
+该瑞士药监局现场安全纠正措施（FSCA）涉及飞利浦医疗系统荷兰公司生产的Spectral CT Plus China全身CT系统，型号728344。现有公告元数据未说明具体纠正原因和建议措施。受影响机构应查看瑞士药监局官方FSCA及制造商现场安全通知，以获取必要的纠正措施。
+
+**标签**: `swissmedic`, `fsca`, `ct_system`, `philips`, `medical_device_safety`
+
+[查看来源 (Swissmedic)](https://fsca.swissmedic.ch/mep/#?q=Vk_20260820_030)
+
+---
+
+### 瑞士Swissmedic FSCA：飞利浦Spectral CT全身CT系统型号728333
+
+**2026-08-27** | Swissmedic | 安全通报 | !!! HIGH
+
+瑞士药品监督管理局（Swissmedic）发布了一项现场安全纠正措施（FSCA），涉及飞利浦医疗系统荷兰有限公司（Philips Medical Systems Nederland B.V.）的Spectral CT全身CT系统，型号为728333。现有信息中未说明此次纠正措施的具体原因。受影响用户应查阅Swissmedic官方公告和飞利浦发布的现场安全通知，并按照制造商的指导采取相应措施。
+
+**标签**: `swissmedic`, `fsca`, `philips`, `spectral_ct`, `full_body_ct`, `medical_device_safety`
+
+[查看来源 (Swissmedic)](https://fsca.swissmedic.ch/mep/#?q=Vk_20260820_030)
+
+---
+
+### Spectral CT China - Philips Medical Systems Nederland B.V.
+
+**2026-08-27** | Swissmedic | 安全通报 | !! MEDIUM
+
+FSCA: MD: Full-body CT system. Reason: . Model: 728340.
+
+[查看来源 (Swissmedic)](https://fsca.swissmedic.ch/mep/#?q=Vk_20260820_030)
+
+---
+
+### Spectral CT 7600 - Philips Medical Systems Nederland B.V.
+
+**2026-08-27** | Swissmedic | 安全通报 | !! MEDIUM
+
+FSCA: MD: Full-body CT system. Reason: . Model: 728342.
+
+[查看来源 (Swissmedic)](https://fsca.swissmedic.ch/mep/#?q=Vk_20260820_030)
+
+---
+
+### 瑞士Swissmedic发布飞利浦Spectral CT Verida L4L型号728346现场安全纠正措施
+
+**2026-08-27** | Swissmedic | 安全通报 | !!! HIGH
+
+瑞士Swissmedic发布了一项针对Philips Medical Systems Nederland B.V. Spectral CT Verida L4L全身CT系统（型号728346）的现场安全纠正措施。现有摘要中未说明具体纠正原因，受影响用户应查阅Swissmedic官方FSCA和飞利浦的指导。使用该型号的机构应确认设备是否受影响并落实建议的纠正措施。
+
+**标签**: `swissmedic`, `fsca`, `ct_system`, `philips`, `medical_device`
+
+[查看来源 (Swissmedic)](https://fsca.swissmedic.ch/mep/#?q=Vk_20260820_030)
+
+---
+
+### 瑞士药监局FSCA：Datex-Ohmeda Aisys麻醉工作站（型号1011-9000-000）微小更新
+
+**2026-08-26** | Swissmedic | 安全通报 | !! MEDIUM
+
+瑞士药监局发布了一项针对 Datex-Ohmeda Inc. Aisys 通用麻醉工作站（型号 1011-9000-000）的现场安全纠正措施（FSCA）。该纠正措施涉及设备的轻微更新。相关型号的用户应查阅瑞士药监局 FSCA 通知并遵循制造商的更新指示。
+
+**标签**: `swissmedic`, `fsca`, `anesthesia_workstation`, `datex_ohmeda`, `medical_device_correction`
+
+[查看来源 (Swissmedic)](https://fsca.swissmedic.ch/mep/#?q=Vk_20260825_019)
+
+---
+
+### 瑞士药监局FSCA：Datex-Ohmeda Aisys CS2麻醉工作站更新
+
+**2026-08-26** | Swissmedic | 安全通报 | !! MEDIUM
+
+本瑞士药监局FSCA涉及Datex-Ohmeda Inc.的Aisys CS2 with Et Control麻醉工作站，型号1011-9055-000。纠正原因为该设备的小幅更新。受影响用户应查阅本安全纠正通知，遵循制造商建议，确认设备配置并更新相关文件。
+
+**标签**: `swissmedic`, `fsca`, `anesthesia_workstation`, `product_correction`, `datex_ohmeda`
+
+[查看来源 (Swissmedic)](https://fsca.swissmedic.ch/mep/#?q=Vk_20260825_019)
+
+---
+
+### 瑞士Swissmedic FSCA：Datex-Ohmeda Aisys CS2麻醉工作站轻微更新（型号1011-9050-000）
+
+**2026-08-26** | Swissmedic | 安全通报 | !! MEDIUM
+
+本瑞士Swissmedic现场安全纠正措施（FSCA）涉及Datex-Ohmeda Aisys CS2通用麻醉工作站，型号1011-9050-000。制造商正在实施轻微更新作为纠正措施。使用受影响型号的机构应查阅FSCA通知并遵循制造商的更新说明。
+
+**标签**: `swissmedic`, `fsca`, `anesthesia_workstation`, `datex_ohmeda`
+
+[查看来源 (Swissmedic)](https://fsca.swissmedic.ch/mep/#?q=Vk_20260825_019)
+
+---
+
+### IMAGER II Angiographic Catheter - Boston Scientific Coorpration
+
+**2026-08-26** | Swissmedic | 安全通报 | !! MEDIUM
+
+FSCA: MD: Angiographic catheter, single-use. Reason: . Model: See FSN; see FSN.
+
+[查看来源 (Swissmedic)](https://fsca.swissmedic.ch/mep/#?q=Vk_20260821_018)
+
+---
+
+### 瑞士Swissmedic发布Surgify Medical Oy公司Surgify Halo手术器械FSCA
+
+**2026-08-25** | Swissmedic | 安全通报 | !! MEDIUM
+
+瑞士Swissmedic发布针对Surgify Medical Oy公司Surgify Halo一次性专用手术器械/套件的现场安全纠正措施（FSCA）。该公开条目未列明具体原因，受影响型号见现场安全通告（FSN）。使用者应查阅FSN并遵循制造商建议的纠正措施。
+
+**标签**: `swissmedic`, `fsca`, `surgical_instruments`, `field_safety_notice`
+
+[查看来源 (Swissmedic)](https://fsca.swissmedic.ch/mep/#?q=Vk_20260819_030)
+
+---
+
+### Matoset Instrument - ToruÅskie ZakÅady MateriaÅÃ³w Opatrunkowych SA, Torunskie Zaklady Materialow Opatrunkowych S.A.
+
+**2026-08-24** | Swissmedic | 安全通报 | !! MEDIUM
+
+FSCA: MD: Specialist surgical instruments and kits not included in other classes, single-use - other. Reason: . Model: .
+
+[查看来源 (Swissmedic)](https://fsca.swissmedic.ch/mep/#?q=Vk_20260728_041)
+
+---
+
+### 瑞士药监局FSCA：Toruńskie Zakłady Materiałów Opatrunkowych SA的Matoset器械（MA-291-PENS-005）
+
+**2026-08-24** | Swissmedic | 安全通报 | !!! HIGH
+
+本瑞士药监局现场安全纠正措施（FSCA）涉及Toruńskie Zakłady Materiałów Opatrunkowych SA生产的Matoset器械，该产品为一次性使用专科手术器械/套件，型号/货号为MA-291-PENS-005。瑞士药监局公布的条目未在简述中说明具体纠正原因。相关使用者和经销商应查阅官方FSCA通知及制造商说明，识别受影响产品并执行要求的纠正措施。
+
+**标签**: `swissmedic`, `fsca`, `surgical_instruments`, `single_use`, `field_safety_corrective_action`
+
+[查看来源 (Swissmedic)](https://fsca.swissmedic.ch/mep/#?q=Vk_20260728_041)
+
+---
+
+### Stryker StrykeFlow PS冲洗/抽吸泵瑞士Swissmedic FSCA（型号0250070540/0250070530）
+
+**2026-08-21** | Swissmedic | 安全通报 | !! MEDIUM
+
+Swissmedic 已发布 Stryker Endoscopy 的 StrykeFlow PS 手术冲洗/抽吸系统泵现场安全纠正措施（FSCA）。涉及型号为 0250070540 和 0250070530。通知元数据中未给出具体纠正原因，相关医疗机构应查阅 Swissmedic 通知或联系 Stryker 获取风险控制措施。
+
+**标签**: `swissmedic_fsca`, `stryker_endoscopy`, `surgical_irrigation_pump`
+
+[查看来源 (Swissmedic)](https://fsca.swissmedic.ch/mep/#?q=Vk_20260811_034)
+
+---
+
+### Stryker AHTO Tube Set - Stryker Endoscopy
+
+**2026-08-21** | Swissmedic | 安全通报 | !! MEDIUM
+
+FSCA: MD: Surgical irrigation/aspiration tubing set. Reason: . Model: 0250070640, 0250070620, 0250070600.
+
+[查看来源 (Swissmedic)](https://fsca.swissmedic.ch/mep/#?q=Vk_20260811_034)
+
+---
+
+### 瑞士Swissmedic发布DH Healthcare GmbH ORBIS Medication 3.x现场安全纠正措施
+
+**2026-08-20** | Swissmedic | 安全通报 | !! MEDIUM
+
+Swissmedic 已发布针对 DH Healthcare GmbH 产品 ORBIS Medication 3.x 的现场安全纠正措施（FSCA），该产品归类为通用医疗器械/其他。公告未提供具体纠正原因及受影响型号/批次信息，但标题显示涉及 ORBIS Medication 3.x 版本。相关用户和监管人员应查阅 Swissmedic 通知（编号 Vk_20260813_037），并联系 DH Healthcare GmbH 获取确认的受影响版本和需采取的措施。
+
+**标签**: `swissmedic`, `fsca`, `medical_device_software`, `corrective_action`
+
+[查看来源 (Swissmedic)](https://fsca.swissmedic.ch/mep/#?q=Vk_20260813_037)
+
+---
+
+### 瑞士药监局FSCA：Gyrus ACMI BiCOAG止血探头
+
+**2026-08-19** | Swissmedic | 安全通报 | !!! HIGH
+
+瑞士药品监督管理局（Swissmedic）发布了针对Gyrus ACMI Inc.（Olympus Surgical Technologies America）BiCOAG止血探头的现场安全纠正措施（FSCA），该产品为内窥镜双极电外科电极。受影响型号包括CD-B610LA、CD-B612LA、CD-B620LA、CD-B622LA以及EGCD-B610LA、EGCD-B612LA、EGCD-B620LA、EGCD-B622LA。公告元数据中未列明具体原因，相关方应查阅Swissmedic官方FSCA通知以获取详细风险和所需措施，并识别受影响设备、遵循制造商现场安全通知。
+
+**标签**: `swissmedic`, `fsca`, `electrosurgery`, `medical_device`
+
+[查看来源 (Swissmedic)](https://fsca.swissmedic.ch/mep/#?q=Vk_20260814_027)
+
+---
+
+### 瑞士药监局FSCA：飞利浦PIC iX Essentials中央监护仪型号867093
+
+**2026-08-19** | Swissmedic | 安全通报 | !! MEDIUM
+
+瑞士药监局发布了一项针对飞利浦医疗系统伯布林根有限公司PIC iX Essentials中央监护仪（型号867093）的现场安全纠正措施。目前公告未说明具体纠正原因。相关用户应查阅瑞士药监局官方FSCA并遵循制造商指引。
+
+**标签**: `swissmedic`, `fsca`, `patient_monitor`, `philips`
+
+[查看来源 (Swissmedic)](https://fsca.swissmedic.ch/mep/#?q=Vk_20260804_016)
+
+---
+
+### Patient Information Center iX - Philips Medizin Systeme BÃ¶blingen GmbH
+
+**2026-08-19** | Swissmedic | 安全通报 | !! MEDIUM
+
+FSCA: MD: Centralized patient monitor. Reason: . Model: 866389.
+
+[查看来源 (Swissmedic)](https://fsca.swissmedic.ch/mep/#?q=Vk_20260804_016)
+
+---
+
+### IPV Systems - Percussionaire Corporation
+
+**2026-08-19** | Swissmedic | 安全通报 | !! MEDIUM
+
+FSCA: MD: Respiratory and anaesthesia devices - other. Reason: . Model: S00065, S00002-C, S00003-C, S00055, S00010, S00009.
+
+[查看来源 (Swissmedic)](https://fsca.swissmedic.ch/mep/#?q=Vk_20260811_001)
+
+---
+
+### 瑞士药监局FSCA：GE Portrait Core Services软件文件版本更正
+
+**2026-08-18** | Swissmedic | 安全通报 | !! MEDIUM
+
+瑞士药监局发布了一项针对GE Medical Systems Ultrasound and Primary Care Diagnostics, LLC的Portrait Core Services医疗器械软件的现场安全纠正措施，该软件与多参数监护仪相关。此次纠正原因为文件版本更正。通知中未列明受影响型号。用户应查阅该瑞士药监局FSCA，并遵循制造商对受影响软件版本的说明。
+
+**标签**: `swissmedic`, `fsca`, `medical_device_software`, `ge_healthcare`, `software_correction`
+
+[查看来源 (Swissmedic)](https://fsca.swissmedic.ch/mep/#?q=Vk_20260812_035)
+
+---
+
+### Swissmedic 发布 DH Healthcare DeepUnity PACSonWEB PACS 安全纠正措施
+
+**2026-08-18** | Swissmedic | 安全通报 | !! MEDIUM
+
+瑞士药监局（Swissmedic）发布了一项针对 DH Healthcare GmbH 公司 DeepUnity PACSonWEB 影像归档与通信系统（PACS）的现场安全纠正措施（FSCA）。该警示涉及 PACS 设备类别，但摘要中未列明具体原因及受影响型号/批次，需在瑞士药监局官方条目中核实。使用该系统的医疗机构应审查该 FSCA、联系制造商并采取相应的纠正措施。
+
+**标签**: `swissmedic`, `fsca`, `pacs`, `medical_device`, `field_safety_corrective_action`
+
+[查看来源 (Swissmedic)](https://fsca.swissmedic.ch/mep/#?q=Vk_20260814_030)
+
+---
+
+### 瑞士药监局FSCA：Heraeus PALACOS/COPAL骨水泥（型号5081273等）
+
+**2026-08-18** | Swissmedic | 安全通报 | !!! HIGH
+
+瑞士药监局（Swissmedic）发布了一项针对Heraeus Medical GmbH骨科假体骨水泥及混合配件的现场安全纠正措施（FSCA），涉及PALACOS® R+G pro、PALACOS® MV+G pro和COPAL® G+Cpro，受影响型号为5081273及5081279–5081285。现有警报信息中未说明具体纠正原因和建议措施；法规事务人员应查阅Swissmedic官方FSCA条目或联系Heraeus Medical获取完整现场安全通知。相关用户应核对库存中的受影响型号并遵循制造商指示。
+
+**标签**: `swissmedic`, `fsca`, `orthopaedic_cement`, `medical_device`, `heraeus_medical`
+
+[查看来源 (Swissmedic)](https://fsca.swissmedic.ch/mep/#?q=Vk_20260813_036)
+
+---
+
+### Smartbag - Liquid Acid Concentrates - Fresenius Medical Care AG
+
+**2026-08-17** | Swissmedic | 安全通报 | !! MEDIUM
+
+FSCA: MD: Dialysis concentrates, acid solutions, non-sterile. Reason: . Model: F00007046, F0002007D, F00006560, F00006557, F00007043.
+
+[查看来源 (Swissmedic)](https://fsca.swissmedic.ch/mep/#?q=Vk_20260804_035)
+
+---
+
+### Swissmedic发布TRx OrthoPure XT韧带重建植入物FSCA
+
+**2026-08-17** | Swissmedic | 安全通报 | !!! HIGH
+
+Swissmedic已发布针对TRx Orthopaedics Limited生产的OrthoPure XT韧带重建植入物的现场安全纠正措施（FSCA）。该通知涉及韧带假体，具体纠正原因及受影响型号/批次详见制造商现场安全通知（FSN）。相关医疗机构应查阅FSN，识别受影响库存，并按制造商要求执行停用、隔离或退回等措施。
+
+**标签**: `swissmedic`, `fsca`, `orthopedic_implant`, `ligament_reconstruction`, `trx_orthopaedics`, `medical_device_corrective_action`
+
+[查看来源 (Swissmedic)](https://fsca.swissmedic.ch/mep/#?q=Vk_20260807_024)
+
+---
+
+### IV Sets or Administration Sets - ICU Medical, Inc.
+
+**2026-08-13** | Swissmedic | 安全通报 | !! MEDIUM
+
+FSCA: MD: IV Sets or Administration Sets. Reason: . Model: various.
+
+[查看来源 (Swissmedic)](https://fsca.swissmedic.ch/mep/#?q=Vk_20260730_037)
+
+---
+
+### SPECTRALIS with FLex Module - Heidelberg Engineering GmbH
+
+**2026-08-12** | Swissmedic | 安全通报 | !! MEDIUM
+
+FSCA: MD: Ophthalmology instruments. Reason: . Model: .
+
+[查看来源 (Swissmedic)](https://fsca.swissmedic.ch/mep/#?q=Vk_20260804_021)
+
+---
+
+### Swissmedic FSCA：Alber e-motion M25轮椅电动推进系统新增语言
+
+**2026-08-11** | Swissmedic | 安全通报 | !! MEDIUM
+
+该Swissmedic FSCA涉及Alber GmbH生产的e-motion M25轮椅电动推进系统。此次现场安全纠正措施的原因是为设备文件/标签新增一种语言版本，受影响型号为M25。相关责任方应根据Swissmedic要求更新并分发新增语言版本。
+
+**标签**: `swissmedic_fsca`, `labeling_update`, `wheelchair_propulsion`
+
+[查看来源 (Swissmedic)](https://fsca.swissmedic.ch/mep/#?q=Vk_20260805_054)
+
+---
+
+### Bravo CF capsule delivery dev - Given Imaging Inc.
+
+**2026-08-11** | Swissmedic | 安全通报 | !! MEDIUM
+
+FSCA: MD: Gastrointestinal telemetric monitoring system. Reason: additional languages added. Model: FGS-0635, FGS-0636.
+
+[查看来源 (Swissmedic)](https://fsca.swissmedic.ch/mep/#?q=Vk_20260807_046)
+
+---
+
+### EPIQ Ultrasound System - Philips Medical Systems Nederland B.V.
+
+**2026-08-11** | Swissmedic | 安全通报 | !! MEDIUM
+
+FSCA: MD: General-purpose ultrasound imaging system. Reason: . Model: 795234.
+
+[查看来源 (Swissmedic)](https://fsca.swissmedic.ch/mep/#?q=Vk_20260807_068)
+
+---
+
+### Healon Duet - AMO Uppsala AB
+
+**2026-08-11** | Swissmedic | 安全通报 | !! MEDIUM
+
+FSCA: MD: Ophthalmology, hyaluronic acid and derivatives. Reason: . Model: 10301016.
+
+[查看来源 (Swissmedic)](https://fsca.swissmedic.ch/mep/#?q=Vk_20260728_001)
+
+---
+
+### 瑞士药监局FSCA：AMO Uppsala AB Healon EndoCoat 型号10301012
+
+**2026-08-11** | Swissmedic | 安全通报 | !!! HIGH
+
+瑞士药监局发布了对AMO Uppsala AB公司Healon EndoCoat的现场安全纠正措施（FSCA），该产品为术中玻璃体/房水替代物，涉及型号10301012。该简报未提供具体纠正原因，监管事务人员应查阅完整的Swissmedic FSCA通知以了解详细原因和所需措施。相关产品用户应核对库存并遵循制造商的现场安全通知。
+
+**标签**: `swissmedic`, `fsca`, `ophthalmic_device`
+
+[查看来源 (Swissmedic)](https://fsca.swissmedic.ch/mep/#?q=Vk_20260728_001)
+
+---
+
+### Swissmedic发布Edwards Lifesciences ForeSight血氧电缆FSCA
+
+**2026-08-11** | Swissmedic | 安全通报 | !!! HIGH
+
+Swissmedic发布了涉及Edwards Lifesciences ForeSight血氧电缆的现场安全纠正措施（FSCA），该产品用于通用多参数床边监护仪。具体原因及受影响型号/批次请参阅制造商的现场安全通知（FSN）。用户应查阅FSN并遵循制造商建议的纠正措施。
+
+**标签**: `swissmedic`, `fsca`, `medical_device`, `oximeter_cable`, `field_safety_corrective_action`
+
+[查看来源 (Swissmedic)](https://fsca.swissmedic.ch/mep/#?q=Vk_20260810_033)
+
+---
+
+### 飞利浦Azurion血管造影X射线系统：瑞士Swissmedic发布FSCA涉及多型号
+
+**2026-08-11** | Swissmedic | 安全通报 | !! MEDIUM
+
+本次瑞士Swissmedic现场安全纠正措施（FSCA）涉及Philips Medical Systems Nederland B.V.生产的Philips Azurion固定式血管造影X射线系统。受影响型号包括722063、722064、722067、722068、722078、722079、722221至722228以及722280。该通知摘要中未具体说明纠正原因，监管事务人员和相关用户应查阅Swissmedic官方FSCA及Philips的指导以采取所需措施。
+
+**标签**: `swissmedic`, `fsca`, `medical_device_safety`
+
+[查看来源 (Swissmedic)](https://fsca.swissmedic.ch/mep/#?q=Vk_20260810_030)
+
+---
+
+### 瑞士药监局FSCA：DH Healthcare GmbH的ORBIS Medication 3.x
+
+**2026-08-07** | Swissmedic | 安全通报 | !! MEDIUM
+
+瑞士药监局（Swissmedic）发布了针对DH Healthcare GmbH生产的医疗器械软件ORBIS Medication 3.x的现场安全纠正措施（FSCA）。该措施解决与用药管理相关的潜在安全问题。受影响用户应参考制造商通知，采取必要措施（如软件更新或临时方案），以确保安全使用。
+
+**标签**: `swissmedic`, `fsca`, `medical_device_software`, `medication_safety`, `dh_healthcare`
+
+[查看来源 (Swissmedic)](https://fsca.swissmedic.ch/mep/#?q=Vk_20260803_035)
+
+---
+
+### Swissmedic 发布 ENOVACOM GXD5 PACS 现场安全纠正措施
+
+**2026-08-07** | Swissmedic | 安全通报 | !! MEDIUM
+
+瑞士药监局（Swissmedic）针对 ENOVACOM 的 GXD5 影像归档与通信系统（PACS）发布了现场安全纠正措施（FSCA）。通知未明确说明纠正原因及受影响型号。该设备用户应查阅官方 FSCA 页面并与制造商联系，获取详细信息和必要措施。
+
+**标签**: `swissmedic`, `fsca`, `pacs`, `medical_device`, `safety_notice`
+
+[查看来源 (Swissmedic)](https://fsca.swissmedic.ch/mep/#?q=Vk_20260730_018)
+
+---
+
+### medin Medical Innovations NC3/3000型新生儿CPAP设备现场安全纠正措施
+
+**2026-08-07** | Swissmedic | 安全通报 | !!! HIGH
+
+瑞士药品监督管理局（Swissmedic）针对medin Medical Innovations GmbH生产的新生儿CPAP设备（型号NC3和3000）发布了现场安全纠正措施（FSCA）。该措施旨在解决设备存在的潜在安全风险。使用相关机型的医疗机构应立即遵循制造商的纠正说明，降低风险并确保安全使用。
+
+**标签**: `fsca`, `neonatal_cpap`, `swissmedic`, `field_safety_corrective_action`, `medin_medical_innovations`, `nc3`, `3000`, `patient_safety`
+
+[查看来源 (Swissmedic)](https://fsca.swissmedic.ch/mep/#?q=Vk_20260803_024)
+
+---
+
+### Swissmedic 发布 Intervascular SAS 公司 Cardioroot Woven 人造血管移植物现场安全纠正措施
+
+**2026-08-06** | Swissmedic | 安全通报 | !! MEDIUM
+
+Swissmedic 已针对 Intervascular SAS 生产的非药物涂层合成血管移植物 Cardioroot Woven 发布现场安全纠正措施（FSCA）。公告中未具体说明纠正原因。受影响型号包括 HEWROOT0024、HEWROOT0026、HEWROOT0028、HEWROOT0030、HEWROOT0032 和 HEWROOT0034。使用者应立即查阅制造商的安全纠正通知并采取所有建议措施以确保患者安全。
+
+**标签**: `swissmedic`, `fsca`, `vascular_graft`, `intervascular`, `cardioroot_woven`, `medical_device_safety`
+
+[查看来源 (Swissmedic)](https://fsca.swissmedic.ch/mep/#?q=Vk_20260805_053)
+
+---
+
+### 瑞士药监局FSCA：Cook内窥镜止血喷雾HEMO-7、HEMO-10
+
+**2026-08-05** | Swissmedic | 安全通报 | !! MEDIUM
+
+瑞士药品监督管理局对Cook内窥镜公司的Hemospray内窥镜止血剂（型号HEMO-7和HEMO-10）发布了现场安全纠正措施。该产品为一种非有机止血剂，通知中未说明具体纠正原因。受影响用户应立即遵循制造商的指示，可能包括隔离和退回相关器械。
+
+**标签**: `fsca`, `endoscopic_hemostat`, `cook_endoscopy`
+
+[查看来源 (Swissmedic)](https://fsca.swissmedic.ch/mep/#?q=Vk_20260717_001)
+
+---
+
+### MAQUET GmbH ALPHAMAQUET 电动液压手术台底座现场安全纠正措施（型号115002B0）
+
+**2026-08-05** | Swissmedic | 安全通报 | !!! HIGH
+
+瑞士Swissmedic发布了一项针对MAQUET GmbH生产的ALPHAMAQUET电动液压手术台底座的现场安全纠正措施（FSCA）。受影响型号为115002B0（列表中重复出现）。通知未说明纠正原因，但建议用户查阅制造商的指导说明及FSCA门户网站以获取必要措施。这是针对使用该手术台底座的医疗机构的安全警示。
+
+**标签**: `fsca`, `operating_table`, `swissmedic`, `maquet`, `safety_alert`
+
+[查看来源 (Swissmedic)](https://fsca.swissmedic.ch/mep/#?q=Vk_20260728_006)
+
+---
+
+### 瑞士药监局FSCA：MAQUET电动液压手术床基座型号115002D0
+
+**2026-08-05** | Swissmedic | 安全通报 | !!! HIGH
+
+瑞士药监局对MAQUET GmbH的电动液压手术床基座（型号115002D0）发布现场安全纠正措施（FSCA）。具体安全问题未公开，但受影响用户须立即执行制造商的纠正措施以降低风险。
+
+**标签**: `swissmedic`, `fsca`, `operating_table`, `maquet`, `medical_device`
+
+[查看来源 (Swissmedic)](https://fsca.swissmedic.ch/mep/#?q=Vk_20260728_006)
+
+---
+
+### ALPHAMAQUET Operating table column - MAQUET GmbH
+
+**2026-08-05** | Swissmedic | 安全通报 | !! MEDIUM
+
+FSCA: MD: Electrohydraulic operating table base. Reason: . Model: 115002A0; 115002A0.
+
+[查看来源 (Swissmedic)](https://fsca.swissmedic.ch/mep/#?q=Vk_20260728_006)
+
+---
+
+### Swissmedic FSCA: MAQUET移动手术台柱 型号115002C0
+
+**2026-08-05** | Swissmedic | 安全通报 | !! MEDIUM
+
+瑞士药品监督管理局（Swissmedic）已发布针对MAQUET GmbH移动式电动液压手术台柱（型号115002C0）的现场安全纠正措施。该措施涉及手术台底座的安全问题。受影响用户应立即遵循FSCA通知中的制造商指示，并联系MAQUET获取进一步指导。
+
+**标签**: `swissmedic`, `fsca`, `maquet`, `operating_table`, `safety_correction`, `medical_device`
+
+[查看来源 (Swissmedic)](https://fsca.swissmedic.ch/mep/#?q=Vk_20260728_006)
+
+---
+
+### Swissmedic发布Maquet Cardiopulmonary血管导管导入套件FSCA（型号701047385）
+
+**2026-08-04** | Swissmedic | 安全通报 | !! MEDIUM
+
+瑞士Swissmedic发布了Maquet Cardiopulmonary GmbH生产的非植入式血管导管导入套件（型号701047385）的现场安全纠正措施（FSCA）。公告未详述纠正原因。医疗机构和专业人员应立即识别受影响产品并遵循制造商的安全指示。
+
+**标签**: `swissmedic_fsca`, `vascular_catheter`, `maquet_cardiopulmonary`, `field_safety_corrective_action`
+
+[查看来源 (Swissmedic)](https://fsca.swissmedic.ch/mep/#?q=Vk_20260728_032)
+
+---
+
+### 瑞士medic FSCA：迈柯唯心肺医疗有限公司 PIK 100-USA 血管导管导入套件（型号 701053068）
+
+**2026-08-04** | Swissmedic | 安全通报 | !! MEDIUM
+
+瑞士药品监管局（Swissmedic）发布了一则针对迈柯唯心肺医疗有限公司生产的PIK 100-USA血管导管导入套件（型号701053068）的现场安全纠正措施（FSCA）。该通知未详细说明纠正措施的具体原因。用户应识别库存中的受影响器械，并遵循制造商的纠正指示。
+
+**标签**: `fsca`, `swissmedic`, `vascular_catheter`, `maquet`, `corrective_action`
+
+[查看来源 (Swissmedic)](https://fsca.swissmedic.ch/mep/#?q=Vk_20260728_032)
+
+---
+
+### PIK 100血管导管导入套件：瑞士药监局现场安全纠正措施
+
+**2026-08-04** | Swissmedic | 安全通报 | !!! HIGH
+
+Maquet Cardiopulmonary GmbH 对其非植入式血管导管导入套件 PIK 100（型号 701047384）发布了现场安全纠正措施（FSCA）。瑞士药监局通知中未详细说明具体纠正原因。受影响用户应立即遵循制造商的指示，并联系 Maquet Cardiopulmonary GmbH 获取必要的指导与整改步骤。
+
+**标签**: `swissmedic`, `fsca`, `medical_device`, `catheter_introduction_set`, `maquet`
+
+[查看来源 (Swissmedic)](https://fsca.swissmedic.ch/mep/#?q=Vk_20260728_032)
+
+---
+
+### 瑞士药监局发布Maquet PIK扩张器套件L的现场安全纠正措施
+
+**2026-08-04** | Swissmedic | 安全通报 | !!! HIGH
+
+瑞士药物监管局发布了来自Maquet Cardiopulmonary GmbH的现场安全纠正措施（FSCA），涉及PIK扩张器套件L（型号701054427），这是一种非植入式血管导管导入套件。公告未详述纠正措施的具体原因，用户应参考制造商的通知，采取相应措施以降低与该器械相关的潜在风险。
+
+**标签**: `swissmedic`, `fsca`, `maquet_cardiopulmonary`, `vascular_catheter_introduction_set`, `pik_dilator_set`
+
+[查看来源 (Swissmedic)](https://fsca.swissmedic.ch/mep/#?q=Vk_20260728_032)
+
+---
+
+### 瑞士药品管理局发布PIK扩张器S（型号701054606）现场安全纠正措施
+
+**2026-08-04** | Swissmedic | 安全通报 | !!! HIGH
+
+瑞士药品管理局（Swissmedic）针对Maquet Cardiopulmonary GmbH生产的PIK扩张器S（型号701054606，非植入式血管导管导入套件）发布了现场安全纠正措施（FSCA）。公告未提供具体原因，但受影响用户需立即识别并隔离该产品，并遵循制造商的纠正措施说明。本次警示适用于指定型号的产品。
+
+**标签**: `fsca`, `vascular_catheter`, `maquet_cardiopulmonary`, `swissmedic`, `device_safety`
+
+[查看来源 (Swissmedic)](https://fsca.swissmedic.ch/mep/#?q=Vk_20260728_032)
+
+---
+
+### PIK 150-USA - Maquet Cardiopulmonary GmbH
+
+**2026-08-04** | Swissmedic | 安全通报 | !! MEDIUM
+
+FSCA: MD: Vascular catheter introduction set, nonimplantable. Reason: . Model: 701053069.
+
+[查看来源 (Swissmedic)](https://fsca.swissmedic.ch/mep/#?q=Vk_20260728_032)
+
+---
+
+### 瑞士药监局：Medline抽吸罐软衬套件中MED-STOP装置GMDN代码更正通知
+
+**2026-07-31** | Swissmedic | 安全通报 | !! MEDIUM
+
+本次瑞士药品监督管理局（Swissmedic）现场安全纠正措施涉及Medline Industries LP生产的Soft Liner抽吸罐软衬套件（型号OR53916、OR53926、OR53929、OR54916、OR54926）中所含的MED-STOP装置。纠正原因为全球医疗器械命名体系（GMDN）代码最初被分配给套件而非MED-STOP组件，可能导致识别错误。Medline正在更新该GMDN代码，用户应确认自身记录与更新后的命名一致。
+
+**标签**: `swissmedic`, `fsca`, `gmdn`, `suction_canister`, `medline`, `labeling_correction`
+
+[查看来源 (Swissmedic)](https://fsca.swissmedic.ch/mep/#?q=Vk_20260729_042)
+
+---
+
+### 瑞士Swissmedic发布迈瑞BeneHeart D1自动体外除颤器现场安全纠正措施
+
+**2026-07-31** | Swissmedic | 安全通报 | !!! HIGH
+
+瑞士药品监督管理局（Swissmedic）已发布由深圳迈瑞生物医疗电子股份有限公司生产的BeneHeart D1自动体外除颤器的现场安全纠正措施（FSCA）。简短通知中未详述具体纠正原因，该设备归类为生理监测除颤系统。涉事型号为BeneHeart D1。医疗机构和用户应立即遵循制造商提供的纠正措施说明，并关注Swissmedic官方通知以获取更多信息。
+
+**标签**: `swissmedic`, `fsca`, `defibrillator`, `mindray`, `recall`
+
+[查看来源 (Swissmedic)](https://fsca.swissmedic.ch/mep/#?q=Vk_20260727_033)
+
+---
+
+### 瑞士medic发布迈瑞iPM病人监护仪FSCA（型号5/6/7/8/10/12/9800）
+
+**2026-07-31** | Swissmedic | 安全通报 | !! MEDIUM
+
+瑞士药品监督管理局对深圳迈瑞生物医疗电子股份有限公司的iPM系列病人监护仪发布现场安全纠正措施。受影响型号为5、6、7、8、10、12、9800，涉及设备安全问题。用户需依据制造商提供的纠正措施减少风险。
+
+**标签**: `swissmedic`, `fsca`, `patient_monitor`, `mindray`, `product_correction`
+
+[查看来源 (Swissmedic)](https://fsca.swissmedic.ch/mep/#?q=Vk_20260727_033)
+
+---
+
+### Swissmedic发布迈瑞遥测监护仪TMS40/TMS-6016/TM80现场安全纠正措施
+
+**2026-07-31** | Swissmedic | 安全通报 | !! MEDIUM
+
+Swissmedic已发布针对迈瑞通用多参数遥测监护仪TMS40、TMS-6016和TM80型号的现场安全纠正措施（FSCA）。警报中未详细说明采取措施的具体原因，但相关机构应排查所涉型号设备，并按照迈瑞的指示采取行动。请确认设备合规性并实施必要纠正措施，以确保患者安全。
+
+**标签**: `telemetry_monitor`, `mindray`, `fsca`, `swissmedic`, `field_safety_corrective_action`, `medical_device`
+
+[查看来源 (Swissmedic)](https://fsca.swissmedic.ch/mep/#?q=Vk_20260727_033)
+
+---
+
+### Swissmedic对迈瑞uMEC系列病人监护仪发布现场安全纠正措施
+
+**2026-07-31** | Swissmedic | 安全通报 | !!! HIGH
+
+瑞士药品监督管理局（Swissmedic）已对深圳迈瑞生物医疗电子股份有限公司生产的uMEC系列床边多参数病人监护仪发布现场安全纠正措施（FSCA）。该措施涉及一项可能影响设备性能的潜在安全风险（具体原因未在通告摘要中披露）。受影响型号包括uMEC 6、7、10、12、15、15S、30、60、70、80、100、120和150。医疗机构应立即遵循FSCA通知中的制造商指示，并联系迈瑞公司以采取必要的纠正步骤。
+
+**标签**: `swissmedic`, `fsca`, `patient_monitor`, `mindray`, `safety_alert`
+
+[查看来源 (Swissmedic)](https://fsca.swissmedic.ch/mep/#?q=Vk_20260727_033)
+
+---
+
+### 瑞士药监局发布iMEC系列病人监护仪现场安全纠正措施，原因未披露
+
+**2026-07-31** | Swissmedic | 安全通报 | !! MEDIUM
+
+瑞士药监局（Swissmedic）针对深圳迈瑞生物医疗电子股份有限公司生产的iMEC系列多参数床边监护仪发布了现场安全纠正措施（FSCA）。通知中未披露此次纠正措施的具体原因、受影响型号或批次。使用该设备的医疗机构应关注官方后续信息，并遵循制造商的指示。
+
+**标签**: `fsca`, `swissmedic`, `patient_monitor`, `mindray`, `safety_corrective_action`
+
+[查看来源 (Swissmedic)](https://fsca.swissmedic.ch/mep/#?q=Vk_20260727_033)
+
+---
+
+### 瑞士Swissmedic发布迈瑞BeneHeart除颤监护仪（D20/D30/D50/D60等型号）现场安全纠正措施
+
+**2026-07-31** | Swissmedic | 安全通报 | !! MEDIUM
+
+瑞士Swissmedic发布针对深圳迈瑞BeneHeart除颤监护系统的现场安全纠正措施。受影响型号包括D20、D20A、D20C、D30、D50、D50A、D50C、D60、DX、DM、D2、D3、D5、D6。制造商正在执行纠正，用户应查阅FSCA通知获取具体措施。通知中未披露详细纠正原因。
+
+**标签**: `switzerland`, `fsca`, `defibrillator`, `mindray`, `field_safety_corrective_action`
+
+[查看来源 (Swissmedic)](https://fsca.swissmedic.ch/mep/#?q=Vk_20260727_033)
+
+---
+
+### 瑞士药品监督管理局发布迈瑞 BeneView T 系列病人监护仪（型号 T1/T5/T5S/T5 OR/T6/T8/T9/T9 OR）现场安全纠正措施
+
+**2026-07-31** | Swissmedic | 安全通报 | !! MEDIUM
+
+瑞士药品监督管理局（Swissmedic）针对深圳迈瑞生物医疗电子股份有限公司生产的 BeneView T 系列多参数床边监护仪发布了现场安全纠正措施（FSCA）。受影响型号包括 T1、T5、T5S、T5 OR、T6、T8、T9 及 T9 OR。尽管公告未披露具体安全原因，但相关医疗机构应立即联系迈瑞或其当地代表，执行建议的纠正措施，可能涉及检查、软件升级或部件更换。
+
+**标签**: `swissmedic`, `fsca`, `patient_monitor`, `mindray`, `safety_corrective_action`
+
+[查看来源 (Swissmedic)](https://fsca.swissmedic.ch/mep/#?q=Vk_20260727_033)
+
+---
+
+### 瑞士药监局对迈瑞Benevision V系列病人监护仪发布现场安全纠正措施
+
+**2026-07-31** | Swissmedic | 安全通报 | !! MEDIUM
+
+瑞士药品监管局（Swissmedic）对深圳迈瑞生物医疗电子股份有限公司生产的Benevision V系列病人监护仪发布了现场安全纠正措施（FSCA）。该通告（编号Vk_20260727_033）涉及通用多参数床边监护仪，但未在初始警报中提及具体原因及受影响型号/批次。用户应查阅Swissmedic网站完整公告，确认受影响设备并采取建议的纠正措施。
+
+**标签**: `swissmedic`, `fsca`, `patient_monitor`, `mindray`, `safety_corrective_action`
+
+[查看来源 (Swissmedic)](https://fsca.swissmedic.ch/mep/#?q=Vk_20260727_033)
+
+---
+
+### 瑞士Swissmedic发布迈瑞Benevision N1病人监护仪现场安全纠正措施
+
+**2026-07-31** | Swissmedic | 安全通报 | !!! HIGH
+
+瑞士药品监督管理局（Swissmedic）已就迈瑞Benevision N1通用多参数床边监护仪发布现场安全纠正措施（FSCA）。通知未说明具体原因及受影响的型号，但通常涉及安全相关修正。使用该设备的医疗机构应查阅Swissmedic平台上的完整FSCA并遵循制造商指示。
+
+**标签**: `fsca`, `swissmedic`, `patient_monitor`, `mindray`, `safety_corrective_action`
+
+[查看来源 (Swissmedic)](https://fsca.swissmedic.ch/mep/#?q=Vk_20260727_033)
+
+---
+
+### 瑞士Swissmedic发布Renishaw Mayfield neuromate立体定向系统FSCA（型号001.0050），具体原因未明
+
+**2026-07-30** | Swissmedic | 安全通报 | !! MEDIUM
+
+瑞士药品监督管理局（Swissmedic）发布了一项针对Renishaw Mayfield SARL生产的neuromate神经立体定向手术系统的现场安全纠正措施（FSCA）。受影响型号为001.0050。该通知未说明采取纠正措施的具体原因，用户应关注制造商后续的操作指导。
+
+**标签**: `swissmedic`, `fsca`, `stereotactic_system`, `neurosurgery`, `renishaw_mayfield`
+
+[查看来源 (Swissmedic)](https://fsca.swissmedic.ch/mep/#?q=Vk_20260722_030)
+
+---
+
+### GORE EXCLUDER Thoracoabdominal Branch Endoprosthesis - W L Gore & Associates Inc
+
+**2026-07-29** | Swissmedic | 安全通报 | !! MEDIUM
+
+FSCA: MD: Ptfe vascular endoprostheses, straight - other. Reason: . Model: all; all.
+
+[查看来源 (Swissmedic)](https://fsca.swissmedic.ch/mep/#?q=Vk_20260724_010)
+
+---
+
+### 瑞士medic警示：DH Healthcare公司ORBIS Medication 3.x软件存在用药错误风险
+
+**2026-07-29** | Swissmedic | 安全通报 | !!! HIGH
+
+瑞士药品管理局发布针对DH Healthcare GmbH生产的ORBIS Medication 3.x医疗设备软件的现场安全纠正措施。该纠正措施针对可能导致用药剂量显示或给药错误的潜在缺陷，对患者安全构成风险。受影响用户应立即核对用药医嘱，并应用制造商的更新以降低风险。
+
+**标签**: `software_recall`, `medication_error`, `swissmedic_fsca`, `field_safety_corrective_action`, `medical_device_software`
+
+[查看来源 (Swissmedic)](https://fsca.swissmedic.ch/mep/#?q=Vk_20260724_014)
+
+---
+
+### ConvaTec Esteem Body造口袋：瑞士药品监管局发布标签内容更正安全通告
+
+**2026-07-28** | Swissmedic | 安全通报 | !! MEDIUM
+
+ConvaTec 在瑞士对其 Esteem Body 单件式软凸面造口袋（单件式泌尿造口袋，开口）发布现场安全纠正措施。该纠正措施更新英文和德文版文档，修正英文版的分发日期，德文版中增加客服团队关于产品替代方案的信息并更正表格标题。受影响型号详见现场安全通告，用户应确保获取更正后的文档。此为中优先级的标签内容更正。
+
+**标签**: `swissmedic`, `fsca`, `labeling_correction`
+
+[查看来源 (Swissmedic)](https://fsca.swissmedic.ch/mep/#?q=Vk_20260724_001)
+
+---
+
+### 瑞士Swissmedic发布Ethicon Gynecare TVT（型号TVTRL）失禁产品现场安全纠正措施
+
+**2026-07-27** | Swissmedic | 安全通报 | !! MEDIUM
+
+瑞士Swissmedic针对Ethicon SARL生产的Gynecare TVT失禁装置发布了现场安全纠正措施（FSCA），受影响型号为TVTRL。通知中未详述具体纠正原因，但使用者应遵循制造商在FSCA中的指示，以确保患者安全。
+
+**标签**: `fsca`, `swissmedic`, `incontinence_device`, `ethicon`, `gynecare_tvt`, `field_safety_corrective_action`
+
+[查看来源 (Swissmedic)](https://fsca.swissmedic.ch/mep/#?q=Vk_20260715_002)
+
+---
+
+### 瑞士药监局对飞利浦Azurion固定式血管造影X射线系统发布现场安全纠正措施
+
+**2026-07-24** | Swissmedic | 安全通报 | !! MEDIUM
+
+飞利浦医疗（荷兰）公司针对其Azurion固定式血管造影X射线系统的特定型号发布了现场安全纠正措施（FSCA）。受影响的型号包括722063、722064、722067、722068、722078、722079，以及722221至722236系列和722280至722282系列。此次纠正措施旨在处理潜在的安全问题，但通知中未公开具体细节。使用这些系统的用户应立即联系飞利浦或遵循制造商指引采取必要的纠正行动。
+
+**标签**: `swissmedic`, `fsca`, `angiographic_xray`
+
+[查看来源 (Swissmedic)](https://fsca.swissmedic.ch/mep/#?q=Vk_20260722_026)
+
+---
+
+### 瑞士药监局对Abiomed/Oscor Impella导引器套件发布FSCA
+
+**2026-07-23** | Swissmedic | 安全通报 | !!! HIGH
+
+瑞士药监局发布了针对Abiomed Inc.与Oscor生产的Impella导引器套件（血管导管导入套件）的现场安全纠正措施。受影响型号为0052-3046、0052-3052、0052-3053、0052-3006、0052-3021，目录号包括0048-0014、0052-0038、0052-0039、1000482、0052-0011-EU、0550-0002、0046-0011、0052-0002-EU。使用者应立即检查库存，隔离受影响器械，并遵循制造商提供的纠正措施。
+
+**标签**: `swissmedic`, `fsca`, `impella`, `introducer_kit`, `vascular_catheter`, `abiomed`
+
+[查看来源 (Swissmedic)](https://fsca.swissmedic.ch/mep/#?q=Vk_20260708_007)
+
+---
+
+### 瑞士药监局 FSCA：MEDCAPTAIN BD neXus 一次性输液器安全纠正
+
+**2026-07-22** | Swissmedic | 安全通报 | !! MEDIUM
+
+MEDCAPTAIN LIFE SCIENCE CO., LTD. 就其 BD neXus 一次性输液器（电动输液泵用单次使用管路）发布现场安全纠正措施。受影响型号包括 A211M、A211M1F、A211M5F1、A311M、A311M021F 和 A212M1F。初始通知未详述纠正原因，但用户应遵循制造商指示，通常涉及隔离和退回受影响产品。更多信息请查阅 Swissmedic FSCA 平台。
+
+**标签**: `fsca`, `infusion_set`, `swissmedic`, `medical_device_safety`, `medcaptain`
+
+[查看来源 (Swissmedic)](https://fsca.swissmedic.ch/mep/#?q=Vk_20260713_032)
+
+---
+
+### 瑞士药监局发布Pride Mobility Q6 Edge电动轮椅安全纠正措施
+
+**2026-07-22** | Swissmedic | 安全通报 | !!! HIGH
+
+瑞士药监局（Swissmedic）针对 Pride Mobility 的 Q6 Edge 4、Q6 Edge 3 Stretto 和 Q6 Edge 3 电动轮椅发布现场安全纠正措施（FSCA）。该措施旨在解决一项可能影响乘员控制的安全问题。受影响用户及医护人员应根据制造商现场安全通知进行检查或修正，并联系 Pride Mobility 或其供应商获取具体指引。
+
+**标签**: `swissmedic`, `fsca`, `electric_wheelchair`, `pride_mobility`, `safety_corrective_action`, `mobility_aid`
+
+[查看来源 (Swissmedic)](https://fsca.swissmedic.ch/mep/#?q=Vk_20260630_019)
+
+---
+
+### 士卓曼BLT Ø4.1mm RC SLActive® 12mm TiZr种植体FSCA（型号021.5312）
+
+**2026-07-22** | Swissmedic | 安全通报 | !! MEDIUM
+
+士卓曼公司（Institut Straumann AG）针对BLT Ø4.1mm RC、SLActive® 12mm、TiZr、NTP种植体（型号021.5312）发布现场安全纠正措施（FSCA）。瑞士药监局通知未说明具体原因，但要求分销商和医疗专业人员采取行动。受影响方应查阅官方FSCA获取指引，可能包括隔离、退回或加强监测。
+
+**标签**: `fsca`, `swissmedic`, `dental_implant`, `straumann`
+
+[查看来源 (Swissmedic)](https://fsca.swissmedic.ch/mep/#?q=Vk_20260710_015)
+
+---
+
+### 瑞士Swissmedic发布Permobil M5 Corpus电动轮椅现场安全纠正措施（型号M5）
+
+**2026-07-22** | Swissmedic | 安全通报 | !! MEDIUM
+
+瑞士Swissmedic发布了关于Permobil AB生产的Permobil M5 Corpus电动轮椅的现场安全纠正措施（FSCA）。该通知未具体说明纠正原因，但明确涉及M5型号。受影响用户和医疗保健提供者应遵循制造商建议，并联系Permobil AB获取进一步指导。
+
+**标签**: `swissmedic`, `fsca`, `permobil`, `electric_wheelchair`, `m5_corpus`, `safety_corrective_action`
+
+[查看来源 (Swissmedic)](https://fsca.swissmedic.ch/mep/#?q=Vk_20260720_039)
+
+---
+
+### 瑞士药监局针对Pharmico Medical Kft. UroDapter无菌泌尿适配器发布FSCA
+
+**2026-07-22** | Swissmedic | 安全通报 | !!! HIGH
+
+瑞士Swissmedic对Pharmico Medical Kft.的一次性无菌泌尿适配器UroDapter发布现场安全纠正措施。受影响型号包括日期批次20230228、20230929、20240430、20241031、20251231、20260130、20260430。虽未公布具体原因，但医疗机构需隔离相关产品并遵守厂商纠正指示。详细信息见Swissmedic FSCA公告。
+
+**标签**: `swissmedic`, `fsca`, `medical_device`, `urology`, `sterile_adapter`, `field_safety_corrective_action`, `pharmico_medical`
+
+[查看来源 (Swissmedic)](https://fsca.swissmedic.ch/mep/#?q=Vk_20260720_024)
+
+---
+
+### Swissmedic发布Pharmico Medical无菌泌尿适配器现场安全纠正措施
+
+**2026-07-22** | Swissmedic | 安全通报 | !!! HIGH
+
+Swissmedic对Pharmico Medical Kft.生产的无菌一次性泌尿适配器IALUADAPTER发布现场安全纠正措施。通知未明确具体原因，涉及型号为2300023、2300070、2400068、2400133、2500119、2500134、2600044。用户应立即隔离受影响产品并按照制造商指示进行退货或处理。
+
+**标签**: `field_safety_corrective_action`, `urological_device`, `swissmedic`, `recall`, `pharmico_medical`
+
+[查看来源 (Swissmedic)](https://fsca.swissmedic.ch/mep/#?q=Vk_20260720_024)
+
+---
+
+### Stryker Hoffmann II 微型连接杆 FSCA 回复截止日期更新
+
+**2026-07-21** | Swissmedic | 安全通报 | !! MEDIUM
+
+Stryker GmbH 针对其 Hoffmann II 微型连接杆（属于外固定支架系统）发布了现场安全纠正措施（FSCA）。此次措施唯一目的是更新此前通知的回复截止日期。受影响型号包括 50796030, 50796040, 50796050, 50796060, 50796090, 50796120, 50796150。用户须留意新截止日期并按时提交回复。
+
+**标签**: `swissmedic`, `fsca`, `stryker`, `external_fixation`, `hoffmann_ii_micro`, `deadline_update`
+
+[查看来源 (Swissmedic)](https://fsca.swissmedic.ch/mep/#?q=Vk_20260713_022)
+
+---
+
+### Swissmedic发布美敦力Sphere-360导管FSCA：新增语言
+
+**2026-07-21** | Swissmedic | 安全通报 | !! MEDIUM
+
+瑞士Swissmedic因美敦力Sphere-360导管（型号AFR-00012）标签新增语言而发布现场安全纠正措施。此次为产品标签更新，非召回，无需退回产品。用户和经销商应确保使用更新后的标签并安全操作设备。
+
+**标签**: `fsca`, `medtronic`, `labeling_update`
+
+[查看来源 (Swissmedic)](https://fsca.swissmedic.ch/mep/#?q=Vk_20260715_006)
+
+---
+
+### 瑞士medic发布MEDICO TECHNOLOGIES泪道插管FSCA 涉及型号S-140097/S-140096
+
+**2026-07-21** | Swissmedic | 安全通报 | !!! HIGH
+
+瑞士medic已针对MEDICO TECHNOLOGIES生产的无菌一次性泪道插管发布现场安全纠正措施（FSCA），受影响型号为S-140097和S-140096。该纠正行动的具体原因在公告中未详细说明，但涉及泪道器械。建议医疗机构立即识别并隔离受影响产品，遵循制造商的退货或纠正指示。
+
+**标签**: `swissmedic`, `fsca`, `medical_device_recall`, `lacrimal_cannula`, `medico_technologies`
+
+[查看来源 (Swissmedic)](https://fsca.swissmedic.ch/mep/#?q=Vk_20260720_002)
+
+---
+
+### Swissmedic 发布 Aesculap AG Silver Graft (Helix) 血管假体现场安全纠正措施
+
+**2026-07-21** | Swissmedic | 安全通报 | !!! HIGH
+
+瑞士药品监督管理局针对 Aesculap AG 的 Silver Graft（Helix）合成血管假体（非药物涂层）发布现场安全纠正措施。公告未公开具体原因，受影响的型号及批次信息请查阅制造商的现场安全通知（FSN）。医疗机构应即刻排查受影响产品，参照 FSN 采取行动，通常包括停用、隔离和退回。
+
+**标签**: `swissmedic`, `fsca`, `vascular_prosthesis`, `aesculap_ag`, `implant`, `field_safety_corrective_action`
+
+[查看来源 (Swissmedic)](https://fsca.swissmedic.ch/mep/#?q=Vk_20260715_075)
+
+---
+
+### 瑞士Swissmedic发布Philips Cardiac Workstation 7000心电图机（型号860441）现场安全纠正措施（原因未详）
+
+**2026-07-15** | Swissmedic | 安全通报 | !! MEDIUM
+
+瑞士药品监督管理局Swissmedic发布了针对Philips Medizin Systeme Böblingen GmbH生产的Cardiac Workstation 7000专业多通道心电图机（型号860441）的现场安全纠正措施（FSCA）。公开通知中未说明具体原因。用户应联系飞利浦或其当地代表，获取必要的纠正措施（可能涉及软件更新、硬件检查或其他风险缓解步骤），以确保设备安全与性能。
+
+**标签**: `switzerland`, `fsca`, `electrocardiograph`, `philips`, `safety_corrective_action`, `medical_device`
+
+[查看来源 (Swissmedic)](https://fsca.swissmedic.ch/mep/#?q=Vk_20260702_031)
+
+---
+
+### 飞利浦Cardiac Workstation 5000（型号860439）现场安全纠正措施
+
+**2026-07-15** | Swissmedic | 安全通报 | !! MEDIUM
+
+Philips Medizin Systeme Böblingen GmbH 针对其专业多通道心电图机 Cardiac Workstation 5000 发布了现场安全纠正措施（FSCA），涉及型号 860439。尽管瑞士药监局通知未详述具体原因，但建议用户联系飞利浦或按照制造商说明采取必要措施。该 FSCA 已在瑞士药监局备案（编号 Vk_20260702_031）。
+
+**标签**: `fsca`, `swissmedic`, `electrocardiograph`, `philips`, `medical_device`, `field_safety_corrective_action`
+
+[查看来源 (Swissmedic)](https://fsca.swissmedic.ch/mep/#?q=Vk_20260702_031)
+
+---
+
+### 瑞士药监局针对Covidien BOX BYPASS KIT（型号BOX09222V1）发布现场安全纠正措施（2025年12月）
+
+**2026-07-15** | Swissmedic | 安全通报 | !! MEDIUM
+
+瑞士药监局发布了一项针对Covidien llc生产的BOX BYPASS KIT（型号BOX09222V1）的现场安全纠正措施，通知日期为2025年12月。该警报涉及特定安全问题，相关医疗机构应立即查阅制造商提供的纠正说明，可能包括产品检查、隔离或退货。完整原因及处理措施详见Swissmedic官方FSCA文件。
+
+**标签**: `swissmedic`, `fsca`, `covidien`, `box_bypass_kit`, `safety_corrective_action`
+
+[查看来源 (Swissmedic)](https://fsca.swissmedic.ch/mep/#?q=Vk_20260708_010)
+
+---
+
+### 瑞士药监局发布Covidien V-Loc 180可吸收缝合线现场安全纠正措施
+
+**2026-07-15** | Swissmedic | 安全通报 | !!! HIGH
+
+瑞士药品监督管理局（Swissmedic）发布了一项针对Covidien llc生产的V-Loc 180聚酯可吸收单丝非抗菌缝合线的现场安全纠正措施（FSCA）。受影响型号包括VLOCL0024、VLOCL0306、VLOCL0316、VLOCL0604、VLOCL0644、VLOCL0804、VLOCL2105、VLOCL2145和VLOCL2246。虽然通知未说明具体原因，但医疗机构应识别并隔离相关产品，按照制造商指引操作，以防范潜在患者风险。
+
+**标签**: `swissmedic`, `fsca`, `covidien`, `v_loc_180`, `suture`, `recall`
+
+[查看来源 (Swissmedic)](https://fsca.swissmedic.ch/mep/#?q=Vk_20260708_010)
+
+---
+
+### 瑞士Swissmedic发布Covidien V-Loc 90倒刺缝合线现场安全纠正措施
+
+**2026-07-15** | Swissmedic | 安全通报 | !!! HIGH
+
+Swissmedic发布了由Covidien llc生产的V-Loc 90倒钩聚酯缝线的现场安全纠正措施。受影响型号为VLOCM0003、VLOCM0013及VLOCM0604。虽未公布具体原因，医疗机构应识别并隔离受影响批次，并按制造商指示进行退货或纠正。
+
+**标签**: `barbed_suture`, `field_safety_corrective_action`, `swissmedic`, `covidien`
+
+[查看来源 (Swissmedic)](https://fsca.swissmedic.ch/mep/#?q=Vk_20260708_010)
+
+---
+
+### 瑞士Swissmedic发布美敦力MiniMed 640G胰岛素泵（型号MMT-1711、MMT-1712）现场安全纠正措施
+
+**2026-07-15** | Swissmedic | 安全通报 | !!! HIGH
+
+瑞士药品管理局（Swissmedic）针对美敦力MiniMed 640G便携式胰岛素泵发布了现场安全纠正措施（FSCA），涉及电子泵型号MMT-1711和MMT-1712。该纠正措施的具体原因在通知中未公开说明。建议涉及的用户和医疗专业人员遵循制造商提供的立即行动指示，并联系美敦力获取进一步指导。
+
+**标签**: `fsca`, `swissmedic`, `insulin_pump`, `medtronic`, `corrective_action`, `safety`
+
+[查看来源 (Swissmedic)](https://fsca.swissmedic.ch/mep/#?q=Vk_20260713_059)
+
+---
+
+### 瑞士Swissmedic发布美敦力MiniMed 670G胰岛素泵软件剂量标量算法纠正公告
+
+**2026-07-15** | Swissmedic | 安全通报 | !!! HIGH
+
+瑞士药品监督管理局（Swissmedic）已发布美敦力MiniMed 670G便携式胰岛素泵（型号MMT-1781、MMT-1782）的现场安全纠正措施（FSCA），原因涉及软件剂量标量算法潜在问题。相关医务人员和患者应立即遵循制造商指引，降低胰岛素输注风险。美敦力将提供软件修正或其他补救措施。
+
+**标签**: `swissmedic`, `fsca`, `insulin_pump`, `software_correction`, `medtronic`, `recall`
+
+[查看来源 (Swissmedic)](https://fsca.swissmedic.ch/mep/#?q=Vk_20260713_059)
+
+---
+
+### 瑞士药品监督管理局发布美敦力MiniMed 780G胰岛素泵软件给药算法现场安全纠正措施
+
+**2026-07-15** | Swissmedic | 安全通报 | !!! HIGH
+
+瑞士药品监督管理局针对美敦力MiniMed 780G便携式胰岛素泵（型号MMT-1885CLW和MMT-1886CLW）发布现场安全纠正措施，原因是电子软件给药标量算法可能存在潜在问题。该纠正措施旨在降低相关风险，用户和医疗机构应联系美敦力获取推荐的整改步骤，可能包括软件更新或设备检查。
+
+**标签**: `swissmedic`, `fsca`, `insulin_pump`, `medtronic`, `software_correction`, `medical_device_safety`
+
+[查看来源 (Swissmedic)](https://fsca.swissmedic.ch/mep/#?q=Vk_20260713_059)
+
+---
+
+### 瑞士Swissmedic发布Hollister Onli与Infyna亲水间歇导尿管现场安全纠正措施
+
+**2026-07-15** | Swissmedic | 安全通报 | !!! HIGH
+
+瑞士药品监督管理局(Swissmedic)发布了一项针对Hollister公司Onli和Infyna亲水涂层间歇导尿管特定型号的现场安全纠正措施(FSCA)。涉及型号包括82081、82121、88081、82084、85124等多个产品编号，均为单次使用尿道引流导管。受影响用户应立即遵循制造商现场安全通知中的指导，停止使用受影响产品并按照厂家指示处理。通知中未公开具体原因，但该纠正措施提示存在需要降低风险的潜在问题。
+
+**标签**: `fsca`, `swissmedic`, `catheter_recall`, `hollister`, `urology_device`
+
+[查看来源 (Swissmedic)](https://fsca.swissmedic.ch/mep/#?q=Vk_20260714_001)
+
+---
+
+### 瑞士Swissmedic发布岛津诊断X射线系统发生器FSCA
+
+**2026-07-15** | Swissmedic | 安全通报 | !! MEDIUM
+
+Swissmedic针对岛津（Shimadzu）固定式诊断X射线系统发生器发布现场安全纠正措施（FSCA），涉及型号UD150B-40、UD150V-40、UD150L-40和UD150L-40E/F。通知未说明具体纠正原因，受影响用户应查看Swissmedic案例编号Vk_20260713_052以执行必要措施。
+
+**标签**: `fsca`, `swissmedic`, `x-ray`, `diagnostic_imaging`, `shimadzu`, `medical_device_correction`
+
+[查看来源 (Swissmedic)](https://fsca.swissmedic.ch/mep/#?q=Vk_20260713_052)
+
+---
+
+### 瑞士药监局FSCA：Kröber O2制氧机 – 修正型号/目录号重复条目
+
+**2026-07-14** | Swissmedic | 安全通报 | !! MEDIUM
+
+瑞士药监局发布针对Kröber O2制氧机（型号KRO2.00、KR4.00）的现场安全纠正措施，原因是制造商修正了型号和目录号中的重复条目。该行动为文件纠正，不涉及产品召回。受影响用户和经销商应参考更新后的制造商信息，以确保正确识别设备。
+
+**标签**: `swissmedic`, `fsca`, `oxygen_concentrator`, `kroeber`, `model_correction`
+
+[查看来源 (Swissmedic)](https://fsca.swissmedic.ch/mep/#?q=Vk_20260713_013)
+
+---
+
+### 瑞士Swissmedic发布Schiller AG SEMA临床数据接口软件现场安全纠错行动
+
+**2026-07-14** | Swissmedic | 安全通报 | !! MEDIUM
+
+瑞士药品监督管理局（Swissmedic）针对Schiller AG的SEMA医疗设备临床数据接口软件发布了现场安全纠错行动（FSCA）。受影响型号包括0A.602010、0A.602030、0A.602000和0A.602020。尽管公告未详细说明纠错原因，用户应查阅完整的FSCA文件，并遵循制造商或Swissmedic的建议。
+
+**标签**: `medical_device`, `fsca`, `swissmedic`, `software`, `clinical_data`, `schiller`, `product_correction`
+
+[查看来源 (Swissmedic)](https://fsca.swissmedic.ch/mep/#?q=Vk_20260706_028)
+
+---
+
+### 瑞士药监局FSCA：波士顿科学OverStitch缝合线收紧器型号M00505530和M00505540
+
+**2026-07-14** | Swissmedic | 安全通报 | !! MEDIUM
+
+瑞士治疗产品监管局（Swissmedic）发布了一项针对波士顿科学公司生产的一次性缝合线/结扎收紧器OverStitch Suture Cinch的现场安全纠正措施。受影响型号为M00505530（GTIN：00191506060046）和M00505540（GTIN：00191506049171）。通知中未详细说明纠正原因，用户应遵循制造商的说明。应识别、隔离相关器械并按波士顿科学的指导处理。
+
+**标签**: `medical_device`, `fsca`, `switzerland`, `suture_tightener`, `boston_scientific`, `recall`
+
+[查看来源 (Swissmedic)](https://fsca.swissmedic.ch/mep/#?q=Vk_20260713_034)
+
+---
+
+### 瑞士medic发布波士顿科学Suture Cinch–Long缝合线收紧器FSCA
+
+**2026-07-14** | Swissmedic | 安全通报 | !! MEDIUM
+
+瑞士medic对波士顿科学的Suture Cinch–Long一次性缝合线/结扎线收紧器（型号 M00505550，GTIN: 00191506049188）发布了现场安全纠正措施。本通知未详细说明纠正原因。使用该器械的医疗机构应遵循制造商说明，可能包括隔离并退回受影响产品。
+
+**标签**: `field_safety_corrective_action`, `swissmedic`, `surgical_device`, `boston_scientific`
+
+[查看来源 (Swissmedic)](https://fsca.swissmedic.ch/mep/#?q=Vk_20260713_034)
+
+---
+
+### Swissmedic发布Maquet Critical Care Flow-i和Flow-e麻醉工作站现场安全纠正措施
+
+**2026-07-14** | Swissmedic | 安全通报 | !! MEDIUM
+
+瑞士治疗产品管理局（Swissmedic）已发布针对Maquet Critical Care AB公司Flow-i C20、C30、C40、Flow-c及Flow-e通用麻醉工作站的现场安全纠正行动。该通知列出了受影响的具体型号与商品编号，涵盖多种Flow-i配置。用户应查阅制造商纠正说明并落实建议措施，以确保设备安全与性能。
+
+**标签**: `swissmedic`, `fsca`, `anesthesia_workstation`, `maquet_critical_care`
+
+[查看来源 (Swissmedic)](https://fsca.swissmedic.ch/mep/#?q=Vk_20260703_019)
+
+---
+
+### 瑞士Fritz Stephan公司Eve Neo呼吸机现场安全纠正措施（型号107061420/107061401）
+
+**2026-07-14** | Swissmedic | 安全通报 | !!! HIGH
+
+瑞士药监局（Swissmedic）发布了对Fritz Stephan GmbH公司Eve Neo成人及儿童/新生儿肺通气器的现场安全纠正措施（FSCA），涉及型号107061420和107061401。公告未详述具体原因，但涉及一项安全问题。受影响用户应立即根据该FSCA中的制造商指导采取纠正措施，确保设备安全运行。
+
+**标签**: `swissmedic`, `fsca`, `ventilator`, `field_safety_corrective_action`, `fritz_stephan`, `eve_neo`
+
+[查看来源 (Swissmedic)](https://fsca.swissmedic.ch/mep/#?q=Vk_20260710_036)
+
+---
+
+### 安全警报：Fritz Stephan GmbH Oxylog 600 呼吸机（型号 107161400、107161401）
+
+**2026-07-14** | Swissmedic | 安全通报 | !!! HIGH
+
+瑞士Swissmedic对Fritz Stephan GmbH生产的Oxylog 600成人和儿童/新生儿肺通气机发布了现场安全纠正措施（FSCA），涉及型号107161400和107161401。该警报未详细说明具体原因，但用户应立即遵循制造商的安全通知并执行所需的纠正措施。
+
+**标签**: `fsca`, `ventilator`, `safety_alert`, `swissmedic`, `recall`
+
+[查看来源 (Swissmedic)](https://fsca.swissmedic.ch/mep/#?q=Vk_20260710_036)
+
+---
+
+### Eve In - Fritz Stephan GmbH
+
+**2026-07-14** | Swissmedic | 安全通报 | !! MEDIUM
+
+FSCA: MD: Adult and paediatric/neonatal pulmonary ventilators. Reason: . Model: 107061410, 107061411; .
+
+[查看来源 (Swissmedic)](https://fsca.swissmedic.ch/mep/#?q=Vk_20260710_036)
+
+---
+
+### BLEPHADEMODEX无菌皮肤清洁湿巾：瑞士药监局发布现场安全纠正措施
+
+**2026-07-10** | Swissmedic | 安全通报 | !!! HIGH
+
+瑞士药监局对Laboratoires ThÃ©a生产的BLEPHADEMODEX无菌皮肤清洁湿巾发布现场安全纠正措施（FSCA）。通知未具体说明纠正原因，也未列出受影响型号/批次。用户应立即隔离该产品，并按制造商指示进行退回或处置。该措施强调无菌保证在医疗器械中的重要性。
+
+**标签**: `fsca`, `swissmedic`, `sterile_wipe`, `medical_device`, `recall`, `laboratoires_thea`, `blephademodex`
+
+[查看来源 (Swissmedic)](https://fsca.swissmedic.ch/mep/#?q=Vk_20260625_030)
+
+---
+
+### Swissmedic FSCA：Getinge Disinfection AB 暖柜型号363 – 通用干燥柜
+
+**2026-07-09** | Swissmedic | 安全通报 | !!! HIGH
+
+瑞士药品监督管理局（Swissmedic）已对Getinge Disinfection AB生产的通用干燥柜（暖柜）型号363发布现场安全纠正措施（FSCA）。该通知未详细说明具体纠正原因，但制造商正在采取措施以解决潜在的安全或性能问题。受影响用户应遵循制造商通过FSCA提供的指示，并联系Getinge Disinfection AB获取进一步指导。
+
+**标签**: `swissmedic`, `fsca`, `warming_cabinet`
+
+[查看来源 (Swissmedic)](https://fsca.swissmedic.ch/mep/#?q=Vk_20260703_028)
+
+---
+
+### Comecer IRIS输注泵FSCA：新增德语版本 (型号0246010026)
+
+**2026-07-08** | Swissmedic | 安全通报 | !! MEDIUM
+
+瑞士medic发布了对Comecer Netherlands B.V.公司IRIS输注泵（型号0246010026）的现场安全纠正措施。该措施新增德语版文件，旨在降低德语使用者因语言障碍可能引发的使用错误风险。受影响设备应按照制造商说明完成德语文档更新。
+
+**标签**: `swissmedic`, `fsca`, `infusion_pump`, `comecer`, `german_language`, `product_correction`
+
+[查看来源 (Swissmedic)](https://fsca.swissmedic.ch/mep/#?q=Vk_20260702_022)
+
+---
+
+### 瑞士Swissmedic发布飞利浦Allura固定式血管造影X射线系统现场安全纠正措施
+
+**2026-07-08** | Swissmedic | 安全通报 | !!! HIGH
+
+瑞士药品监督管理局（Swissmedic）发布了一项针对飞利浦医疗系统荷兰有限公司生产的Allura固定式血管造影X射线系统的现场安全纠正措施（FSCA）。受影响型号包括722026、722027、722028、722029、722035、722038、722039和722058。虽然通知未说明具体原因，但使用者必须立即联系飞利浦获取纠正措施指导，以确保设备安全运行。
+
+**标签**: `swissmedic`, `fsca`, `philips_allura`, `angiographic_x_ray`, `medical_device_recall`
+
+[查看来源 (Swissmedic)](https://fsca.swissmedic.ch/mep/#?q=Vk_20260701_028)
+
+---
+
+### 瑞士药监局发布嘉兴天和BAL冲洗注射器安全纠正措施
+
+**2026-07-07** | Swissmedic | 安全通报 | !!! HIGH
+
+瑞士药品监督管理局针对嘉兴天和制药有限公司生产的BAL冲洗注射器SS 10ml（型号BAL 464013）发布了现场安全纠正措施。具体风险原因尚未公布，但涉及预填充注射器。医疗机构应立即排查受影响产品，暂停使用并按照制造商指引进行隔离、退货或处置。
+
+**标签**: `swissmedic`, `fsca`, `medical_device`, `prefilled_syringe`, `recall`
+
+[查看来源 (Swissmedic)](https://fsca.swissmedic.ch/mep/#?q=Vk_20260707_022)
+
+---
+
+### 瑞士药监局：波士顿科学胆管造影管路套件现场安全纠正措施
+
+**2026-07-07** | Swissmedic | 安全通报 | !! MEDIUM
+
+瑞士药监局发布了一项针对波士顿科学快速再灌注连续注射系统胆管造影管路套件（GTIN 08714729285151，材料号M00566001）的现场安全纠正措施。具体原因在制造商通知中说明。医疗机构应识别受影响的器械，隔离并按照波士顿科学的指示处理，以降低安全风险。
+
+**标签**: `swissmedic`, `fsca`, `boston_scientific`, `cholangiography_tubing`, `medical_device`, `safety_corrective_action`, `switzerland`
+
+[查看来源 (Swissmedic)](https://fsca.swissmedic.ch/mep/#?q=Vk_20260630_024)
+
+---
+
+### Swissmedic发布Abiomed自动Impella控制器现场安全纠正措施（FSCA）
+
+**2026-07-06** | Swissmedic | 安全通报 | !!! HIGH
+
+瑞士药品监督管理局（Swissmedic）已针对Abiomed Inc.生产的自动Impella控制器（AIC）发布现场安全纠正措施（FSCA）。受影响的产品为心内循环辅助轴流泵导管控制单元，型号包括0042-0040、0042-0010、0042-0000及对应的欧盟/英国版本。尽管通知未详述具体原因，但用户应遵循制造商说明采取必要的纠正措施，以保障患者安全。
+
+**标签**: `swissmedic`, `fsca`, `impella`, `heart_pump`, `abiomed`, `safety_alert`, `cardiac_assist`
+
+[查看来源 (Swissmedic)](https://fsca.swissmedic.ch/mep/#?q=Vk_20260612_048)
+
+---
+
+### B. Braun Infusomat Space P输液泵FSCA（型号8713070）
+
+**2026-07-02** | Swissmedic | 安全通报 | !!! HIGH
+
+瑞士Swissmedic发布了B. Braun Melsungen AG Infusomat Space P床旁输液泵（型号8713070）的现场安全纠正措施。通知摘要未详述具体原因，但提示存在需用户关注的安全隐患。使用该设备的医疗机构应立即查阅Swissmedic门户上的完整FSCA，并遵循制造商的建议措施以降低风险。
+
+**标签**: `swissmedic`, `fsca`, `infusion_pump`, `safety`, `b_braun`, `field_safety_corrective_action`
+
+[查看来源 (Swissmedic)](https://fsca.swissmedic.ch/mep/#?q=Vk_20260701_035)
+
+---
+
+### 瑞士Swissmedic发布奥林巴斯MAJ-2315一次性远端保护罩现场安全纠正措施
+
+**2026-07-01** | Swissmedic | 安全通报 | !!! HIGH
+
+瑞士Swissmedic发布奥林巴斯一次性远端保护罩（型号MAJ-2315，批次N6192000）的现场安全纠正措施（FSCA）。该产品为一次性内窥镜患者保护罩。虽未详述具体原因，医疗机构应立即核查库存，隔离受影响产品，并按奥林巴斯指示采取风险缓解措施。
+
+**标签**: `swissmedic`, `fsca`, `olympus`, `distal_cover`
+
+[查看来源 (Swissmedic)](https://fsca.swissmedic.ch/mep/#?q=Vk_20260626_004)
+
+---
+
+### Swissmedic发布SY-LAB IceCube线性速率医用冷冻箱FSCA
+
+**2026-07-01** | Swissmedic | 安全通报 | !! MEDIUM
+
+瑞士药品监督管理局（Swissmedic）针对SY-LAB公司生产的IceCube系列线性速率医用冷冻箱发布现场安全纠正措施（FSCA），涉及11XS MED、14S MED、14M MED、17M MED、17L MED及对应非医疗型号。具体安全隐患未在初始公告中说明。相关实验室和医疗机构须立即查阅Swissmedic官网完整通知，并执行制造商提供的纠正措施。
+
+**标签**: `swissmedic`, `fsca`, `medical_freezer`, `laboratory_equipment`, `safety_correction`
+
+[查看来源 (Swissmedic)](https://fsca.swissmedic.ch/mep/#?q=Vk_20260624_027)
+
+---
+
+### Medline MEDSTOP三通阀现场安全纠正措施：新增语言标签
+
+**2026-06-30** | Swissmedic | 安全通报 | !! MEDIUM
+
+瑞士Swissmedic发布了针对Medline Industries LP生产的MEDSTOP三通阀的现场安全纠正措施。该措施因需在标签中新增一种语言以满足法规要求。受影响型号参见现场安全通知(FSN)。分销商和医疗机构应确保使用更新后的标签。
+
+**标签**: `stopcock`, `labeling_update`, `field_safety_corrective_action`, `medline`, `swissmedic`
+
+[查看来源 (Swissmedic)](https://fsca.swissmedic.ch/mep/#?q=Vk_20260625_032)
+
+---
+
+### FARADRIVE可控鞘管：瑞士Swissmedic因新增标签语言发布安全纠正措施
+
+**2026-06-16** | Swissmedic | 安全通报 | !! MEDIUM
+
+瑞士Swissmedic发布了对波士顿科学公司FARADRIVE可控鞘管（一次性血管导引导管）的现场安全纠正措施。原因为产品标签新增一种语言，属于修正性质。受影响型号详见安全通知，用户需更新并遵循新版使用说明。
+
+**标签**: `swissmedic`, `fsca`, `labeling_update`, `steerable_sheath`, `boston_scientific`
+
+[查看来源 (Swissmedic)](https://fsca.swissmedic.ch/mep/#?q=Vk_20260611_006)
+
+---
+
+### 瑞士Swissmedic发布Armstrong Medical PEP治疗APL阀标签添加新语言的FSCA
+
+**2026-05-28** | Swissmedic | 安全通报 | !! MEDIUM
+
+瑞士Swissmedic发布的现场安全纠正措施（FSCA）涉及Armstrong Medical Limited生产的呼气正压（PEP）治疗设备中的APL阀。纠正原因为在标签中添加新语言，可能是为了满足当地法规对语言的要求。受影响的型号详见现场安全通知（FSN）。此举为标签更新，无直接患者安全问题，用户需遵循更新后的标签说明。
+
+**标签**: `swissmedic`, `fsca`, `medical_device`, `labeling_update`, `pep_therapy`, `armstrong_medical`, `apl_valve`
+
+[查看来源 (Swissmedic)](https://fsca.swissmedic.ch/mep/#?q=Vk_20260526_032)
+
+---
+
+### 瑞士Swissmedic发布Armstrong Medical成人同轴呼吸系统APL阀标签语言更新FSCA
+
+**2026-05-28** | Swissmedic | 安全通报 | !! MEDIUM
+
+本项瑞士Swissmedic现场安全纠正措施涉及Armstrong Medical Limited的成人同轴呼吸系统，具体针对APL阀。纠正原因为标识/使用说明新增了一种语言，以满足瑞士官方语言要求。受影响型号详见相关现场安全通告。使用者应核对是否持有更新后的标签，并遵循制造商指引。
+
+**标签**: `swissmedic`, `fsca`, `breathing_system`, `armstrong_medical`, `labeling_update`, `apl_valve`, `language`
+
+[查看来源 (Swissmedic)](https://fsca.swissmedic.ch/mep/#?q=Vk_20260526_032)
+
+---
+
+### 瑞士药监局 FSCA：Armstrong Medical 复苏套件 APL 阀标签语言更新
+
+**2026-05-28** | Swissmedic | 安全通报 | !! MEDIUM
+
+本次瑞士药监局现场安全纠正措施涉及 Armstrong Medical Limited 的复苏套件（Mapleson 系统），其 APL 阀标签需要添加新语言。受影响型号列于现场安全通知 (FSN) 中。建议用户查阅该通知，确保将更新后的标签纳入使用说明。本次为文件纠正，并非安全缺陷。
+
+**标签**: `swissmedic`, `fsca`, `labeling_correction`, `resuscitation_set`, `armstrong_medical`
+
+[查看来源 (Swissmedic)](https://fsca.swissmedic.ch/mep/#?q=Vk_20260526_032)
+
+---
+
+### 瑞士Swissmedic发布FSCA：Armstrong Medical小儿Ayres T型件系统APL阀标签增补语言
+
+**2026-05-28** | Swissmedic | 安全通报 | !! MEDIUM
+
+瑞士药品监督管理局（Swissmedic）对Armstrong Medical Limited生产的小儿Ayres T型件系统（复苏套装）中的APL阀发布现场安全纠正措施（FSCA）。纠正原因为产品标签增补新的语言，以确保正确使用。受影响型号详见现场安全通知（FSN），使用者应查阅更新后的说明书并将通知传达给相关人员。
+
+**标签**: `swissmedic`, `fsca`, `medical_device`, `labeling_correction`, `pediatric_resuscitation`, `apl_valve`
+
+[查看来源 (Swissmedic)](https://fsca.swissmedic.ch/mep/#?q=Vk_20260526_032)
+
+---
+
+### 瑞士Swissmedic FSCA：直觉外科da Vinci 5手术系统序列号更新
+
+**2026-05-12** | Swissmedic | 安全通报 | !! MEDIUM
+
+瑞士Swissmedic发布直觉外科 da Vinci 5 手术系统（型号380746）的现场安全纠正措施，更新受影响序列号清单。该措施涉及机器人辅助内镜手术系统的特定序列号范围，属于产品纠正；相关用户应核对更新后的序列号信息，并遵循直觉外科的后续指引。
+
+**标签**: `swissmedic`, `fsca`, `da_vinci_5`, `intuitive_surgical`, `robot_assisted_surgery`, `serial_number_update`
+
+[查看来源 (Swissmedic)](https://fsca.swissmedic.ch/mep/#?q=Vk_20260506_006)
+
+---
+
+### 瑞士药监局扩大MEQU °M Warmer血液/输液加温器现场安全纠正措施范围，新增7批次
+
+**2026-05-11** | Swissmedic | 安全通报 | !! MEDIUM
+
+瑞士药监局更新了针对MEQU A/S公司°M Warmer传导式血液/输液加温器的现场安全纠正措施，将受影响范围扩大至新增的7个批次。受影响型号包括MWS201（5个装）和MWS201W（单个银色袋装）。用户需识别相关设备并遵循制造商原始FSCA通知中的指导。
+
+**标签**: `swissmedic`, `fsca`, `blood_fluid_warmer`, `mequ`, `lot_expansion`
+
+[查看来源 (Swissmedic)](https://fsca.swissmedic.ch/mep/#?q=Vk_20260504_047)
+
+---
+
+### 瑞士药监局FSCA: Staar Surgical AG IOD眼科仪器软件新信息
+
+**2026-04-30** | Swissmedic | 安全通报 | !! MEDIUM
+
+瑞士药监局（Swissmedic）针对Staar Surgical AG生产的、配套多种眼科仪器使用的IOD软件发布了现场安全纠正措施（FSCA）。该措施源于该软件的新信息，但未列明具体受影响型号或批次。相关用户应按照建议采取行动，如安装更新或联系制造商，以确保持续安全有效使用。
+
+**标签**: `swissmedic`, `fsca`, `ophthalmology`, `software`
+
+[查看来源 (Swissmedic)](https://fsca.swissmedic.ch/mep/#?q=Vk_20260429_006)
+
+---
+
+### Maquet Cardiohelp II 基础单元 FSCA 更新：更正措施变更
+
+**2026-04-29** | Swissmedic | 安全通报 | !! MEDIUM
+
+瑞士药监局（Swissmedic）发布了针对 Maquet Cardiopulmonary GmbH 的 Cardiohelp II 基础单元（滚压式心肺旁路系统）的现场安全纠正措施（FSCA）。该通知涉及型号 701077135 此前沟通的纠正措施发生变更。受影响用户应查看制造商的最新说明，并落实修订后的纠正措施，以确保设备安全。
+
+**标签**: `fsca`, `cardiopulmonary_bypass_system`, `corrective_action_update`, `swissmedic`
+
+[查看来源 (Swissmedic)](https://fsca.swissmedic.ch/mep/#?q=Vk_20260424_016)
+
+---
+
+### ARTIQO GmbH 对 ELEC plus 陶瓷球头髋关节部件发布更新安全措施
+
+**2026-04-27** | Swissmedic | 安全通报 | !! MEDIUM
+
+瑞士药品监督管理局（Swissmedic）针对 ARTIQO GmbH 生产的髋关节假体部件——ELEC plus 陶瓷球头（股骨部件）发布现场安全纠正措施（FSCA），内容为更新后的安全措施，受影响型号详见制造商现场安全通知。相关医疗机构应立即查阅修订后的通知并执行建议措施，以保障患者安全。
+
+**标签**: `hip_prosthesis`, `ceramic_ball_head`, `field_safety_corrective_action`, `swissmedic`, `medical_device_recall`, `arthroplasty`
+
+[查看来源 (Swissmedic)](https://fsca.swissmedic.ch/mep/#?q=Vk_20260427_001)
+
+---
+
+### 瑞士Swissmedic发布Sphere-9导管现场安全通知更新（美敦力/百多力）
+
+**2026-03-30** | Swissmedic | 安全通报 | !! MEDIUM
+
+瑞士药品监督管理局就美敦力公司和百多力公司生产的Sphere-9导管（型号AFR-00001）发布现场安全纠正措施。原因是该心脏组织消融设备的现场安全通知(FSN)已更新至新版本。受影响用户应查阅新版FSN并执行相应修订指示。
+
+**标签**: `fsca`, `cardiac_ablation_catheter`, `field_safety_notice`
+
+[查看来源 (Swissmedic)](https://fsca.swissmedic.ch/mep/#?q=Vk_20260318_029)
+
+---
+
+### 瑞士Swissmedic发布Vue PACS额外软件版本安全纠正措施
+
+**2026-03-11** | Swissmedic | 安全通报 | !! MEDIUM
+
+瑞士药品监督管理局更新了针对飞利浦医疗系统荷兰公司Vue PACS放射学软件（型号1017979）的现场安全纠正措施。此次更新涉及更多受影响的软件版本。用户应查看制造商通知并执行必要的软件更新或缓解措施。
+
+**标签**: `fsca`, `swissmedic`, `vue_pacs`, `philips`, `radiology_software`, `product_correction`
+
+[查看来源 (Swissmedic)](https://fsca.swissmedic.ch/mep/#?q=Vk_20260305_023)
+
+---
+
+### DH Healthcare GmbH 对 ORBIS Medication 3.x 的后续现场安全通知
+
+**2026-01-23** | Swissmedic | 安全通报 | !! MEDIUM
+
+瑞士Swissmedic发布了针对DH Healthcare GmbH的医疗器械软件ORBIS Medication 3.x的后续现场安全纠正措施。该通知为先前发布的现场安全通知提供补充信息。未明确列出受影响型号。用户应审查更新的安全信息并遵循制造商的建议。
+
+**标签**: `swissmedic`, `fsca`, `field_safety_notice`, `follow_up`, `medical_device_software`, `dh_healthcare`, `orbis_medication`
+
+[查看来源 (Swissmedic)](https://fsca.swissmedic.ch/mep/#?q=Vk_20260114_15)
+
+---
+
+### Zimmer外科止血带系统序列号更新现场安全纠正措施（型号60500010100、60320010100）
+
+**2026-01-20** | Swissmedic | 安全通报 | !! MEDIUM
+
+Zimmer Surgical, Inc. 针对 Zimmer 止血带系统型号 60500010100 和 60320010100 发布了现场安全纠正措施（FSCA），原因是需要更新序列号。此更新可能涉及纠正记录或标签，以确保可追溯性。受影响的用户应遵循制造商的说明，按要求验证和更新序列号。
+
+**标签**: `swissmedic`, `fsca`, `tourniquet_system`, `serial_number_update`, `zimmer_surgical`
+
+[查看来源 (Swissmedic)](https://fsca.swissmedic.ch/mep/#?q=Vk_20260115_28)
+
+---
+
+### Zimmer 止血带系统序列号更新 – Swissmedic FSCA
+
+**2026-01-20** | Swissmedic | 安全通报 | !! MEDIUM
+
+瑞士Swissmedic针对Zimmer Surgical的气动止血带系统（型号60500010100、60320010100）发布现场安全纠正措施。原因为需更新序列号，可能涉及标签或文件错误。受影响用户应按照制造商指示核实并更新序列号，无需召回或退回产品。
+
+**标签**: `swissmedic`, `fsca`, `zimmer_surgical`, `tourniquet_system`, `serial_number_update`
+
+[查看来源 (Swissmedic)](https://fsca.swissmedic.ch/mep/#?q=Vk_20260115_28)
+
+---
+
+### 飞利浦Azurion系统现场安全通告新增语言版本
+
+**2025-12-30** | Swissmedic | 安全通报 | !! MEDIUM
+
+瑞士Swissmedic发布了飞利浦医疗系统荷兰公司关于Azurion固定式血管造影X射线系统的现场安全纠正措施（FSCA）。此次纠正措施是为该系统现有现场安全通告（FSN V2）增加了新的语言版本，以提高分发覆盖率。本次通告不涉及产品缺陷或安全风险，受影响型号（722229–722236）的用户应注意更新通知的可用性。
+
+**标签**: `fsca`, `philips`, `angiographic_system`, `field_safety_notice`, `swissmedic`
+
+[查看来源 (Swissmedic)](https://fsca.swissmedic.ch/mep/#?q=Vk_20251209_34)
+
+---
+
+### Medin-NC3新生儿CPAP设备：瑞士药监局FSCA通知新风机和软件更新
+
+**2025-08-15** | Swissmedic | 安全通报 | !! MEDIUM
+
+瑞士药品监督管理局发布现场安全纠正措施，涉及medin Medical Innovations GmbH的Medin-NC3新生儿CPAP装置（型号3000）。制造商现提供新的鼓风机和软件更新，以提升设备性能或安全性。用户应联系制造商安排纠正。
+
+**标签**: `swissmedic_fsca`, `neonatal_cpap`, `product_correction`
+
+[查看来源 (Swissmedic)](https://fsca.swissmedic.ch/mep/#?q=Vk_20250807_02)
+
+---
+
+### 瑞士Swissmedic FSCA：Covidien Newport HT70呼吸机更多设备受影响
+
+**2025-05-21** | Swissmedic | 安全通报 | !!! HIGH
+
+瑞士药品监督管理局（Swissmedic）发布了针对Covidien LLC生产的Newport HT70新生儿/成人重症监护呼吸机的现场安全纠正措施（FSCA）。通知指出，除原通报范围外，另有更多设备受到影响，具体受影响型号见生产企业的现场安全通告（FSN）。医疗机构应排查库存中受影响的Newport HT70呼吸机，并按照FSN中的制造商指示采取相应措施。
+
+**标签**: `swissmedic`, `fsca`, `ventilator`, `covidien`, `newport_ht70`, `medical_device_safety`
+
+[查看来源 (Swissmedic)](https://fsca.swissmedic.ch/mep/#?q=Vk_20250521_26)
+
+---
+
+### Swissmedic FSCA：Covidien Newport HT70 Plus呼吸机新增受影响设备
+
+**2025-05-21** | Swissmedic | 安全通报 | !!! HIGH
+
+瑞士药监局（Swissmedic）发布了一项关于Covidien LLC生产的Newport HT70 Plus新生儿/成人重症监护呼吸机的现场安全纠正措施（FSCA）。该FSCA指出，现有安全问题涉及更多设备，受影响型号详见制造商现场安全通知（FSN）。相关法规事务人员和医疗机构应查阅FSN，核对受影响设备并执行制造商要求的纠正措施。
+
+**标签**: `swissmedic`, `fsca`, `ventilator`, `field_safety_corrective_action`
+
+[查看来源 (Swissmedic)](https://fsca.swissmedic.ch/mep/#?q=Vk_20250521_26)
+
+---
+
+### 瑞士Swissmedic FSCA：直觉外科达芬奇X/Xi手术系统扩展
+
+**2025-01-09** | Swissmedic | 安全通报 | !! MEDIUM
+
+瑞士Swissmedic发布了直觉外科公司（Intuitive Surgical, Inc.）达芬奇 X / Xi 手术系统（机器人手术臂系统）的现场安全纠正措施。本次为新的现场安全通告，并扩大了受影响设备范围。具体型号和批次信息见制造商现场安全通告（FSN）。相关用户应查阅FSN并执行建议的纠正措施。
+
+**标签**: `swissmedic`, `fsca`, `da_vinci_surgical_system`, `intuitive_surgical`, `field_safety_notice`
+
+[查看来源 (Swissmedic)](https://fsca.swissmedic.ch/mep/#?q=Vk_20241223_26)
+
+---
+
+### da Vinci 5 Surgical System - Intuitive Surgical, Inc
+
+**2025-01-09** | Swissmedic | 安全通报 | !! MEDIUM
+
+FSCA: MD: Robot-assisted endoscopic surgery systems. Reason: New Field Safety Notice, Extension on affected devices. Model: See FSN; See FSN.
+
+[查看来源 (Swissmedic)](https://fsca.swissmedic.ch/mep/#?q=Vk_20241223_26)
+
+---
+
+### Swissmedic发布Covidien Auto Suture钝头穿刺器FSCA（新版FSN v2）
+
+**2024-03-05** | Swissmedic | 安全通报 | !!! HIGH
+
+Swissmedic已发布针对Covidien llc Auto Suture Blunt Tip Trocar（一次性腹腔镜多器械入路平台）的现场安全纠正措施（FSCA）。受影响型号为OMS-T10BT、OMS-T10BTNL、OMS-T10BTS、OMS-T10BTSNL、OMS-T12BT和OMS-T12BTNL。原因为发布新版现场安全通知（FSN v2），用户应查阅更新通知并遵循制造商的说明。
+
+**标签**: `swissmedic`, `fsca`, `covidien`, `laparoscopic_trocar`, `field_safety_corrective_action`
+
+[查看来源 (Swissmedic)](https://fsca.swissmedic.ch/mep/#?q=Vk_20240304_29)
+
+---
+
+### Swissmedic FSCA：Covidien Auto Suture 结构性球囊穿刺器 OMS-T10SB 更新FSN v2
+
+**2024-03-05** | Swissmedic | 安全通报 | !! MEDIUM
+
+Swissmedic 已发布针对 Covidien llc 的 Auto Suture Structural Balloon Trocar（一次性腹腔镜多器械入路端口，型号 OMS-T10SB）的现场安全纠正措施。原因是发布了新版现场安全通知（FSN v2），受影响批次需以更新通知为准。使用者应查阅修订版 FSN 并遵循制造商对受影响器械的指示。
+
+**标签**: `swissmedic`, `fsca`, `covidien`, `laparoscopic_access_port`, `field_safety_notice`
+
+[查看来源 (Swissmedic)](https://fsca.swissmedic.ch/mep/#?q=Vk_20240304_29)
+
+---

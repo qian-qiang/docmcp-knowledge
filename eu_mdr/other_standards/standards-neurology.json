@@ -1,0 +1,88 @@
+{
+  "standards": [
+    {
+      "id": "eu_mdr-os-iec-60601-2-26-2019",
+      "number": "IEC 80601-2-26:2019+AMD1:2024",
+      "title": {
+        "en": "Medical electrical equipment - Part 2-26: Particular requirements for the basic safety and essential performance of electroencephalographs",
+        "zh": "医用电气设备 - 第2-26部分：脑电图设备的基本安全和基本性能专用要求"
+      },
+      "status": "active",
+      "source_url": "https://webstore.iec.ch/en/publication/92074",
+      "source_verified": "",
+      "category": "neurology",
+      "standard_type": "non_harmonised",
+      "scope": "Electroencephalographs.",
+      "applicable_gsprs": [
+        "14",
+        "14.1"
+      ],
+      "abstract": "Particular requirements for electroencephalographs.",
+      "title_en": "Medical electrical equipment - Part 2-26: Particular requirements for the basic safety and essential performance of electroencephalographs",
+      "title_zh": "医用电气设备 - 第2-26部分：脑电图仪基本安全和基本性能的特殊要求"
+    },
+    {
+      "id": "eu_mdr-os-iec-60601-2-40-2016",
+      "number": "IEC 60601-2-40:2024",
+      "title": {
+        "en": "Medical electrical equipment - Part 2-40: Particular requirements for the basic safety and essential performance of electromyographs and evoked response equipment",
+        "zh": "医用电气设备 - 第2-40部分：肌电图和诱发反应设备的基本安全和基本性能专用要求"
+      },
+      "status": "active",
+      "source_url": "https://webstore.iec.ch/en/publication/68373",
+      "source_verified": "",
+      "category": "neurology",
+      "standard_type": "non_harmonised",
+      "scope": "Electromyographs and evoked response equipment.",
+      "applicable_gsprs": [
+        "14",
+        "14.1"
+      ],
+      "abstract": "Particular requirements for electromyographs and evoked response equipment.",
+      "title_en": "Medical electrical equipment - Part 2-40: Particular requirements for the basic safety and essential performance of electromyographs and evoked response equipment",
+      "title_zh": "医用电气设备 - 第2-40部分：肌电图仪和诱发反应设备基本安全和基本性能的特殊要求"
+    },
+    {
+      "id": "eu_mdr-os-iec-80601-2-71-2015",
+      "number": "IEC 80601-2-71:2025",
+      "title": {
+        "en": "Medical electrical equipment - Part 2-71: Particular requirements for the basic safety and essential performance of functional near-infrared spectroscopy (fNIRS) equipment",
+        "zh": "医用电气设备 - 第2-71部分：功能性神经刺激器(FNS)设备的基本安全和基本性能专用要求"
+      },
+      "status": "active",
+      "source_url": "https://webstore.iec.ch/en/publication/68369",
+      "source_verified": "",
+      "category": "neurology",
+      "standard_type": "non_harmonised",
+      "scope": "fNIRS equipment.",
+      "applicable_gsprs": [
+        "14",
+        "14.1"
+      ],
+      "abstract": "Particular requirements for functional near-infrared spectroscopy equipment.",
+      "title_en": "Medical electrical equipment - Part 2-71: Particular requirements for the basic safety and essential performance of functional near-infrared spectroscopy (NIRS) equipment",
+      "title_zh": "医用电气设备 - 第2-71部分：功能性近红外光谱（NIRS）设备基本安全和基本性能的特殊要求"
+    },
+    {
+      "id": "iso-7197-2024",
+      "number": "ISO 7197:2024",
+      "title": {
+        "en": "Neurosurgical implants - Sterile, single-use hydrocephalus shunts and components",
+        "zh": "神经外科植入物 - 灭菌一次性使用脑积水分流器和组件"
+      },
+      "status": "active",
+      "applicable_gsprs": [
+        "1",
+        "3",
+        "5",
+        "10"
+      ],
+      "standard_type": "harmonised",
+      "source_url": "https://www.iso.org/standard/83698.html",
+      "source_verified": "2026-06-27",
+      "abstract": "Specifies requirements for sterile, single-use hydrocephalus shunts and components. Edition 4. EN ISO 7197:2024 harmonized under EU MDR (replacing EN ISO 7197:2009). Published via EU 2026/193.",
+      "scope": "Hydrocephalus shunts and neurosurgical drainage systems.",
+      "note": "Newly harmonized under EU MDR via Implementing Decision (EU) 2026/193."
+    }
+  ]
+}

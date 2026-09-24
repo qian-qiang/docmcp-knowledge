@@ -1,0 +1,92 @@
+---
+title: "激光产品 - 符合IEC 60825-1第3版和IEC 60601-2-22第3.1版 (激光通告第56号)：行业与FDA工作人员指南"
+description: "Laser Products - Conformance with IEC 60825-1 Ed. 3 and IEC 60601-2-22 Ed. 3.1 (Laser Notice No. 56): Guidance for Industry and Food and Drug Administration Staff"
+published: 2023-02-21
+---
+
+# 激光产品 - 符合IEC 60825-1第3版和IEC 60601-2-22第3.1版 (激光通告第56号)：行业与FDA工作人员指南
+
+**Laser Products - Conformance with IEC 60825-1 Ed. 3 and IEC 60601-2-22 Ed. 3.1 (Laser Notice No. 56): Guidance for Industry and Food and Drug Administration Staff**
+
+**发布日期**：2023-02-21
+
+**状态**：Final（最终）
+**类型**：Guidance Document
+**类别**：辐射 / 影像
+**受试者**：Export、Import、Laser Notice、Radiological Health、Radiology
+**案卷号**：FDA-2017-D-7011
+
+::: tip 官方来源
+[https://www.fda.gov/regulatory-information/search-fda-guidance-documents/laser-products-conformance-iec-60825-1-ed-3-and-iec-60601-2-22-ed-31-laser-notice-no-56](https://www.fda.gov/regulatory-information/search-fda-guidance-documents/laser-products-conformance-iec-60825-1-ed-3-and-iec-60601-2-22-ed-31-laser-notice-no-56)
+PDF：[https://www.fda.gov/media/110120/download](https://www.fda.gov/media/110120/download)
+:::
+
+::: info
+本内容由英文原文机器辅助翻译，并经结构校对。如有歧义，以英文官方文本为准。
+:::
+
+<!-- fulltext-start -->
+
+---
+
+## 官方文件全文
+
+本指南代表FDA（FDA）目前对该受试者的观点。它不为任何人确立任何权利，对FDA或公众亦不具约束力。若替代方法满足适用法规与条例的要求，您可采用该替代方法。如需讨论替代方法，请联系本指南扉页所列的FDA工作人员或负责办公室。
+## II. 背景
+FDA监管发射辐射的电子产品，包括所有类型的激光产品。激光产品是指构成、包含或拟包含激光或激光系统的任何制造成品或部件组合。拟用作电子产品部件的激光或激光系统本身应视为激光产品（见21 CFR 1040.10(b)(21)）。FDA制定辐射安全产品性能标准，制造商必须符合这些标准，激光产品方可在美国市场合法销售。
+激光产品可能同时符合《联邦食品、药品和化妆品法》（FD&C法）第201(h)条的医疗器械定义与第531(2)条的电子产品定义。此类产品须遵守适用于医疗器械[^1]与电子产品[^2][^3]的FD&C法及其实施条例的规定。
+除其他要求外，拟进入美国商业流通（包括进口）的激光产品必须：- 视情况符合21 CFR 1040.10与1040.11，- 按照21 CFR 1010.2与1010.3进行认证与标识，以及· 按照21 CFR 1002.1进行报告。
+制造商应注意，CDRH此前向激光产品制造商与进口商发布的通告可在FDA网站获取：https://www.fda.gov/radiation-emittingproducts/electronic-product-radiation-control- program/electronic-product-radiation-controlprogram-industry-guidance。
+FDA认识到国际电工委员会（“IEC”）是为电气、电子及相关技术（包括激光产品）编制并发布国际标准的全球组织。这意味着在美国及其他国家分销产品的制造商可能既需确保其产品符合IEC标准，又需遵守FDA监管要求。同时遵守FDA法规与所识别的IEC标准可能导致制造商重复劳动。
+FDA认可一套通用的器械专用准则与要求的优势。
+此外，FDA认为，在本指南所述情形下，符合某些IEC标准可对激光产品提供与FDA在21 CFR 1040.10与1040.11中的性能标准类似的充分公众健康与安全保护。
+FDA最终打算修订21 CFR 1040.10与1040.11的激光产品标准，以将其许多要求与IEC协调，因为FDA认可全球统一准则与要求的优势。在这些要求协调之前，对于按本文件所述符合IEC 60825-1第3版与IEC 60601-2-22第3.1版中可比条款的激光产品制造商，FDA不打算对21 CFR 1040.10与21 CFR 1040.11中的可比要求进行执法。[^3] 医疗器械与电子产品的专用法规分别见21 CFR第I章H分章（医疗器械）与J分章（放射健康）。
+2007年6月，FDA发布题为“激光产品——符合IEC 60825-1与IEC 60601-2-22（激光通告第50号）；行业与FDA工作人员指南”的指南。[^4] 激光通告第50号指出，若制造商符合激光通告第50号所列IEC 60825-1第1.2或第2版以及IEC 60601-2-22第3版的可比条款，FDA不打算对21 CFR 1040.10的适用要求进行执法。本指南（激光通告第56号）不取代激光通告第50号中的建议。
+本指南宣布：若激光产品符合第III节所识别的、与21 CFR 1040.10与1040.11可比的IEC 60825-1第3版与IEC 60601-2-22第3.1版条款，FDA不打算对适用的FDA要求进行执法。例如，对于符合第III节所述、与21 CFR 1040.10与1040.11可比的IEC 60825-1第3版与IEC 60601-2-22第3.1版相关部分的激光产品，FDA不打算对获取偏差相关的要求进行执法。
+## III. 政策
+FDA认识到FDA激光产品性能标准（21 CFR 1040.10与1040.11）与IEC标准可比条款（IEC 60825-1第3版与IEC 60601-2-22第3.1版）之间存在许多相似之处。
+特别是，若激光产品符合IEC 60825-1第3版以及（适用时）60601-2-22第3.1版（针对医疗器械）的可比条款，FDA不打算对21 CFR第1040部分下列各节的要求进行执法。除非下文A小节识别为不可比的IEC条款，FDA认为IEC 60825-1第3版与IEC 60601-2-22第3.1版的所有其他条款与下列FDA性能标准可比：1040.10(b) 定义 1040.10(c)(1) 分类*
+1040.10(d) 可触及发射限值 1040.10(e) 确定符合性的试验 1040.10(f)(1) 防护外壳 [^4]https://www.fda.gov/regulatory-information/search-fda-guidance-documents/laser-products-conformanceiec-60825-1-and-iec-60601-2-22-laser-notice-no-50
+1040.10(f)(2) 安全联锁**
+1040.10(f)(3) 远程联锁连接器 1040.10(f)(4) 钥匙控制 1040.10(f)(5) 激光辐射发射指示器 1040.10(f)(6) 光束衰减器 1040.10(f)(7) 控制器械位置 1040.10(f)(8) 观察光学系统 1040.10(f)(9) 扫描防护器械 1040.10(g) 标签要求 1040.10(h)(1) 用户信息 1040.11(a) 医用激光产品
+* 制造商应适用解释单IEC 60825-1/ISH1：解释单1——激光产品安全——第1部分：器械分类与要求，以及IEC 60825-1/ISH2：解释单2——激光产品安全——第2部分：光纤通信系统（OFCS）的安全。FDA可能要求您提供产品分类试验的额外信息，以确认激光产品分类正确。
+** IEC 60825-1第3版（6.3）间接要求，为防止人体触及IIIb类或IV类激光辐射而设计的安全联锁具备冗余或故障安全。该间接要求通过分类规则（4.3）中合理可预见的单一故障条件分款实现。因此，符合所识别IEC标准条款的激光产品必须具备冗余或故障安全，方可视为与21 CFR 1040.10可比。
+FDA最终打算通过规则制定将21 CFR第1040部分的要求与IEC标准协调。
+### A. 不可比的IEC条款
+IEC 60825-1第3版与IEC 60601-2-22第3.1版的某些条款因下文所述理由，被视为与21 CFR 1040.10与1040.11下的FDA性能标准不可比。
+尽管这些IEC 60825-1第3版与IEC 60601-2-22第3.1版条款中的某些信息与21 CFR 1040.10与1040.11不可比或可能没有可比章节，激光产品制造商可能发现这些信息有助于纳入按21 CFR 1010.4或1010.5向FDA提交的偏差或豁免通信与申请。这些条款亦可能有助于准备21 CFR 1002所要求的报告，或纳入21 CFR 1040.10(h)的信息要求，前提是该信息不与FDA性能标准冲突。
+- 下列IEC 60825-1第3版条款与附录因不适用或与FDA性能标准不一致，而与21 CFR 1040.10与1040.11下的FDA性能标准不可比：1、2、3.4、3.15、3.16、3.37、3.45、3.47、3.50、3.52、3.59、3.64、3.65、4.4、6.13、6.15.1、6.16、8.2、9.1、9.3、9.4、9.5以及附录A至G。
+- IEC 60825-1第3版第3.25分款（伴随辐射的定义）被视为与21 CFR 1040.10下的FDA性能标准不可比，因其未包括FDA定义（21 CFR 1040.10(b)(12)）中的全部电磁辐射（例如X射线发射）。但电位低于20 kV的激光产品不太可能发射X射线。
+- IEC 60825-1第3版第3.48分款（激光产品的定义）被视为与21 CFR 1040.10下的FDA性能标准不可比，因IEC定义未包括拟用作部件的激光产品，而FDA定义（21 CFR 1040.10(b)(21)）将其定义为激光产品。但IEC 60825-1第3版在第1条——范围与目的中承认某些部件或维修件为激光产品。FDA要求部件与维修（或更换）激光产品符合FDA激光产品性能标准（见21 CFR 1040.10(a)）。
+- IEC 60825-1第3版第3.49分款（激光辐射的定义）被视为与21 CFR 1040.10下的FDA性能标准不可比，因其未包括FDA定义（21 CFR 1040.10(b)(22)）中所述、激光产品发射的、可通过孔径光阑检测到的、由受控受激发射产生的全部电磁辐射（伴随辐射除外）。
+- IEC 60825-1第3版第5.2(f)分款被视为与21 CFR 1040.10下的FDA性能标准不可比，因其指示避免或消除伴随辐射对激光辐射测量的贡献，且与第4.3(b)(1)款相矛盾。在第5.2条激光辐射测量中将伴随辐射计入激光辐射测量并不适当，但制造商按第4.3(b)(1)款在对激光产品分类时应将伴随辐射计入测量。FDA亦要求在按21 CFR 1040.10(c)进行分类测量时单独测量伴随辐射。
+- IEC 60825-1第3版第6.1分款（一般说明与修改）被视为与21 CFR 1040.10下的FDA性能标准不可比，因其未要求按21 CFR 1040.10(i)进行再认证与再标识。
+除此之外，第6.1条载有制造商可能认为有用的信息，例如确保负责分类的人员接受培训。您不妨在向FDA的报告/提交中纳入此类信息。
+- IEC 60825-1第3版第6.2.3分款（可拆卸激光系统）被视为与21 CFR 1040.10(c)(2)下的FDA性能标准不可比，因为FDA定义不限于插接至市电或电池的连接。
+- IEC 60825-1第3版第6.15.2分款（伴随辐射）被视为与21 CFR 1040.10下的FDA性能标准不可比，因其以激光最大容许照射量值而非21 CFR 1040.10(d)中的激光类别可触及发射限值来限制伴随辐射。
+FDA激光产品性能标准要求使用容许发射限值，包括X射线限值。具体而言，性能标准不使伴随辐射评估取决于关注水平，而是按21 CFR 1040.10(d)强制要求此类评估。
+- IEC 60825-1第3版第8条（其他信息要求）被视为与21 CFR 1040.10下的FDA性能标准不可比，因其未包括21 CFR 1040.10(h)中的伴随辐射。除此之外，第8条载有制造商可能认为有用的信息，例如3B类与4类激光产品的适用MPE与NOHD。您不妨在向FDA的报告/提交中纳入此类信息。
+对于下列IEC条款，FDA建议您视情况遵循其他已发布的FDA指南文件：· IEC 60825-1第3版第4.4分款（设计为作为常规灯具运行的激光产品）：关于将国际共识标准应用于激光照明投影仪，见FDA题为“激光照明投影仪（LIP）的分类与要求（激光通告第57号）；行业与FDA工作人员指南”的指南。[^5]
+- IEC 60825-1第3版第9.4分款电动玩具：关于“电动玩具”的指南，见FDA题为“降低儿童玩具激光产品的风险；行业与FDA工作人员指南”的指南。[^6]
+### B. 不受本指南约束的性能标准
+本指南不影响FDA激光产品性能标准的下列各节。这些FDA性能标准超出IEC标准范围、与IEC标准充分不同，或非规范性并作为建议列入IEC标准用户指南条款。具体为：1010.2 认证 1010.3 标识 1010.4 偏差 1010.5 拟供美国政府使用的产品豁免 1040.10(a) 适用性 1040.10(c)(2) 可拆卸激光系统 1040.10(h)(2) 采购与维修信息 1040.10(i) 经认证产品的修改 1040.11(b) 测量、找平与对准激光产品 1040.11(c) 演示激光产品 [^5]https://www.fda.gov/regulatory-information/search-fda-guidance-documents/classification-and-requirements-laserilluminated-projectors-lips-laser-notice-no-57
+[^6]https://www.fda.gov/regulatory-information/search-fda-guidance-documents/minimizing-risk-childrens-toy-laserproducts
+### C. 认证要求
+激光产品制造商必须认证其产品符合FDA性能标准（见21 CFR 1010.2）。认证必须通过永久粘贴或铭刻于产品上的标签或标牌提供，以便在产品完全组装供使用时清晰、易于查看，且标签或标牌必须为英文（见21 CFR 1010.2(b)）。对于符合IEC 60825-1第3版与IEC 60601-2-22第3.1版可比条款、并在认证标签或标牌上使用下列声明的制造商，FDA不打算对21 CFR 1010.2的要求进行执法：
+对于同时被视为医疗器械的激光产品：
+1. “Complies with FDA performance standards for laser products except for conformance with IEC 60825-1 Ed. 3 and IEC 60601-2-22 Ed. 3.1, as described in Laser Notice No. 56, dated May 8, 2019.” 或
+2. “Complies with 21 CFR 1040.10 and 1040.11 except for conformance with IEC 60825-1 Ed. 3 and IEC 60601-2-22 Ed. 3.1, as described in Laser Notice No. 56, dated May 8, 2019.”
+对于不被视为医疗器械的激光产品：
+1. “Complies with FDA performance standards for laser products except for conformance with IEC 60825-1 Ed. 3., as described in Laser Notice No. 56, dated May 8, 2019.” 或
+2. “Complies with 21 CFR 1040.10 and 1040.11 except for conformance with IEC 60825-1 Ed. 3., as described in Laser Notice No. 56, dated May 8, 2019.”
+根据21 CFR 1010.2(c)，该认证必须基于按标准对所附单件的试验，或基于符合良好生产规范的试验方案。制造商的质量体系应通过设计控制处理辐射安全与符合标准的各个方面。试验结果应记录并放入公司档案。
+如21 CFR 1002.1表1所识别，某些激光产品的制造商必须提交产品报告或补充报告，说明按本指南对产品所作的变更。制造商可使用FDA表格3632“激光及含激光产品产品报告编写指南”[^7]提交这些报告。
+[^7]https://www.fda.gov/media/72593/download
+
+---
+
+## 脚注
+
+[^1]: https://www.fda.gov/medical-devices/device-advice-comprehensive-regulatory-assistance/overview-device-regulation
+
+[^2]: https://www.fda.gov/radiation-emitting-products/electronic-product-radiation-control-program
